@@ -202,3 +202,28 @@
 - **Impact:**
   - Learners can now start A1.
   - WP2 (A1-U02, A1-U03) follows the validated A1-U01 pattern.
+
+---
+
+## [006] 2026-09-11 — M3 WP2: A1-U02, A1-U03, structure checker
+
+- **Milestone:** M3, WP2
+- **Affected files:**
+  - **Created:** `A1/A1-U02_Essen_und_Einkaufen.md`, `A1/A1-U03_Mein_Tag.md`, `tools/check_structure.py`
+  - **Updated:** `Resources/Grammar_Tables.md`, `Resources/Anki/A1.tsv` (regenerated), `CLAUDE.md`, Docs 00/03/05/06
+- **Change:**
+  1. **A1-U02 Essen & Einkaufen.**
+     - §A gender clues + 5 plural patterns
+     - §B the accusative as "only the masculine changes", with pronouns
+     - §C *kein/nicht/doch*
+     - §D possessives
+     - §E shopping language: *mögen / gern / möchten*; quantities
+     - Plus: TTS market dialogue, bakery and dinner-planning role-plays, the fridge 60/45/30 task
+  2. **A1-U03 Mein Tag.**
+     - §A official vs everyday time, including the *halb* trap
+     - §B separable verbs as "the bracket opens"
+     - §C time first + frequency
+     - Plus: a voicemail (TTS), the main task (info-gap with a unique solution), weekday 60/45/30 = Story Bank Task 2 early recording
+  3. **`tools/check_structure.py`** (maintained tool) automates the `04` format rules: one H1, `<details>` balance and blank lines, heading levels, YAML keys, activity numbering and time estimates, A1 section IDs, flashcard tables.
+- **Reason:** The M3 WP2 plan; reproducible validation for all later batches and for M8.
+- **Impact:** WP3 (A1-U04, A1-U05, A1 Checkpoint) completes A1.

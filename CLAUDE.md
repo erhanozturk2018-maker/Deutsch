@@ -4,7 +4,10 @@ This workspace holds a long-running project: a CEFR-aligned German course from A
 
 - **`Docs/` is the authoritative project and build source of truth.** If anything (including this file or chat history) disagrees with `Docs/`, `Docs/` wins.
 - **The course itself lives in `GERMAN_LEARNING_PLAN/`.** It is learner-facing and never links into `Docs/`.
-- **`tools/`** holds small maintained helper scripts (link checker, Anki export), if present.
+- **`tools/`** holds maintained helper scripts. Run them at every batch boundary:
+  - `check_links.py`: links and anchors
+  - `check_structure.py`: `04` format rules
+  - `build_anki.py`: regenerates `Resources/Anki/*.tsv` from the lesson flashcard tables
 
 ## Start of every session
 

@@ -192,7 +192,7 @@
   - an **"Extra" round** (for 🟠 and 🔴)
 - **Work packages (proposed with OD-13):**
   - **WP1 ✅ (2026-09-11, V-005):** shared resources + `A1/README.md` + A1-U01. The optional review stop was done as a Claude validation in autonomous mode.
-  - **WP2:** U02, U03
+  - **WP2 ✅ (2026-09-11, V-006):** U02, U03
   - **WP3:** U04, U05, A1 Checkpoint
 - **Dependencies:** M2 (built). Diagnostic *results* are not needed to build M3 (OD-12 superseded); the units adapt through routing.
 - **Validation criteria:**

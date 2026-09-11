@@ -74,7 +74,7 @@ Taught in [A1-U02](../A1/A1-U02_Essen_und_Einkaufen.md) §A–§C.
 
 | die | das | der |
 |---|---|---|
-| -ung, -heit, -keit, -schaft, -ion, -tät, -ie, most nouns in -e | -chen, -lein, -ment, -um, verbs used as nouns (*das Essen*) | days, months, seasons, most nouns in -er for people, -ismus, -ling |
+| -ung, -heit, -keit, -schaft, -ion, -tät, -ei, -ie, -ik, most nouns in -e | -chen, -lein, -ment, -um, verbs used as nouns (*das Essen*) | days, months, seasons, most nouns in -er for people, -ismus, -ling |
 
 ## A1: Personal pronouns
 

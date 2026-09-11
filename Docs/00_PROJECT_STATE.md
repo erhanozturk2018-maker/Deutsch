@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-11. Session 4: M3 WP1 complete; WP2 in progress. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-11. Session 4: M3 WP2 complete; WP3 in progress. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -15,8 +15,8 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M3 — A1 Consolidation
 Status:             IN PROGRESS
-Current batch:      M3 WP2 — A1-U02 Essen & Einkaufen, A1-U03 Mein Tag
-Next task:          Write GERMAN_LEARNING_PLAN/A1/A1-U02_Essen_und_Einkaufen.md (model: A1-U01), then A1-U03
+Current batch:      M3 WP3 — A1-U04, A1-U05, A1 Checkpoint + A1 stage validation
+Next task:          Write GERMAN_LEARNING_PLAN/A1/A1-U04_Koennen_muessen_duerfen.md (model: A1-U01..U03), then A1-U05, then A1_Checkpoint.md
 Last completed:     M2 — Diagnostic System (2026-09-11, V-003)
 Push status:        OK — remote history corrected 2026-09-11 (see §15)
 ```
@@ -86,7 +86,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 | M0 | Curriculum Architecture | ✅ COMPLETE (2026-09-11) |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11), V-001 |
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 |
-| M3 | A1 Consolidation | 🔄 IN PROGRESS (WP1 ✅, WP2 in progress) |
+| M3 | A1 Consolidation | 🔄 IN PROGRESS (WP1 ✅, WP2 ✅, WP3 in progress) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED |
 | M5 | A2 Completion | ⬜ NOT STARTED |
 | M6 | B1.1 | ⬜ NOT STARTED |
@@ -101,11 +101,15 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 **WP1 ✅ (2026-09-11, V-005):** 8 Resources files + `Anki/A1.tsv`, 4 Workbook files, `A1/README.md`, `A1-U01`, `tools/build_anki.py`.
 
-**WP2** (in progress):
-1. `A1/A1-U02_Essen_und_Einkaufen.md`: §A–§E as in the section map
-2. `A1/A1-U03_Mein_Tag.md`: §A–§C
-3. Re-run `python tools/build_anki.py` and `python tools/check_links.py`
-4. Validate, record, commit, push
+**WP2 ✅ (2026-09-11, V-006):** `A1-U02`, `A1-U03`, `tools/check_structure.py`.
+
+**WP3** (in progress):
+1. `A1/A1-U04_Koennen_muessen_duerfen.md`: §A modal forms and meaning · §B modals in the bracket (+ modal + separable verb) · §C imperative (+ *mal, bitte*) · §D position of *nicht*
+2. `A1/A1-U05_In_der_Stadt.md`: §A places & directions as chunks · §B *war/hatte* · §C recognising the Perfekt (bridge to A2-U01)
+3. `A1/A1_Checkpoint.md`: 4 skills + fluency + Story Bank A1 recordings (all 8 tasks); thresholds ≥75%, speaking ≥2.5, fluency Developing+; remediation map to A1 sections
+4. Update the course `README.md` status table (A1 ✅)
+5. Run `tools/check_structure.py`, `tools/build_anki.py`, `tools/check_links.py`
+6. **A1 stage validation** (M3 closing validation), record, commit, push → M4
 
 **Pattern to follow:** `A1-U01` (skeleton D4 in `04`):
 - YAML
@@ -211,11 +215,11 @@ After M3:
 Deutch/
 ├── .gitignore  CLAUDE.md
 ├── Docs/  00–06
-├── tools/  check_links.py  build_anki.py
+├── tools/  check_links.py  build_anki.py  check_structure.py
 └── GERMAN_LEARNING_PLAN/
     ├── README.md
     ├── 00_Curriculum/09_Diagnostic_Test.md
-    ├── A1/  README.md  A1-U01_Ich_und_du.md
+    ├── A1/  README.md  A1-U01_Ich_und_du.md  A1-U02_Essen_und_Einkaufen.md  A1-U03_Mein_Tag.md
     ├── Resources/  Rubrics.md  Sentence_Map.md  Grammar_Tables.md  English_German_Interference.md
     │               Pronunciation_Guide.md  Redemittel.md  Speaking_Toolkit.md  Writing_Toolkit.md
     │               Listening_Reading_Sources.md  Anki/A1.tsv

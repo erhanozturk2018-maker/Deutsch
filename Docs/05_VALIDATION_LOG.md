@@ -15,6 +15,7 @@
 | V-003 | 2026-09-11 | M2 | Diagnostic, Rubrics, Progress Tracker, course README | Self-validation + automated checks | PASS WITH NOTES (2 defects fixed) | – (autonomous mode) |
 | V-004 | 2026-09-11 | M3 (during WP1) | Remote history correction (follow-up to V-002) | Automated check | PASS | – |
 | V-005 | 2026-09-11 | M3 WP1 | A1 resources, Learner Workbook, A1 README, A1-U01, build_anki | Self-validation + automated checks | PASS WITH NOTES (3 minor fixes) | – |
+| V-006 | 2026-09-11 | M3 WP2 | A1-U02, A1-U03, tools/check_structure.py | Self-validation + automated checks | PASS WITH NOTES (6 fixes) | – |
 
 ---
 
@@ -284,5 +285,46 @@
   11. `LNK`, PASS. 26 planned links, all to files listed in Appendix H: the remaining A1 units, A1_Checkpoint, and the A2/B1 overview files.
 - **Required changes:** None remaining.
 - **Resolution:** Findings 6–8 fixed before commit.
+- **Result:** **PASS WITH NOTES**
+- **Approval status:** – (autonomous mode)
+
+---
+
+## V-006 — M3 WP2: A1-U02 Essen & Einkaufen, A1-U03 Mein Tag
+
+- **Date:** 2026-09-11
+- **Milestone:** M3, WP2
+- **Artifact(s):** `A1/A1-U02_Essen_und_Einkaufen.md`, `A1/A1-U03_Mein_Tag.md`, `tools/check_structure.py`; `Resources/Grammar_Tables.md` (fix); `Resources/Anki/A1.tsv` (regenerated, 77 cards)
+- **Validator:** Claude
+- **Validation type:** Self-validation + automated checks
+- **Categories:** `STR`, `LNG`, `PED`, `DEP`, `VOC`, `SPK`, `WRK`, `LNK`
+- **Criteria:** The `03` M3 criteria (section map, Schnelltest routing, timed retrieval, fluency task, ≤5 h, chunks marked); the `04` Part C checklist.
+- **Method:**
+  - `python tools/check_structure.py` → 20 files, 0 problems (after fixing a false-positive regex in the new tool itself)
+  - `python tools/check_links.py` → 238 links, 212 ok, 26 planned, 0 broken
+  - `python tools/build_anki.py` → 77 A1 cards
+  - manual reread of all German, answer-key check, timing sums
+  - uniqueness check of the info-gap solution in A1-U03 Activity 16
+- **Findings:**
+  1. `STR`/`DEP`, PASS.
+     - U02 has §A–§E; U03 has §A–§C, matching the section map.
+     - Every section has Refresh / examples / practice / ⏱️ / ➕.
+     - U02 routing adds the diagnostic gender-score rule and the §A → §D dependency order; U03 points to a repair of A1-U01 §B first.
+  2. `SPK`, PASS.
+     - U02: fridge 60/45/30 (S4), bakery role-play with a complication (S3), dinner-planning negotiation (S3/S4).
+     - U03: info-gap "find a time with Sam" (S3, the main task from Appendix B), weekday 60/45/30 (S4 = Story Bank Task 2 early recording).
+  3. `PED`, PASS. The A1-U03 info gap has exactly one solution (Thursday from 19:00). The AI prompt keeps Sam's week hidden, so the learner has to ask for the information.
+  4. `LNG`, **Minor (fixed), 6 items:**
+     - U02 Aussprache list contained a stray "*frisch?* (no ch!)"
+     - U02 pronunciation sentence was nonsensical ("halb acht Kuchen")
+     - U02 Activity 14 #7 required a dative ending (*mit ihrem Hund*) not yet taught; replaced with an accusative item (*suchen ihren Hund*)
+     - U02 gender table gave *Bäckerei* as an example under "-ie"; fixed to "-ei / -ie / -ik", and the same gap fixed in `Grammar_Tables.md`
+     - U03 role-play opener *"Du wolltest dich treffen"* was unnatural without *mit mir*; replaced
+     - U03 pronunciation sentence contradicted itself (*Am Freitag … heute*); replaced
+  5. `DEP`, PASS. Chunks used ahead of their system are flagged with forward links: dative (*in meinem Kühlschrank, auf dem Markt, bei meinen Eltern*) → A2-U02; *ein neues Handy* → A2-U06; Perfekt *gekauft* → A2-U01; *den Kunden* (n-declension) → B1-U02.
+  6. `WRK`, PASS. U02 full route ≈ 290 min (the longest unit, flagged in the file: "plan 3–4 sittings"); U03 ≈ 245 min. Both are within the ≤ 5 h criterion.
+  7. `VOC`, PASS. Both word banks are in B7 notation with ★ items; separable verbs are marked with `\|`. Flashcards: U02 27, U03 24, all production-direction.
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before commit.
 - **Result:** **PASS WITH NOTES**
 - **Approval status:** – (autonomous mode)
