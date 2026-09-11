@@ -5,8 +5,9 @@ Reference lists of verbs whose forms or partners you have to learn: irregular pa
 **Contents:**
 - [A2: Perfekt participles](#a2-perfekt-participles)
 - [A2: Verbs with *sein*](#a2-verbs-with-sein)
+- [A2: Dative verbs](#a2-dative-verbs)
 
-*Added later:* dative verbs (A2-U02) · reflexive verbs (A2-U05) · verbs with prepositions (A2-U08) · Präteritum forms (B1-U01).
+*Added later:* reflexive verbs (A2-U05) · verbs with prepositions (A2-U08) · Präteritum forms (B1-U01).
 
 ---
 
@@ -94,3 +95,33 @@ The Perfekt uses **sein** for:
 3. **Two others:** *bleiben* (*ist geblieben*) and *sein* (*ist gewesen*); also *passieren* (*ist passiert*)
 
 **Test yourself:** did the person move from one place to another, or did their state change? → *sein*. Everything else → *haben*.
+
+## A2: Dative verbs
+
+Taught in [A2-U02](../A2/A2-U02_Menschen_und_Geschenke/00_Overview_und_Wortschatz.md). The **person** is in the dative.
+
+**Verbs with only a dative object:**
+
+| Verb | Example |
+|---|---|
+| gefallen | Das Bild **gefällt mir**. (the thing is the subject!) |
+| schmecken | Die Suppe **schmeckt ihm** nicht. |
+| passen | Die Schuhe **passen mir**. · **Passt dir** Montag? |
+| stehen | Rot **steht dir**. |
+| gehören | Das Auto **gehört meiner Schwester**. |
+| helfen | **Hilf mir** bitte! |
+| danken | Ich **danke Ihnen**. |
+| antworten | Sie **antwortet mir** nicht. |
+| gratulieren | Wir **gratulieren dir**! |
+| fehlen | **Du fehlst mir.** (I miss you) |
+| schaden | Rauchen **schadet der Gesundheit**. |
+
+**Verbs with dative (person) + accusative (thing):**
+- *geben, schenken, zeigen, bringen, mitbringen, schicken, leihen*
+- *empfehlen, erklären, erzählen, kaufen, kochen, wünschen, sagen*
+
+**Phrases with the dative:**
+- *Mir ist kalt / warm / schlecht / langweilig.*
+- *Das ist mir egal.*
+- *Es tut mir leid.*
+- *Wie geht es dir / Ihnen?*

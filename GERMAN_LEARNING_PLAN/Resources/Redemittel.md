@@ -15,6 +15,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A1: Directions and transport](#a1-directions-and-transport)
 - [A1: Reacting](#a1-reacting)
 - [A2: Telling a story and reacting](#a2-telling-a-story-and-reacting)
+- [A2: Likes, opinions and presents](#a2-likes-opinions-and-presents)
 
 ---
 
@@ -172,6 +173,26 @@ Taught in [A2-U01](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md).
 | Oh nein! · Pech gehabt! · Zum Glück! | Oh no! · Bad luck! · Thank goodness! | spoken |
 | Das ist ja verrückt! · Das glaube ich nicht! | That's crazy! · I don't believe it! | spoken |
 | Ich hatte Glück. / Ich hatte Pech. | I was lucky. / I was unlucky. | – |
+
+## A2: Likes, opinions and presents
+
+Taught in [A2-U02](../A2/A2-U02_Menschen_und_Geschenke/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Wie gefällt dir …? / Wie findest du …? | How do you like …? / What do you think of …? | informal |
+| Das gefällt mir (sehr gut / gar nicht). | I like it (a lot / not at all). | – |
+| Das steht dir super! · Steht mir das? | That really suits you! · Does it suit me? | informal |
+| Na ja, die Farbe steht dir nicht so. | Hm, the colour doesn't really suit you. | spoken, polite honesty |
+| Was meinst du? | What do you think? | – |
+| Hm, ich weiß nicht … | Hm, I'm not sure … | spoken |
+| Das ist mir egal. / Entscheide du! | I don't mind. / You decide! | informal |
+| Können Sie mir etwas empfehlen? | Can you recommend something? | formal |
+| Das gefällt ihr bestimmt. · Das passt zu ihm. | She'll definitely like it. · That's so him. | – |
+| Herzlichen Glückwunsch zum Geburtstag! · Alles Gute! | Happy birthday! · All the best! | – |
+| Herzlichen Glückwunsch zur Hochzeit / zum neuen Job! | Congratulations on your wedding / new job! | – |
+| Frohe Weihnachten! · Viel Glück! · Viel Erfolg! · Gute Besserung! | Merry Christmas! · Good luck! · Good luck (with work)! · Get well soon! | – |
+| Vielen Dank für …! · Das ist total nett von dir! | Thanks a lot for …! · That's so kind of you! | – |
 
 ---
 

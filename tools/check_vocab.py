@@ -28,6 +28,8 @@ def stems(deutsch, formen):
             w = words[0].strip(".,!?–")
             if len(w) > 2:
                 keys.add(w[:-2] if w.endswith("en") and len(w) > 5 else w)
+            else:  # short first word (e.g. "Es tut mir leid"): use the phrase
+                keys.add(" ".join(words[:3]).strip(".,!?–"))
     m = re.search(r"(?:hat|ist)\s+([\wäöüß]+)", formen)
     if m:
         keys.add(m.group(1))

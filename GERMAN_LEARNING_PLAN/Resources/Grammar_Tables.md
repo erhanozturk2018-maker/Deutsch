@@ -13,6 +13,7 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A1: Time prepositions](#a1-time-prepositions)
 - [A1: war and hatte](#a1-war-and-hatte)
 - [A2: Perfekt](#a2-perfekt)
+- [A2: Dative](#a2-dative)
 
 ---
 
@@ -195,3 +196,40 @@ Taught in [A2-U01](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md). Irreg
 | no *ge-* | *be-, ver-, er-, ent-, emp-, ge-, zer-*; *-ieren* | *besucht, verloren, erlebt, telefoniert* |
 
 **Which auxiliary:** *sein* for movement from A to B and change of state (+ *bleiben, sein, passieren*); *haben* for everything else.
+
+## A2: Dative
+
+Taught in [A2-U02](../A2/A2-U02_Menschen_und_Geschenke/00_Overview_und_Wortschatz.md).
+
+**All three cases so far:**
+
+| | masculine | neuter | feminine | plural |
+|---|---|---|---|---|
+| Nominative | der / ein / mein | das / ein / mein | die / eine / meine | die / – / meine |
+| Accusative | **den / einen / meinen** | das / ein / mein | die / eine / meine | die / – / meine |
+| **Dative** | **dem / einem / meinem** | **dem / einem / meinem** | **der / einer / meiner** | **den / – / meinen** + noun **-n** |
+
+**Personal pronouns:**
+
+| Nominative | ich | du | er | sie | es | wir | ihr | sie | Sie |
+|---|---|---|---|---|---|---|---|---|---|
+| Accusative | mich | dich | ihn | sie | es | uns | euch | sie | Sie |
+| **Dative** | **mir** | **dir** | **ihm** | **ihr** | **ihm** | **uns** | **euch** | **ihnen** | **Ihnen** |
+
+**Question words:** *wer? → wen? (accusative) → **wem?** (dative)*
+
+**Used after:**
+- the prepositions *mit, bei, von, zu, aus, nach, seit* (always dative)
+- *in, an, auf* … for location (A2-U03)
+- dative verbs ([Verb Lists](Verb_Lists.md#a2-dative-verbs))
+- the receiver of *geben, schenken, zeigen …*
+
+**Contractions:**
+- *zu dem → **zum***, *zu der → **zur***
+- *bei dem → **beim***, *von dem → **vom***
+- *in dem → **im***, *an dem → **am***
+
+**Two objects, in the Mittelfeld:**
+- dative noun before accusative noun: *Ich schenke **meiner Mutter einen Schal**.*
+- pronoun before noun: *Ich schenke **ihr einen Schal**.* / *Ich schenke **ihn meiner Mutter**.*
+- two pronouns, accusative first: *Ich schenke **ihn ihr**.*

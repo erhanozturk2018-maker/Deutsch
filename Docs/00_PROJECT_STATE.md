@@ -17,7 +17,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
 Current batch:      M5 WP1 — A2-U02 Menschen & Geschenke, A2-U03 Wohnen, A2-R1 Wiederholung
-Next task:          Write GERMAN_LEARNING_PLAN/A2/A2-U02_Menschen_und_Geschenke/ (00_Overview + L1–L4), model = A2-U01 (see §6)
+Next task:          A2-U02 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U03_Wohnen/ (00_Overview + L1–L4), then A2-R1_Wiederholung.md, then validate WP1 (V-009) (see §6)
 Last completed:     M4 — A2 Pilot (2026-09-12, V-008)
 Push status:        OK (origin/main in sync after every batch)
 ```

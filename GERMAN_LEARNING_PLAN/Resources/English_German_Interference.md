@@ -92,4 +92,19 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 
 ---
 
+### People, likes and presents (A2-U02)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *I like the jacket.* | Ich gefalle die Jacke. | Die Jacke **gefällt mir**. | With *gefallen* the thing is the subject |
+| *I like the shoes.* | Die Schuhe gefällt mir. | Die Schuhe **gefallen** mir. | The verb agrees with the thing |
+| *I'm cold. / I'm bored.* | Ich bin kalt. / Ich bin langweilig. | **Mir ist** kalt. / **Mir ist** langweilig. | *Ich bin langweilig* = I'm boring! |
+| *Can you help me?* | Kannst du mich helfen? | Kannst du **mir** helfen? | *helfen* + dative |
+| *I give it to her.* | Ich gebe es zu ihr. | Ich gebe **es ihr**. | No "to": the dative is the receiver |
+| *Who do you live with?* | Wer wohnst du mit? | **Mit wem** wohnst du zusammen? | No stranded prepositions in German |
+| *Whose is this?* | Wer gehört das? | **Wem** gehört das? | *gehören* + dative |
+| *I miss you.* | Ich vermisse dich. ✅ (also correct) | Du **fehlst mir**. | Both are fine; *fehlen* (dative) is very common |
+
+---
+
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *mir ist kalt*, *als/wenn/wann*, the missing progressive in more contexts. B1 traps come later.*
