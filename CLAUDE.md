@@ -8,6 +8,7 @@ This workspace holds a long-running project: a CEFR-aligned German course from A
   - `check_links.py`: links and anchors
   - `check_structure.py`: `04` format rules
   - `build_anki.py`: regenerates `Resources/Anki/*.tsv` from the lesson flashcard tables
+  - `check_vocab.py <unit folder>`: are the ★ words really practised (≥3 times) in L1–L4?
 
 ## Start of every session
 

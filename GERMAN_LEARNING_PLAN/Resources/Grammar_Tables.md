@@ -12,6 +12,7 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A1: Imperative](#a1-imperative)
 - [A1: Time prepositions](#a1-time-prepositions)
 - [A1: war and hatte](#a1-war-and-hatte)
+- [A2: Perfekt](#a2-perfekt)
 
 ---
 
@@ -168,3 +169,29 @@ Taught in A1-U05 §B.
 | sie/Sie | waren | hatten |
 
 For *sein* and *haben*, Germans use *war/hatte* for the past, even in speech, rather than the Perfekt. *Ich **war** gestern krank* is much more common than *Ich bin gestern krank gewesen*.
+
+## A2: Perfekt
+
+Taught in [A2-U01](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md). Irregular participles: [Verb Lists](Verb_Lists.md#a2-perfekt-participles).
+
+**Form:** *haben* or *sein* (conjugated, position 2) + participle (end).
+
+| | *machen* (with haben) | *fahren* (with sein) |
+|---|---|---|
+| ich | habe … gemacht | bin … gefahren |
+| du | hast … gemacht | bist … gefahren |
+| er / sie / es | hat … gemacht | ist … gefahren |
+| wir | haben … gemacht | sind … gefahren |
+| ihr | habt … gemacht | seid … gefahren |
+| sie / Sie | haben … gemacht | sind … gefahren |
+
+**Participles:**
+
+| Type | Rule | Examples |
+|---|---|---|
+| regular | *ge* + stem + *t* (*-et* after *-t/-d*) | *gemacht, gekauft, gearbeitet, gewartet* |
+| separable | prefix + *ge* + stem + *t / en* | *eingekauft, aufgeräumt, angerufen, aufgestanden* |
+| irregular | *ge* + (changed) stem + *en* | *gegessen, getrunken, geschrieben, gegangen* |
+| no *ge-* | *be-, ver-, er-, ent-, emp-, ge-, zer-*; *-ieren* | *besucht, verloren, erlebt, telefoniert* |
+
+**Which auxiliary:** *sein* for movement from A to B and change of state (+ *bleiben, sein, passieren*); *haben* for everything else.

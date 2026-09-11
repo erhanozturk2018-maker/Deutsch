@@ -109,4 +109,29 @@ German words are usually stressed on the **first syllable**: *ARbeit, WOHnung, S
 
 ---
 
-*A2 adds: the glottal stop (a light break before words that start with a vowel: *am | Abend*), stress of separable vs inseparable prefixes (*ANrufen – beSUCHen*), and question melody. B1 adds: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*).*
+## A2
+
+### The glottal stop (A2-U01)
+
+German starts every word or syllable that begins with a vowel with a tiny **stop in the throat**, a clean new start. English speakers tend to link words together, which makes German sound blurred:
+- *am | Abend* (not *a-mabend*)
+- *ein | Ei*
+- *Ich | habe | einen | Ausflug | erlebt.*
+- inside words, too: *be|antworten, ver|ändern*
+
+**Practice:** say *Oh | oh!* as in "uh-oh" and feel the stop. Then put it before every vowel in a sentence.
+
+### Prefix stress and participles (A2-U01)
+
+| Verb type | Stress | Examples |
+|---|---|---|
+| separable prefix | the prefix: *AN-*, *AUF-*, *EIN-* | *ANrufen, AUFstehen · ANgerufen, EINgekauft* |
+| inseparable prefix (*be-, ver-, er-, ge-* …) | never the prefix; the stem is stressed | *beSUchen, verSTEhen · beSUCHT, verLOren* |
+| the *ge-* of participles | always short and unstressed | *geMACHT, geTRUNken* |
+| *-ieren* verbs | always stressed on *-ie-* | *telefoNIEren, fotograFIERT* |
+
+**The link to grammar:** *ge-* only comes before a stressed syllable. That's why unstressed prefixes and *-ieren* verbs have no *ge-*.
+
+---
+
+*Added later: question melody (A2), sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

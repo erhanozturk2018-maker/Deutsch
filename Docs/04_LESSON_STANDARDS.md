@@ -2,9 +2,9 @@
 
 > **Purpose:** The authoritative standard for every course file: how lessons are built, how files are formatted, and when a file counts as complete.
 >
-> **Version:** 1.0 (2026-09-11)
+> **Version:** 1.1 (2026-09-12). v1.0.1/v1.0.2 were small clarifications; v1.1 applies the M4 pilot findings (V-008).
 >
-> **Status:** Provisional. It will be validated by the **M4 pilot** (A2-U01) and, for the B1 variant, by the **review stop after B1-U01** (M6 WP1). Revisions after validation become v1.1, v1.2… and are logged in [06_CHANGELOG.md](06_CHANGELOG.md).
+> **Status:** **Validated for A1 and A2** by the M4 pilot (A2-U01). The B1 variant (German task instructions) gets its own check at the **B1-U01 special review** (M6 WP1). Later revisions become v1.2, v1.3… and are logged in [06_CHANGELOG.md](06_CHANGELOG.md).
 >
 > **Relationship to other Docs:**
 > - Turns CD-38 and Appendix I of [01_CURRICULUM_DECISIONS.md](01_CURRICULUM_DECISIONS.md) into concrete rules.
@@ -191,6 +191,8 @@ Codes:
 5. **Pace.** At most about **15 new ★ items per new-content lesson** (unit totals in Appendix E of `01`).
 6. **Chunks count.** Chunks and collocations count as items and are preferred over isolated words.
 7. **Warm-ups** always include vocabulary.
+8. **★ means "practised"** (v1.1, pilot finding). An item may be marked ★ only if the unit's activities make the learner produce it. Check every unit with `python tools/check_vocab.py <unit folder>`: every ★ item should reach ≥3 occurrences in L1–L4. Add practice, or demote the item to recognition. The pilot found 6 ★ items that were only listed, not practised.
+9. **Recognition items** (v1.1): Appendix E's "~40 recognition per unit" is an **upper guideline**, not a quota. Units with a heavy grammar load (e.g. a Perfekt participle list) may have far fewer; texts gloss the rest.
 
 ## A9. How grammar serves communicative tasks
 
@@ -284,7 +286,8 @@ Start now with your first line.
   - Overview: `# A2-U01 — Erlebnisse · Überblick & Wortschatz`
 - `##` **H2**: components, with icon + name, e.g. `## 🔁 Aufwärmen (3-2-1)`, `## 📘 Explanation`
 - `###` **H3**: activities, **numbered continuously through the whole file**, with estimated time, e.g. `### 5. Wer hat was gemacht? (~10 min)`
-- `####` **H4**: only for subsections inside long explanations.
+- **Subsections inside 📘 Explanation** are **H3 without a leading number** (e.g. `### How it is formed`), so they can't be confused with numbered activities (v1.1, pilot finding). The 10-point standard (A9) is followed in content; the points are not numbered in the headings.
+- `####` **H4**: only below such an H3, if ever needed.
 - Never skip a level. Never use bold text as a fake heading.
 
 ## B3. Naming conventions
@@ -584,8 +587,8 @@ These skeletons show structure only. Replace the `{…}` placeholders. Leave out
 
 ## 👄 Aussprache
 ## ⚠️ Typische Fehler
-## 🔗 Rückblick
-## ✅ Selbstcheck
+## 🔗 Rückblick        {back-links + one "New words" line: German items only, linked to the unit word bank}
+## ✅ Selbstcheck     {starts with a 2-min blank-page recall}
 ## 🚀 Challenge   {optional}
 ## 🃏 Karteikarten
 
@@ -604,9 +607,13 @@ Sections in order:
 7. 📝 Schreiben (mandatory)
 8. Mixed review (unit + older units)
 9. ✅ Unit quiz: 10 min, production, pass ≥80%, with a "what to redo if not" map
-10. ✅ Selbstcheck: unit can-do list
+10. ✅ Selbstcheck: unit can-do list, plus **workbook update instructions** (Progress Tracker stage for the unit's grammar keys, unit log, top-3 errors into the Error Log)
 11. 🃏 Review card set (optional)
-12. Footer
+12. Footer, with a link to the next unit's overview
+
+**Unit overview (D3) flashcards** (v1.1): only unit words that the lesson cards don't already cover (nouns with plural, collocations, adjectives). `build_anki.py` drops exact duplicates anyway.
+
+**Word bank anchor:** the overview's word bank heading is a plain `## Wortschatz` (no icon), so lessons can link to `00_Overview_und_Wortschatz.md#wortschatz` (B5).
 
 ## D3. Unit overview (`00_Overview_und_Wortschatz.md`)
 

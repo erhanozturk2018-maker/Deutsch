@@ -74,4 +74,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 
 ---
 
-*A2 and B1 traps are added when you reach those stages. Typical examples are case-driven prepositions (*warten **auf***, *Angst **vor***), *seit* + present tense, *als/wenn/wann*, *become ≠ bekommen* in more contexts, and the missing progressive.*
+## A2
+
+### Talking about the past (A2-U01)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *I went / I have gone / I was going* | – | Ich **bin gegangen**. | One spoken past tense (Perfekt) covers all three |
+| *Did you work yesterday?* | Arbeitest du gestern? (present for past) | **Hast** du gestern **gearbeitet**? | No "do": use the Perfekt |
+| *I have worked yesterday.* (impossible in English) | – | Ich **habe gestern** gearbeitet. ✅ | The German Perfekt is fine with *gestern* |
+| *I've lived here for three years.* | Ich habe hier drei Jahre gewohnt. | Ich **wohne seit** drei Jahren hier. | Still true → *seit* + **present** |
+| *two years ago* | zwei Jahre vor | **vor** zwei Jahren | *vor* comes first |
+| *Have you ever been to Rome?* | Bist du jemals in Rom gewesen? | **Warst** du **schon mal** in Rom? | *schon mal* + *war* is the natural form |
+| *I've never done that.* | Ich habe nie das gemacht. | Das habe ich **noch nie** gemacht. | *noch nie* = never (up to now) |
+| *Have you eaten yet? – Not yet.* | – | Hast du **schon** gegessen? – **Noch nicht.** | *yet* → *schon* / *noch nicht* |
+| *I got a present.* | – | Ich **habe** ein Geschenk **bekommen**. | ⚠️ *bekommen* = get, never "become" (= *werden*) |
+
+---
+
+*More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *mir ist kalt*, *als/wenn/wann*, the missing progressive in more contexts. B1 traps come later.*

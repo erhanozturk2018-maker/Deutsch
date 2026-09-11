@@ -253,3 +253,39 @@
 - **Impact:**
   - The learner can take the diagnostic and do all of A1.
   - M4 (the A2 pilot) begins. It is the first unit in the 5-file A2 format and will test `04` v1.0.2 for real.
+
+---
+
+## [008] 2026-09-12 — M4 complete: A2 pilot (A2-U01 Erlebnisse) validated; `04` v1.1
+
+- **Milestone:** M4 (completed) → M5 (started)
+- **Affected files:**
+  - **Created:**
+    - `A2/README.md`
+    - `A2/A2-U01_Erlebnisse/` (5 files)
+    - `Resources/Verb_Lists.md`
+    - `Resources/Anki/A2.tsv`
+    - `tools/check_vocab.py`
+  - **Updated:**
+    - `Resources/Grammar_Tables.md`, `Redemittel.md`, `English_German_Interference.md`, `Pronunciation_Guide.md` (A2 sections)
+    - course `README.md` (status, Verb Lists)
+    - `CLAUDE.md` (tools)
+    - `Docs/04_LESSON_STANDARDS.md` → **v1.1**
+    - Docs 00/03/05/06
+- **Change:**
+  1. **A2-U01 Erlebnisse**, the first unit in the 5-file A2 format:
+     - L1: Perfekt with *haben*, regular and separable participles, sequence words
+     - L2: *sein* vs *haben*, irregular participles, trips
+     - L3: no-*ge* participles, *schon mal / noch nie*, follow-ups, the natural Perfekt + *war/hatte* mix
+     - L4: info-gap main task, Story Bank Task 3 at A2 (2/1.5/1), a blog, an office dialogue, an email, a mixed review with A1, a unit quiz with a redo map
+  2. **`04` v1.1 (pilot findings, V-008):**
+     - **B2:** explanation subsections are unnumbered H3
+     - **A8:** ★ = practised, verified with `tools/check_vocab.py` (≥3 occurrences); recognition count is an upper guideline
+     - **D1:** "New words" line in 🔗, and blank-page recall in ✅
+     - **D2:** workbook update in L4; link to the next unit
+     - **D3:** overview flashcards = words not on lesson cards; plain `## Wortschatz` anchor
+  3. **`tools/check_vocab.py`** (maintained tool) makes vocabulary recycling measurable, per unit and in the M8 audit.
+- **Reason:** The pilot-before-scaling rule (CD-41). Two findings (heading hierarchy; ★ items not practised) would have repeated across about 100 files if not fixed now.
+- **Impact:**
+  - M5 builds A2-U02 to U10 under `04` v1.1, using the per-unit checklist in `00` §6.
+  - The A1 files remain valid: the v1.1 changes concern explanation subsections and word banks, which the A1 single-file format does not use in the affected way.

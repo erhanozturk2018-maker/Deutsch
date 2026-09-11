@@ -17,6 +17,7 @@
 | V-005 | 2026-09-11 | M3 WP1 | A1 resources, Learner Workbook, A1 README, A1-U01, build_anki | Self-validation + automated checks | PASS WITH NOTES (3 minor fixes) | – |
 | V-006 | 2026-09-11 | M3 WP2 | A1-U02, A1-U03, tools/check_structure.py | Self-validation + automated checks | PASS WITH NOTES (6 fixes) | – |
 | V-007 | 2026-09-11 | M3 (closing) | Whole A1 stage: A1-U01–U05, A1 Checkpoint, A1 resources, README | Self-validation + automated checks | PASS WITH NOTES | – |
+| V-008 | 2026-09-12 | M4 (pilot) | A2-U01 Erlebnisse (5 files), A2 README, A2 resources, check_vocab.py | Pilot validation: self-validation + automated checks | PASS WITH NOTES → 04 v1.1 | – (autonomous mode) |
 
 ---
 
@@ -383,3 +384,78 @@
 - **Resolution:** Finding 6's link typo was fixed before commit.
 - **Result:** **PASS WITH NOTES**. M3 is complete.
 - **Approval status:** – (autonomous mode)
+
+---
+
+## V-008 — M4 pilot validation: A2-U01 *Erlebnisse*
+
+- **Date:** 2026-09-12
+- **Milestone:** M4 — A2 Pilot (closing validation)
+- **Artifact(s):**
+  - `A2/A2-U01_Erlebnisse/` (00_Overview_und_Wortschatz, L1_Mein_Wochenende, L2_Unterwegs, L3_Schon_mal_erlebt, L4_Anwenden)
+  - `A2/README.md`
+  - `Resources/Verb_Lists.md` (new)
+  - A2 sections added to Grammar_Tables, Redemittel, English_German_Interference, Pronunciation_Guide
+  - `Resources/Anki/A2.tsv` (64 cards)
+  - `tools/check_vocab.py` (new)
+- **Validator:** Claude
+- **Validation type:** Pilot validation. Self-validation plus automated checks. **No learner trial** yet (none invented).
+- **Categories:** `STR`, `LNG`, `PED`, `CEF`, `DEP`, `VOC`, `SPK`, `WRK`, `LNK`, `USE`
+- **Criteria:**
+  - the M4 pilot criteria in `03`: time 60–90 min per lesson; ≥60% production; ≥6 activity types; every A3 component present or deliberately omitted; main task = Appendix B; `04` Part C
+  - the user's pilot questions: realistic length? manageable vocabulary density? understandable explanations? does the sequence work? enough speaking? Markdown organisation? does the standard need adjustment?
+- **Method:**
+  - `check_structure.py`: first run flagged 3 files, then 0 problems
+  - `check_links.py`: 399 links, 0 broken
+  - `build_anki.py`: 64 A2 cards
+  - `check_vocab.py` (new): first run flagged 6 real + 4 false items; after fixes, 1 borderline item
+  - a component-by-component comparison of each lesson with A3, D1–D3
+  - summing the time estimates
+  - counting activity types and speaking levels
+  - reading all German texts, dialogues, keys and samples
+- **Findings:**
+  1. `WRK`, PASS (estimate). L1 ≈ 80, L2 ≈ 80, L3 ≈ 85, L4 ≈ 85 min, all within 60–90. Each lesson has 7–8 numbered activities (A4: 7–10 for 75–90 min). Unit total ≈ 5.5 h; with flashcards and free listening ≈ 7 h, i.e. one week at 7 h/week, consistent with Appendix J. **Real times are unverified** until a learner trial (KI-11).
+  2. `PED`, PASS.
+     - **Production share:** well over 60% in every lesson. Only the Entdecken noticing questions and the reading/listening questions are recognition.
+     - **Activity types used across the unit (13):** pattern-noticing · transformation · dialogue-completion · story-reconstruction · timed-speaking · role-play · info-gap · retelling 2/1.5/1 · game (two truths and a lie) · reading-comprehension · listening-specific · prediction · writing (forum, email) · mixed review · quiz
+     - **Input first:** every new-content lesson opens with discovery (voice message, blog, party dialogue) before the explanation.
+  3. `SPK`, PASS.
+     - L1: S1 timed drill → S3 role-play (Monday coffee) → S4 60 s
+     - L2: S1 trios → S3 trip interview → S4 60 s
+     - L3: S3/S4 game + a 60 s story
+     - L4: S3 info gap + S4 2/1.5/1 retell (Story Bank Task 3, A2 early version)
+
+     There are ≥2 AI prompt blocks per lesson set, and all use delayed correction. Speaking share of time ≥20% in each lesson.
+  4. `STR`, **Major (fixed) → standard change.** Explanations used `####` headings directly under `##`. This violated B2 ("never skip a level"), while `###` is reserved for numbered activities. Fixed by making explanation subsections **unnumbered H3**. `04` B2 was updated (v1.1) so every later unit follows it.
+  5. `VOC`, **Major (fixed) → standard change.** `check_vocab.py` showed that 6 ★ items (*Urlaub, spazieren gehen, Ausflug, reden, wandern, langweilig/anstrengend*) appeared fewer than 3 times in the lessons: listed, not practised. Fixed by adding items to L1 #6, L2 #6, L2 #8 checklist, L3 #5, and the L1 #8 checklist. Recheck: 41 ★ items, 1 borderline (*losfahren/losgehen*, 2 + 1 hits across the two forms = 3 exposures, accepted). `04` A8 gained the rule "★ = practised, verified with `check_vocab.py`".
+  6. `VOC`, **Note → guideline clarified.** The recognition list has about 15 items plus the participle list, not the ~40 in Appendix E. Judgement: for a unit carrying about 50 participles, ~40 more recognition words would be overload. `04` A8 now treats Appendix E's recognition figure as an upper guideline. This is a local clarification; Appendix E itself is unchanged.
+  7. `LNG`, **Minor (fixed), 7 items found in rereading:**
+     - L2: *fahren* + object example used a genitive (*meines Vaters*, B1) → replaced
+     - L3: *-ieren* stress wrongly given as *teleFOnieren* (in 2 places) → *telefoNIEren*
+     - L3: an awkward retrieval item #10 → reworded
+     - L4 reading: asked for 5 *sein*-participles but the text had 4 → a sentence added
+     - L4 email sample: contained *fallen lassen* (too complex) → *ist fast ins Wasser gefallen*
+     - L1: a sloppy "New words" line → cleaned
+     - Pronunciation guide: odd example *vereisen* → *verändern*
+  8. `CEF`/`DEP`, PASS.
+     - Texts are A2 (voice message, blog post, party dialogue, blog, office dialogue).
+     - Structures beyond the unit are glossed as phrases, with a forward reference: *dir* (A2-U02), *wollte* (A2-U05), *dass* (A2-U04), *an den See* (A2-U03).
+     - Nothing requires unintroduced grammar in production.
+  9. `USE`, PASS.
+     - The Markdown organisation works: overview → L1–L4, footer navigation, word-bank anchor, answer keys after each activity.
+     - Explanations follow the 10-point standard in content and are readable in about 10 minutes.
+     - One improvement for later units: a plain `## Wortschatz` heading for the anchor (applied).
+  10. `STR`, **Note → D2/D3 clarified.** L4 includes workbook-update instructions, and overview flashcards are limited to words not on lesson cards. Both are written into `04` D2/D3 (v1.1).
+  11. `REC`, PASS. `00` §6 now contains the per-unit checklist derived from the pilot and the WP1 lesson plans, so a new session can build the next units consistently.
+- **Answers to the user's pilot questions:**
+  - **Length:** realistic on paper (80–85 min); needs a learner trial.
+  - **Vocabulary density:** manageable after moving the practice gaps in (finding 5).
+  - **Explanations:** understandable, with the "why you need this" hook plus tables.
+  - **Sequence:** works (discover → explain → drill → timed → task → speak).
+  - **Speaking load:** sufficient (≥20% of time, S4 in every lesson).
+  - **Markdown:** works.
+  - **Standard adjusted?** Yes: `04` v1.1 (findings 4, 5, 6, 10).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed; `04` v1.1 recorded in `06` [008].
+- **Result:** **PASS WITH NOTES**. The pilot is validated, and scaling (M5) may proceed under v1.1.
+- **Approval status:** – (autonomous mode; the pilot user-approval step was replaced by this documented validation, per the user's 2026-09-11 authorisation)

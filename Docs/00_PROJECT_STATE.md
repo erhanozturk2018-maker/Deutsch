@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-11. Session 4: M3 WP2 complete; WP3 in progress. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-12. Session 5: M4 pilot complete (V-008, `04` v1.1); M5 WP1 in progress. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -11,13 +11,14 @@
 ```text
 Project:            German A1 → B1 Curriculum
 Architecture:       Approved — Baseline v1.0 (2026-09-11)
+Lesson standard:    04_LESSON_STANDARDS v1.1 (pilot-validated 2026-09-12)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
-Current Milestone:  M4 — A2 Pilot (A2-U01 Erlebnisse)
+Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
-Current batch:      M4 (single batch = the pilot unit + A2 README + A2 resources)
-Next task:          Write GERMAN_LEARNING_PLAN/A2/README.md, then A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md, L1, L2, L3, L4 (see §6)
-Last completed:     M3 — A1 Consolidation (2026-09-11, V-007)
+Current batch:      M5 WP1 — A2-U02 Menschen & Geschenke, A2-U03 Wohnen, A2-R1 Wiederholung
+Next task:          Write GERMAN_LEARNING_PLAN/A2/A2-U02_Menschen_und_Geschenke/ (00_Overview + L1–L4), model = A2-U01 (see §6)
+Last completed:     M4 — A2 Pilot (2026-09-12, V-008)
 Push status:        OK (origin/main in sync after every batch)
 ```
 
@@ -87,46 +88,54 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11), V-001 |
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 |
 | M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-005 / V-006 / V-007 |
-| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | 🔄 IN PROGRESS |
-| M5 | A2 Completion | ⬜ NOT STARTED |
+| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ✅ COMPLETE (2026-09-12), V-008 |
+| M5 | A2 Completion | 🔄 IN PROGRESS (WP1) |
 | M6 | B1.1 | ⬜ NOT STARTED |
 | M7 | B1.2 | ⬜ NOT STARTED |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED |
 
 ---
 
-## 6. Current work — M4 A2 Pilot: A2-U01 *Erlebnisse*
+## 6. Current work — M5 A2 Completion
 
-**Purpose:** Build ONE complete A2 unit with the full lesson architecture (`04`, skeletons D1–D3) and validate it honestly **before** any other A2/B1 unit (CD-41). If the pilot shows a problem, change `04` (v1.1), log the reason in `06`, update the affected files, then continue.
+**Model to follow:** `A2/A2-U01_Erlebnisse/`, the validated pilot, under `04` v1.1. **Don't copy blindly**: adapt to each unit's purpose.
 
-**Deliverables:**
-1. `A2/README.md`: stage page (A2 can-dos, 10 units + reviews + checkpoints, how a 5-file A2 unit works, weekly rhythm)
-2. `A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md`: can-dos, roadmap, grammar summary, main task, word bank (~45 ★ + ~40 recognition, B7) with a **"Recycled from" list** (≥15 A1 items)
-3. `L1_Mein_Wochenende.md`: Perfekt with *haben* (regular *ge-…-t*, separable *eingekauft*), sequence words *zuerst / dann / danach / am Ende*; Discover = a voice message about the weekend
-4. `L2_Unterwegs.md`: Perfekt with *sein* (movement / change of state) + the ~25 most frequent irregular participles (*ge-…-en*); a short trip story
-5. `L3_Schon_mal_erlebt.md`: participles without *ge-* (*be-/ver-/er-*, *-ieren*); *Hast du schon mal …?*; follow-up questions; the natural spoken mix of Perfekt with *war / hatte*
-6. `L4_Anwenden.md`: main task = info gap "reconstruct your partner's weekend" (Appendix B) + Story Bank Task 3 at A2 level, recorded; reading + listening; writing (weekend email); mixed review including A1; 10-min unit quiz (≥80%)
-7. **Resources (A2 additions):**
-   - `Verb_Lists.md` (new: irregular participles + *haben/sein*)
-   - Grammar_Tables A2: Perfekt
-   - Redemittel A2: telling a story, reacting
-   - Interference A2: Perfekt vs English tenses
-   - Pronunciation A2: unstressed *ge-*, glottal stop
-   - `Anki/A2.tsv` (generated)
-8. **Pilot validation V-008:** the M4 criteria in `03` plus `04` Part C; lesson times; activity count and types; production share; speaking levels; recycling counts; a decision on `04` changes
+**Per-unit checklist** (from the pilot):
+- 5 files: `00_Overview_und_Wortschatz` (plain `## Wortschatz` heading, "Recycled from" ≥15 items from ≥3 earlier units incl. A1) · `L1`–`L3` (~75–85 min, 7–8 numbered activities, 3-2-1 warm-up, Entdecken, Explanation with **unnumbered H3** subheadings, practice, ⏱️, 🎭 AI prompt, 🗣️ 60 s, 👄, ⚠️, 🔗 + "New words", ✅ with blank-page recall, 🚀, 🃏) · `L4_Anwenden` (main task from Appendix B, S4 timed retell, 📖, 🎧, 📝 writing loop, mixed review incl. A1, 10-item unit quiz with redo map, workbook update)
+- Reading in ≥2 and listening in ≥2 of L1–L4; writing in ≥2 (L4 always)
+- Run `tools/check_structure.py`, `tools/check_vocab.py <unit>`, `tools/build_anki.py`, `tools/check_links.py`
+- Add the unit's A2 content to Resources (Grammar_Tables, Verb_Lists, Redemittel, Interference, Pronunciation) as needed
+
+**WP1** (in progress):
+1. **A2-U02 Menschen & Geschenke:** the dative system.
+   - `L1_Familie_und_Freunde`: dative articles and pronouns (*mit meiner Schwester, mir, dir, ihm*); why the dative exists (the "receiver")
+   - `L2_Was_gefaellt_dir`: dative verbs *gefallen, gehören, helfen, schmecken, passen, stehen* (+ *Mir ist kalt*)
+   - `L3_Geschenke`: *geben / schenken / zeigen* + dative + accusative, and pronoun order
+   - `L4_Anwenden`: main task = choose and justify a gift for a friend together
+   - Resources: Grammar_Tables A2 dative; Verb_Lists dative verbs
+   - Explain retroactively the A1 fixed phrases (*mit dem Bus, zum Bahnhof, in meinem Kühlschrank, aus der Türkei*)
+2. **A2-U03 Wohnen:** two-way prepositions.
+   - `L1_Meine_Wohnung`: location = dative (*Wo?*); rooms and furniture
+   - `L2_Wohin_damit`: direction = accusative (*Wohin?*); *stellen/stehen, legen/liegen, hängen, setzen/sitzen*
+   - `L3_Wohnungssuche`: dative prepositions *aus, bei, mit, nach, seit, von, zu*; flat ads and a viewing call
+   - `L4_Anwenden`: main task = furnish a room from spoken instructions + flat-viewing call
+   - Explain retroactively the A1 phrases *im Park / in den Park*
+3. **A2-R1 Wiederholung:** cumulative review of A1 + U01–U03, weighted 50/30/20 (skeleton D5), error clinic, Story Bank recycling
+4. Validate WP1 (V-009), record, commit, push
+
+**WP2:** A2-U04 (*weil/dass/denn*), A2-U05 (reflexive verbs, *wenn*, modal Präteritum), A2-U06 (adjective endings stage 1), A2-R2, A2 Midpoint
+**WP3:** A2-U07 (comparison, indirect questions), A2-U08 (verbs + prepositions, *wo-/da-*), A2-U09 (light: plans and invitations), A2-U10 (Konjunktiv II advice and wishes, *deshalb/trotzdem*), A2-R3, A2 Exit (with an integrated scenario + Story Bank A2 recordings)
 
 ## 7. Next planned work
 
-After M4:
-- **M5:** A2 completion. WP1 U02, U03, R1 · WP2 U04–U06, R2, Midpoint · WP3 U07–U10, R3, Exit
 - **M6:** B1.1, with a special review after B1-U01 (German task instructions)
-- **M7:** B1.2, after deciding OD-11 (mediation)
+- **M7:** B1.2. Decide OD-11 (mediation) before it is finalised.
 - **M8:** final audit
 
 ## 8. Approved curriculum version
 
 - **Architecture v1.0.** Authoritative record: `01_CURRICULUM_DECISIONS.md` (CD-01–CD-43, Appendices A–J).
-- **Lesson standard:** `04_LESSON_STANDARDS.md` v1.0, provisional until the M4 pilot and the B1-U01 review.
+- **Lesson standard:** `04_LESSON_STANDARDS.md` **v1.1**, validated for A1/A2 by the M4 pilot. The B1 variant is checked at the B1-U01 special review.
 - **Pending change proposal:** CP-001 (mediation), to be decided by Claude before M7 is finalised (OD-11).
 
 ---
@@ -206,16 +215,15 @@ After M4:
 Deutch/
 ├── .gitignore  CLAUDE.md
 ├── Docs/  00–06
-├── tools/  check_links.py  check_structure.py  build_anki.py
+├── tools/  check_links.py  check_structure.py  check_vocab.py  build_anki.py
 └── GERMAN_LEARNING_PLAN/
     ├── README.md
     ├── 00_Curriculum/09_Diagnostic_Test.md
-    ├── A1/  README.md  A1-U01_Ich_und_du.md  A1-U02_Essen_und_Einkaufen.md  A1-U03_Mein_Tag.md
-    │        A1-U04_Koennen_muessen_duerfen.md  A1-U05_In_der_Stadt.md  A1_Checkpoint.md
-    ├── Resources/  Rubrics.md  Sentence_Map.md  Grammar_Tables.md  English_German_Interference.md
-    │               Pronunciation_Guide.md  Redemittel.md  Speaking_Toolkit.md  Writing_Toolkit.md
-    │               Listening_Reading_Sources.md  Anki/A1.tsv (124 cards)
-    └── Learner_Workbook/  Progress_Tracker.md  Story_Bank.md  Error_Log.md  Chunk_Bank.md  Writing_Portfolio.md
+    ├── A1/  README + U01–U05 + A1_Checkpoint.md
+    ├── A2/  README.md  A2-U01_Erlebnisse/ (00_Overview_und_Wortschatz, L1_Mein_Wochenende, L2_Unterwegs, L3_Schon_mal_erlebt, L4_Anwenden)
+    ├── Resources/  Rubrics  Sentence_Map  Grammar_Tables  Verb_Lists  English_German_Interference  Pronunciation_Guide
+    │               Redemittel  Speaking_Toolkit  Writing_Toolkit  Listening_Reading_Sources  Anki/A1.tsv  Anki/A2.tsv
+    └── Learner_Workbook/  Progress_Tracker  Story_Bank  Error_Log  Chunk_Bank  Writing_Portfolio
 ```
 
 ## 14. Planned files

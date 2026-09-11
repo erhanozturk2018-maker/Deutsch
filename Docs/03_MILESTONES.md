@@ -13,8 +13,8 @@
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11) | M0 |
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 | M1 |
 | M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-007 | M2 (diagnostic *built*; results not required, see OD-12) |
-| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | 🔄 IN PROGRESS | M3 |
-| M5 | A2 Completion | ⬜ NOT STARTED | M4 **validated** |
+| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ✅ COMPLETE (2026-09-12), V-008 | M3 |
+| M5 | A2 Completion | 🔄 IN PROGRESS | M4 **validated** |
 | M6 | B1.1 | ⬜ NOT STARTED | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED | M7 |
@@ -239,6 +239,7 @@
   - The main task matches Appendix B.
   - `04` Part C passed.
   - **Explicit user approval of the template** 🛑
+- **Result (2026-09-12):** Pilot validated (V-008). Findings applied as `04` v1.1: explanation subheadings; ★ = practised, checked with `tools/check_vocab.py`; recognition guideline; D2/D3 clarifications. **Completion status: ✅ COMPLETE.**
 - **Exit rule:** If the pilot reveals problems:
   1. Revise `04_LESSON_STANDARDS.md` (v1.x, logged) or propose an architecture change (change control).
   2. Re-validate.

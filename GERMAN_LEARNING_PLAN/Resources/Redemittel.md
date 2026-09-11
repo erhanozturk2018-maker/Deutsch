@@ -14,6 +14,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A1: Making plans and appointments](#a1-making-plans-and-appointments)
 - [A1: Directions and transport](#a1-directions-and-transport)
 - [A1: Reacting](#a1-reacting)
+- [A2: Telling a story and reacting](#a2-telling-a-story-and-reacting)
 
 ---
 
@@ -152,4 +153,26 @@ The most useful phrases in the course. Say them without hesitation.
 
 ---
 
-*Added in A2: giving reasons and opinions, agreeing and disagreeing, complaining, at the doctor's, on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+## A2: Telling a story and reacting
+
+Taught in [A2-U01](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Was hast du am Wochenende gemacht? | What did you do at the weekend? | – |
+| Wie war's? – Super! / Ganz okay. / Anstrengend, aber schön. | How was it? – Great! / OK. / Tiring but nice. | spoken |
+| Letztes Wochenende / Letzten Sommer / Vor zwei Jahren … | Last weekend / summer / Two years ago … | – |
+| Zuerst … dann … danach … später … am Ende / zum Schluss … | First … then … after that … later … in the end … | – |
+| Plötzlich … / Zum Glück … / Leider … | Suddenly … / Luckily … / Unfortunately … | – |
+| Hast du schon mal …? – Ja, einmal. / Nein, noch nie. | Have you ever …? – Yes, once. / No, never. | – |
+| Warst du schon mal in …? | Have you ever been to …? | – |
+| Erzähl mal! · Und dann? · Was ist passiert? | Tell me! · And then? · What happened? | informal |
+| Wann war das? · Mit wem? · Wie war das? | When was that? · With whom? · What was it like? | – |
+| Echt? · Wirklich? · Wie schön! · Klingt gut! | Really? · How nice! · Sounds good! | *Echt?* informal |
+| Oh nein! · Pech gehabt! · Zum Glück! | Oh no! · Bad luck! · Thank goodness! | spoken |
+| Das ist ja verrückt! · Das glaube ich nicht! | That's crazy! · I don't believe it! | spoken |
+| Ich hatte Glück. / Ich hatte Pech. | I was lucky. / I was unlucky. | – |
+
+---
+
+*Added later in A2: giving reasons and opinions, agreeing and disagreeing, complaining, at the doctor's, on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

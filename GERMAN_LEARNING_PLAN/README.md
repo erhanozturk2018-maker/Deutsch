@@ -74,7 +74,7 @@ Recordings stay on your device; the course never needs you to upload them.
 | [Sentence Map](Resources/Sentence_Map.md) | German word order as one simple map. Read it first |
 | [Speaking Toolkit](Resources/Speaking_Toolkit.md) | Fast-answer drills, shadowing, 4/3/2 retelling, AI conversation prompts |
 | [Writing Toolkit](Resources/Writing_Toolkit.md) · [Listening & Reading](Resources/Listening_Reading_Sources.md) | Writing loop and feedback prompt · TTS how-to and task sheets |
-| [Grammar Tables](Resources/Grammar_Tables.md) · [Redemittel](Resources/Redemittel.md) · [Pronunciation](Resources/Pronunciation_Guide.md) · [English → German traps](Resources/English_German_Interference.md) | Reference, growing with each stage |
+| [Grammar Tables](Resources/Grammar_Tables.md) · [Verb Lists](Resources/Verb_Lists.md) · [Redemittel](Resources/Redemittel.md) · [Pronunciation](Resources/Pronunciation_Guide.md) · [English → German traps](Resources/English_German_Interference.md) | Reference, growing with each stage |
 | [Story Bank](Learner_Workbook/Story_Bank.md) · [Error Log](Learner_Workbook/Error_Log.md) · [Chunk Bank](Learner_Workbook/Chunk_Bank.md) · [Writing Portfolio](Learner_Workbook/Writing_Portfolio.md) | Your recordings, your mistakes, your phrases, your texts |
 | `Resources/Anki/A1.tsv` … | Flashcards for Anki, one file per stage (import with *File → Import*) |
 
@@ -88,5 +88,5 @@ The course is being built stage by stage. Available now:
 |---|---|
 | Diagnostic Test | ✅ ready |
 | A1 Fundament (5 units + checkpoint) | ✅ ready |
-| A2 | in preparation |
+| A2 | A2-U01 ✅ ready · the rest in preparation |
 | B1 | in preparation |
