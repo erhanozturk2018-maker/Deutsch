@@ -18,6 +18,7 @@
 | V-006 | 2026-09-11 | M3 WP2 | A1-U02, A1-U03, tools/check_structure.py | Self-validation + automated checks | PASS WITH NOTES (6 fixes) | – |
 | V-007 | 2026-09-11 | M3 (closing) | Whole A1 stage: A1-U01–U05, A1 Checkpoint, A1 resources, README | Self-validation + automated checks | PASS WITH NOTES | – |
 | V-008 | 2026-09-12 | M4 (pilot) | A2-U01 Erlebnisse (5 files), A2 README, A2 resources, check_vocab.py | Pilot validation: self-validation + automated checks | PASS WITH NOTES → 04 v1.1 | – (autonomous mode) |
+| V-009 | 2026-09-12 | M5 WP1 | A2-U02, A2-U03, A2-R1, resource sections | Self-validation + automated checks | PASS WITH NOTES | – |
 
 ---
 
@@ -459,3 +460,51 @@
 - **Resolution:** All findings fixed; `04` v1.1 recorded in `06` [008].
 - **Result:** **PASS WITH NOTES**. The pilot is validated, and scaling (M5) may proceed under v1.1.
 - **Approval status:** – (autonomous mode; the pilot user-approval step was replaced by this documented validation, per the user's 2026-09-11 authorisation)
+
+---
+
+## V-009 — M5 WP1: A2-U02, A2-U03, A2-R1
+
+- **Date:** 2026-09-12
+- **Milestone:** M5, WP1
+- **Artifact(s):**
+  - `A2/A2-U02_Menschen_und_Geschenke/` (5 files)
+  - `A2/A2-U03_Wohnen/` (5 files)
+  - `A2/A2-R1_Wiederholung.md`
+  - Resources: Grammar_Tables (dative, prepositions), Verb_Lists (dative verbs, position verbs, *umziehen*), Redemittel (likes/presents, home), Interference (2 A2 blocks), Pronunciation (question melody, endings, *-ig*, clusters)
+  - `tools/check_vocab.py` (short-word phrase fix)
+  - `.gitattributes`
+  - `Anki/A2.tsv` (172 cards)
+- **Validator:** Claude
+- **Validation type:** Self-validation + automated checks
+- **Categories:** `STR`, `LNG`, `PED`, `CEF`, `DEP`, `VOC`, `SPK`, `WRK`, `LNK`, `USE`
+- **Criteria:** The M5 criteria in `03` (unit map fidelity, recycling ≥3 earlier structures per unit + `04` A8, vocabulary within Appendix E, ≥6 activity types per unit, no identical main-task type in consecutive units, reviews 50/30/20 reaching A1, links); the `04` v1.1 Part C checklist; the per-unit checklist in `00` §6.
+- **Method:**
+  - `check_structure.py` → 41 files, 0 problems
+  - `check_vocab.py` → U02: 32 ★, 0 below 3 (after a tool fix for *Es tut mir leid*); U03: 25 ★ rows, 0 below 3
+  - `check_links.py` → 550 links, 0 broken, 22 planned
+  - `build_anki.py` → 172 A2 cards
+  - manual reread of all German; answer keys item by item; timing sums; main-task comparison with Appendix B; review weighting count
+- **Findings:**
+  1. `STR`/`DEP`, PASS. U02 matches Appendix B (dative system: articles, pronouns, dative verbs, two objects; main task: a present chosen together). U03 matches (two-way prepositions, *stellen/stehen, legen/liegen, hängen*, dative prepositions; main tasks: furnish a room from spoken instructions + a flat-viewing call).
+  2. `PED`, PASS.
+     - The A1 fixed phrases (*zum, mit dem, im/ins*) are explicitly explained in context: U02 L1 "the A1 mystery, solved", U03 L2 "part 2". This is a strong spiral moment (CD-06).
+     - Main-task types differ from U01: negotiation/decision (U02) and info-transfer drawing + phone call (U03), vs U01's info gap.
+     - Each unit uses ≥8 activity types.
+  3. `SPK`, PASS. Every lesson has ⏱️ drills (S1–S2), an AI role-play with a complication (S3) and a 60 s monologue (S4). The L4s have 2/1.5/1 retellings: Story Bank Task 8 (U02), Task 4 (U03), plus Task 1 in U03 L3.
+  4. `VOC`/`DEP`, PASS. "Recycled from" tables cover 5 (U02) and 7 (U03) earlier units, including A1. The R1 weighting was counted: warm-up 8/4/3 items = 53/27/20%. Case round and quiz mix the recent block with A1.
+  5. `LNG`, **Minor (fixed), 10 items:**
+     - U02 L1: *Onkel* in an *-er* pronunciation list
+     - U02 L2: *zu der Wand* → *zur Wand*; a sample answer rewritten to avoid unintroduced adjective endings
+     - U02 L4: *für uns* wrongly listed as dative
+     - U03 L1: a *denn* in the sample (U04 grammar); an ambiguous/unnatural plan sentence (2 revisions)
+     - U03 L2: a trick item printed wrong German; replaced by a clean gap
+     - U03 L4: a messy reading key; a misaligned plan solution
+     - R1: gloss for *super, dass …*
+  6. `CEF`, PASS. Texts are A2 (photo talk, shop dialogue, group chat, forum, voicemail, flat ads, phone call, emails, a story). Structures beyond the unit are glossed or treated as phrases, with forward references: *wir könnten* → U10; *am besten* → U07; *sich freuen* → U05; *dass* → U04; n-declension → B1-U02.
+  7. `WRK`, PASS (estimate). Lessons 80–85 min; R1 ≈ 150 min in 3 sittings. No learner trial yet (KI-11).
+  8. `VCS`, **Note.** `.gitattributes` (`* text=auto eol=lf`) added, which ends the constant CRLF warnings (V-001 note 8).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before the batch commit.
+- **Result:** **PASS WITH NOTES**
+- **Approval status:** – (autonomous mode)

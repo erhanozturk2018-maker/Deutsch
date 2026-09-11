@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-12. Session 5: M4 pilot complete (V-008, `04` v1.1); M5 WP1 in progress. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-12. Session 5: M5 WP1 complete (V-009); WP2 in progress. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -16,8 +16,8 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
-Current batch:      M5 WP1 — A2-U02 Menschen & Geschenke, A2-U03 Wohnen, A2-R1 Wiederholung
-Next task:          A2-U02 ✅ and A2-U03 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-R1_Wiederholung.md (skeleton D5: A1 + U01–U03, 50/30/20), then validate WP1 (V-009) (see §6)
+Current batch:      M5 WP2 — A2-U04, A2-U05, A2-U06, A2-R2, A2 Midpoint
+Next task:          Write GERMAN_LEARNING_PLAN/A2/A2-U04_Essen_und_Gewohnheiten/ (00_Overview + L1–L4) — plan in §6
 Last completed:     M4 — A2 Pilot (2026-09-12, V-008)
 Push status:        OK (origin/main in sync after every batch)
 ```
@@ -89,7 +89,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 |
 | M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-005 / V-006 / V-007 |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ✅ COMPLETE (2026-09-12), V-008 |
-| M5 | A2 Completion | 🔄 IN PROGRESS (WP1) |
+| M5 | A2 Completion | 🔄 IN PROGRESS (WP1 ✅, WP2 in progress) |
 | M6 | B1.1 | ⬜ NOT STARTED |
 | M7 | B1.2 | ⬜ NOT STARTED |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED |
@@ -106,25 +106,32 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 - Run `tools/check_structure.py`, `tools/check_vocab.py <unit>`, `tools/build_anki.py`, `tools/check_links.py`
 - Add the unit's A2 content to Resources (Grammar_Tables, Verb_Lists, Redemittel, Interference, Pronunciation) as needed
 
-**WP1** (in progress):
-1. **A2-U02 Menschen & Geschenke:** the dative system.
-   - `L1_Familie_und_Freunde`: dative articles and pronouns (*mit meiner Schwester, mir, dir, ihm*); why the dative exists (the "receiver")
-   - `L2_Was_gefaellt_dir`: dative verbs *gefallen, gehören, helfen, schmecken, passen, stehen* (+ *Mir ist kalt*)
-   - `L3_Geschenke`: *geben / schenken / zeigen* + dative + accusative, and pronoun order
-   - `L4_Anwenden`: main task = choose and justify a gift for a friend together
-   - Resources: Grammar_Tables A2 dative; Verb_Lists dative verbs
-   - Explain retroactively the A1 fixed phrases (*mit dem Bus, zum Bahnhof, in meinem Kühlschrank, aus der Türkei*)
-2. **A2-U03 Wohnen:** two-way prepositions.
-   - `L1_Meine_Wohnung`: location = dative (*Wo?*); rooms and furniture
-   - `L2_Wohin_damit`: direction = accusative (*Wohin?*); *stellen/stehen, legen/liegen, hängen, setzen/sitzen*
-   - `L3_Wohnungssuche`: dative prepositions *aus, bei, mit, nach, seit, von, zu*; flat ads and a viewing call
-   - `L4_Anwenden`: main task = furnish a room from spoken instructions + flat-viewing call
-   - Explain retroactively the A1 phrases *im Park / in den Park*
-3. **A2-R1 Wiederholung:** cumulative review of A1 + U01–U03, weighted 50/30/20 (skeleton D5), error clinic, Story Bank recycling
-4. Validate WP1 (V-009), record, commit, push
+**WP1 ✅ (2026-09-12, V-009):** A2-U02 Menschen & Geschenke · A2-U03 Wohnen · A2-R1 Wiederholung (+ dative, prepositions and position-verb resource sections, `.gitattributes`)
 
-**WP2:** A2-U04 (*weil/dass/denn*), A2-U05 (reflexive verbs, *wenn*, modal Präteritum), A2-U06 (adjective endings stage 1), A2-R2, A2 Midpoint
-**WP3:** A2-U07 (comparison, indirect questions), A2-U08 (verbs + prepositions, *wo-/da-*), A2-U09 (light: plans and invitations), A2-U10 (Konjunktiv II advice and wishes, *deshalb/trotzdem*), A2-R3, A2 Exit (with an integrated scenario + Story Bank A2 recordings)
+**WP2** (in progress). Lesson plans, so any session can build them consistently:
+1. **A2-U04 Essen & Gewohnheiten** (*weil / dass / denn*; verb-final clauses on the Sentence Map)
+   - `L1_Warum`: *weil* + *denn* for reasons; food habits and preferences; the spoken *weil* + verb-second note
+   - `L2_Ich_finde_dass`: *dass*-clauses (*Ich finde / glaube / denke, dass …; Es ist wichtig, dass …*); opinion starters; agreeing and disagreeing
+   - `L3_Im_Restaurant`: ordering with special requests, allergies, paying, complaining politely (*Könnte ich …?* as a phrase); reasons in service talk
+   - `L4_Anwenden`: main task = restaurant role-play + mini-debate "Lohnt es sich, zu Hause zu kochen?" (Story Bank Task 7, A2 early)
+   - Resources: Sentence_Map (link), Grammar_Tables A2 verb-final clauses, Redemittel A2 opinions and restaurant
+2. **A2-U05 Gesundheit** (reflexive verbs · *wenn* · modal Präteritum · *sollen*)
+   - `L1_Mir_gehts_nicht_gut`: body parts, symptoms, *Mir tut … weh, Ich habe Kopfschmerzen*, dative reflexive (*Ich habe mir den Arm gebrochen*)
+   - `L2_Beim_Arzt`: reflexive verbs (*sich fühlen, sich ausruhen, sich erholen, sich hinlegen, sich freuen*); advice with *sollen*; the doctor's visit
+   - `L3_Krank_melden`: *wenn*-clauses (condition + repeated time); modal Präteritum *konnte, musste, wollte, durfte, sollte*; calling in sick; the pharmacy
+   - `L4_Anwenden`: main task = doctor's visit + calling in sick (Story Bank Task 5, A2 early)
+   - Resources: Verb_Lists reflexive verbs; Grammar_Tables modal Präteritum; Redemittel A2 health
+3. **A2-U06 Einkaufen & Kleidung** (adjective endings stage 1: nominative/accusative after *der-* and *ein-* words · *welch- / dies-*)
+   - `L1_Was_ziehst_du_an`: clothes; endings after *der/die/das* and *dieser, welcher* (nominative/accusative)
+   - `L2_Ein_neuer_Pullover`: endings after *ein / kein / mein* (nominative/accusative); describing and choosing
+   - `L3_Umtauschen`: returning and complaining (*Der Reißverschluss ist kaputt …*), receipts, refunds, exchanges; *Welcher? – Dieser.*
+   - `L4_Anwenden`: main task = complaint and return in a shop
+   - Endings strategy: "the signal rule" (if the article shows the gender or case signal, the adjective takes *-e / -en*; otherwise the adjective carries the signal). Accuracy target: communicative (CD-17).
+4. **A2-R2 Wiederholung:** A1 + U01–U06, weighted 50/30/20 (recent = U04–U06; previous = U01–U03; oldest = A1)
+5. **A2 Midpoint Checkpoint:** a diagnostic mid-test (not a gate), 4 skills, results → redirect to weak units
+6. Validate WP2 (V-010), record, commit, push
+
+**WP3:** A2-U07 (comparison, place prepositions with *an/auf/in/nach*, indirect questions, *hätte / würde gern*) · A2-U08 (verbs + prepositions, *wo-/da-* words, time prepositions, *werden* as full verb, middle-field order) · A2-U09 (light: plans and invitations, future, *Hättest du Lust …?*, *doch*) · A2-U10 (Konjunktiv II advice and wishes, *deshalb / trotzdem / sondern*, *man / jemand / niemand*) · A2-R3 · A2 Exit (4 skills + integrated scenario + Story Bank A2 recordings of all 8 tasks)
 
 ## 7. Next planned work
 

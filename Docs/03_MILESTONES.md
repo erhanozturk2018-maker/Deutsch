@@ -261,7 +261,7 @@
   - Story Bank A2 stage
   - Pilot feedback applied to A2-U01 if needed
 - **Work packages (approved, OD-09):**
-  - **WP1:** U02, U03, R1
+  - **WP1 ✅ (2026-09-12, V-009):** U02, U03, R1
   - **WP2:** U04, U05, U06, R2, Midpoint
   - **WP3:** U07, U08, U09, U10, R3, Exit
 - **Dependencies:** M4 **approved**.

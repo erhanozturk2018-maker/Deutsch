@@ -289,3 +289,31 @@
 - **Impact:**
   - M5 builds A2-U02 to U10 under `04` v1.1, using the per-unit checklist in `00` §6.
   - The A1 files remain valid: the v1.1 changes concern explanation subsections and word banks, which the A1 single-file format does not use in the affected way.
+
+---
+
+## [009] 2026-09-12 — M5 WP1: A2-U02, A2-U03, A2-R1
+
+- **Milestone:** M5, WP1
+- **Affected files:**
+  - **Created:** `A2/A2-U02_Menschen_und_Geschenke/` (5), `A2/A2-U03_Wohnen/` (5), `A2/A2-R1_Wiederholung.md`, `.gitattributes`
+  - **Updated:** Resources (Grammar_Tables, Verb_Lists, Redemittel, English_German_Interference, Pronunciation_Guide), `tools/check_vocab.py`, `Anki/A2.tsv`, Docs 00/03/05/06
+- **Change:**
+  1. **A2-U02 Menschen & Geschenke**, the dative:
+     - L1: forms after *mit/bei/von* and "the A1 mystery solved"
+     - L2: dative verbs, *gefallen* flip, *Mir ist kalt*
+     - L3: two objects, word order, congratulations
+     - L4: choosing a present (negotiation), Story Bank Task 8, forum, voicemail, thank-you email, review, quiz
+  2. **A2-U03 Wohnen**, two-way prepositions:
+     - L1: *Wo?* → dative; position verbs
+     - L2: *Wohin?* → accusative; the verb pairs
+     - L3: always-dative prepositions, *nach/zu/in*, *seit* + present; flat ads + a viewing call
+     - L4: furnish a room from TTS instructions (draw), Story Bank Task 4, Mira's email, writing, review, quiz
+  3. **A2-R1 Wiederholung**, the first cumulative review:
+     - 3 sittings, 50/30/20 weighting
+     - interleaved case and tense rounds, an error hunt
+     - a reading + retelling, a vocabulary sprint, a new-neighbour role-play mixing all topics
+     - an error-clinic protocol, a voicemail, a reply email, a 15-item quiz with a redo map
+  4. **Resources** grew with A2 sections for all three units. `check_vocab.py` now handles phrases starting with a short word. `.gitattributes` normalises line endings.
+- **Reason:** The M5 WP1 plan.
+- **Impact:** A2.1 is half done: U01–U03 + R1. WP2 (U04–U06, R2, Midpoint) follows, with lesson plans recorded in `00` §6.
