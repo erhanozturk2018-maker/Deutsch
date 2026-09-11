@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-11. Session 4: autonomous mode started; git history corrected; M2 in progress. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-11. Session 4: M2 complete; M3 WP1 in progress. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -13,11 +13,11 @@ Project:            German A1 → B1 Curriculum
 Architecture:       Approved — Baseline v1.0 (2026-09-11)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
-Current Milestone:  M2 — Diagnostic System
+Current Milestone:  M3 — A1 Consolidation
 Status:             IN PROGRESS
-Current batch:      M2 (single batch)
-Next task:          Build M2 deliverables (see §6), validate, record, commit, then continue to M3
-Last completed:     M1 — Project Infrastructure (2026-09-11, V-001)
+Current batch:      M3 WP1 — shared A1 resources + A1/README.md + A1-U01
+Next task:          Build the Resources/ and Learner_Workbook/ files for A1 (see §6), then A1/README.md, then A1-U01
+Last completed:     M2 — Diagnostic System (2026-09-11, V-003)
 Push status:        BLOCKED — remote has pre-correction history; see §15
 ```
 
@@ -85,8 +85,8 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 |---|---|---|
 | M0 | Curriculum Architecture | ✅ COMPLETE (2026-09-11) |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11), V-001 |
-| M2 | Diagnostic System | 🔄 IN PROGRESS |
-| M3 | A1 Consolidation | ⬜ NOT STARTED |
+| M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 |
+| M3 | A1 Consolidation | 🔄 IN PROGRESS (WP1) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED |
 | M5 | A2 Completion | ⬜ NOT STARTED |
 | M6 | B1.1 | ⬜ NOT STARTED |
@@ -95,25 +95,35 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 ---
 
-## 6. Current work — M2 Diagnostic System
+## 6. Current work — M3 A1 Consolidation
 
-**Deliverables** (all ⬜ until built):
-1. `GERMAN_LEARNING_PLAN/00_Curriculum/09_Diagnostic_Test.md`: the diagnostic, including administration instructions, all parts, answer keys, scoring and the **routing system**
-2. `GERMAN_LEARNING_PLAN/Resources/Rubrics.md`: speaking, writing, pronunciation/intelligibility and fluency scales
-3. `GERMAN_LEARNING_PLAN/Learner_Workbook/Progress_Tracker.md`: diagnostic results, routing plan, grammar spiral tracker, can-do ticks, checkpoint scores
-4. `GERMAN_LEARNING_PLAN/README.md`: start page and navigation (minimal; extended later)
-5. `tools/check_links.py`: maintained link checker used by every validation
+**Section map:** fixed in `03` (M3). The diagnostic routes to these exact IDs.
+
+**WP1** (in progress):
+1. `Resources/Sentence_Map.md` (full)
+2. `Resources/Speaking_Toolkit.md` (full)
+3. `Resources/Writing_Toolkit.md` (full)
+4. `Resources/Listening_Reading_Sources.md` (full)
+5. `Resources/Pronunciation_Guide.md` (foundations + A1)
+6. `Resources/English_German_Interference.md` (foundations + A1)
+7. `Resources/Grammar_Tables.md` (foundations + A1)
+8. `Resources/Redemittel.md` (foundations + A1)
+9. `Learner_Workbook/Error_Log.md`, `Chunk_Bank.md`, `Story_Bank.md`, `Writing_Portfolio.md`
+10. `A1/README.md`
+11. `A1/A1-U01_Ich_und_du.md`
+12. `tools/build_anki.py` + `Resources/Anki/A1.tsv`, generated from the unit flashcard tables
+
+**WP2:** A1-U02, A1-U03
+**WP3:** A1-U04, A1-U05, `A1/A1_Checkpoint.md` + stage validation
 
 ## 7. Next planned work
 
-After M2: **M3 A1 Consolidation.**
-- **WP1:** A1 shared resources + `A1/README.md` + A1-U01
-- **WP2:** A1-U02, A1-U03
-- **WP3:** A1-U04, A1-U05, A1 Checkpoint
-
-Then M4 → M8 in order, per `03_MILESTONES.md`.
-
----
+After M3:
+- **M4:** A2 pilot, A2-U01 *Erlebnisse*, with a real pilot validation
+- **M5:** A2 completion in 3 batches
+- **M6:** B1.1, with a special review after B1-U01
+- **M7:** B1.2, after deciding OD-11 (mediation)
+- **M8:** final audit
 
 ## 8. Approved curriculum version
 
@@ -198,7 +208,12 @@ Then M4 → M8 in order, per `03_MILESTONES.md`.
 Deutch/
 ├── .gitignore  CLAUDE.md
 ├── Docs/  00–06 (7 files)
-└── GERMAN_LEARNING_PLAN/.gitkeep
+├── tools/check_links.py
+└── GERMAN_LEARNING_PLAN/
+    ├── README.md
+    ├── 00_Curriculum/09_Diagnostic_Test.md
+    ├── Resources/Rubrics.md
+    └── Learner_Workbook/Progress_Tracker.md
 ```
 
 ## 14. Planned files

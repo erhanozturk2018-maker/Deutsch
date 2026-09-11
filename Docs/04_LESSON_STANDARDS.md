@@ -323,7 +323,7 @@ Start now with your first line.
 id: A2-U01-L1
 title: Mein Wochenende
 level: A2.1
-type: lesson            # a1-unit | overview | lesson | integration | review | checkpoint
+type: lesson            # a1-unit | overview | lesson | integration | review | checkpoint | diagnostic
 unit: A2-U01
 est_minutes: 75
 load: 3                 # 1 light · 2 medium · 3 heavy
@@ -334,6 +334,8 @@ standard: 04_LESSON_STANDARDS v1.0
 status: draft           # draft | validated | approved
 ---
 ```
+
+**Non-lesson files** (`README.md` files, `Resources/`, `Learner_Workbook/`) carry **no** YAML front matter. They start with the H1 and a one-paragraph purpose statement (added v1.0.1, 2026-09-11).
 
 **2. Visible header** directly below the H1:
 

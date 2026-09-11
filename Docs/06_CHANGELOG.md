@@ -132,3 +132,44 @@
   - M2 starts immediately.
   - History is clean locally.
   - Remote synchronisation is pending user action.
+
+---
+
+## [004] 2026-09-11 — M2 Diagnostic System complete
+
+- **Milestone:** M2 (completed) → M3 (started)
+- **Affected files:**
+  - **Created:**
+    - `GERMAN_LEARNING_PLAN/README.md`
+    - `GERMAN_LEARNING_PLAN/00_Curriculum/09_Diagnostic_Test.md`
+    - `GERMAN_LEARNING_PLAN/Resources/Rubrics.md`
+    - `GERMAN_LEARNING_PLAN/Learner_Workbook/Progress_Tracker.md`
+  - **Removed:** `GERMAN_LEARNING_PLAN/.gitkeep`
+  - **Updated:** `Docs/00`, `03`, `04` (B4, v1.0.1), `05`, `06`
+- **Change:**
+  1. **Diagnostic.** 10 parts in 2 sittings (about 3 h):
+     - self-assessment
+     - recognition (27 items)
+     - grammar production (73)
+     - vocabulary retrieval (40, with a gender score)
+     - reading (3 texts, A1–B1)
+     - fluency (20 timed cued sentences + 10 quick questions)
+     - listening (3 TTS scripts)
+     - writing (3 prompts, A1–B1)
+     - speaking (6 recorded prompts, which become Story Bank Stage 0)
+     - pronunciation (read-aloud + a phone-dictation intelligibility test)
+
+     Routing is per A1 section: P/R/S → 5 categories, a speed rule, a repair order, and 3 overall routes. Also: A2 preview interpretation, vocabulary-domain and gender flags, the retrieval-gap calculation, and a self-assessment vs results comparison.
+  2. **Rubrics.**
+     - speaking and writing rubrics (5 criteria × 0–4)
+     - stage anchors for A1/A2/B1
+     - fluency scale
+     - pronunciation checklist mapped to the units that train each sound, and dictation bands
+     - **error-category codes** (WO, VF, CA, GE, AE, PR, WC, SP, PU, RE, PRN), used everywhere from now on
+     - AI rating prompts for writing and speech transcripts
+     - checkpoint thresholds
+  3. **Progress Tracker.** Diagnostic result tables, grammar spiral (keys from `04` B4 × 4 stages), can-do checklists per stage, unit log, checkpoint table, weekly study log.
+  4. **Course README.** Start page, route, weekly rhythm, lesson arc, tools setup, status table.
+  5. **A1 section map** fixed in `03` (M3), because the diagnostic routes to these IDs.
+- **Reason:** The M2 specification. The section map is fixed now so that M3 stays consistent with the routing.
+- **Impact:** The course can now be started: the learner can take the diagnostic. M3 builds the A1 units with exactly these section IDs and the elements the routing categories rely on.

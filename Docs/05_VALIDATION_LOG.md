@@ -12,6 +12,7 @@
 |---|---|---|---|---|---|---|
 | V-001 | 2026-09-11 | M1 | M1 infrastructure (`Docs/`, `CLAUDE.md`, `.gitignore`, course root, git) | Self-validation + automated checks | PASS WITH NOTES | Approved (user, 2026-09-11) |
 | V-002 | 2026-09-11 | between M1/M2 | Git history correction (removal of AI-attribution trailers) | Automated check | PASS (local) / remote pending | – |
+| V-003 | 2026-09-11 | M2 | Diagnostic, Rubrics, Progress Tracker, course README | Self-validation + automated checks | PASS WITH NOTES (2 defects fixed) | – (autonomous mode) |
 
 ---
 
@@ -154,3 +155,54 @@
 - **Resolution:** Pending user action. Claude re-checks with `git fetch` at every boundary and pushes only when a fast-forward push is possible.
 - **Result:** PASS locally. The remote is not yet corrected.
 - **Approval status:** –
+
+---
+
+## V-003 — M2 Diagnostic System
+
+- **Date:** 2026-09-11
+- **Milestone:** M2 — Diagnostic System (closing validation)
+- **Artifact(s):**
+  - `GERMAN_LEARNING_PLAN/00_Curriculum/09_Diagnostic_Test.md`
+  - `GERMAN_LEARNING_PLAN/Resources/Rubrics.md`
+  - `GERMAN_LEARNING_PLAN/Learner_Workbook/Progress_Tracker.md`
+  - `GERMAN_LEARNING_PLAN/README.md`
+  - `tools/check_links.py`
+- **Validator:** Claude
+- **Validation type:** Self-validation + automated checks
+- **Categories:** `STR`, `LNG`, `PED`, `CEF`, `DEP`, `LNK`, `USE`, `SCP`
+- **Criteria:** The M2 criteria in `03_MILESTONES.md`, plus the user's M2 specification:
+  - distinguish recognition, controlled production, guided retrieval and spontaneous production
+  - measure grammar, vocabulary, lexical retrieval, speaking, listening, reading, writing and pronunciation/intelligibility
+  - route each area to skip / brief review / consolidate / intensive / prerequisite repair
+  - include administration instructions, rubrics and a progress tracker
+- **Method:**
+  - **Automated** (`python tools/check_links.py` plus inline Python):
+    - link and anchor resolution
+    - one H1 per file
+    - `<details>` open/close balance
+    - item-number continuity per part
+  - **Manual:**
+    - a read-through of every item and answer key
+    - an option-position check of the recognition key
+    - a word count of the dictation text
+    - arithmetic of all maximum scores and domain groupings
+    - a walkthrough of the routing rules against boundary cases (P = 6/R ✓/fast; P = 6/R ✗; P = 2/R ✓; P = 2/R ✗; P = 5/slow)
+- **Findings:**
+  1. `LNK`, PASS. 86 links: 76 ok, 10 planned (to A1 files, `Story_Bank.md` and `Error_Log.md`, all in Appendix H and scheduled for M3), 0 broken.
+  2. `STR`, **Minor (fixed).** The diagnostic had 4 H1 headings (for the sittings and scoring), against `04` B2. Resolution: changed to H2/H3. Recheck: one H1 per file.
+  3. `PED`, **Major (fixed).** The routing table said "apply the first rule that fits", but listed 🟢 Brief review *before* ⚪ Skip. Brief review (P = 5–6) would have caught every Skip case, so Skip could never be reached. Resolution: reordered to Repair → Intensive → Consolidate → Skip → Brief review, and reworded the Brief review rule. Boundary cases rechecked: P = 6/R ✓/fast → Skip; P = 6 slow → Skip moves down to Brief review.
+  4. `STR`, PASS. Item continuity: Part 2 27 items, Part 3 73, Part 4 40, Part 5 13, Part 6 30, Part 7 12, Part 9 6. No gaps. 10 answer boxes, all closed.
+  5. `DEP`/`STR`, PASS. Coverage: all 19 A1 sections have 3 production items + 1 recognition item. 15 of 19 also have timed fluency items; §D numbers, U02-§A gender (covered by the gender score instead) and U05-§C recognition have none, by design. All 8 listed A2 topics have 2 production items + 1 recognition item.
+  6. `PED`, PASS. The four levels of knowing are each measured by named parts. The recognition–production gap is computed explicitly (R% − P%; C% − V%).
+  7. `PED`, **Note.** The M2 criterion "≥ 80% of items require production" is met for grammar and vocabulary: production items 3.1–3.54, 3.58–3.73, Part 4 and Part 6 = 140 of 170 grammar/vocabulary items (82%). Across *all* items including the receptive reading/listening skill tests, the share is about 73%. Reading and listening comprehension are receptive by definition, and the user's specification requires measuring recognition, so this is accepted as intended.
+  8. `LNG`, PASS. All German items, texts, transcripts and keys were reread. Answer-key alternatives are given where natural variants exist (e.g. *Ich muss heute zum Arzt*; *Wo kommst du her?* [spoken]). Unnatural but "correct" forms get 1 point with an explanation (e.g. *tausendneunhundert…* for a year; *Ich will …* at the bakery gets 0).
+  9. `CEF`, PASS. Texts rise from A1 (notice, announcement) through A2 (email, voicemail, dialogue) to B1 (forum post). Writing and speaking tasks are rated at the level each task allows.
+  10. `WRK`, PASS. Estimated time: Sitting 1 ≈ 90 min, Sitting 2 ≈ 85 min, scoring ≈ 30 min.
+  11. `USE`, PASS. The file includes: administration instructions, materials list, rules (including marking guesses), TTS instructions with 3 options and a fallback, a scoring walkthrough in 7 steps, and where to record everything in the tracker.
+  12. `SCP`, PASS. No learner results were invented. No lesson content was created.
+  13. `STR`, **Note.** `04` B4 was extended with the metadata type `diagnostic` and a rule that non-lesson files carry no YAML (v1.0.1). This is a local clarification.
+- **Required changes:** None remaining.
+- **Resolution:** Findings 2 and 3 fixed before commit.
+- **Result:** **PASS WITH NOTES**
+- **Approval status:** – (autonomous mode; the user may review at any time)

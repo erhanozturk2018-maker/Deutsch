@@ -11,8 +11,8 @@
 |---|---|---|---|
 | M0 | Curriculum Architecture | ✅ COMPLETE | – |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11) | M0 |
-| M2 | Diagnostic System | 🔄 IN PROGRESS | M1 |
-| M3 | A1 Consolidation | ⬜ NOT STARTED | M2 (diagnostic *built*; results not required, see OD-12) |
+| M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 | M1 |
+| M3 | A1 Consolidation | 🔄 IN PROGRESS | M2 (diagnostic *built*; results not required, see OD-12) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED | M3 |
 | M5 | A2 Completion | ⬜ NOT STARTED | M4 **validated** |
 | M6 | B1.1 | ⬜ NOT STARTED | M5 |
@@ -149,7 +149,13 @@
   - The learner takes the diagnostic before *working through* A1.
   - M3 is *built* without results. The A1 units adapt through the diagnostic routing table and each unit's Schnelltest.
   - Claude never takes the diagnostic and never invents results.
-- **Completion status:** 🔄 IN PROGRESS
+- **Built (2026-09-11):**
+  - `00_Curriculum/09_Diagnostic_Test.md`: 10 parts in 2 sittings, answer keys, routing into 5 categories (⚪ Skip · 🟢 Brief review · 🟡 Consolidate · 🟠 Intensive · 🔴 Repair) with a speed rule, a repair-order table, and 3 overall routes (Fast track / Standard / Foundations)
+  - `Resources/Rubrics.md`
+  - `Learner_Workbook/Progress_Tracker.md`
+  - `GERMAN_LEARNING_PLAN/README.md`
+  - `tools/check_links.py`
+- **Completion status:** ✅ COMPLETE (2026-09-11), validation V-003
 - **Next milestone:** M3.
 
 ---
@@ -169,11 +175,26 @@
     - `Pronunciation_Guide.md`, `English_German_Interference.md`, `Grammar_Tables.md`, `Redemittel.md` (foundations + A1 content)
     - `Anki/A1.tsv`
   - *(OD-13)* `Learner_Workbook/Error_Log.md`, `Chunk_Bank.md`, `Story_Bank.md` (8 tasks × 3 stages), `Writing_Portfolio.md`
+- **A1 section map (fixed in M2; the diagnostic routes to these IDs, so M3 must use them exactly):**
+
+  | Unit | Sections |
+  |---|---|
+  | A1-U01 | §A present tense (regular, e→i / a→ä, *sein, haben*) · §B verb in position 2 (Sentence Map) · §C questions + follow-ups · §D numbers & personal data |
+  | A1-U02 | §A gender & plural (gender clues) · §B nominative & accusative (+ *mich/dich/ihn*…, *es gibt*) · §C *kein/nicht* · §D possessives · §E shopping language (*möchte, hätte gern*, quantities, prices) |
+  | A1-U03 | §A time (clock, *um/am/im*, *von … bis*) · §B separable verbs · §C time first: inversion + frequency adverbs |
+  | A1-U04 | §A modal verbs: forms and meaning · §B modal verbs in the bracket · §C imperative (+ *mal, bitte*) · §D position of *nicht* |
+  | A1-U05 | §A places & directions as chunks (*zum/zur, im, nach/zu Hause, mit dem Bus*; directions) · §B *war/hatte* · §C recognising the Perfekt (bridge to A2-U01) |
+
+  Each section must contain the elements its routing category relies on:
+  - a short **refresh explanation** (for 🟢)
+  - a **timed retrieval activity** (for 🟢, and the ⚪ fluency check)
+  - full practice (for 🟡)
+  - an **"Extra" round** (for 🟠 and 🔴)
 - **Work packages (proposed with OD-13):**
   - **WP1:** shared resources + `A1/README.md` + A1-U01 → 🛑 optional review stop (checks the A1 file variant)
   - **WP2:** U02, U03
   - **WP3:** U04, U05, A1 Checkpoint
-- **Dependencies:** M2 **and** diagnostic results recorded (OD-12).
+- **Dependencies:** M2 (built). Diagnostic *results* are not needed to build M3 (OD-12 superseded); the units adapt through routing.
 - **Validation criteria:**
   - Every unit opens with a 10-minute Schnelltest whose results route to labelled `§` sections.
   - Content matches Appendix B.
