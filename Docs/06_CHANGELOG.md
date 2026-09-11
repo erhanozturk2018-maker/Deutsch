@@ -94,3 +94,6 @@
   - M1 is **COMPLETE**. M2 is **NOT STARTED — AWAITING APPROVAL**.
   - Every future course file is built and checked against `04`, and every validation is recorded in `05`.
   - M3 cannot start before the learner has taken the diagnostic.
+  - Version history:
+    - `024a999` "M1 infrastructure initialized": the complete infrastructure.
+    - A follow-up commit records the V-001 results (PASS WITH NOTES), which could only be written after the initial commit existed.
