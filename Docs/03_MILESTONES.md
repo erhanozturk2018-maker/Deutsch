@@ -12,8 +12,8 @@
 | M0 | Curriculum Architecture | ✅ COMPLETE | – |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11) | M0 |
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 | M1 |
-| M3 | A1 Consolidation | 🔄 IN PROGRESS | M2 (diagnostic *built*; results not required, see OD-12) |
-| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED | M3 |
+| M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-007 | M2 (diagnostic *built*; results not required, see OD-12) |
+| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | 🔄 IN PROGRESS | M3 |
 | M5 | A2 Completion | ⬜ NOT STARTED | M4 **validated** |
 | M6 | B1.1 | ⬜ NOT STARTED | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
@@ -193,7 +193,8 @@
 - **Work packages (proposed with OD-13):**
   - **WP1 ✅ (2026-09-11, V-005):** shared resources + `A1/README.md` + A1-U01. The optional review stop was done as a Claude validation in autonomous mode.
   - **WP2 ✅ (2026-09-11, V-006):** U02, U03
-  - **WP3:** U04, U05, A1 Checkpoint
+  - **WP3 ✅ (2026-09-11, V-007):** U04, U05, A1 Checkpoint + stage validation
+- **Completion status:** ✅ **COMPLETE** (2026-09-11). Stage validation V-007.
 - **Dependencies:** M2 (built). Diagnostic *results* are not needed to build M3 (OD-12 superseded); the units adapt through routing.
 - **Validation criteria:**
   - Every unit opens with a 10-minute Schnelltest whose results route to labelled `§` sections.

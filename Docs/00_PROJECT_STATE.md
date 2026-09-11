@@ -13,12 +13,12 @@ Project:            German A1 → B1 Curriculum
 Architecture:       Approved — Baseline v1.0 (2026-09-11)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
-Current Milestone:  M3 — A1 Consolidation
+Current Milestone:  M4 — A2 Pilot (A2-U01 Erlebnisse)
 Status:             IN PROGRESS
-Current batch:      M3 WP3 — A1-U04, A1-U05, A1 Checkpoint + A1 stage validation
-Next task:          A1-U04 ✅ written (structure check passed, not yet stage-validated). NEXT: write GERMAN_LEARNING_PLAN/A1/A1-U05_In_der_Stadt.md, then A1_Checkpoint.md, then the M3 stage validation
-Last completed:     M2 — Diagnostic System (2026-09-11, V-003)
-Push status:        OK — remote history corrected 2026-09-11 (see §15)
+Current batch:      M4 (single batch = the pilot unit + A2 README + A2 resources)
+Next task:          Write GERMAN_LEARNING_PLAN/A2/README.md, then A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md, L1, L2, L3, L4 (see §6)
+Last completed:     M3 — A1 Consolidation (2026-09-11, V-007)
+Push status:        OK (origin/main in sync after every batch)
 ```
 
 ---
@@ -86,8 +86,8 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 | M0 | Curriculum Architecture | ✅ COMPLETE (2026-09-11) |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11), V-001 |
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 |
-| M3 | A1 Consolidation | 🔄 IN PROGRESS (WP1 ✅, WP2 ✅, WP3 in progress) |
-| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED |
+| M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-005 / V-006 / V-007 |
+| M4 | A2 Pilot (A2-U01 *Erlebnisse*) | 🔄 IN PROGRESS |
 | M5 | A2 Completion | ⬜ NOT STARTED |
 | M6 | B1.1 | ⬜ NOT STARTED |
 | M7 | B1.2 | ⬜ NOT STARTED |
@@ -95,40 +95,31 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 ---
 
-## 6. Current work — M3 A1 Consolidation
+## 6. Current work — M4 A2 Pilot: A2-U01 *Erlebnisse*
 
-**Section map:** fixed in `03` (M3). The diagnostic routes to these exact IDs.
+**Purpose:** Build ONE complete A2 unit with the full lesson architecture (`04`, skeletons D1–D3) and validate it honestly **before** any other A2/B1 unit (CD-41). If the pilot shows a problem, change `04` (v1.1), log the reason in `06`, update the affected files, then continue.
 
-**WP1 ✅ (2026-09-11, V-005):** 8 Resources files + `Anki/A1.tsv`, 4 Workbook files, `A1/README.md`, `A1-U01`, `tools/build_anki.py`.
-
-**WP2 ✅ (2026-09-11, V-006):** `A1-U02`, `A1-U03`, `tools/check_structure.py`.
-
-**WP3** (in progress):
-1. `A1/A1-U04_Koennen_muessen_duerfen.md`: §A modal forms and meaning · §B modals in the bracket (+ modal + separable verb) · §C imperative (+ *mal, bitte*) · §D position of *nicht*
-2. `A1/A1-U05_In_der_Stadt.md`: §A places & directions as chunks · §B *war/hatte* · §C recognising the Perfekt (bridge to A2-U01)
-3. `A1/A1_Checkpoint.md`: 4 skills + fluency + Story Bank A1 recordings (all 8 tasks); thresholds ≥75%, speaking ≥2.5, fluency Developing+; remediation map to A1 sections
-4. Update the course `README.md` status table (A1 ✅)
-5. Run `tools/check_structure.py`, `tools/build_anki.py`, `tools/check_links.py`
-6. **A1 stage validation** (M3 closing validation), record, commit, push → M4
-
-**Pattern to follow:** `A1-U01` (skeleton D4 in `04`):
-- YAML
-- header
-- 🎯
-- ⚡ Schnelltest: 3 items per section, keys in `<details>`
-- route table
-- per section: Refresh / 💬 / practice / ⏱️ timed / ➕ Extra
-- "For everyone": fluency + role-play with an AI prompt block + optional writing + a Story Bank link
-- 👄, ⚠️ table with codes, 📚 Wortschatz, 🔗, ✅, 🃏 (`| You see (prompt) | You say (Deutsch) |`), footer navigation
-
-**WP3:** A1-U04, A1-U05, `A1/A1_Checkpoint.md` + stage validation
+**Deliverables:**
+1. `A2/README.md`: stage page (A2 can-dos, 10 units + reviews + checkpoints, how a 5-file A2 unit works, weekly rhythm)
+2. `A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md`: can-dos, roadmap, grammar summary, main task, word bank (~45 ★ + ~40 recognition, B7) with a **"Recycled from" list** (≥15 A1 items)
+3. `L1_Mein_Wochenende.md`: Perfekt with *haben* (regular *ge-…-t*, separable *eingekauft*), sequence words *zuerst / dann / danach / am Ende*; Discover = a voice message about the weekend
+4. `L2_Unterwegs.md`: Perfekt with *sein* (movement / change of state) + the ~25 most frequent irregular participles (*ge-…-en*); a short trip story
+5. `L3_Schon_mal_erlebt.md`: participles without *ge-* (*be-/ver-/er-*, *-ieren*); *Hast du schon mal …?*; follow-up questions; the natural spoken mix of Perfekt with *war / hatte*
+6. `L4_Anwenden.md`: main task = info gap "reconstruct your partner's weekend" (Appendix B) + Story Bank Task 3 at A2 level, recorded; reading + listening; writing (weekend email); mixed review including A1; 10-min unit quiz (≥80%)
+7. **Resources (A2 additions):**
+   - `Verb_Lists.md` (new: irregular participles + *haben/sein*)
+   - Grammar_Tables A2: Perfekt
+   - Redemittel A2: telling a story, reacting
+   - Interference A2: Perfekt vs English tenses
+   - Pronunciation A2: unstressed *ge-*, glottal stop
+   - `Anki/A2.tsv` (generated)
+8. **Pilot validation V-008:** the M4 criteria in `03` plus `04` Part C; lesson times; activity count and types; production share; speaking levels; recycling counts; a decision on `04` changes
 
 ## 7. Next planned work
 
-After M3:
-- **M4:** A2 pilot, A2-U01 *Erlebnisse*, with a real pilot validation
-- **M5:** A2 completion in 3 batches
-- **M6:** B1.1, with a special review after B1-U01
+After M4:
+- **M5:** A2 completion. WP1 U02, U03, R1 · WP2 U04–U06, R2, Midpoint · WP3 U07–U10, R3, Exit
+- **M6:** B1.1, with a special review after B1-U01 (German task instructions)
 - **M7:** B1.2, after deciding OD-11 (mediation)
 - **M8:** final audit
 
@@ -215,14 +206,15 @@ After M3:
 Deutch/
 ├── .gitignore  CLAUDE.md
 ├── Docs/  00–06
-├── tools/  check_links.py  build_anki.py  check_structure.py
+├── tools/  check_links.py  check_structure.py  build_anki.py
 └── GERMAN_LEARNING_PLAN/
     ├── README.md
     ├── 00_Curriculum/09_Diagnostic_Test.md
     ├── A1/  README.md  A1-U01_Ich_und_du.md  A1-U02_Essen_und_Einkaufen.md  A1-U03_Mein_Tag.md
+    │        A1-U04_Koennen_muessen_duerfen.md  A1-U05_In_der_Stadt.md  A1_Checkpoint.md
     ├── Resources/  Rubrics.md  Sentence_Map.md  Grammar_Tables.md  English_German_Interference.md
     │               Pronunciation_Guide.md  Redemittel.md  Speaking_Toolkit.md  Writing_Toolkit.md
-    │               Listening_Reading_Sources.md  Anki/A1.tsv
+    │               Listening_Reading_Sources.md  Anki/A1.tsv (124 cards)
     └── Learner_Workbook/  Progress_Tracker.md  Story_Bank.md  Error_Log.md  Chunk_Bank.md  Writing_Portfolio.md
 ```
 

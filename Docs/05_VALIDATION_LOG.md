@@ -16,6 +16,7 @@
 | V-004 | 2026-09-11 | M3 (during WP1) | Remote history correction (follow-up to V-002) | Automated check | PASS | – |
 | V-005 | 2026-09-11 | M3 WP1 | A1 resources, Learner Workbook, A1 README, A1-U01, build_anki | Self-validation + automated checks | PASS WITH NOTES (3 minor fixes) | – |
 | V-006 | 2026-09-11 | M3 WP2 | A1-U02, A1-U03, tools/check_structure.py | Self-validation + automated checks | PASS WITH NOTES (6 fixes) | – |
+| V-007 | 2026-09-11 | M3 (closing) | Whole A1 stage: A1-U01–U05, A1 Checkpoint, A1 resources, README | Self-validation + automated checks | PASS WITH NOTES | – |
 
 ---
 
@@ -327,4 +328,58 @@
 - **Required changes:** None remaining.
 - **Resolution:** All findings fixed before commit.
 - **Result:** **PASS WITH NOTES**
+- **Approval status:** – (autonomous mode)
+
+---
+
+## V-007 — M3 closing validation: the whole A1 stage
+
+- **Date:** 2026-09-11
+- **Milestone:** M3 (closing); covers WP3 (A1-U04, A1-U05, A1 Checkpoint) and the stage as a whole
+- **Artifact(s):**
+  - `A1/A1-U01` … `A1-U05`, `A1/A1_Checkpoint.md`, `A1/README.md`
+  - the A1 resources
+  - course `README.md` (status + resource table)
+  - `Resources/Anki/A1.tsv` (124 cards)
+- **Validator:** Claude
+- **Validation type:** Self-validation + automated checks
+- **Categories:** `STR`, `LNG`, `PED`, `CEF`, `DEP`, `VOC`, `SPK`, `WRK`, `LNK`, `USE`, `SCP`
+- **Criteria:** The complete M3 criteria in `03` (section map, Schnelltest routing, timed retrieval + fluency task per unit, full route ≤5 h, no zero-knowledge content, forward-marked chunks, checkpoint thresholds = Appendix G, CD-05 map format, links resolve, `04` Part C).
+- **Method:**
+  - `tools/check_structure.py` → 23 files, 0 problems
+  - `tools/check_links.py` → 290 links: 268 ok, 22 planned (all to A2/B1 files in Appendix H), 0 broken
+  - `tools/build_anki.py` → 124 cards
+  - manual reread of U04, U05 and the checkpoint (German, keys, map geometry in U05 Activity 2)
+  - stage-level cross-checks: coverage, recycling, speaking progression, pronunciation coverage, workload
+- **Findings:**
+  1. `STR`/`DEP`, PASS. All 19 section IDs of the map exist, in the right units. The A1 Checkpoint Part 2 tests **every one of the 19 sections** at least once, and its key maps each item to its section for the remediation map.
+  2. `PED`, PASS. Every unit has: Schnelltest + routing, per-section ⏱️ timed retrieval and ➕ Extra, a for-everyone block with at least one timed S4 activity and at least one S3 role-play with an AI prompt block, pronunciation, a mistakes table with error codes, a word bank, self-check, and flashcards.
+  3. `SPK`, PASS. Speaking builds across the stage:
+     - fast-answer and start-with drills (S1–S2)
+     - role-plays with a goal and a complication: café, bakery, dinner planning, Sam info gap, flat-share negotiation, favours, directions, ticket machine (S3)
+     - 60/45/30 retellings in every unit, plus rapid-fire answers (S4)
+
+     Story Bank Tasks 1, 2, 3 are recorded early in U01, U03, U05; all 8 are recorded in the Checkpoint.
+  4. `CEF`, PASS. Skill texts stay at A1: notices, messages, ads, announcements, short dialogues. A2 structures appear only as recognition or fixed phrases (dative place phrases, the Perfekt bridge in U05 §C, *trotzdem / wenn* in one transcript each), and each is marked or glossed.
+  5. `VOC`, PASS.
+     - All five units have word banks in B7 format.
+     - Everyday vocabulary recycles across units (food → U02, U04 fridge/WG, the Checkpoint; transport/times → U03, U05, the Checkpoint; modals → U04, U05 role-plays).
+     - 124 production-direction cards.
+  6. `LNG`, PASS. All German reread.
+     - U04: *müssen/dürfen* negation contrast used consistently; the *braten → Brat!* imperative note is correct.
+     - U05: map directions checked, including the "from the station, the cinema is on your LEFT" reversal in answer b6.
+     - Checkpoint: keys verified item by item.
+     - One link typo in the Checkpoint (`_and_` for `_und_`) was fixed before commit.
+  7. `WRK`, PASS. Full routes:
+     - U01 ≈ 240 min, U02 ≈ 290 min, U03 ≈ 245 min, U04 ≈ 250 min, U05 ≈ 215 min
+     - Checkpoint ≈ 150 min + scoring
+     - A1 full route ≈ 23 h; the all-⚪ route ≈ 5 × 1 h + Checkpoint
+
+     Both are within Appendix J (8–25 h).
+  8. `PED`/`CEF`, **Note (interpretation recorded).** Appendix G says "≥75% in the written and listening parts" for the A1 gate. This is implemented as: Reading ≥9/12, Language in context ≥18/24, Listening ≥8/10 (≥75%), while **Writing** is rated with the rubric (avg ≥2.5, the same bar as speaking), because productive skills are rubric-rated everywhere in the course (CD-36). The retake policy uses an AI-generated parallel version of Part 2 to avoid rote memory of items.
+  9. `WRK`, **Note (open, as expected).** All time estimates are Claude's estimates. No learner trial has happened yet (none is invented). They will be revisited when the learner reports real times (KI-11).
+  10. `SCP`, PASS. No learner results invented; no A2/B1 lesson content created; A2/B1 are referenced only as planned links.
+- **Required changes:** None remaining.
+- **Resolution:** Finding 6's link typo was fixed before commit.
+- **Result:** **PASS WITH NOTES**. M3 is complete.
 - **Approval status:** – (autonomous mode)

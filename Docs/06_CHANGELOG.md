@@ -227,3 +227,29 @@
   3. **`tools/check_structure.py`** (maintained tool) automates the `04` format rules: one H1, `<details>` balance and blank lines, heading levels, YAML keys, activity numbering and time estimates, A1 section IDs, flashcard tables.
 - **Reason:** The M3 WP2 plan; reproducible validation for all later batches and for M8.
 - **Impact:** WP3 (A1-U04, A1-U05, A1 Checkpoint) completes A1.
+
+---
+
+## [007] 2026-09-11 — M3 complete: A1 Fundament (A1-U04, A1-U05, A1 Checkpoint)
+
+- **Milestone:** M3 (completed) → M4 (started)
+- **Affected files:**
+  - **Created:** `A1/A1-U04_Koennen_muessen_duerfen.md`, `A1/A1-U05_In_der_Stadt.md`, `A1/A1_Checkpoint.md`
+  - **Updated:** `GERMAN_LEARNING_PLAN/README.md` (status: A1 ready; full resource table), `Resources/Anki/A1.tsv` (124 cards), Docs 00/03/05/06
+- **Change:**
+  1. **A1-U04 Können, müssen, dürfen.**
+     - §A modal meanings, with the *nicht müssen ≠ must not* trap and the no-*zu* rule
+     - §B modal bracket (+ separable verbs rejoining)
+     - §C imperative with *bitte/mal* (+ infinitive on signs and in recipes)
+     - §D a rule-of-thumb table for *nicht*
+     - Main task: flat-share rules negotiation; favours; must/want/can 60/45/30
+  2. **A1-U05 In der Stadt.**
+     - §A *wo?/wohin?* place phrases + directions with a text map
+     - §B *war/hatte/es gab* + *vor* = ago
+     - §C recognising the Perfekt (participle shapes, a first look at *sein* vs *haben*, 6 usable phrases), the bridge to A2-U01
+     - Main tasks: asking the way (repeat-back check), the ticket-machine problem; station listening; Story Bank Task 3 early recording
+  3. **A1 Checkpoint.** 6 parts (Reading 12, Language in context 24 mapped to all 19 sections, Writing 2 tasks, Listening 10, Fluency 20, Speaking = Story Bank A1 × 8 + 2 AI-examined situations). Thresholds per Appendix G, a result table, a retake policy, and a remediation map per part.
+- **Reason:** The M3 plan; A1 stage complete and validated (V-007).
+- **Impact:**
+  - The learner can take the diagnostic and do all of A1.
+  - M4 (the A2 pilot) begins. It is the first unit in the 5-file A2 format and will test `04` v1.0.2 for real.
