@@ -132,6 +132,23 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 
 **The link to grammar:** *ge-* only comes before a stressed syllable. That's why unstressed prefixes and *-ieren* verbs have no *ge-*.
 
+### Question melody (A2-U02)
+
+- **Yes/no questions rise** ↗: *Gefällt dir die Jacke?* ↗
+- **Question-word questions usually fall** ↘: *Wie gefällt dir die Jacke?* ↘
+- A rising question-word question sounds surprised or like you're asking again: *Wie viel kostet das?* ↗ ("How much did you say?!")
+
+### Endings *-er* and *-en* (A2-U02)
+
+- *-er* at the end is a short, open *a*: *Mutter, Lehrer, meiner* (never an English *-er* with *r*)
+- *-en* is often reduced in fast speech: *schenken* → [schenk'n], *haben* → [hab'm]. You don't have to copy this, but learn to hear it.
+
+### *-ig* and consonant clusters (A2-U03)
+
+- *-ig* at the end sounds like *-ich*: *ruhig, günstig, fertig, zwanzig*. Southern German and Austrian speakers say [-ik].
+- Clusters: *z* = [ts] (*Zimmer, zwölf*), *pf* (*Pflanze, Kopf*), *tz* (*Platz*), and final clusters (*Herbst, Obst*). Say them slowly first, then faster, and never add a vowel in between (❌ *Pe-flanze*).
+- *stellen* (short *e*, double *l*) vs *stehen* (long *e*); *legen* (long *e*) vs *liegen* (long *ie*).
+
 ---
 
 *Added later: question melody (A2), sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

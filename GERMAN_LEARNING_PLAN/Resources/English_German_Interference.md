@@ -105,6 +105,18 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *Whose is this?* | Wer gehört das? | **Wem** gehört das? | *gehören* + dative |
 | *I miss you.* | Ich vermisse dich. ✅ (also correct) | Du **fehlst mir**. | Both are fine; *fehlen* (dative) is very common |
 
+### Places and home (A2-U03)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *on the wall* | auf der Wand | **an der** Wand | Vertical surfaces → *an* |
+| *at the window* | bei dem Fenster | **am** Fenster | *an* for "at" a place like a window, table, door |
+| *on the second floor* | auf dem zweiten Stock | **im** zweiten Stock | Floors → *im* |
+| *put* (the key on the table) | – | **legen** / **stellen** / **stecken** / **hängen** | German chooses by position |
+| *The book is on the table.* | Das Buch ist auf dem Tisch. ✅ (OK in speech) | Das Buch **liegt** auf dem Tisch. | Position verbs sound natural |
+| *I'm going to Berlin / to my aunt's / to the doctor's.* | zu Berlin / nach meiner Tante | **nach** Berlin / **zu** meiner Tante / **zum** Arzt | *nach* for places with names, *zu* for people and destinations |
+| *I've lived here for 3 years.* | Ich habe hier 3 Jahre gewohnt. | Ich **wohne seit** 3 Jahr**en** hier. | Still true → *seit* + present (+ dative *-n*) |
+
 ---
 
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *mir ist kalt*, *als/wenn/wann*, the missing progressive in more contexts. B1 traps come later.*

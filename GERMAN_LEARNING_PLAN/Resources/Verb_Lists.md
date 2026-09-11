@@ -6,6 +6,7 @@ Reference lists of verbs whose forms or partners you have to learn: irregular pa
 - [A2: Perfekt participles](#a2-perfekt-participles)
 - [A2: Verbs with *sein*](#a2-verbs-with-sein)
 - [A2: Dative verbs](#a2-dative-verbs)
+- [A2: Position verbs](#a2-position-verbs)
 
 *Added later:* reflexive verbs (A2-U05) · verbs with prepositions (A2-U08) · Präteritum forms (B1-U01).
 
@@ -70,6 +71,7 @@ Taught in [A2-U01](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md).
 | trinken | trinkt | hat getrunken | to drink |
 | tun | tut | hat getan | to do |
 | um\|steigen | steigt um | **ist** umgestiegen | to change (trains) |
+| um\|ziehen / ziehen | zieht um | **ist** umgezogen / **ist** gezogen | to move (house) |
 | vergessen | vergisst | hat vergessen | to forget |
 | verlieren | verliert | hat verloren | to lose |
 | verstehen | versteht | hat verstanden | to understand |
@@ -125,3 +127,18 @@ Taught in [A2-U02](../A2/A2-U02_Menschen_und_Geschenke/00_Overview_und_Wortschat
 - *Das ist mir egal.*
 - *Es tut mir leid.*
 - *Wie geht es dir / Ihnen?*
+
+## A2: Position verbs
+
+Taught in [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md).
+
+| **Action** (*Wohin?* + accusative; has an object; regular) | **Result** (*Wo?* + dative; no object; irregular) |
+|---|---|
+| stellen – hat gestellt (put upright) | stehen – hat gestanden (be standing) |
+| legen – hat gelegt (lay flat) | liegen – hat gelegen (be lying) |
+| hängen – hat gehängt (hang up) | hängen – hat gehangen (be hanging) |
+| (sich) setzen – hat gesetzt (sit down) | sitzen – hat gesessen (be sitting) |
+| stecken – hat gesteckt (put into) | stecken – hat gesteckt (be stuck in) |
+
+- *Ich **stelle** die Vase auf **den** Tisch.* → *Die Vase **steht** auf **dem** Tisch.*
+- *Ich **lege** das Buch ins Regal.* → *Das Buch **liegt** im Regal.*

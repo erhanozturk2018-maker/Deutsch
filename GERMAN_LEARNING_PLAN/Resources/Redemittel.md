@@ -16,6 +16,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A1: Reacting](#a1-reacting)
 - [A2: Telling a story and reacting](#a2-telling-a-story-and-reacting)
 - [A2: Likes, opinions and presents](#a2-likes-opinions-and-presents)
+- [A2: Home and flat hunting](#a2-home-and-flat-hunting)
 
 ---
 
@@ -193,6 +194,25 @@ Taught in [A2-U02](../A2/A2-U02_Menschen_und_Geschenke/00_Overview_und_Wortschat
 | Herzlichen Glückwunsch zur Hochzeit / zum neuen Job! | Congratulations on your wedding / new job! | – |
 | Frohe Weihnachten! · Viel Glück! · Viel Erfolg! · Gute Besserung! | Merry Christmas! · Good luck! · Good luck (with work)! · Get well soon! | – |
 | Vielen Dank für …! · Das ist total nett von dir! | Thanks a lot for …! · That's so kind of you! | – |
+
+## A2: Home and flat hunting
+
+Taught in [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Ich wohne in einer Zweizimmerwohnung im dritten Stock. | I live in a two-room flat on the third floor. | – |
+| Die Wohnung ist hell / ruhig / gemütlich / zu klein. | The flat is bright / quiet / cosy / too small. | – |
+| Wohin kommt …? / Wohin stellen wir …? | Where does … go? / Where shall we put …? | spoken |
+| Stell es bitte an die Wand. · Nicht dahin – lieber hierhin! | Put it against the wall, please. · Not there – here instead! | spoken |
+| Ich rufe wegen der Wohnung in der … an. | I'm calling about the flat in … | formal |
+| Ist die Wohnung noch frei? · Ab wann ist sie frei? | Is the flat still available? · From when? | – |
+| Wie hoch ist die Miete / sind die Nebenkosten / ist die Kaution? | How much is the rent / are the bills / is the deposit? | – |
+| Gibt es einen Aufzug / einen Keller / einen Balkon? | Is there a lift / a cellar / a balcony? | – |
+| Sind Haustiere erlaubt? | Are pets allowed? | – |
+| Wann kann ich die Wohnung besichtigen? | When can I view the flat? | – |
+| Wie komme ich am besten zu Ihnen? | What's the best way to get to you? | formal |
+| Komm mich doch besuchen! | Come and visit me! | informal |
 
 ---
 

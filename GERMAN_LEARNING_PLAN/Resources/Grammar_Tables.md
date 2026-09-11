@@ -14,6 +14,7 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A1: war and hatte](#a1-war-and-hatte)
 - [A2: Perfekt](#a2-perfekt)
 - [A2: Dative](#a2-dative)
+- [A2: Prepositions](#a2-prepositions)
 
 ---
 
@@ -233,3 +234,33 @@ Taught in [A2-U02](../A2/A2-U02_Menschen_und_Geschenke/00_Overview_und_Wortschat
 - dative noun before accusative noun: *Ich schenke **meiner Mutter einen Schal**.*
 - pronoun before noun: *Ich schenke **ihr einen Schal**.* / *Ich schenke **ihn meiner Mutter**.*
 - two pronouns, accusative first: *Ich schenke **ihn ihr**.*
+
+## A2: Prepositions
+
+Taught in [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md) (and *für, ohne …* in A1/A2).
+
+| Group | Prepositions | Case |
+|---|---|---|
+| **always accusative** | *für, ohne, gegen, durch, um* | accusative: *für **meinen** Bruder* |
+| **always dative** | *aus, bei, mit, nach, seit, von, zu, gegenüber* | dative: *mit **meinem** Bruder* |
+| **two-way** | *in, an, auf, über, unter, vor, hinter, neben, zwischen* | ***Wo?*** → dative · ***Wohin?*** → accusative |
+
+**Two-way prepositions in practice:**
+
+| *Wo?* (position) → dative | *Wohin?* (movement) → accusative |
+|---|---|
+| *Das Buch **liegt auf dem** Tisch.* | *Ich **lege** das Buch **auf den** Tisch.* |
+| *Ich bin **im** Kino.* | *Ich gehe **ins** Kino.* |
+| *Das Bild **hängt an der** Wand.* | *Ich **hänge** das Bild **an die** Wand.* |
+
+**"To" and "at":**
+
+| | to … | at … |
+|---|---|---|
+| cities, countries | *nach Berlin* | *in Berlin* |
+| home | *nach Hause* | *zu Hause* |
+| people | *zu meiner Oma* | *bei meiner Oma* |
+| places as a destination | *zum Arzt, zur Post* | *beim Arzt, bei der Post* |
+| into a building or area | *ins Kino, in die Stadt* | *im Kino, in der Stadt* |
+
+**Contractions:** *im, am, ins, ans, zum, zur, beim, vom* (and spoken *aufs, übers*)
