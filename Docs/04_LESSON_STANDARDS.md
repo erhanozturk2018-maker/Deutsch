@@ -453,8 +453,9 @@ The canonical word bank lives only in `00_Overview_und_Wortschatz.md`. Lessons s
 I went to the cinema yesterday. (Perfekt)	Ich <b>bin</b> gestern ins Kino <b>gegangen</b>.	A2-U01 A2-U01-L1 grammar
 ```
 
-- **Tags:** unit ID, lesson ID, and one type out of `vocab`, `chunk`, `grammar`, `phrase`.
+- **Tags:** stage, unit ID and lesson ID (v1.0.2: the type tag is dropped, because the 2-column lesson table carries no type).
 - **Front** is never a German prompt asking for English.
+- **The `.tsv` files are generated** by `python tools/build_anki.py` from the lesson tables (the single source). Never edit them by hand. Re-run the tool at every batch boundary.
 
 ## B9. Register labels and naturalness markers
 
@@ -631,9 +632,11 @@ Sections in order:
 6. 🎭 Fluency task and 🗣️ Sprechen (everyone does these)
 7. 👄 Aussprache
 8. ⚠️ Typische Fehler
-9. ✅ Selbstcheck
-10. 🃏 Karteikarten
-11. Footer
+9. 📚 Wortschatz: the unit's compact word bank in B7 format. A1 units are single files with no overview file, so the bank lives here (v1.0.2).
+10. 🔗 Rückblick und Ausblick
+11. ✅ Selbstcheck
+12. 🃏 Karteikarten
+13. Footer
 
 ## D5. Cumulative review (`<stage>-R<n>_Wiederholung.md`)
 

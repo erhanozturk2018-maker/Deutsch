@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-11. Session 4: M2 complete; M3 WP1 in progress. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-11. Session 4: M3 WP1 complete; WP2 in progress. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -15,10 +15,10 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M3 — A1 Consolidation
 Status:             IN PROGRESS
-Current batch:      M3 WP1 — shared A1 resources + A1/README.md + A1-U01
-Next task:          Build the Resources/ and Learner_Workbook/ files for A1 (see §6), then A1/README.md, then A1-U01
+Current batch:      M3 WP2 — A1-U02 Essen & Einkaufen, A1-U03 Mein Tag
+Next task:          Write GERMAN_LEARNING_PLAN/A1/A1-U02_Essen_und_Einkaufen.md (model: A1-U01), then A1-U03
 Last completed:     M2 — Diagnostic System (2026-09-11, V-003)
-Push status:        BLOCKED — remote has pre-correction history; see §15
+Push status:        OK — remote history corrected 2026-09-11 (see §15)
 ```
 
 ---
@@ -86,7 +86,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 | M0 | Curriculum Architecture | ✅ COMPLETE (2026-09-11) |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11), V-001 |
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 |
-| M3 | A1 Consolidation | 🔄 IN PROGRESS (WP1) |
+| M3 | A1 Consolidation | 🔄 IN PROGRESS (WP1 ✅, WP2 in progress) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED |
 | M5 | A2 Completion | ⬜ NOT STARTED |
 | M6 | B1.1 | ⬜ NOT STARTED |
@@ -99,21 +99,24 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 **Section map:** fixed in `03` (M3). The diagnostic routes to these exact IDs.
 
-**WP1** (in progress):
-1. `Resources/Sentence_Map.md` (full)
-2. `Resources/Speaking_Toolkit.md` (full)
-3. `Resources/Writing_Toolkit.md` (full)
-4. `Resources/Listening_Reading_Sources.md` (full)
-5. `Resources/Pronunciation_Guide.md` (foundations + A1)
-6. `Resources/English_German_Interference.md` (foundations + A1)
-7. `Resources/Grammar_Tables.md` (foundations + A1)
-8. `Resources/Redemittel.md` (foundations + A1)
-9. `Learner_Workbook/Error_Log.md`, `Chunk_Bank.md`, `Story_Bank.md`, `Writing_Portfolio.md`
-10. `A1/README.md`
-11. `A1/A1-U01_Ich_und_du.md`
-12. `tools/build_anki.py` + `Resources/Anki/A1.tsv`, generated from the unit flashcard tables
+**WP1 ✅ (2026-09-11, V-005):** 8 Resources files + `Anki/A1.tsv`, 4 Workbook files, `A1/README.md`, `A1-U01`, `tools/build_anki.py`.
 
-**WP2:** A1-U02, A1-U03
+**WP2** (in progress):
+1. `A1/A1-U02_Essen_und_Einkaufen.md`: §A–§E as in the section map
+2. `A1/A1-U03_Mein_Tag.md`: §A–§C
+3. Re-run `python tools/build_anki.py` and `python tools/check_links.py`
+4. Validate, record, commit, push
+
+**Pattern to follow:** `A1-U01` (skeleton D4 in `04`):
+- YAML
+- header
+- 🎯
+- ⚡ Schnelltest: 3 items per section, keys in `<details>`
+- route table
+- per section: Refresh / 💬 / practice / ⏱️ timed / ➕ Extra
+- "For everyone": fluency + role-play with an AI prompt block + optional writing + a Story Bank link
+- 👄, ⚠️ table with codes, 📚 Wortschatz, 🔗, ✅, 🃏 (`| You see (prompt) | You say (Deutsch) |`), footer navigation
+
 **WP3:** A1-U04, A1-U05, `A1/A1_Checkpoint.md` + stage validation
 
 ## 7. Next planned work
@@ -181,7 +184,7 @@ After M3:
 | KI-10 | Mediation gap | OD-11 | Before M7 |
 | KI-11 | `04` numeric targets are estimates | Pilot + B1-U01 review | M4, M6 |
 | KI-13 | Listening transcripts are visible when copied into TTS | "Copy without reading" instructions; AI read-aloud option | M4 |
-| KI-14 | **GitHub still holds the old commits with AI-attribution trailers**; normal pushes are rejected until it is updated | See §15 | Every boundary |
+| KI-14 | ~~GitHub still held the old commits with AI-attribution trailers~~ **Resolved 2026-09-11** (force push with the user's explicit permission) | – | – |
 
 ---
 
@@ -207,13 +210,16 @@ After M3:
 ```
 Deutch/
 ├── .gitignore  CLAUDE.md
-├── Docs/  00–06 (7 files)
-├── tools/check_links.py
+├── Docs/  00–06
+├── tools/  check_links.py  build_anki.py
 └── GERMAN_LEARNING_PLAN/
     ├── README.md
     ├── 00_Curriculum/09_Diagnostic_Test.md
-    ├── Resources/Rubrics.md
-    └── Learner_Workbook/Progress_Tracker.md
+    ├── A1/  README.md  A1-U01_Ich_und_du.md
+    ├── Resources/  Rubrics.md  Sentence_Map.md  Grammar_Tables.md  English_German_Interference.md
+    │               Pronunciation_Guide.md  Redemittel.md  Speaking_Toolkit.md  Writing_Toolkit.md
+    │               Listening_Reading_Sources.md  Anki/A1.tsv
+    └── Learner_Workbook/  Progress_Tracker.md  Story_Bank.md  Error_Log.md  Chunk_Bank.md  Writing_Portfolio.md
 ```
 
 ## 14. Planned files
@@ -224,20 +230,12 @@ See `03_MILESTONES.md` (deliverables per milestone) and `01` Appendix H (full tr
 
 ## 15. Git and push status
 
-- **2026-09-11:** At the user's request, `Co-Authored-By` trailers were removed from the two existing commits by rewriting history locally.
+- **2026-09-11:** At the user's request, the `Co-Authored-By` trailers were removed from the first two commits by rewriting history locally.
 
-  | Old hash (on GitHub) | New hash (local) | Commit |
+  | Old hash | New hash | Commit |
   |---|---|---|
   | `024a999` | `96621af` | M1 infrastructure initialized |
   | `702a566` | `0d9ee6c` | Record M1 validation results |
-
-  The old objects were purged locally.
-- **The force push needed to replace the old commits on GitHub was blocked by the Claude Code permission system.** GitHub (`origin/main` = `702a566`) therefore still shows the trailers. Local `main` has diverged from it (ahead 2, behind 2), so normal pushes are rejected.
-- **User action needed:** run this once from the workspace:
-
-  ```bash
-  git push --force-with-lease=main:702a5669f03f751f3c09a5ed8ddda464102ef03d origin main
-  ```
-
-  After that, normal pushes work again.
-- **Until then:** work continues locally. At each boundary, Claude runs `git fetch` and pushes only if `origin/main` is an ancestor of local `main` (a fast-forward).
+- The first force-push attempt was blocked by the permission system. After the user's explicit permission in chat, it was repeated: `git push --force-with-lease=main:702a566… origin main` → `+ 702a566...6265ff2 main -> main (forced update)`.
+- **Verified:** `origin/main` equals local `main`, and 0 trailers remain in the remote history. GitHub's "Contributors" sidebar may show the old entry until GitHub refreshes its cache.
+- **From now on:** normal fast-forward pushes after every milestone or batch commit. No force-push unless the user asks.

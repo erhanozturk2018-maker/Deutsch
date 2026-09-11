@@ -173,3 +173,32 @@
   5. **A1 section map** fixed in `03` (M3), because the diagnostic routes to these IDs.
 - **Reason:** The M2 specification. The section map is fixed now so that M3 stays consistent with the routing.
 - **Impact:** The course can now be started: the learner can take the diagnostic. M3 builds the A1 units with exactly these section IDs and the elements the routing categories rely on.
+
+---
+
+## [005] 2026-09-11 — M3 WP1: A1 resources, workbook, A1-U01; CD-05 example corrected
+
+- **Milestone:** M3, WP1
+- **Affected files:**
+  - **Created (Resources):** `Sentence_Map.md`, `Grammar_Tables.md`, `English_German_Interference.md`, `Pronunciation_Guide.md`, `Redemittel.md`, `Speaking_Toolkit.md`, `Writing_Toolkit.md`, `Listening_Reading_Sources.md`, `Anki/A1.tsv`
+  - **Created (Learner_Workbook):** `Story_Bank.md`, `Error_Log.md`, `Chunk_Bank.md`, `Writing_Portfolio.md`
+  - **Created (other):** `A1/README.md`, `A1/A1-U01_Ich_und_du.md`, `tools/build_anki.py`
+  - **Updated:** `01` (CD-05 example row), `04` (v1.0.2), `09_Diagnostic_Test.md` (Story Bank numbering), Docs 00/03/05/06
+- **Change:**
+  1. **Shared A1 resources.**
+     - The Sentence Map, the course's grammar backbone, is complete from A1 to B1: statements, questions, the bracket, verb-final clauses, position 0, Mittelfeld tendencies, speaking drills.
+     - The toolkits (speaking, writing, listening/reading, including TTS instructions and reusable task sheets) are complete.
+     - Grammar tables, interference list, pronunciation guide and Redemittel have their A1 content, and grow later.
+  2. **Learner Workbook.** The Story Bank has 8 tasks × 3 stages with requirements and a recording log. Error Log (codes from the Rubrics, Top 5), Chunk Bank, Writing Portfolio.
+  3. **A1-U01 Ich & du.** The first A1 unit, and the model for the A1 variant:
+     - Schnelltest + routing
+     - §A–§D, each with Refresh / practice / ⏱️ timed retrieval / ➕ Extra
+     - a for-everyone fluency block (60/45/30 introduction, rapid-fire interview, AI role-play, tandem profile)
+     - pronunciation, typical mistakes, word bank, self-check, 26 flashcards
+  4. **Anki export.** `tools/build_anki.py` generates `Resources/Anki/<stage>.tsv` from the lesson flashcard tables (the single source).
+  5. **`01` CD-05 example row corrected** (local correction, the format is unchanged). The original row put *weil* in the Vorfeld. Correct is: the conjunction occupies the Position-2 seat, which is *why* the verb moves to the end. This is the central intuition the Sentence Map teaches, so the example has to show it correctly.
+  6. **`04` v1.0.2:** D4 adds 📚 Wortschatz + 🔗 for A1 units; B8 drops the type tag and documents the generator.
+- **Reason:** The M3 WP1 plan. Correctness of the core grammar model.
+- **Impact:**
+  - Learners can now start A1.
+  - WP2 (A1-U02, A1-U03) follows the validated A1-U01 pattern.

@@ -13,6 +13,8 @@
 | V-001 | 2026-09-11 | M1 | M1 infrastructure (`Docs/`, `CLAUDE.md`, `.gitignore`, course root, git) | Self-validation + automated checks | PASS WITH NOTES | Approved (user, 2026-09-11) |
 | V-002 | 2026-09-11 | between M1/M2 | Git history correction (removal of AI-attribution trailers) | Automated check | PASS (local) / remote pending | – |
 | V-003 | 2026-09-11 | M2 | Diagnostic, Rubrics, Progress Tracker, course README | Self-validation + automated checks | PASS WITH NOTES (2 defects fixed) | – (autonomous mode) |
+| V-004 | 2026-09-11 | M3 (during WP1) | Remote history correction (follow-up to V-002) | Automated check | PASS | – |
+| V-005 | 2026-09-11 | M3 WP1 | A1 resources, Learner Workbook, A1 README, A1-U01, build_anki | Self-validation + automated checks | PASS WITH NOTES (3 minor fixes) | – |
 
 ---
 
@@ -206,3 +208,81 @@
 - **Resolution:** Findings 2 and 3 fixed before commit.
 - **Result:** **PASS WITH NOTES**
 - **Approval status:** – (autonomous mode; the user may review at any time)
+
+---
+
+## V-004 — Remote history correction (follow-up to V-002)
+
+- **Date:** 2026-09-11
+- **Milestone:** During M3 WP1
+- **Artifact(s):** `origin/main` on GitHub
+- **Validator:** Claude
+- **Validation type:** Automated check
+- **Categories:** `VCS`
+- **Criteria:** The open finding 2 of V-002. The remote must hold the corrected history, with no AI-attribution trailers in any commit.
+- **Method:**
+  - With the user's explicit permission: `git push --force-with-lease=main:702a5669f03f751f3c09a5ed8ddda464102ef03d origin main` → `+ 702a566...6265ff2 main -> main (forced update)`
+  - Then `git fetch`
+  - `git status --short --branch` → `## main...origin/main` (in sync)
+  - `git log origin/main --format=%B | grep -ci co-authored-by` → `0`
+- **Findings:**
+  1. `VCS`, PASS. The remote history is `96621af`, `0d9ee6c`, `cdfa26e`, `6265ff2`, all authored by Erhan, with no trailers.
+- **Required changes:** None.
+- **Resolution:** Resolves V-002 finding 2.
+- **Result:** **PASS**
+- **Approval status:** –
+
+---
+
+## V-005 — M3 WP1: A1 shared resources, workbook, A1 README, A1-U01
+
+- **Date:** 2026-09-11
+- **Milestone:** M3, WP1
+- **Artifact(s):**
+  - **Resources:** `Sentence_Map.md`, `Grammar_Tables.md`, `English_German_Interference.md`, `Pronunciation_Guide.md`, `Redemittel.md`, `Speaking_Toolkit.md`, `Writing_Toolkit.md`, `Listening_Reading_Sources.md`, `Anki/A1.tsv` (generated)
+  - **Learner_Workbook:** `Story_Bank.md`, `Error_Log.md`, `Chunk_Bank.md`, `Writing_Portfolio.md`
+  - `A1/README.md`
+  - `A1/A1-U01_Ich_und_du.md`
+  - `tools/build_anki.py`
+- **Validator:** Claude
+- **Validation type:** Self-validation + automated checks
+- **Categories:** `STR`, `LNG`, `PED`, `CEF`, `DEP`, `VOC`, `SPK`, `WRK`, `LNK`, `USE`
+- **Criteria:**
+  - `03` M3 criteria applicable to WP1: section map fidelity, Schnelltest routing, timed retrieval, a fluency task, full route ≤5 h, no zero-knowledge content, forward-marked chunks, CD-05 table format in the Sentence Map
+  - `04` Part C checklist for A1-U01
+  - skeleton D4
+- **Method:**
+  - `python tools/check_links.py` → 207 links: 181 ok, 26 planned, 0 broken
+  - `python tools/build_anki.py` → A1: 26 cards; TSV header and UTF-8 checked with `cat -A`
+  - manual reread of all German in A1-U01 and the resources
+  - item-by-item answer-key check
+  - time-estimate summation
+  - a section-by-section comparison against the M3 section map and D4
+- **Findings:**
+  1. `STR`/`DEP`, PASS. A1-U01 has exactly the sections §A–§D of the fixed map, with IDs `A1-U01-§A`…`§D`. Each section has: Refresh, examples, practice, a ⏱️ timed retrieval activity, and a ➕ Extra round, i.e. every element the routing categories rely on. The Schnelltest has 3 items per section; its routing table is consistent with the diagnostic categories (the more cautious result wins; 🔴 always full + Extra).
+  2. `SPK`, PASS. The speaking levels progress:
+     - S1: Activities 3 and 8, drills
+     - S2: Activity 13
+     - S3: Activity 21, AI role-play with a goal and a complication
+     - S4: Activity 19, a timed 60/45/30 retelling, and Activity 20, rapid-fire spontaneous answers
+
+     There is one timed and one unscripted activity for everyone, and a Story Bank Task 1 link.
+  3. `PED`, PASS.
+     - 7 timed or recorded production activities
+     - Production items make up far more than 60% of the practice
+     - Activity types: map sorting, transformation, error correction, question generation, reading, TTS listening/form filling, dictation, role-play, a writing profile
+     - A1 content is framed as a refresh; nothing assumes zero knowledge
+  4. `LNG`, PASS. All German reread. Register notes are included (*Was ist dein Name?* ⚠️ uncommon; *Wo kommst du her?* [spoken]; *zwo* [spoken]). Chunks used before their system is taught (*aus der Türkei*, *bei einer Bank*, *zu Hause*, *mit dem Rad*) are marked as fixed phrases or glossed.
+  5. `WRK`, PASS. The full route is about 235 min (Schnelltest 10 + §A 40 + §B 45 + §C 50 + §D 40 + everyone 50), inside the ~4 h estimate. The all-⚪ route is about 60 min.
+  6. `USE`, **Minor (fixed).** The A1 README's "fast route ~1 h" was ambiguous: a route with 🟢 sections takes about 1 h 40 min. Relabelled "Fast route (all sections ⚪)".
+  7. `LNG`/`STR`, **Minor (fixed).** `01` CD-05 had an incorrect example row (*weil* in the Vorfeld). Corrected: the conjunction takes the Position-2 seat. The table format is unchanged, so this is a local correction (see `06` [005]).
+  8. `STR`, **Minor (fixed).** The diagnostic called its speaking prompts "the first six" Story Bank tasks; they are tasks 1, 2, 3, 4, 6 and 7. Wording and file-naming instruction corrected, and a Story Bank number column added.
+  9. `STR`, **Note.** `04` v1.0.2 (local):
+     - D4 gains the 📚 Wortschatz and 🔗 sections for A1 units, which have no overview file
+     - B8 drops the type tag and documents `tools/build_anki.py` as the only way to produce `.tsv` files
+  10. `VOC`, PASS. The A1-U01 word bank marks ★ items and uses B7 notation. The 26 flashcards are all production-direction.
+  11. `LNK`, PASS. 26 planned links, all to files listed in Appendix H: the remaining A1 units, A1_Checkpoint, and the A2/B1 overview files.
+- **Required changes:** None remaining.
+- **Resolution:** Findings 6–8 fixed before commit.
+- **Result:** **PASS WITH NOTES**
+- **Approval status:** – (autonomous mode)

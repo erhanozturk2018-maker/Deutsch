@@ -837,22 +837,22 @@ A forum asks: ***Stadt oder Land – wo lebt man besser?***
 
 ## Part 9 — Speaking: your baseline recordings (15 min)
 
-These six tasks are the first six recurring tasks of your [Story Bank](../Learner_Workbook/Story_Bank.md) (8 tasks in total). You'll record the same tasks again at the end of A1, A2 and B1 and **hear your progress**.
+These six tasks are six of the eight recurring tasks in your [Story Bank](../Learner_Workbook/Story_Bank.md): Story Bank tasks 1, 2, 3, 4, 6 and 7. You'll record the same tasks again at the end of A1, A2 and B1 and **hear your progress**.
 
 For each task:
 - think for up to **20 seconds** (no notes)
 - then **speak for 30–60 seconds** and record it
-- save each recording as `Stage0_Task1` … `Stage0_Task6`
+- save each recording under its **Story Bank number** (last column below), e.g. `Stage0_Task1`, `Stage0_Task6`
 - note how many seconds you actually spoke
 
-| # | Task | Think about |
-|---|---|---|
-| 9.1 | **Wer bin ich?** Introduce yourself. | name, origin, home, work/studies, family, languages |
-| 9.2 | **Mein Alltag.** Describe a normal weekday. | when you get up, what you do, when, with whom |
-| 9.3 | **Ein Erlebnis.** Tell about your last weekend or a recent trip. | where, what, with whom, how it was |
-| 9.4 | **Mein Ort.** Describe your flat or your town. | size, rooms/places, what you like or don't like |
-| 9.5 | **Etwas planen.** Leave a voice message inviting a friend to do something this weekend. | what, when, where, why it's a good idea, ask them to call back |
-| 9.6 | **Meine Meinung.** *Are apps a good way to learn a language?* Give your opinion. | yes/no, why, an example |
+| # | Task | Think about | Story Bank |
+|---|---|---|---|
+| 9.1 | **Wer bin ich?** Introduce yourself. | name, origin, home, work/studies, family, languages | Task 1 |
+| 9.2 | **Mein Alltag.** Describe a normal weekday. | when you get up, what you do, when, with whom | Task 2 |
+| 9.3 | **Ein Erlebnis.** Tell about your last weekend or a recent trip. | where, what, with whom, how it was | Task 3 |
+| 9.4 | **Mein Ort.** Describe your flat or your town. | size, rooms/places, what you like or don't like | Task 4 |
+| 9.5 | **Etwas planen.** Leave a voice message inviting a friend to do something this weekend. | what, when, where, why it's a good idea, ask them to call back | Task 6 |
+| 9.6 | **Meine Meinung.** *Are apps a good way to learn a language?* Give your opinion. | yes/no, why, an example | Task 7 |
 
 **Rating:** listen back and rate each recording with the [speaking rubric](../Resources/Rubrics.md#speaking-rubric). Rate at the level the task allows: 9.1, 9.2 and 9.4 at A1; 9.3 and 9.5 at A2; 9.6 at B1. Rating yourself is hard. The rubrics file explains how to use an AI or a tutor to get a second opinion.
 

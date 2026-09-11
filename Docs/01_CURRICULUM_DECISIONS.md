@@ -87,7 +87,9 @@ Each decision has an ID (`CD-xx`) and three parts:
   |---|---|---|---|
   | Heute | muss | ich meine Mutter | anrufen. |
   | Gestern | habe | ich meine Mutter | angerufen. |
-  | …, weil | ich | meine Mutter | anrufen muss. |
+  | *(empty)* | weil | ich meine Mutter | anrufen muss. |
+
+  In a verb-final clause the conjunction (*weil, dass, wenn* …) takes the Position-2 seat, so the whole verb cluster moves to the Satzende. (This example row was corrected on 2026-09-11; the original row wrongly put *weil* in the Vorfeld. See `06` [005].)
 
   Every verb structure taught later is presented as a new way of filling this same map: separable verbs, modals, Perfekt, verb-final clauses, relative clauses, zu-infinitive, future, passive, Konjunktiv II.
 - **Reason:** German word order is one system. Learners who learn it as separate rules fall apart under time pressure. English SVO order, which keeps verbs together, is the main interference, and one visual model counters it best. Each new structure then feels like an extension of the model, not a new rule.
