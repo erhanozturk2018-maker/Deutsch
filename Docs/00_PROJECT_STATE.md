@@ -16,7 +16,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M3 — A1 Consolidation
 Status:             IN PROGRESS
 Current batch:      M3 WP3 — A1-U04, A1-U05, A1 Checkpoint + A1 stage validation
-Next task:          Write GERMAN_LEARNING_PLAN/A1/A1-U04_Koennen_muessen_duerfen.md (model: A1-U01..U03), then A1-U05, then A1_Checkpoint.md
+Next task:          A1-U04 ✅ written (structure check passed, not yet stage-validated). NEXT: write GERMAN_LEARNING_PLAN/A1/A1-U05_In_der_Stadt.md, then A1_Checkpoint.md, then the M3 stage validation
 Last completed:     M2 — Diagnostic System (2026-09-11, V-003)
 Push status:        OK — remote history corrected 2026-09-11 (see §15)
 ```
