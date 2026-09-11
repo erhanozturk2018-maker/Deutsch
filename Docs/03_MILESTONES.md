@@ -11,10 +11,10 @@
 |---|---|---|---|
 | M0 | Curriculum Architecture | ✅ COMPLETE | – |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11) | M0 |
-| M2 | Diagnostic System | ⏸️ NOT STARTED — AWAITING APPROVAL | M1 + user go-ahead |
-| M3 | A1 Consolidation | ⬜ NOT STARTED | M2 + **diagnostic taken and recorded** |
+| M2 | Diagnostic System | 🔄 IN PROGRESS | M1 |
+| M3 | A1 Consolidation | ⬜ NOT STARTED | M2 (diagnostic *built*; results not required, see OD-12) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED | M3 |
-| M5 | A2 Completion | ⬜ NOT STARTED | M4 **approved** |
+| M5 | A2 Completion | ⬜ NOT STARTED | M4 **validated** |
 | M6 | B1.1 | ⬜ NOT STARTED | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED | M7 |
@@ -28,18 +28,20 @@
 
 ## Rules that apply to every milestone
 
-1. **Isolation.** Work only on the current milestone. Never start the next one without explicit user approval.
-2. **Closing a milestone:**
-   1. Update `00_PROJECT_STATE.md`.
-   2. Update this file.
-   3. Update `06_CHANGELOG.md`.
-   4. Run the milestone's validation and record it in `05_VALIDATION_LOG.md`.
-   5. Summarise what was created.
-   6. List unresolved issues.
-   7. Commit.
-   8. **STOP.**
-3. **Work packages (WP)**, approved 2026-09-11 (OD-09). Large milestones are built in batches. After each WP: update `00_PROJECT_STATE.md` and commit, so a new session can resume mid-milestone.
-4. **Review stops** are marked 🛑. At a review stop, work pauses until the user approves.
+> **Autonomous mode (user authorisation, 2026-09-11):** milestones M2 → M8 run back to back with no user approval stops. See `CLAUDE.md` and `00` §4 for the stop conditions.
+
+1. **Isolation.** Work on one milestone (and batch) at a time, in order.
+2. **Closing a milestone or batch:**
+   1. Validate and record the result in `05_VALIDATION_LOG.md`.
+   2. Correct defects.
+   3. Update `00_PROJECT_STATE.md`.
+   4. Update this file.
+   5. Update `06_CHANGELOG.md`.
+   6. Commit (no AI-attribution lines).
+   7. Push if possible.
+   8. **Continue** with the next milestone or batch.
+3. **Work packages (WP)**, approved 2026-09-11 (OD-09). Large milestones are built in batches. After each WP: validate, update `00_PROJECT_STATE.md`, commit.
+4. **Review stops** are marked 🛑. In autonomous mode they are **documented Claude validations** (recorded in `05`, with `04` adjusted if needed). Work does not wait for the user.
 5. **Pilot before scaling.** No unit template is copied at scale before it has been validated (CD-41).
 6. **No silent architecture changes.** Findings that affect the architecture go through change control (`01`, end of file).
 7. **Every course file** must pass the quality checklist in `04_LESSON_STANDARDS.md` (Part C) and the file-level check in `02_DESIGN_PRINCIPLES.md`.
@@ -143,11 +145,11 @@
   - The answer key has been checked item by item.
   - Fluency thresholds are defined in seconds.
   - Links resolve; `04` Part C applies where relevant.
-- **Exit gate (OD-12, approved 2026-09-11):**
-  1. After M2 closes, **the learner takes the diagnostic**.
-  2. Results are recorded in `Learner_Workbook/Progress_Tracker.md` and summarised in `00_PROJECT_STATE.md` (learner profile).
-  3. **M3 cannot start before this**, because the results shape the A1 units' emphasis.
-- **Completion status:** ⏸️ NOT STARTED — AWAITING APPROVAL
+- **Usage order (OD-12, superseded as a *build* dependency on 2026-09-11):**
+  - The learner takes the diagnostic before *working through* A1.
+  - M3 is *built* without results. The A1 units adapt through the diagnostic routing table and each unit's Schnelltest.
+  - Claude never takes the diagnostic and never invents results.
+- **Completion status:** 🔄 IN PROGRESS
 - **Next milestone:** M3.
 
 ---

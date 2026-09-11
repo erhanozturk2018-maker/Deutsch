@@ -97,3 +97,38 @@
   - Version history:
     - `024a999` "M1 infrastructure initialized": the complete infrastructure.
     - A follow-up commit records the V-001 results (PASS WITH NOTES), which could only be written after the initial commit existed.
+
+---
+
+## [003] 2026-09-11 — Autonomous mode authorised; AI-attribution trailers removed from git history
+
+- **Milestone:** Between M1 and M2
+- **Affected files:**
+  - **Updated:** `CLAUDE.md`, `Docs/00_PROJECT_STATE.md`, `Docs/03_MILESTONES.md`, `Docs/05_VALIDATION_LOG.md`
+  - **Created:** `tools/check_links.py`
+  - **Git history:** both commits rewritten
+- **Change:**
+  1. **Autonomous execution M2 → M8** authorised by the user (2026-09-11).
+     - Per milestone or batch: design → build → validate → correct → record → commit → push → continue, without approval stops.
+     - Stop conditions: an architectural contradiction, an unavailable resource, filesystem problems, a fundamental architecture change.
+     - Consequences:
+       - the "STOP after each milestone" rule is replaced
+       - the M4 pilot and B1-U01 review stops become documented Claude validations, with no user approval wait
+       - OD-12 is superseded: M3 is built without diagnostic results; A1 adapts via routing and the Schnelltest
+       - OD-13 is confirmed
+       - OD-11 is delegated to Claude before M7
+  2. **Git attribution.** The user forbade `Co-Authored-By` and any other AI-attribution lines in past and future commits.
+     - Both commits were rewritten locally with `git filter-branch --msg-filter`:
+       - `024a999` → `96621af`
+       - `702a566` → `0d9ee6c`
+     - Backup refs were deleted, the reflog expired, and the old objects were purged with `gc`.
+     - The rule is recorded in `CLAUDE.md`.
+  3. **Force push blocked.** The force push (`--force-with-lease`) to update GitHub was blocked by the Claude Code permission system. GitHub still has the old commits. The user must run the push once (command in `00` §15). Until then, work continues locally.
+  4. **`tools/check_links.py` added** as a maintained validation tool. It checks links and anchors, and reports links to files planned in Appendix H as PLANNED; `--strict` for M8.
+- **Reason:**
+  - The user's explicit instructions (autonomy; attribution).
+  - Reproducible validation across sessions.
+- **Impact:**
+  - M2 starts immediately.
+  - History is clean locally.
+  - Remote synchronisation is pending user action.

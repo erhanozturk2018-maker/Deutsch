@@ -10,7 +10,8 @@
 
 | ID | Date | Milestone | Artifact(s) | Type | Result | Approval |
 |---|---|---|---|---|---|---|
-| V-001 | 2026-09-11 | M1 | M1 infrastructure (`Docs/`, `CLAUDE.md`, `.gitignore`, course root, git) | Self-validation + automated checks | PASS WITH NOTES | Pending user approval |
+| V-001 | 2026-09-11 | M1 | M1 infrastructure (`Docs/`, `CLAUDE.md`, `.gitignore`, course root, git) | Self-validation + automated checks | PASS WITH NOTES | Approved (user, 2026-09-11) |
+| V-002 | 2026-09-11 | between M1/M2 | Git history correction (removal of AI-attribution trailers) | Automated check | PASS (local) / remote pending | – |
 
 ---
 
@@ -127,3 +128,29 @@
 - **Resolution:** Not applicable (no defects found).
 - **Result:** **PASS WITH NOTES**
 - **Approval status:** Pending user approval
+
+---
+
+## V-002 — Git history correction (AI-attribution trailers)
+
+- **Date:** 2026-09-11
+- **Milestone:** Between M1 and M2
+- **Artifact(s):** The git history of `main`
+- **Validator:** Claude
+- **Validation type:** Automated check
+- **Categories:** `VCS`
+- **Criteria:**
+  1. No commit message reachable from any ref contains `Co-Authored-By` or another AI-attribution line.
+  2. The pre-correction commits are no longer present locally.
+  3. Commit content (trees) is unchanged; only the messages changed.
+- **Method:**
+  - `git log --all --format=%B | grep -ci co-authored-by` returned `0`.
+  - `git cat-file -t 702a566` / `024a999` both returned *not a valid object* after `update-ref -d refs/original/*`, `reflog expire --expire=now --all` and `gc --prune=now`.
+  - `filter-branch --msg-filter` only changes messages. The rewritten commits `96621af` and `0d9ee6c` keep the same authors and files (`git log --stat` identical to V-001's file list).
+- **Findings:**
+  1. `VCS`, PASS. Criteria 1–3 are met locally.
+  2. `VCS`, **Major (open).** The force push that would update GitHub was blocked by the Claude Code permission system. `origin/main` still points to the old `702a566`, whose message contains the trailer. Local `main` has diverged (ahead 2, behind 2), so normal pushes are rejected.
+- **Required changes:** The user runs `git push --force-with-lease=main:702a5669f03f751f3c09a5ed8ddda464102ef03d origin main` once (see `00` §15).
+- **Resolution:** Pending user action. Claude re-checks with `git fetch` at every boundary and pushes only when a fast-forward push is possible.
+- **Result:** PASS locally. The remote is not yet corrected.
+- **Approval status:** –

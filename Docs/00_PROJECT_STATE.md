@@ -1,8 +1,8 @@
 # 00 — Project State
 
-> **Read this file first.** It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
+> **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-11. Session 3: M1 completed. **Update this file whenever the project state changes.**
+> **Last updated:** 2026-09-11. Session 4: autonomous mode started; git history corrected; M2 in progress. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -11,33 +11,30 @@
 ```text
 Project:            German A1 → B1 Curriculum
 Architecture:       Approved — Baseline v1.0 (2026-09-11)
+Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
-Current Milestone:  M1 — Project Infrastructure
-Status:             COMPLETE (2026-09-11; validation V-001)
-Next Milestone:     M2 — Diagnostic System
-Next Status:        NOT STARTED / AWAITING APPROVAL
-Next action:        Wait for explicit user approval to start M2. Confirm OD-13 (allocation of deferred M1 items) at M2 start.
-Blocked by:         Nothing, except the user's go-ahead for M2
+Current Milestone:  M2 — Diagnostic System
+Status:             IN PROGRESS
+Current batch:      M2 (single batch)
+Next task:          Build M2 deliverables (see §6), validate, record, commit, then continue to M3
+Last completed:     M1 — Project Infrastructure (2026-09-11, V-001)
+Push status:        BLOCKED — remote has pre-correction history; see §15
 ```
 
 ---
 
 ## 2. How to resume (new session)
 
-1. Read this file, then the relevant parts of:
-   - [02_DESIGN_PRINCIPLES.md](02_DESIGN_PRINCIPLES.md): the constitution
-   - [01_CURRICULUM_DECISIONS.md](01_CURRICULUM_DECISIONS.md): architecture + change control
-   - [03_MILESTONES.md](03_MILESTONES.md): what each milestone builds and how it is validated
-   - [04_LESSON_STANDARDS.md](04_LESSON_STANDARDS.md): how every course file is built
-   - [05_VALIDATION_LOG.md](05_VALIDATION_LOG.md): what has been validated and approved
-   - [06_CHANGELOG.md](06_CHANGELOG.md): history
-
-   The workspace-level `CLAUDE.md` summarises this procedure.
-2. Find the current milestone and its open deliverables in `03_MILESTONES.md`.
-3. Check §12 (unresolved decisions). **Never assume an answer. Ask the user.**
-4. Work **only** on the current milestone.
-5. Anything that would change the architecture (the CD decisions or Appendices A–J in `01`) goes through **change control** (end of `01`). Never change it silently.
-6. After each work package, update this file and commit. At milestone end, follow the close procedure (§4), then **STOP**.
+1. Read `CLAUDE.md`, then this file, then the relevant parts of:
+   - [02_DESIGN_PRINCIPLES.md](02_DESIGN_PRINCIPLES.md)
+   - [01_CURRICULUM_DECISIONS.md](01_CURRICULUM_DECISIONS.md)
+   - [03_MILESTONES.md](03_MILESTONES.md)
+   - [04_LESSON_STANDARDS.md](04_LESSON_STANDARDS.md)
+   - [05_VALIDATION_LOG.md](05_VALIDATION_LOG.md)
+   - [06_CHANGELOG.md](06_CHANGELOG.md)
+2. Find the current milestone, batch and **next task** in §1 and §6.
+3. Never rebuild what is marked COMPLETE. Resume at the recorded next task.
+4. Architecture changes go through change control (end of `01`). Never change it silently.
 
 ---
 
@@ -47,29 +44,38 @@ A complete, CEFR-aligned German course from the learner's current level (A1 know
 
 The goal is **functional B1 communication**, not grammar coverage. The course prioritises production, active retrieval, spontaneous speaking and spiral recycling.
 
-It is designed by Claude acting as German teacher and curriculum designer, and built incrementally over many sessions in milestones M0–M8. The project is under git version control.
+It is designed by Claude acting as German teacher and curriculum designer, and built incrementally in milestones M0–M8. Git repository with remote `origin` (`https://github.com/erhanozturk2018-maker/Deutsch`, branch `main`).
 
 ---
 
 ## 4. Workflow rules (binding)
 
-- **Design → Build → Validate → Approve → Scale.** Never generate the whole curriculum in one operation.
-- **Milestone isolation.** Only the current milestone. Never start the next milestone without explicit user approval.
-- **Closing a milestone:**
-  1. Update this file.
-  2. Update `03_MILESTONES.md`.
-  3. Update `06_CHANGELOG.md`.
-  4. Validate and log in `05_VALIDATION_LOG.md`.
-  5. Summarise what was created.
-  6. List unresolved issues.
-  7. Commit.
-  8. **STOP.**
-- **Work packages** in M5–M7 (and proposed for M3), with a state save and commit after each.
-- **Pilot before scaling.** A2-U01 (M4) must be approved before other A2/B1 units are built. Mandatory second validation at the review stop after B1-U01 (M6 WP1).
-- **Diagnostic before A1.** The learner takes the M2 diagnostic, and the results are recorded, before M3 starts.
-- **No silent architectural changes.** Problem → explanation → proposal → register entry (`01`, change control) → user approval → apply → changelog.
-- **Local corrections** (wording, examples, exercise choice, fixes within a unit) may be made normally. Log significant ones.
-- **Validation log** records only validations that actually happened.
+- **Autonomous mode** (user authorisation, 2026-09-11). For each milestone or batch:
+  1. Design
+  2. Build
+  3. Validate
+  4. Correct
+  5. Record (00, 03, 05, 06)
+  6. Commit
+  7. Push
+  8. **Continue** with the next milestone, with no approval stop
+
+  Stop only if:
+  - a genuine architectural contradiction makes continuing unsafe
+  - a required resource is unavailable and cannot be substituted
+  - the filesystem becomes inaccessible
+  - a decision would fundamentally change the approved architecture
+
+  For non-blocking uncertainties: make the most defensible choice, record it, continue.
+- **Pilot before scaling** still applies. The M4 pilot (A2-U01) and the B1-U01 special review are validated by Claude (a real, documented validation), and `04` is adjusted if needed. The user no longer needs to approve them before scaling.
+- **Never skip validation.** Record only validations that actually happened. **Never invent learner results.**
+- **No silent architectural changes.** Problem → reason → proposal → register entry (`01`) → decision → changelog. Decisions that would *fundamentally* change the architecture require stopping and asking the user.
+- **Git:**
+  - Meaningful commits at milestone and batch boundaries.
+  - **No `Co-Authored-By` or other AI-attribution lines, ever.**
+  - No force-push unless the user asks.
+  - No temporary scripts or junk in the repository.
+- **Context limits:** save state (00, 03, 06), commit, record the exact next task, then stop. The next session resumes.
 
 ---
 
@@ -79,51 +85,41 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 |---|---|---|
 | M0 | Curriculum Architecture | ✅ COMPLETE (2026-09-11) |
 | M1 | Project Infrastructure | ✅ COMPLETE (2026-09-11), V-001 |
-| M2 | Diagnostic System | ⏸️ NOT STARTED — AWAITING APPROVAL |
-| M3 | A1 Consolidation | ⬜ NOT STARTED (needs diagnostic results) |
+| M2 | Diagnostic System | 🔄 IN PROGRESS |
+| M3 | A1 Consolidation | ⬜ NOT STARTED |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ⬜ NOT STARTED |
 | M5 | A2 Completion | ⬜ NOT STARTED |
 | M6 | B1.1 | ⬜ NOT STARTED |
 | M7 | B1.2 | ⬜ NOT STARTED |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED |
 
-**Completed milestones:**
-- **M0.** Phase 1 blueprint, approved as Baseline v1.0 on 2026-09-11. Its binding content is in `01`.
-- **M1.** The `Docs/` system:
-  - authoritative decision record
-  - design principles
-  - milestone system
-  - lesson standards
-  - validation framework
-  - changelog
-  - course root `GERMAN_LEARNING_PLAN/`
-  - `CLAUDE.md` recovery instructions
-  - git repository with `.gitignore` and initial commit
-
 ---
 
-## 6. Current work
+## 6. Current work — M2 Diagnostic System
 
-None in progress. M1 is closed. Waiting for the user's approval to start M2.
+**Deliverables** (all ⬜ until built):
+1. `GERMAN_LEARNING_PLAN/00_Curriculum/09_Diagnostic_Test.md`: the diagnostic, including administration instructions, all parts, answer keys, scoring and the **routing system**
+2. `GERMAN_LEARNING_PLAN/Resources/Rubrics.md`: speaking, writing, pronunciation/intelligibility and fluency scales
+3. `GERMAN_LEARNING_PLAN/Learner_Workbook/Progress_Tracker.md`: diagnostic results, routing plan, grammar spiral tracker, can-do ticks, checkpoint scores
+4. `GERMAN_LEARNING_PLAN/README.md`: start page and navigation (minimal; extended later)
+5. `tools/check_links.py`: maintained link checker used by every validation
 
 ## 7. Next planned work
 
-1. The user approves the start of M2 and confirms OD-13 (allocation of the items moved out of M1).
-2. **M2:** diagnostic test + routing. Provisionally also `Resources/Rubrics.md`, `Learner_Workbook/Progress_Tracker.md` and a minimal `GERMAN_LEARNING_PLAN/README.md` (OD-13).
-3. Validate M2, close, **STOP**.
-4. The learner takes the diagnostic; results are recorded here (§9) and in the Progress Tracker.
-5. Only then: M3 (A1 Consolidation), after approval.
+After M2: **M3 A1 Consolidation.**
+- **WP1:** A1 shared resources + `A1/README.md` + A1-U01
+- **WP2:** A1-U02, A1-U03
+- **WP3:** A1-U04, A1-U05, A1 Checkpoint
+
+Then M4 → M8 in order, per `03_MILESTONES.md`.
 
 ---
 
 ## 8. Approved curriculum version
 
-- **Architecture v1.0**, the Phase 1 blueprint approved on 2026-09-11.
-- **Authoritative record:** `01_CURRICULUM_DECISIONS.md`: decisions CD-01 to CD-43 plus Appendices A–J.
-- **Lesson standard:** `04_LESSON_STANDARDS.md` v1.0, provisional until the M4 pilot and the B1-U01 review stop.
-- The original blueprint text exists only in the session 1 chat and is **not** needed. If a detail is not in `01`, it is not binding.
-- Pending change proposals: CP-001 (mediation strand, candidate; decide before M7).
-- 2026-09-11: status and timing references in `01` were updated to reflect the approved decisions (OD-05/06/08/09/10). No architectural content changed; the version stays v1.0.
+- **Architecture v1.0.** Authoritative record: `01_CURRICULUM_DECISIONS.md` (CD-01–CD-43, Appendices A–J).
+- **Lesson standard:** `04_LESSON_STANDARDS.md` v1.0, provisional until the M4 pilot and the B1-U01 review.
+- **Pending change proposal:** CP-001 (mediation), to be decided by Claude before M7 is finalised (OD-11).
 
 ---
 
@@ -131,49 +127,31 @@ None in progress. M1 is closed. Waiting for the user's approval to start M2.
 
 **Stated by the user:**
 - Knows German basics at about A1; partially familiar with A2.
-- Does **not** want to restart from zero unless the diagnostic shows a missing prerequisite.
-- Speaks English well. English interference is expected.
-- Recognises words when reading or listening but wants much stronger **active retrieval** and **spontaneous production**.
-- Wants to communicate naturally, not just pass grammar tests.
-- Prefers structured, logical progression. Wants engaging, non-repetitive learning.
-- Wants explanations in English. Comfortable learning from Markdown.
-- Target: **end of B1**.
+- Does **not** want to restart from zero.
+- Speaks English well.
+- Main difficulty: **German is recognisable when reading or listening, but retrieval during spontaneous speaking is weak.**
+- Wants natural communication, structured progression, engaging variety, English explanations, Markdown.
+- Target: end of B1.
 
-**Approved working assumptions (2026-09-11):**
+**Working assumptions:**
+- 7 h/week
+- exam-compatible, not exam-focused
+- general-life topics; English as comparison language
+- Anki, AI role-play (voice) and TTS available; tutor optional
 
-| Topic | Assumption | Decision |
-|---|---|---|
-| Study time | **7 hours/week** (initial assumption) | OD-01 |
-| Exam | **Exam-compatible, not exam-focused** | OD-02 |
-| Topics and comparison language | **General-life topics; English as the comparison language** for now | OD-03 |
-| Tools | **Anki, AI role-play (voice) and text-to-speech are available**; a human tutor is optional | OD-04 |
+**Working hypothesis (unverified):** receptive about A2-, productive about A1+ (recognition–production gap).
 
-**Working hypothesis (unverified until the M2 diagnostic):**
-- Receptive level about A2-, productive about A1+ (recognition–production gap).
-- Likely weak spots:
-  - dative system
-  - adjective endings
-  - gender
-  - verb-final order under pressure
-  - *haben/sein* in Perfekt
-  - separable verbs in speech
-  - small active vocabulary
-  - slow retrieval
-  - natural-speed listening
-
-**Diagnostic results:** not yet taken. Required before M3 (OD-12).
+**Diagnostic results:** not taken yet. The learner takes the diagnostic before *working through* A1 (course usage order). Results are never invented by Claude.
 
 ---
 
 ## 10. Important constraints
 
-- **Format:** Markdown only, following `04_LESSON_STANDARDS.md` (GFM; only `<details>`/`<summary>`/`<br>` as HTML; YAML front matter; ASCII filenames). English explanations; instruction language moves to German in B1 (CD-10).
-- **No audio production.** Listening uses TTS and external sources with reusable task sheets (CD-30). No audio or image files in the repository.
-- **No built-in human feedback.** Feedback comes from self-recording, AI prompts, and an optional tutor.
-- **Copyright:** original texts and tasks only. Never reproduce official exam material or third-party texts. Cite external sources by name.
-- **Environment:** Windows 11. Workspace `C:\Users\erhan\Desktop\Deutch`. Git repository initialised 2026-09-11 (branch `main`). Learner audio recordings are git-ignored.
-- **Scale:** about 157 course files, built across many sessions in milestones and work packages.
-- **Workload target:** about 230 h guided + about 105 h exposure at 7 h/week (CD-40). Lesson files 60–90 minutes each.
+- Markdown per `04_LESSON_STANDARDS.md`; English explanations; German task instructions from B1 (CD-10).
+- No audio or image files. Listening uses TTS-ready scripts (CD-30). External resources are optional extras; no lesson may depend on them.
+- Original texts only; no reproduction of exam or third-party material.
+- Windows 11; workspace `C:\Users\erhan\Desktop\Deutch`.
+- About 157 course files, built in milestones and batches.
 
 ---
 
@@ -181,40 +159,36 @@ None in progress. M1 is closed. Waiting for the user's approval to start M2.
 
 | ID | Issue | Mitigation | Revisit |
 |---|---|---|---|
-| KI-01 | No audio can be produced, so listening is the weakest part | TTS-first routine, external sources, reusable task sheets | M4 pilot |
-| KI-02 | No live speaking partner, so errors can become fixed habits | Self-recording checklist, AI role-play with delayed correction (`04` A12); recommend a tandem partner or tutor | M3 (`Speaking_Toolkit`) |
-| KI-03 | Self-assessment bias | Production-based, timed diagnostic and checkpoints | M2 |
-| KI-04 | About 157 files: risk of drift in quality and consistency | Milestones, work packages, pilot, `04` Part C checklist, validation log | Every milestone |
-| KI-05 | Naturalness of German examples needs constant vigilance | `04` A10 criteria, register tags, ✅/⚠️/❌ markers | Every milestone, M8 |
-| KI-06 | B1.1 is grammar-dense | Lighter units and reviews between; accepted in v1.0 | M6 |
-| KI-07 | Adjective endings and gender will keep producing errors through B1 | Communicative accuracy targets (CD-17) | – |
-| KI-08 | Motivation over about 12 months | Story Bank, light units, 15-minute minimum day | – |
-| KI-09 | External links and content can change | Cite by name; generic task sheets | M3, M8 |
-| KI-10 | Mediation only lightly covered | CP-001 candidate | Before M7 |
-| KI-11 | Several `04` numeric targets are first estimates: English-cue shares at B1 (≤50% / ≤25%), recycling minimums (5/8 items per lesson, 15/20 per unit), 60% production share | Confirm or adjust in the M4 pilot and the B1-U01 review stop | M4, M6 |
-| KI-12 | Items moved out of M1 need a confirmed home | Provisional just-in-time allocation in `03` (OD-13) | M2 start |
+| KI-01 | No audio production | TTS-ready scripts + TTS instructions | M4 |
+| KI-02 | No live speaking partner | Self-recording checklist, AI role-play prompts | M3 |
+| KI-03 | Self-assessment bias | Production-based, timed diagnostic; recognition vs production compared | M2 |
+| KI-04 | About 157 files: drift risk | Batches, pilot, `04` Part C, validation log | Every milestone |
+| KI-05 | Naturalness of examples | `04` A10 | Every milestone, M8 |
+| KI-06 | B1.1 grammar density | Load rhythm | M6 |
+| KI-07 | Adjective endings and gender errors persist | CD-17 targets | – |
+| KI-08 | Motivation over about 12 months | Story Bank, light units | – |
+| KI-09 | External content can change | Not required anywhere | – |
+| KI-10 | Mediation gap | OD-11 | Before M7 |
+| KI-11 | `04` numeric targets are estimates | Pilot + B1-U01 review | M4, M6 |
+| KI-13 | Listening transcripts are visible when copied into TTS | "Copy without reading" instructions; AI read-aloud option | M4 |
+| KI-14 | **GitHub still holds the old commits with AI-attribution trailers**; normal pushes are rejected until it is updated | See §15 | Every boundary |
 
 ---
 
-## 12. Unresolved decisions
+## 12. Decisions
 
-| ID | Question | Recommendation / default | Blocks |
-|---|---|---|---|
-| OD-13 | Allocation of the items moved out of M1 (course README, stage READMEs, `Resources/`, `Learner_Workbook/`) | Just in time, as marked *(OD-13)* in `03`: M2 → `Rubrics.md`, `Progress_Tracker.md`, minimal course README. M3 → `A1/README.md`, A1-needed resources, remaining Workbook files (with proposed M3 work packages). M4 → `A2/README.md`, `Verb_Lists.md`, `A2.tsv`. M6 → `B1/README.md`, `B1.tsv` | Confirm at M2 start |
-| OD-11 | CP-001 mediation strand | Decide before M7 | M7 |
+**Open:**
+- **OD-11:** CP-001 mediation. Claude decides before M7 is finalised, records the reasoning.
 
-**Resolved on 2026-09-11** (user approval; see `06_CHANGELOG.md` [002]):
-- **OD-01:** 7 h/week.
-- **OD-02:** exam-compatible, not exam-focused.
-- **OD-03:** general topics; English as comparison language.
-- **OD-04:** Anki, AI role-play and TTS available; tutor optional.
-- **OD-05:** course in `Deutch/GERMAN_LEARNING_PLAN/`.
-- **OD-06:** `Docs/` authoritative; optional learner-facing `00_Curriculum/`.
-- **OD-07:** `Docs/04_LESSON_STANDARDS.md` + `Docs/05_VALIDATION_LOG.md`.
-- **OD-08:** pilot unit A2-U01 *Erlebnisse*.
-- **OD-09:** work packages in M5–M7 + mandatory review stop after B1-U01.
-- **OD-10:** `CLAUDE.md` + git.
-- **OD-12:** diagnostic must be completed before M3.
+**Resolved 2026-09-11** (details in `06` [002] and [003]):
+- OD-01 to OD-10 as recorded in `06` [002].
+- **OD-12 (superseded by the user's autonomy authorisation):** M3 is *built* without waiting for diagnostic results. The A1 units adapt to the learner through the diagnostic routing system and the per-unit Schnelltest. The learner still takes the diagnostic before *starting* A1.
+- **OD-13 (confirmed by the user's M2/M3 instructions):** just-in-time allocation.
+  - M2: Rubrics, Progress Tracker, course README.
+  - M3: A1 README, A1 resources, remaining Workbook files.
+  - M4: A2 README, Verb_Lists, `A2.tsv`.
+  - M6: B1 README, `B1.tsv`.
+- **Tools decision (Claude, 2026-09-11):** `tools/check_links.py` and later `tools/build_anki.py` are committed as small maintained helper scripts. They make validation and Anki export reproducible for future sessions. They are maintained tools, not temporary scripts.
 
 ---
 
@@ -222,33 +196,33 @@ None in progress. M1 is closed. Waiting for the user's approval to start M2.
 
 ```
 Deutch/
-├── .git/                           ← repository (branch main)
-├── .gitignore
-├── CLAUDE.md                       ← recovery/workflow pointer for new sessions
-├── Docs/
-│   ├── 00_PROJECT_STATE.md         ← this file
-│   ├── 01_CURRICULUM_DECISIONS.md  ← decisions CD-01–CD-43, Appendices A–J, change control
-│   ├── 02_DESIGN_PRINCIPLES.md     ← 19 principles + file-level check
-│   ├── 03_MILESTONES.md            ← M0–M8: scope, deliverables, validation, work packages
-│   ├── 04_LESSON_STANDARDS.md      ← lesson architecture, file standards, quality checklist, skeletons
-│   ├── 05_VALIDATION_LOG.md        ← validation framework + V-001
-│   └── 06_CHANGELOG.md             ← project history
-└── GERMAN_LEARNING_PLAN/
-    └── .gitkeep                    ← course root placeholder (no course content yet)
+├── .gitignore  CLAUDE.md
+├── Docs/  00–06 (7 files)
+└── GERMAN_LEARNING_PLAN/.gitkeep
 ```
 
-## 14. Planned files (not yet created)
+## 14. Planned files
 
-Allocation marked *(OD-13)* is provisional until confirmed.
+See `03_MILESTONES.md` (deliverables per milestone) and `01` Appendix H (full tree).
 
-| Milestone | Files |
-|---|---|
-| M2 | `GERMAN_LEARNING_PLAN/00_Curriculum/09_Diagnostic_Test.md` · *(OD-13)* `Resources/Rubrics.md`, `Learner_Workbook/Progress_Tracker.md`, `GERMAN_LEARNING_PLAN/README.md` |
-| M3 | `A1/A1-U01_Ich_und_du.md` … `A1-U05_In_der_Stadt.md`, `A1/A1_Checkpoint.md` · *(OD-13)* `A1/README.md`; `Resources/` Sentence_Map, Speaking_Toolkit, Writing_Toolkit, Listening_Reading_Sources, Pronunciation_Guide, English_German_Interference, Grammar_Tables, Redemittel, `Anki/A1.tsv`; `Learner_Workbook/` Error_Log, Chunk_Bank, Story_Bank, Writing_Portfolio |
-| M4 | `A2/A2-U01_Erlebnisse/` (5 files) · *(OD-13)* `A2/README.md`, `Resources/Verb_Lists.md`, `Resources/Anki/A2.tsv` |
-| M5 | `A2/A2-U02` … `A2-U10` (9 × 5 files), `A2-R1/R2/R3_Wiederholung.md`, `A2_Midpoint_Checkpoint.md`, `A2_Exit_Checkpoint.md` |
-| M6 | `B1-U01` … `B1-U06` (6 × 5 files), `B1-R1_Wiederholung.md`, `B1_Midpoint_Checkpoint.md` · *(OD-13)* `B1/README.md`, `Resources/Anki/B1.tsv` |
-| M7 | `B1-U07` … `B1-U12` (6 × 5 files), `B1-R2/R3_Wiederholung.md`, `B1_Exit_Checkpoint.md` |
-| M8 | Audit entry in `05`; decision on optional `00_Curriculum/01`–`08` |
+---
 
-The full tree with exact names is in `01_CURRICULUM_DECISIONS.md`, Appendix H.
+## 15. Git and push status
+
+- **2026-09-11:** At the user's request, `Co-Authored-By` trailers were removed from the two existing commits by rewriting history locally.
+
+  | Old hash (on GitHub) | New hash (local) | Commit |
+  |---|---|---|
+  | `024a999` | `96621af` | M1 infrastructure initialized |
+  | `702a566` | `0d9ee6c` | Record M1 validation results |
+
+  The old objects were purged locally.
+- **The force push needed to replace the old commits on GitHub was blocked by the Claude Code permission system.** GitHub (`origin/main` = `702a566`) therefore still shows the trailers. Local `main` has diverged from it (ahead 2, behind 2), so normal pushes are rejected.
+- **User action needed:** run this once from the workspace:
+
+  ```bash
+  git push --force-with-lease=main:702a5669f03f751f3c09a5ed8ddda464102ef03d origin main
+  ```
+
+  After that, normal pushes work again.
+- **Until then:** work continues locally. At each boundary, Claude runs `git fetch` and pushes only if `origin/main` is an ancestor of local `main` (a fast-forward).
