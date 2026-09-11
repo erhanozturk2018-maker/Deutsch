@@ -17,6 +17,8 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Telling a story and reacting](#a2-telling-a-story-and-reacting)
 - [A2: Likes, opinions and presents](#a2-likes-opinions-and-presents)
 - [A2: Home and flat hunting](#a2-home-and-flat-hunting)
+- [A2: Opinions and reasons](#a2-opinions-and-reasons)
+- [A2: At the restaurant](#a2-at-the-restaurant)
 
 ---
 
@@ -213,6 +215,43 @@ Taught in [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md).
 | Wann kann ich die Wohnung besichtigen? | When can I view the flat? | – |
 | Wie komme ich am besten zu Ihnen? | What's the best way to get to you? | formal |
 | Komm mich doch besuchen! | Come and visit me! | informal |
+
+## A2: Opinions and reasons
+
+Taught in [A2-U04](../A2/A2-U04_Essen_und_Gewohnheiten/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Ich finde / glaube / denke, dass … | I think / believe that … | – |
+| Meiner Meinung nach … (+ verb second) | In my opinion … | – |
+| Ich finde das gut / nicht so gut. | I think that's good / not so good. | – |
+| Es ist wichtig / schön / schade, dass … | It's important / nice / a pity that … | – |
+| Ich habe gehört / gelesen, dass … | I've heard / read that … | – |
+| Warum? – Weil … | Why? – Because … | – |
+| Da hast du recht. · Das stimmt. · Genau! | You're right. · That's true. · Exactly! | – |
+| Das sehe ich auch so. | I agree. | – |
+| Ja, aber … · Das stimmt schon, aber … | Yes, but … · That's true, but … | – |
+| Das sehe ich anders. · Da bin ich nicht sicher. | I see it differently. · I'm not sure about that. | – |
+| Ich finde nicht, dass … | I don't think that … | – |
+| Ich glaube schon. / Ich glaube nicht. | I think so. / I don't think so. | – |
+
+## A2: At the restaurant
+
+Taught in [A2-U04](../A2/A2-U04_Essen_und_Gewohnheiten/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Einen Tisch für zwei, bitte. · Wir haben reserviert, auf den Namen … | A table for two, please. · We have a booking under … | – |
+| Die Speisekarte, bitte. · Was können Sie empfehlen? | The menu, please. · What can you recommend? | – |
+| Ist da Fleisch / Knoblauch drin? | Is there meat / garlic in it? | spoken |
+| Ich nehme … · Ich hätte gern … · Für mich …, bitte. | I'll have … · I'd like … · For me …, please. | – |
+| ohne Zwiebeln · mit extra Käse | without onions · with extra cheese | – |
+| Ich bin allergisch gegen … · Ich vertrage keine … | I'm allergic to … · I can't tolerate … | – |
+| Könnte ich noch … haben? | Could I have some more …? | polite |
+| Entschuldigung, das habe ich nicht bestellt. · Die Suppe ist leider kalt. | Sorry, I didn't order that. · The soup is cold, I'm afraid. | – |
+| Wir möchten bitte zahlen. · Zahlen, bitte! | We'd like to pay, please. · The bill, please! | – |
+| Zusammen oder getrennt? | Together or separately? | – |
+| Machen Sie 24. · Stimmt so. | Make it 24. · Keep the change. | – |
 
 ---
 

@@ -15,6 +15,7 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Perfekt](#a2-perfekt)
 - [A2: Dative](#a2-dative)
 - [A2: Prepositions](#a2-prepositions)
+- [A2: Verb-final clauses](#a2-verb-final-clauses)
 
 ---
 
@@ -264,3 +265,24 @@ Taught in [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md) (and *für
 | into a building or area | *ins Kino, in die Stadt* | *im Kino, in der Stadt* |
 
 **Contractions:** *im, am, ins, ans, zum, zur, beim, vom* (and spoken *aufs, übers*)
+
+## A2: Verb-final clauses
+
+Taught in [A2-U04](../A2/A2-U04_Essen_und_Gewohnheiten/00_Overview_und_Wortschatz.md) (*weil, dass*). More follow: *wenn* (A2-U05), *ob* and question words (A2-U07), then B1. The model: [Sentence Map §4](Sentence_Map.md#4-verb-final-clauses-the-verbs-seat-is-taken).
+
+| Main clause | Conjunction | … | Verb(s) at the end |
+|---|---|---|---|
+| Ich bleibe zu Hause, | **weil** | ich krank | **bin**. |
+| Ich komme später, | **weil** | ich noch | **einkaufe**. (separable verb joined) |
+| Ich komme nicht, | **weil** | ich arbeiten | **muss**. (modal last) |
+| Ich bin müde, | **weil** | ich schlecht geschlafen | **habe**. (auxiliary last) |
+| Ich finde, | **dass** | das Essen gut | **ist**. |
+
+**Clause first → verb, comma, verb:** *Weil ich krank bin, **bleibe** ich zu Hause.*
+
+**Compare the connectors that keep main-clause order:**
+
+| Word | Position | Example |
+|---|---|---|
+| *und, aber, oder, denn, sondern* | position 0 | *…, **denn** ich **bin** krank.* |
+| *deshalb, trotzdem, dann* (A2-U10) | Vorfeld (they count!) | *…, **deshalb bleibe** ich zu Hause.* |

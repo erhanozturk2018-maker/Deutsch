@@ -17,7 +17,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
 Current batch:      M5 WP2 — A2-U04, A2-U05, A2-U06, A2-R2, A2 Midpoint
-Next task:          Write GERMAN_LEARNING_PLAN/A2/A2-U04_Essen_und_Gewohnheiten/ (00_Overview + L1–L4) — plan in §6
+Next task:          A2-U04 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U05_Gesundheit/ (00_Overview + L1–L4), then A2-U06, A2-R2, A2 Midpoint — plan in §6
 Last completed:     M4 — A2 Pilot (2026-09-12, V-008)
 Push status:        OK (origin/main in sync after every batch)
 ```

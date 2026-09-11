@@ -117,6 +117,18 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *I'm going to Berlin / to my aunt's / to the doctor's.* | zu Berlin / nach meiner Tante | **nach** Berlin / **zu** meiner Tante / **zum** Arzt | *nach* for places with names, *zu* for people and destinations |
 | *I've lived here for 3 years.* | Ich habe hier 3 Jahre gewohnt. | Ich **wohne seit** 3 Jahr**en** hier. | Still true → *seit* + present (+ dative *-n*) |
 
+### Reasons and opinions (A2-U04)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *…, because I have no time.* | …, weil ich habe keine Zeit. (writing) | …, weil ich keine Zeit **habe**. | *weil* → verb at the end (the verb-second version is spoken only) |
+| *I think that it's good.* | Ich denke, dass es ist gut. | Ich denke, dass es gut **ist**. | *dass* → verb at the end |
+| *I think so.* | Ich denke so. | Ich **glaube schon**. / Ich denke schon. | Fixed phrase |
+| *I agree with you.* | Ich bin mit dir einverstanden. (formal) | **Da hast du recht.** / **Das sehe ich auch so.** | Natural everyday phrases |
+| *that* (conjunction) vs *that* (pronoun) | das / dass mixed up | ***dass*** (conjunction) · ***das*** (article/pronoun) | Spelling depends on function |
+| *allergic to* | allergisch zu | allergisch **gegen** | Fixed preposition |
+| *the check / the bill* | die Check | **die Rechnung** · *Zahlen, bitte!* | – |
+
 ---
 
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *mir ist kalt*, *als/wenn/wann*, the missing progressive in more contexts. B1 traps come later.*
