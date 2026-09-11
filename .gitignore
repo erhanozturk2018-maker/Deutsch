@@ -1,0 +1,45 @@
+# --- Operating system files ---
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# --- Editor / viewer local state ---
+.vscode/
+.idea/
+*.swp
+*~
+~$*
+# Obsidian: keep shared vault config out; per-device workspace state is never useful in history
+.obsidian/
+.trash/
+
+# --- Temporary and backup files ---
+*.tmp
+*.bak
+*.orig
+
+# --- Claude Code local (per-user) settings ---
+.claude/settings.local.json
+
+# --- Learner audio recordings (Story Bank, speaking practice) ---
+# Large, personal binaries: keep them locally, not in version history.
+recordings/
+*.mp3
+*.m4a
+*.wav
+*.ogg
+*.opus
+*.webm
+*.aac
+*.flac
+
+# --- Generated flashcard packages (the .tsv files in Resources/Anki/ are the source) ---
+*.apkg
+*.colpkg
+
+# --- Script caches (e.g. link-check helpers) ---
+__pycache__/
+*.pyc
+node_modules/

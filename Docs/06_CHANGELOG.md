@@ -1,0 +1,96 @@
+# 06 — Changelog
+
+> Chronological project history (oldest first). Append new entries at the bottom.
+> Record every significant change: milestone completions, approved architecture changes, template revisions, significant local changes.
+
+## Entry format
+
+```text
+## [NNN] YYYY-MM-DD — <short title>
+- Milestone:
+- Affected files:
+- Change:
+- Reason:
+- Impact:
+```
+
+---
+
+## [001] 2026-09-11 — Architecture completed; milestone-based build and persistent memory introduced
+
+- **Milestone:** M0 (completed) → M1 (started)
+- **Affected files (created):**
+  - `Docs/00_PROJECT_STATE.md`
+  - `Docs/01_CURRICULUM_DECISIONS.md`
+  - `Docs/02_DESIGN_PRINCIPLES.md`
+  - `Docs/03_MILESTONES.md`
+  - `Docs/06_CHANGELOG.md`
+- **Change:**
+  1. **Phase 1 architecture completed.** In session 1, Claude produced the full curriculum blueprint:
+     - teaching philosophy and level interpretation
+     - 5 A1 consolidation units, 10 A2 units, 12 B1 units, with reviews and checkpoints
+     - grammar, vocabulary, speaking, reading, listening, writing and pronunciation progressions
+     - review and retrieval system, assessment system, file structure, assumptions and risks
+
+     The user approved it as the architectural baseline, **Architecture v1.0**.
+  2. **The architecture was converted into a milestone-based construction process** (M0–M8, `03_MILESTONES.md`) following *Design → Build → Validate → Approve → Scale*, with milestone isolation, a mandatory close procedure, and a STOP after each milestone.
+  3. **Persistent project memory was introduced** in `Docs/`. The binding content of the blueprint, which until then existed only in chat, was captured in `01_CURRICULUM_DECISIONS.md`: 43 decisions with reasons and consequences, plus Appendices A–J (unit map, dependencies, grammar spiral, thresholds, file architecture, lesson template, workload). A change-control procedure and a change proposal register were added.
+  4. **The curriculum will be built incrementally**, not in one massive generation. Pilot before scaling (one A2 unit in M4) is mandatory.
+- **Reason:** About 157 high-quality course files cannot be produced reliably in one operation. The project spans many sessions, so it must be recoverable from the filesystem alone. Validating a pilot prevents a flawed template from spreading across the course.
+- **Impact:**
+  - Any new session can resume from `Docs/`.
+  - M1 is in progress: deliverable 1 of 8 done.
+  - Remaining M1 deliverables are blocked on OD-05 (course root), OD-06 (`Docs/` vs `00_Curriculum/` roles) and OD-07 (templates location / reserved numbers 04–05).
+  - Process refinements proposed but not yet approved: work packages in M5–M7 and a review stop after B1-U01 (OD-09); `CLAUDE.md` and `git init` as recovery aids (OD-10).
+  - No course content has been created.
+
+---
+
+## [002] 2026-09-11 — M1 completed: lesson standards, validation framework, recovery file, git
+
+- **Milestone:** M1 (completed)
+- **Affected files:**
+  - **Created:** `Docs/04_LESSON_STANDARDS.md`, `Docs/05_VALIDATION_LOG.md`, `CLAUDE.md`, `.gitignore`, `GERMAN_LEARNING_PLAN/.gitkeep`
+  - **Updated:** `Docs/00_PROJECT_STATE.md`, `Docs/01_CURRICULUM_DECISIONS.md`, `Docs/03_MILESTONES.md`, `Docs/06_CHANGELOG.md`
+- **Change:**
+  1. **User decisions recorded** (2026-09-11):
+     - OD-01: 7 h/week
+     - OD-02: exam-compatible, not exam-focused
+     - OD-03: general topics, English as comparison language
+     - OD-04: Anki, AI role-play and TTS available; tutor optional
+     - OD-05: course root `GERMAN_LEARNING_PLAN/`
+     - OD-06: `Docs/` authoritative; optional learner-facing `00_Curriculum/`
+     - OD-07: `Docs/04` + `Docs/05`
+     - OD-08: pilot unit A2-U01 *Erlebnisse*
+     - OD-09: work packages in M5–M7 + mandatory review stop after B1-U01
+     - OD-10: `CLAUDE.md` + git
+     - OD-12: diagnostic completed before M3
+
+     OD-11 (mediation) stays open until before M7.
+  2. **`04_LESSON_STANDARDS.md` v1.0 created** (provisional until the M4 pilot):
+     - lesson architecture: 19 components, mandatory/optional matrix per file type, length and activity rules, retrieval distribution, speaking levels S1–S4, scaffolding table, recycling rules, grammar and example-selection rules, AI role-play prompt block
+     - file standards: Markdown, headings, naming and IDs, YAML metadata with grammar keys, linking, answer keys, word banks, Anki TSV format, register labels, CEFR labels, section icons
+     - quality checklist
+     - file skeletons
+  3. **`05_VALIDATION_LOG.md` created:** entry format, validation types, 13 categories, severity scale, approval states, and V-001 (M1 validation).
+  4. **`CLAUDE.md` created:** a concise recovery and workflow pointer into `Docs/`.
+  5. **Course root `GERMAN_LEARNING_PLAN/` created**, empty except for `.gitkeep` so git tracks it.
+  6. **Git initialised** (branch `main`) with `.gitignore`. It ignores OS and editor files, Obsidian workspace state, learner audio recordings and generated `.apkg` files.
+  7. **M1 scope narrowed by the user's definition of M1 completion.** These items were moved out of M1:
+     - course README
+     - `00_Curriculum/01`–`08` (now optional)
+     - stage READMEs
+     - `Resources/` files
+     - `Learner_Workbook/` files
+
+     They are provisionally reallocated just in time to M2/M3/M4/M6 (OD-13, to be confirmed at M2 start). Proposed work packages were added to M3.
+  8. **Local consistency updates to `01`** (no architectural content changed; the version stays v1.0):
+     - CD-05, CD-28, CD-36, CD-38: file-timing references updated
+     - CD-41: pilot and B1 review stop recorded as decided
+     - CD-43: OD-05/06/10 recorded
+     - Appendix H: now shows `CLAUDE.md`, `.gitignore`, `Docs/04`–`05`, and marks `00_Curriculum/01`–`08` as optional
+- **Reason:** Complete the project infrastructure so future milestones have a stable standard, a validation framework, a fixed destination, automatic recovery and version history.
+- **Impact:**
+  - M1 is **COMPLETE**. M2 is **NOT STARTED — AWAITING APPROVAL**.
+  - Every future course file is built and checked against `04`, and every validation is recorded in `05`.
+  - M3 cannot start before the learner has taken the diagnostic.
