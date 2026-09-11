@@ -17,7 +17,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
 Current batch:      M5 WP2 — A2-U04, A2-U05, A2-U06, A2-R2, A2 Midpoint
-Next task:          A2-U04 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U05_Gesundheit/ (00_Overview + L1–L4), then A2-U06, A2-R2, A2 Midpoint — plan in §6
+Next task:          A2-U04 ✅ · A2-U05 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U06_Einkaufen_und_Kleidung/ (00_Overview + L1–L4), then A2-R2, A2 Midpoint — plan in §6
 Last completed:     M4 — A2 Pilot (2026-09-12, V-008)
 Push status:        OK (origin/main in sync after every batch)
 ```
@@ -109,13 +109,13 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 **WP1 ✅ (2026-09-12, V-009):** A2-U02 Menschen & Geschenke · A2-U03 Wohnen · A2-R1 Wiederholung (+ dative, prepositions and position-verb resource sections, `.gitattributes`)
 
 **WP2** (in progress). Lesson plans, so any session can build them consistently:
-1. **A2-U04 Essen & Gewohnheiten** (*weil / dass / denn*; verb-final clauses on the Sentence Map)
+1. ✅ **A2-U04 Essen & Gewohnheiten** (*weil / dass / denn*; verb-final clauses on the Sentence Map)
    - `L1_Warum`: *weil* + *denn* for reasons; food habits and preferences; the spoken *weil* + verb-second note
    - `L2_Ich_finde_dass`: *dass*-clauses (*Ich finde / glaube / denke, dass …; Es ist wichtig, dass …*); opinion starters; agreeing and disagreeing
    - `L3_Im_Restaurant`: ordering with special requests, allergies, paying, complaining politely (*Könnte ich …?* as a phrase); reasons in service talk
    - `L4_Anwenden`: main task = restaurant role-play + mini-debate "Lohnt es sich, zu Hause zu kochen?" (Story Bank Task 7, A2 early)
    - Resources: Sentence_Map (link), Grammar_Tables A2 verb-final clauses, Redemittel A2 opinions and restaurant
-2. **A2-U05 Gesundheit** (reflexive verbs · *wenn* · modal Präteritum · *sollen*)
+2. ✅ **A2-U05 Gesundheit** (reflexive verbs · *wenn* · modal Präteritum · *sollen*)
    - `L1_Mir_gehts_nicht_gut`: body parts, symptoms, *Mir tut … weh, Ich habe Kopfschmerzen*, dative reflexive (*Ich habe mir den Arm gebrochen*)
    - `L2_Beim_Arzt`: reflexive verbs (*sich fühlen, sich ausruhen, sich erholen, sich hinlegen, sich freuen*); advice with *sollen*; the doctor's visit
    - `L3_Krank_melden`: *wenn*-clauses (condition + repeated time); modal Präteritum *konnte, musste, wollte, durfte, sollte*; calling in sick; the pharmacy

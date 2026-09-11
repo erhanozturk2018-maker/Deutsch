@@ -149,6 +149,17 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Clusters: *z* = [ts] (*Zimmer, zwölf*), *pf* (*Pflanze, Kopf*), *tz* (*Platz*), and final clusters (*Herbst, Obst*). Say them slowly first, then faster, and never add a vowel in between (❌ *Pe-flanze*).
 - *stellen* (short *e*, double *l*) vs *stehen* (long *e*); *legen* (long *e*) vs *liegen* (long *ie*).
 
+### *ch*, *ch* and *sch* in health words (A2-U05)
+
+- Soft *ch* (after *e, i, ei, ü, ö* and consonants): *ich, mich, schlecht, leicht*
+- Hard *ch* (after *a, o, u, au*): *Bauch, Woche, gebrochen, Knochen*
+- *sch* = English *sh*: *Schmerzen, Schnupfen, schwindlig*. *schlecht* has both: *sch-le-ch-t*.
+
+### Unstressed pronouns and *-te* endings (A2-U05)
+
+- Reflexive pronouns are never stressed: *Ich fühle mich **SCHLAPP**. · Ruh dich **AUS**!* Glue *mich / dich / sich* to the word before.
+- Präteritum of modals: stress on the first syllable, and keep the *-te*: ***KONN**te, **MUSS**te* (short *u*), ***DURF**te* (no umlaut).
+
 ---
 
-*Added later: question melody (A2), sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*
+*Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

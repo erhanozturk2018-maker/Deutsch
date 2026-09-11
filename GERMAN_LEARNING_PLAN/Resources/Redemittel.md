@@ -19,6 +19,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Home and flat hunting](#a2-home-and-flat-hunting)
 - [A2: Opinions and reasons](#a2-opinions-and-reasons)
 - [A2: At the restaurant](#a2-at-the-restaurant)
+- [A2: Health](#a2-health)
 
 ---
 
@@ -253,6 +254,26 @@ Taught in [A2-U04](../A2/A2-U04_Essen_und_Gewohnheiten/00_Overview_und_Wortschat
 | Zusammen oder getrennt? | Together or separately? | – |
 | Machen Sie 24. · Stimmt so. | Make it 24. · Keep the change. | – |
 
+## A2: Health
+
+Taught in [A2-U05](../A2/A2-U05_Gesundheit/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Was ist los? · Was fehlt Ihnen? | What's wrong? · What's the matter? (doctor) | – / formal |
+| Mir geht es nicht gut. · Ich fühle mich schlapp. | I'm not feeling well. · I feel weak. | – |
+| Mir tut der Kopf weh. · Mir tun die Füße weh. | My head hurts. · My feet hurt. | – |
+| Ich habe Kopf- / Bauch- / Halsschmerzen. | I have a headache / stomach ache / sore throat. | – |
+| Ich habe seit … Fieber / Husten. · Mir ist schlecht / schwindlig. | I've had a temperature / a cough since … · I feel sick / dizzy. | – |
+| Ich habe mir den Arm gebrochen / den Fuß verletzt. | I've broken my arm / hurt my foot. | – |
+| Ich hätte gern einen Termin. · Geht es auch früher? | I'd like an appointment. · Is anything earlier possible? | – |
+| Was soll ich machen? · Wie oft soll ich das nehmen? | What should I do? · How often should I take it? | – |
+| Können Sie mich krankschreiben? | Can you give me a sick note? | formal |
+| Ich muss mich leider krankmelden. | I have to call in sick, I'm afraid. | formal |
+| Haben Sie etwas gegen …? · Brauche ich dafür ein Rezept? | Do you have something for …? · Do I need a prescription? | – |
+| Ruh dich aus! · Leg dich hin! · Du musst zum Arzt! | Rest! · Lie down! · You must see a doctor! | informal |
+| Oh nein, du Arme / du Armer! · Gute Besserung! | Oh no, poor you! · Get well soon! | informal / – |
+
 ---
 
-*Added later in A2: giving reasons and opinions, agreeing and disagreeing, complaining, at the doctor's, on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+*Added later in A2: complaining, on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

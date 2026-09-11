@@ -7,8 +7,9 @@ Reference lists of verbs whose forms or partners you have to learn: irregular pa
 - [A2: Verbs with *sein*](#a2-verbs-with-sein)
 - [A2: Dative verbs](#a2-dative-verbs)
 - [A2: Position verbs](#a2-position-verbs)
+- [A2: Reflexive verbs](#a2-reflexive-verbs)
 
-*Added later:* reflexive verbs (A2-U05) · verbs with prepositions (A2-U08) · Präteritum forms (B1-U01).
+*Added later:* verbs with prepositions (A2-U08) · Präteritum forms (B1-U01).
 
 ---
 
@@ -142,3 +143,25 @@ Taught in [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md).
 
 - *Ich **stelle** die Vase auf **den** Tisch.* → *Die Vase **steht** auf **dem** Tisch.*
 - *Ich **lege** das Buch ins Regal.* → *Das Buch **liegt** im Regal.*
+
+## A2: Reflexive verbs
+
+Taught in [A2-U05](../A2/A2-U05_Gesundheit/00_Overview_und_Wortschatz.md). Pronoun table: [Grammar Tables → Reflexive pronouns](Grammar_Tables.md#a2-reflexive-pronouns). All take *haben* in the Perfekt.
+
+| Verb | Perfekt | Meaning |
+|---|---|---|
+| sich fühlen | hat sich gefühlt | to feel |
+| sich aus\|ruhen | hat sich ausgeruht | to rest |
+| sich erholen | hat sich erholt | to recover |
+| sich hin\|legen | hat sich hingelegt | to lie down |
+| sich setzen | hat sich gesetzt | to sit down |
+| sich erkälten | hat sich erkältet | to catch a cold |
+| sich krank\|melden | hat sich krankgemeldet | to call in sick |
+| sich freuen | hat sich gefreut | to be glad (*auf / über*: A2-U08) |
+| sich waschen | hat sich gewaschen | to wash (oneself) |
+| sich an\|ziehen | hat sich angezogen | to get dressed (A2-U06) |
+| sich beeilen | hat sich beeilt | to hurry |
+| sich verletzen | hat sich verletzt | to hurt oneself |
+
+**With a body part (dative pronoun):** *sich (Dat.) die Hände waschen · sich den Arm brechen · sich den Fuß verletzen · sich in den Finger schneiden · sich die Hand verbrennen*
+

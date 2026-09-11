@@ -129,6 +129,19 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *allergic to* | allergisch zu | allergisch **gegen** | Fixed preposition |
 | *the check / the bill* | die Check | **die Rechnung** · *Zahlen, bitte!* | – |
 
+### Health (A2-U05)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *My head hurts.* | Mein Kopf tut weh. (possible) | **Mir tut** der Kopf **weh**. | Dative person + body part as subject is the natural form |
+| *I have a headache.* | Ich habe einen Kopfschmerz. | Ich habe **Kopfschmerzen**. | Plural, no article |
+| *I broke my arm.* | Ich habe meinen Arm gebrochen. | Ich habe **mir den** Arm gebrochen. | Dative pronoun + article for body parts |
+| *I feel good / sick.* | Ich fühle gut. / Ich fühle krank. | Ich **fühle mich** gut. / **Mir ist schlecht.** | *sich fühlen* is reflexive; *I feel sick* = *Mir ist schlecht* |
+| *Sit down!* | Sitz! | **Setz dich!** / **Setzen Sie sich!** | *Sitz!* is for dogs |
+| *I couldn't come.* | Ich habe nicht kommen gekonnt. | Ich **konnte** nicht kommen. | Modal verbs → Präteritum in speech |
+| *if* / *when* (whenever) | ob … / wann … | **wenn** | *ob* = whether; *wann* = question only |
+| *prescription* | die Vorschrift | **das Rezept** | ⚠️ *das Rezept* = prescription and recipe; *die Rezeption* = reception |
+
 ---
 
-*More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *mir ist kalt*, *als/wenn/wann*, the missing progressive in more contexts. B1 traps come later.*
+*More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *als/wenn* (B1), the missing progressive in more contexts. B1 traps come later.*

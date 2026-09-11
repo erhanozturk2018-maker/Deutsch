@@ -16,6 +16,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Dative](#a2-dative)
 - [A2: Prepositions](#a2-prepositions)
 - [A2: Verb-final clauses](#a2-verb-final-clauses)
+- [A2: Reflexive pronouns](#a2-reflexive-pronouns)
+- [A2: Modal verbs in the past](#a2-modal-verbs-in-the-past)
 
 ---
 
@@ -277,6 +279,7 @@ Taught in [A2-U04](../A2/A2-U04_Essen_und_Gewohnheiten/00_Overview_und_Wortschat
 | Ich komme nicht, | **weil** | ich arbeiten | **muss**. (modal last) |
 | Ich bin müde, | **weil** | ich schlecht geschlafen | **habe**. (auxiliary last) |
 | Ich finde, | **dass** | das Essen gut | **ist**. |
+| Ich bleibe zu Hause, | **wenn** | ich Fieber | **habe**. (A2-U05: if, whenever) |
 
 **Clause first → verb, comma, verb:** *Weil ich krank bin, **bleibe** ich zu Hause.*
 
@@ -286,3 +289,38 @@ Taught in [A2-U04](../A2/A2-U04_Essen_und_Gewohnheiten/00_Overview_und_Wortschat
 |---|---|---|
 | *und, aber, oder, denn, sondern* | position 0 | *…, **denn** ich **bin** krank.* |
 | *deshalb, trotzdem, dann* (A2-U10) | Vorfeld (they count!) | *…, **deshalb bleibe** ich zu Hause.* |
+
+## A2: Reflexive pronouns
+
+Taught in [A2-U05](../A2/A2-U05_Gesundheit/00_Overview_und_Wortschatz.md). The verbs: [Verb Lists → Reflexive verbs](Verb_Lists.md#a2-reflexive-verbs).
+
+| | Accusative (normal) | Dative (when there's another object) |
+|---|---|---|
+| ich | **mich** | **mir** |
+| du | **dich** | **dir** |
+| er / sie / es | sich | sich |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie / Sie | sich | sich |
+
+- *Ich wasche **mich**.* → *Ich wasche **mir** die Hände.* · *Er wäscht **sich** (die Hände).*
+- Position: early in the Mittelfeld, after the conjugated verb (or after the subject if the subject follows the verb): *Heute fühle ich **mich** besser.*
+- Perfekt with ***haben***: *Ich **habe** mich erholt.*
+
+## A2: Modal verbs in the past
+
+Taught in [A2-U05](../A2/A2-U05_Gesundheit/L3_Krank_melden.md). For modal verbs, the Präteritum is the normal spoken past (not the Perfekt).
+
+| | können | müssen | dürfen | wollen | sollen |
+|---|---|---|---|---|---|
+| ich | konnte | musste | durfte | wollte | sollte |
+| du | konntest | musstest | durftest | wolltest | solltest |
+| er / sie / es | konnte | musste | durfte | wollte | sollte |
+| wir | konnten | mussten | durften | wollten | sollten |
+| ihr | konntet | musstet | durftet | wolltet | solltet |
+| sie / Sie | konnten | mussten | durften | wollten | sollten |
+
+- **-te** + the endings of *hatte*; **no umlaut**; *ich* = *er*.
+- *möchten* has no past of its own: use ***wollte***.
+- ⚠️ *konnte* (could, past) ≠ *könnte* (could, would be able to: Konjunktiv II, A2-U10).
+
