@@ -181,6 +181,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - On the phone, say numbers in small groups with pauses, and use ***zwo*** for *zwei* when the line is bad.
 - *-ig* at the end sounds like *-ich*: *zwanz**ich**, zuständ**ich***.
 
+### Ordinals, particles and fast speech (A2-U09)
+
+- Ordinal endings are short and unstressed: *am **DRIT**-ten, am **ZWAN**-zigs-ten*. Careful with *siebten* (not *siebenten*) and *achten*.
+- *doch* and *mal* are never stressed: *KOMM doch mal vorBEI!*
+- An invitation rises at the end (*Komm doch mal vorbei?* ↗); an order falls (*Komm vorbei.* ↘).
+- Recognise fast speech: *wollen wir* → *woll'n wir* · *was machen wir* → *was mach'n wir* · *ich habe* → *ich hab'* · *-ag* at the end often sounds like *-ach* (*Samstach*).
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

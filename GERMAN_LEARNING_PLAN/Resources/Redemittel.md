@@ -23,6 +23,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Shopping for clothes](#a2-shopping-for-clothes)
 - [A2: Travelling and asking for information](#a2-travelling-and-asking-for-information)
 - [A2: Work and the telephone](#a2-work-and-the-telephone)
+- [A2: Inviting, planning and celebrating](#a2-inviting-planning-and-celebrating)
 
 ---
 
@@ -338,6 +339,28 @@ Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/00_Overview_und_Wortschatz.md
 | Sag mir bitte Bescheid. · Ich melde mich. | Let me know. · I'll be in touch. | informal / – |
 | Vielen Dank, auf Wiederhören! | Thank you, goodbye! (phone) | formal |
 
+## A2: Inviting, planning and celebrating
+
+Taught in [A2-U09](../A2/A2-U09_Feste_und_Plaene/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Hast du Lust auf einen Kaffee? · Wollen wir mal wieder ins Kino? | Do you fancy a coffee? · Shall we go to the cinema again some time? | informal |
+| Wie wäre es mit Samstag? · Komm doch mal vorbei! | How about Saturday? · Do drop by some time! | informal |
+| Ich lade dich zum Essen ein. · Wir laden Sie herzlich zu … ein. | I'm inviting you for dinner. · We warmly invite you to … | informal / formal |
+| Sehr gern! · Klingt super, da bin ich dabei. · Ich freue mich drauf! | I'd love to! · Sounds great, I'm in. · Looking forward to it! | – |
+| Das ist lieb, aber ich kann leider nicht, weil … | That's kind, but I'm afraid I can't, because … | – |
+| Schade! Vielleicht ein andermal? · Wie wäre es nächste Woche? | Shame! Maybe another time? · How about next week? | – |
+| Sollen wir …? · Lass uns …! · Lieber … | Shall we …? · Let's …! · I'd rather … | – |
+| Wann treffen wir uns? · Wo genau? · Wer bringt was mit? | When shall we meet? · Where exactly? · Who's bringing what? | – |
+| Abgemacht! · Einverstanden. · Also: Samstag um eins am Bahnhof. | It's a deal! · Agreed. · So: Saturday at one at the station. | – |
+| Sag mir bitte bis Mittwoch Bescheid. | Let me know by Wednesday. | – |
+| Herzlichen Glückwunsch zum Geburtstag / zur Hochzeit! · Alles Gute! | Happy birthday! · Congratulations on your wedding! · All the best! | – |
+| Frohe Weihnachten! · Guten Rutsch! · Frohe Ostern! | Happy Christmas / New Year / Easter! | – |
+| Prost! · Zum Wohl! · Viel Erfolg! · Toi, toi, toi! | Cheers! · Good luck! | – |
+| Wir kennen uns noch nicht, oder? · Und woher kennst du …? | We haven't met, have we? · And how do you know …? | party small talk |
+| Ich hole mir schnell was zu trinken. Wir reden später weiter! | I'll grab a drink. Let's talk more later! | polite exit |
+
 ---
 
-*Added later in A2: inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+*Added later in A2: giving advice and wishes (U10). Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

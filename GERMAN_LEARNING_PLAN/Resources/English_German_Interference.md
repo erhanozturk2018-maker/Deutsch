@@ -190,6 +190,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *Goodbye* (on the phone) | Auf Wiedersehen | **Auf Wiederhören** | You hear, not see |
 | *I'll send it to you tomorrow.* | Ich schicke morgen es dir. | Ich schicke **es dir** morgen. | Pronouns early in the middle field |
 
+### Plans and invitations (A2-U09)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *I will go tomorrow.* | Ich will morgen gehen. | **Morgen gehe ich.** | *wollen* = to want; the future is usually the present |
+| *I'm going to visit her.* | Ich werde sie besuchen gehen. | **Ich besuche sie** (morgen). | No "going to" construction |
+| *to invite someone to a party* | jemanden für eine Party einladen | jemanden **zu** einer Party einladen | *einladen zu* + dative |
+| *Do you fancy a coffee?* | Hast du Lust für einen Kaffee? | Hast du **Lust auf** einen Kaffee? | *Lust auf* + accusative |
+| *How about a coffee?* | Wie wäre es mit einen Kaffee? | Wie wäre es **mit einem** Kaffee? | *mit* + dative |
+| *Let's go!* | Lass uns zu gehen! | **Lass uns gehen!** | No *zu* after *lassen* |
+| *on the 3rd of May* | am drei Mai | **am dritten Mai** | Dates use ordinals with *-n* |
+| *I congratulate you.* | Ich gratuliere dich. | Ich gratuliere **dir**. | *gratulieren* + dative |
+| *Happy birthday!* (two days early) | – | Say it **on** the day | Congratulating early brings bad luck |
+| *Cheers!* | Gesundheit! | **Prost!** / **Zum Wohl!** | *Gesundheit!* is for sneezes |
+
 ---
 
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *als/wenn* (B1), the missing progressive in more contexts. B1 traps come later.*

@@ -23,6 +23,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Places: where to and where](#a2-places-where-to-and-where)
 - [A2: da- and wo- words](#a2-da--and-wo--words)
 - [A2: The middle field](#a2-the-middle-field)
+- [A2: The future](#a2-the-future)
+- [A2: Dates and ordinals](#a2-dates-and-ordinals)
 
 ---
 
@@ -412,4 +414,38 @@ Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/L3_Termine_verschieben.md). T
 5. ***nicht*** goes late: before the second verb, or before the element it negates: *Ich rufe ihn heute **nicht** an.*
 
 Two habits cover most sentences: **pronouns early**, **time before place**.
+
+## A2: The future
+
+Taught in [A2-U09](../A2/A2-U09_Feste_und_Plaene/L2_Was_machst_du_am_Wochenende.md).
+
+| Form | When you use it | Example |
+|---|---|---|
+| **present + time word** | almost every plan | *Morgen **fahre** ich nach Köln. · Nächste Woche **fängt** der Kurs **an**.* |
+| ***werden* + infinitive** | predictions, promises, no time word | *Es **wird** morgen **regnen**. · Ich **werde** dich nicht **vergessen**.* |
+
+*werden*: *ich werde · du wirst · er/sie/es wird · wir werden · ihr werdet · sie/Sie werden*.
+
+- Colouring words: *bestimmt, sicher* (definitely) · *wahrscheinlich* (probably) · *vielleicht* (maybe) · *hoffentlich* (hopefully) · *bald, gleich, nachher, später*.
+- ⚠️ *ich will* = I **want**. The future is *ich werde* — or simply the present.
+
+## A2: Dates and ordinals
+
+Taught in [A2-U09](../A2/A2-U09_Feste_und_Plaene/L3_Feste_feiern.md).
+
+| Number | Ordinal | With *am* |
+|---|---|---|
+| 1 | der erste | am ersten |
+| 2 | der zweite | am zweiten |
+| 3 | der dritte | am dritten |
+| 4–6 | der vierte, fünfte, sechste | am vierten … |
+| 7 | der siebte | am siebten |
+| 8 | der achte | am achten |
+| 9–19 | der neunte … neunzehnte | am neunten … |
+| 20 | der zwanzigste | am zwanzigsten |
+| 21–31 | der einundzwanzigste … einunddreißigste | am einundzwanzigsten … |
+
+- **1–19: *-te* · from 20: *-ste*.** Irregular: *erste, dritte, siebte, achte*.
+- *Wann hast du Geburtstag? – **Am dritten Mai**.* · ***Der Wievielte** ist heute? – Der vierzehnte.*
+- Written: *am 3. Mai · Köln, den 14.10.2026*.
 
