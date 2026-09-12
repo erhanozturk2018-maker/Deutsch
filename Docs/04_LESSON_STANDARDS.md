@@ -2,9 +2,9 @@
 
 > **Purpose:** The authoritative standard for every course file: how lessons are built, how files are formatted, and when a file counts as complete.
 >
-> **Version:** 1.1 (2026-09-12). v1.0.1/v1.0.2 were small clarifications; v1.1 applies the M4 pilot findings (V-008).
+> **Version:** 1.2 (2026-09-12). v1.0.1/v1.0.2 were small clarifications; v1.1 applied the M4 pilot findings (V-008); v1.2 fixes the **instruction language at B1** after the B1-U01 review stop (V-012).
 >
-> **Status:** **Validated for A1 and A2** by the M4 pilot (A2-U01). The B1 variant (German task instructions) gets its own check at the **B1-U01 special review** (M6 WP1). Later revisions become v1.2, v1.3… and are logged in [06_CHANGELOG.md](06_CHANGELOG.md).
+> **Status:** **Validated for A1 and A2** by the M4 pilot (A2-U01) and **for B1.1** by the B1-U01 review stop (V-012, 2026-09-12), which produced rule A7.1 below. Later revisions become v1.3, v1.4… and are logged in [06_CHANGELOG.md](06_CHANGELOG.md).
 >
 > **Relationship to other Docs:**
 > - Turns CD-38 and Appendix I of [01_CURRICULUM_DECISIONS.md](01_CURRICULUM_DECISIONS.md) into concrete rules.
@@ -179,6 +179,29 @@ Codes:
 | Glossing in texts | All unknown words | Key unknown words | Key words | Only words that can't be guessed | Learner guesses first; gloss hidden |
 
 **Within a unit:** `L1` has the most support, `L4` the least.
+
+### A7.1 Instruction language at B1 (v1.2, from the B1-U01 review stop)
+
+CD-10 says "simple German with English support" for B1.1 and "German" for B1.2. Concretely:
+
+| Element | B1.1 | B1.2 |
+|---|---|---|
+| Activity titles (`### 3. …`) | **German** | German |
+| First instruction line of an activity | **German**, followed by an *italic English support line* when the task is more than a formula | German only |
+| Success criteria, checklists, `Hinweis` blocks | **German**, short phrases | German |
+| 🎯 Ziele, Roadmap, unit overview headings | **German** | German |
+| 📘 Explanation, ⚠️ interference, error tables, 🔗 Rückblick | **English**, with the German grammar terms named | English + German key terms |
+| Comprehension answer keys | **English** (content) or German, whichever is clearer | **German** |
+| Production answer keys, transcripts, sample answers | German (as always) | German |
+| Flashcard tables | unchanged: prompt English → answer German (production direction) | unchanged |
+| AI role-play prompt blocks | **English** (they instruct the AI, not the learner); the German the AI must speak stays German | English |
+
+**Rules of thumb**
+1. Repeating formulas (*Sagen Sie die Sätze sofort auf Deutsch*, *Ergänzen Sie*, *Schreiben Sie*, *Hören Sie*) get the English support line **only on first use in a unit**.
+2. A German instruction must never hide the task: if a learner could misunderstand *what to do*, add the support line, whatever the level.
+3. The support line is *italic and in brackets-free English*, placed directly under the German, never mixed into it.
+4. Never translate the German instruction word for word — say the task plainly in English.
+5. From B1-U07 (B1.2) the support lines disappear and comprehension answers switch to German. This is a **stage change**, announced to the learner in the unit overview.
 
 **Within an activity:** give hints in a `Hinweis` `<details>` block so the learner opts in, rather than printing them openly.
 

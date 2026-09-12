@@ -222,6 +222,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *Nevertheless I went.* | Trotzdem ich bin gegangen. | **Trotzdem bin ich** gegangen. | *trotzdem* fills the Vorfeld → verb second |
 | *not a phone but a tablet* | kein Handy, aber ein Tablet | kein Handy, **sondern** ein Tablet | *sondern* after a negative |
 
+### Narrating the past (B1-U01)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *She was born in 1961.* | Sie ist 1961 geboren worden. | Sie **wurde** 1961 **geboren**. | Fixed narrative form |
+| *When I was a child …* | Wenn ich ein Kind war | **Als** ich ein Kind war | *als* = once in the past |
+| *Whenever it rained …* | Als es regnete (habitual) | **(Immer) wenn** es regnete | *wenn* = repeated |
+| *When did you move?* | Als bist du umgezogen? | **Wann** bist du umgezogen? | *wann* only in questions |
+| *I used to live in Berlin.* | Ich benutzte in Berlin zu wohnen. | **Früher wohnte ich** in Berlin. | No "used to": *früher* + Präteritum |
+| *After I had eaten …* | Nach ich gegessen hatte | **Nachdem** ich gegessen hatte | *nachdem* = conjunction, *nach* = preposition |
+| *Before I left …* | Vor ich ging | **Bevor** ich ging | Same distinction |
+| *I had eaten* (simple past event) | Ich hatte gegessen | Ich **habe gegessen** / **aß** | The Plusquamperfekt needs a second, later event |
+| *Since I live here …* | Seit ich hier wohnte | **Seit** ich hier **wohne** | *seit* + present when still true |
+| *while* | Während ich arbeitete machte ich … | Während ich arbeitete**,** machte ich … | Comma, then verb, comma, verb |
+
 ---
 
 *B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*

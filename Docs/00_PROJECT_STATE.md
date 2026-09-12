@@ -11,14 +11,14 @@
 ```text
 Project:            German A1 → B1 Curriculum
 Architecture:       Approved — Baseline v1.0 (2026-09-11)
-Lesson standard:    04_LESSON_STANDARDS v1.1 (pilot-validated 2026-09-12)
+Lesson standard:    04_LESSON_STANDARDS v1.2 (A1/A2 pilot-validated; B1.1 instruction language fixed by the B1-U01 review stop, V-012)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1
 Status:             IN PROGRESS
-Current batch:      M6 WP1 — B1 README, B1-U01 Lebenswege, then the German-instructions review stop
-Next task:          M5 ✅ COMPLETE (A2 is finished: U01–U10, R1–R3, Midpoint, Exit; A2.tsv 561 cards). NEXT: M6 WP1 — write GERMAN_LEARNING_PLAN/B1/README.md and B1/B1-U01_Lebenswege/ (00_Overview + L1–L4: Präteritum of all verbs, als vs wenn, Plusquamperfekt with nachdem/bevor, während/seit/bis/sobald; main task: biography presentation + 4/3/2 retelling), then the special review of German task instructions (CD-10 / 04 A7) before B1-U02
-Last completed:     M5 — A2 Completion, all work packages (2026-09-12, V-011)
+Current batch:      M6 WP1 — B1-U02 Menschen beschreiben, B1-U03 Arbeit & Beruf (B1 README ✅, B1-U01 ✅, review stop ✅)
+Next task:          B1 README ✅ · B1-U01 ✅ · review stop ✅ (04 v1.2, rule A7.1). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U02_Menschen_beschreiben/ (00_Overview + L1–L4: relative clauses nom/acc/dat and with prepositions, adjective endings stage 2 (dative + article-less), n-declension, sich = each other; main tasks: 'Wer ist das?' guessing game and Taboo-style describing), following 04 A7.1 for the instruction language
+Last completed:     M6 WP1 part 1 — B1 README, B1-U01, review stop → 04 v1.2 (2026-09-12, V-012)
 Push status:        OK (origin/main in sync after every batch)
 ```
 
@@ -112,12 +112,11 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 - Run `tools/check_structure.py`, `tools/check_vocab.py <unit>`, `tools/build_anki.py`, `tools/check_links.py`
 - Add each unit's B1 content to Resources; create `Resources/Anki/B1.tsv` with the first B1 unit
 
-**WP1 (in progress):** `B1/README.md` · **B1-U01 Lebenswege** (Präteritum of all verbs, spoken vs written; *als* vs *wenn*; Plusquamperfekt with *nachdem/bevor*; *während, seit, bis, sobald*; main task: biography presentation + 4/3/2 retelling; Story Bank Task 3 at B1)
-  - Then the **review stop**: reread B1-U01 against CD-10 and `04` A7, decide how much German the instructions use from B1-U02 on, record the decision in `06` and, if it changes the standard, in `04` as v1.2.
+**WP1:** `B1/README.md` ✅ · **B1-U01 Lebenswege** ✅ (V-012) · **review stop ✅** → `04` **v1.2**, rule **A7.1** fixes the instruction language for B1.1 and B1.2. Remaining in WP1: **B1-U02 Menschen beschreiben** (relative clauses nom/acc/dat and with prepositions; adjective endings stage 2; n-declension; *sich* = each other; main tasks: "Wer ist das?" and Taboo-style describing; Story Bank Task 8 at B1) and **B1-U03 Arbeit & Beruf** (*zu* + infinitive; *um … zu* vs *damit*; *da-* word + clause; job-interview simulation and application email).
 
-**WP2:** B1-U02 (relative clauses, adjective endings stage 2, n-declension) · B1-U03 (*zu*-infinitive, *da-* word + clause) · B1-U04 (Konjunktiv II, full: unreal conditionals, wishes, advice)
+**WP2:** B1-R1 (cumulative review) · B1-U04 (Konjunktiv II, full: unreal conditionals, wishes, advice) · B1-U05 (genitive, *wegen/trotz/während*, paired connectors)
 
-**WP3:** B1-U05 (genitive, *wegen/trotz/während*, nominalisation) · B1-U06 (passive, media) · B1-R1 + B1 Midpoint
+**WP3:** B1-U06 (passive: present, Präteritum, with modals) · B1 Midpoint (review + diagnostic mid-test), then M6 closing validation
 
 **Story Bank at B1:** all eight tasks are recorded again at B1 level across M6/M7; the B1 Exit requires the full set.
 

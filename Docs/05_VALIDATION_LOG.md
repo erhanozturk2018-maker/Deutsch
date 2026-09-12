@@ -578,3 +578,33 @@
 - **Result:** **PASS WITH NOTES** — M5 (A2 Completion) is closed.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-012 — M6 WP1: B1 README, B1-U01 Lebenswege, and the B1 instruction-language review stop
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/B1/README.md`, `B1/B1-U01_Lebenswege/` (5 files), the B1 sections added to Resources, `Resources/Anki/B1.tsv`, and — as the **special review stop** required by `03` M6 — the instruction-language rule now in `04` A7.1 (v1.2).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The M6 criteria in `03` (instruction language per CD-10 and `04` A7; B1-length reading texts; the unit map in Appendix B); the `04` Part C checklist; the per-unit checklist in `00` §6.
+- **Method:**
+  - `check_structure.py` → 86 files, 0 problems
+  - `check_vocab.py` → B1-U01: 30 ★ rows, 0 below 3 (after adding practice for *aufwachsen* and *umziehen*)
+  - `check_links.py` → 1228 links, 0 broken, 3 planned
+  - `build_anki.py` → `B1.tsv` created, 56 cards tagged `B1-U01`
+  - manual reread of all German; answer keys item by item; comparison of every instruction against CD-10 and `04` A7
+- **Findings:**
+  1. `STR`/`DEP`, PASS. B1-U01 matches Appendix B: Präteritum of all verbs (written vs spoken), *als* vs *wenn* (CD-16 kept it for B1), Plusquamperfekt with *nachdem/bevor*, plus *während, seit, bis, sobald*; main task: biography presentation, and the 4/3/2 retelling as Story Bank Task 3 at B1.
+  2. **Review stop — instruction language.** The draft used German for activity titles, the first instruction line, success criteria, checklists and the unit goals, with an *italic English support line* under German instructions, and kept explanations, interference notes and error tables in English. Compared against CD-10 ("B1.1: simple German with English support") this is correct, but the standard did not say **which elements** or **how often** the support line appears, which would have produced drift across twelve units.
+     - **Decision (recorded in `04` A7.1, v1.2):** a per-element table for B1.1 and B1.2, plus five rules — repeating formulas keep the support line only on first use in a unit; a German instruction must never hide the task; the support line is a separate italic English line, never mixed in; it is a plain restatement, not a translation; support lines disappear from B1-U07 (B1.2) and comprehension answers switch to German there, announced to the learner.
+     - B1-U01 was then conformed to the rule and its `standard:` field set to v1.2.
+  3. `PED`, PASS. L1 discovery text (a migration biography) → L2 an interview → L3 two versions of the same year (list vs connected) → L4 presentation. The L3 discovery task makes the learner **compare a badly and a well-connected text**, which is the clearest possible motivation for time conjunctions.
+  4. `SPK`, PASS. Each lesson has a ⏱️ retrieval drill, an AI role-play (interview, podcast, presentation audience) and a 2-minute monologue; L4 has the 4/3/2 retelling. The presentation prompt asks the AI for structure feedback, not only error correction — appropriate at B1.
+  5. `CEF`/`LNG`, PASS with two notes: the reading texts are 190–260 words (B1 range per `03`), the listening texts 180–220. *zu*-infinitives appear in the reading texts and are glossed with a forward reference to B1-U03; one *zu*-infinitive was removed from a sample answer so that production stays inside the unit's grammar.
+  6. `LNG`, **Minor (fixed), 4 items:** a garbled sort-task answer key in L1; a Cyrillic character inside an error-table cell in L1; an unclear vowel-length pronunciation example in L1; a *zu*-infinitive in an L3 sample answer.
+  7. `VOC`/`DEP`, PASS. "Recycled from" covers eight earlier units including A1; the word bank is built around the biography field; `check_vocab` passes after two additions.
+  8. `WRK`, PASS (estimate). Lessons 85–90 min, unit ≈345 min. No learner trial yet (KI-11).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed; the review-stop decision is in `04` v1.2 and `06` [012].
+- **Result:** **PASS WITH NOTES** — M6 WP1 continues with B1-U02.
+- **Approval status:** – (autonomous mode)
+

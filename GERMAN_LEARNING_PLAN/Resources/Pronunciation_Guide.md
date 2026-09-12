@@ -195,6 +195,15 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Stress the connector that carries the logic: ***DESHALB** konnte ich nicht anrufen. · **TROTZ**dem habe ich es gekauft.*
 - The correction pattern rises then falls: *Das ist nicht mein **KA**bel* ↗*, sondern **KE**rems* ↘*.*
 
+### Narrating: Präteritum forms and long sentences (B1-U01)
+
+- Präteritum forms are short and stressed, and the **vowel length** carries the meaning: *kam* [aː] vs *kann* [a] · *lag* [aː] vs *Lack* [a].
+- Don't swallow the weak syllables: *machte* [MACH-tə], *arbeitete* [AR-bai-tə-tə].
+- Mixed verbs change two things at once: *DACHte, BRACHte, WUSSte*.
+- A subordinate clause first means **rise – pause – fall**: *Als ich klein war,* ↗ *(Atem)* *wohnten wir auf dem Land.* ↘
+- Breathe **at the comma**, never inside a clause; keep the final verb audible: *…bestanden **HAT**te*.
+- Stress: *nach**DEM*** · ***WÄH**rend* · *so**BALD*** · *seit**DEM***.
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

@@ -355,3 +355,19 @@
 - **Reason:** The M5 WP3 plan in `00` §6.
 - **Impact:** **A2 is complete**: 10 units, 3 cumulative reviews, a midpoint diagnostic and an exit gate, with 561 A2 flashcards. Next: M6 (B1.1), starting with the B1 README and B1-U01, followed by the special review of German task instructions.
 
+---
+
+## [012] 2026-09-12 — M6 WP1: B1 starts — B1 README, B1-U01 Lebenswege, `04` v1.2
+
+- **Milestone:** M6, WP1 (including the **B1-U01 review stop** required by `03`)
+- **Affected files:**
+  - **Created:** `B1/README.md`, `B1/B1-U01_Lebenswege/` (5 files), `Resources/Anki/B1.tsv`
+  - **Updated:** `Docs/04_LESSON_STANDARDS.md` → **v1.2** (new rule A7.1), Resources (Grammar_Tables, Verb_Lists, Redemittel, English_German_Interference, Pronunciation_Guide), Docs 00/05/06
+- **Change:**
+  1. **B1 README:** what changes at B1 (instruction language, text length, speaking and writing targets, model answers), the B1.1 unit table, and the "B1 mindset" — say more than one sentence, talk around missing words, accuracy where meaning depends on it, daily input, speak to people.
+  2. **B1-U01 Lebenswege:** L1 Präteritum of all verbs and Perfekt-vs-Präteritum · L2 *als / wenn / wann* with childhood memories · L3 Plusquamperfekt and the time conjunctions *nachdem, bevor, während, seit, bis, sobald* · L4 biography presentation, Story Bank Task 3 (4/3/2), a 250-word biography to read, a two-generation interview, a 150–180-word portrait to write, quiz.
+  3. **`04` v1.2 — rule A7.1 (the review-stop decision):** a per-element table of the instruction language for B1.1 and B1.2 plus five rules on English support lines (first use only, never hide the task, separate italic line, restatement not translation, and the switch to full German at B1-U07).
+  4. **Resources:** B1 Präteritum table and the Plusquamperfekt/time-conjunction table; the Präteritum verb list (33 irregular + 5 mixed); B1 narrating and presenting Redemittel; a narration interference block; a B1 pronunciation section on Präteritum forms and breathing in long sentences.
+- **Reason:** The M6 WP1 plan in `00` §6, and the review stop mandated by `03` M6.
+- **Impact:** B1 has begun, and the instruction-language question — the biggest open format question for the remaining eleven units — is now settled in the standard rather than decided again in each unit. Next: B1-U02 (relative clauses, adjective endings stage 2, n-declension).
+

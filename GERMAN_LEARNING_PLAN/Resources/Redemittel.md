@@ -25,6 +25,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Work and the telephone](#a2-work-and-the-telephone)
 - [A2: Inviting, planning and celebrating](#a2-inviting-planning-and-celebrating)
 - [A2: Advice, wishes and polite requests](#a2-advice-wishes-and-polite-requests)
+- [B1: Telling a story and presenting](#b1-telling-a-story-and-presenting)
 
 ---
 
@@ -382,6 +383,27 @@ Taught in [A2-U10](../A2/A2-U10_Medien_und_Technik/00_Overview_und_Wortschatz.md
 | Man muss zuerst … · Niemand kann mir helfen. · Kann mir jemand helfen? | You have to … first · Nobody can help me. · Can somebody help me? | – |
 | …, deshalb … · Trotzdem … · nicht …, sondern … | …, so … · Even so … · not …, but … | – |
 
+## B1: Telling a story and presenting
+
+Taught in [B1-U01](../B1/B1-U01_Lebenswege/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Use |
+|---|---|---|
+| Ich möchte Ihnen / euch von … erzählen. | I'd like to tell you about … | opening a presentation |
+| Warum gerade sie/er? Weil … | Why her/him in particular? Because … | opening |
+| … wurde … geboren und wuchs in … auf. | … was born in … and grew up in … | biography |
+| Mit sechzehn verließ er/sie die Schule. | At sixteen he/she left school. | biography |
+| Zuerst … Dann … Ein Jahr später … Schließlich … | First … Then … A year later … Finally … | structuring |
+| Damals gab es … · Inzwischen … | Back then there was … · By now … | then vs now |
+| Der entscheidende Moment kam, als … | The decisive moment came when … | turning point |
+| Nachdem … hatte, … · Bevor …, … | After … had …, … · Before …, … | order of events |
+| Ich erinnere mich noch genau an den Tag, als … | I still remember exactly the day when … | personal memory |
+| Das war das erste Mal, dass … | That was the first time that … | personal memory |
+| Plötzlich … · Zum Glück … · Leider … | Suddenly … · Luckily … · Unfortunately … | drama and evaluation |
+| Was mich am meisten beeindruckt, ist … | What impresses me most is … | evaluating |
+| Für mich zeigt dieses Leben, dass … | For me this life shows that … | conclusion |
+| Kurz gesagt: … · Vielen Dank fürs Zuhören. | In short: … · Thank you for listening. | closing |
+
 ---
 
-*Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+*Added in B1: discussing, arguing, conceding, summarising, formal letters. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

@@ -1,0 +1,86 @@
+# B1: Telling, Explaining, Arguing
+
+At A2 you got things done. **B1 is where you become a person in German**: someone who tells a story with a beginning and an end, describes people and things precisely, explains what they'd do differently, argues a point and defends it — and understands what other people say about theirs.
+
+This is also the level where German stops being a subject and becomes a language you live in. From here on, part of the work happens outside these files: real texts, real listening, real conversations.
+
+---
+
+## What you'll be able to do at the end of B1
+
+- **Tell a story or a life** in the past, with background, turning point and end (Präteritum, Plusquamperfekt, *als / nachdem*).
+- **Describe people and things** precisely, including things whose name you don't know (relative clauses).
+- **Apply for a job**, do an interview, and explain your goals (*zu* + infinitive, *um … zu*).
+- **Discuss hypotheticals and give nuanced advice** (Konjunktiv II, full).
+- **Compare cultures** and write a formal complaint (genitive, paired connectors).
+- **Understand simple news** and describe how something is done (passive).
+- **Argue a case**: state, support, concede, rebut, and sum up.
+- **Handle officialdom**: forms, calls, letters, appointments, misunderstandings.
+- **Write** 150–200 words: emails, complaints, forum posts, short reports.
+
+---
+
+## The units
+
+**B1.1 Erzählen & Beschreiben** (telling & describing)
+
+| Unit | Topic | Grammar | Load |
+|---|---|---|---|
+| [B1-U01 Lebenswege](B1-U01_Lebenswege/00_Overview_und_Wortschatz.md) | Life stories, biographies, turning points | **Präteritum of all verbs**; ***als* vs *wenn***; **Plusquamperfekt**; *während, seit, bis, sobald* | ●●● |
+| B1-U02 Menschen beschreiben | People, personality, describing things | **Relative clauses**; adjective endings stage 2; n-declension | ●●● |
+| B1-U03 Arbeit & Beruf | Applications, interviews, goals | ***zu* + infinitive**; *um … zu* vs *damit*; *da-* word + clause | ●● |
+| B1-R1 Wiederholung | Cumulative review | – | – |
+| B1-U04 Gesundheit & Wohlbefinden | Stress, lifestyle, hypotheticals | **Konjunktiv II, full** (unreal *wenn*-clauses) | ●●● |
+| B1-U05 Reisen & Kulturen | Cultures, complaints | **Genitive**; paired connectors | ●● |
+| B1-U06 Medien & Nachrichten | News, processes, social media | **Passive** (present, Präteritum, with modals) | ●●● |
+| B1 Midpoint | Review + diagnostic mid-test | – | – |
+
+**B1.2 Argumentieren & Handeln** (arguing & acting) — units U07–U12, B1-R2, B1-R3 and the **B1 Exit**: the full list is in the course [README](../README.md) and appears here as the units are built.
+
+---
+
+## How a B1 unit works
+
+The structure is the same as A2 — a folder of five files, one lesson per session:
+
+| File | What it is | Time |
+|---|---|---|
+| `00_Overview_und_Wortschatz` | Unit map: goals, lessons, grammar at a glance, the **word bank** | 10 min |
+| `L1`, `L2`, `L3` | New-content lessons | 80–90 min each |
+| `L4_Anwenden` | The main task, reading, listening, writing, mixed review, unit quiz | 80–90 min |
+
+**What changes compared with A2:**
+
+| | A2 | B1 |
+|---|---|---|
+| **Task instructions** | English | **Simple German**, with English support where it's needed |
+| **Explanations** | English | English (with the German grammar terms named) |
+| **Texts** | 80–150 words | **200–400 words**, with real structure |
+| **Glossing** | key words glossed | only words you can't guess; try first, then check |
+| **Speaking** | 60 seconds | **2 minutes**, with 4/3/2 retellings and counter-arguments |
+| **Writing** | 60–100 words | **150–200 words**, with connectors and paragraphs |
+| **Model answers** | often before the task | **after** the task, as a *Beispielantwort* |
+
+If a German instruction ever stops you, the English support line is right there — but read the German first. That transfer is part of the level.
+
+---
+
+## The B1 mindset
+
+1. **Say more than one sentence.** At B1, a turn is 3–6 sentences: claim, reason, example, conclusion.
+2. **Don't stop at a missing word — talk around it.** *So ein Ding, mit dem man …* That's a skill, not a failure, and B1-U02 trains it directly.
+3. **Accuracy matters where meaning does.** Case endings on adjectives can stay imperfect; verb position, tense and connectors carry meaning, so they come first.
+4. **Input every day.** 15 minutes of German you didn't choose — news, podcast, a series with German subtitles. B1 is fed from outside, not only from these files.
+5. **Speak to people.** A tandem partner or tutor every one or two weeks turns B1 from knowledge into ability.
+
+---
+
+## Before you start
+
+- Passed the [A2 Exit Checkpoint](../A2/A2_Exit_Checkpoint.md)? If one part was weak, do its repair alongside B1-U01 rather than waiting.
+- Keep your [workbook](../Learner_Workbook/Progress_Tracker.md) going: the Error Log and the Story Bank are what make the difference visible at this level.
+- Flashcards: `Resources/Anki/B1.tsv` grows with each unit. Keep reviewing A2 as well — B1 vocabulary sits on top of it.
+
+---
+
+← [Course README](../README.md) · [A2](../A2/README.md) · [Start: B1-U01 Lebenswege](B1-U01_Lebenswege/00_Overview_und_Wortschatz.md) →

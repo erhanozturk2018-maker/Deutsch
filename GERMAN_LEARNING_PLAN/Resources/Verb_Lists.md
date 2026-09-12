@@ -9,8 +9,9 @@ Reference lists of verbs whose forms or partners you have to learn: irregular pa
 - [A2: Position verbs](#a2-position-verbs)
 - [A2: Reflexive verbs](#a2-reflexive-verbs)
 - [A2: Verbs with prepositions](#a2-verbs-with-prepositions)
+- [B1: Präteritum forms](#b1-präteritum-forms)
 
-*Added later:* Präteritum forms (B1-U01).
+*Complete for A2 and B1.1; more B1 lists follow with the units.*
 
 ---
 
@@ -196,4 +197,59 @@ Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/L2_Ich_freue_mich_darauf.md).
 **Things → one word with *da(r)-*:** *darauf, darüber, darum, dafür, davor, daran, damit, danach*.
 **Questions about things → *wo(r)-*:** *worauf, worüber, wofür, wovor, woran, womit, wonach*.
 **People → preposition + pronoun / question word:** *auf sie · mit ihm · Auf wen? · Mit wem?*
+
+## B1: Präteritum forms
+
+Taught in [B1-U01](../B1/B1-U01_Lebenswege/L1_Frueher_war_alles_anders.md). Learn each verb as a **trio**: infinitive – Präteritum – Perfekt.
+
+**The most frequent irregular verbs**
+
+| Infinitiv | Präteritum (ich/er) | Perfekt | English |
+|---|---|---|---|
+| sein | war | ist gewesen | to be |
+| haben | hatte | hat gehabt | to have |
+| werden | wurde | ist geworden | to become |
+| gehen | ging | ist gegangen | to go |
+| kommen | kam | ist gekommen | to come |
+| fahren | fuhr | ist gefahren | to go, drive |
+| bleiben | blieb | ist geblieben | to stay |
+| sehen | sah | hat gesehen | to see |
+| geben | gab | hat gegeben | to give |
+| nehmen | nahm | hat genommen | to take |
+| finden | fand | hat gefunden | to find |
+| sprechen | sprach | hat gesprochen | to speak |
+| schreiben | schrieb | hat geschrieben | to write |
+| lesen | las | hat gelesen | to read |
+| essen | aß | hat gegessen | to eat |
+| trinken | trank | hat getrunken | to drink |
+| sitzen | saß | hat gesessen | to sit |
+| stehen | stand | hat gestanden | to stand |
+| liegen | lag | hat gelegen | to lie |
+| ziehen | zog | ist/hat gezogen | to move / to pull |
+| tragen | trug | hat getragen | to carry, wear |
+| schlafen | schlief | hat geschlafen | to sleep |
+| helfen | half | hat geholfen | to help |
+| treffen | traf | hat getroffen | to meet |
+| verlieren | verlor | hat verloren | to lose |
+| verlassen | verließ | hat verlassen | to leave |
+| beginnen | begann | hat begonnen | to begin |
+| bekommen | bekam | hat bekommen | to get |
+| verstehen | verstand | hat verstanden | to understand |
+| vergessen | vergaß | hat vergessen | to forget |
+| sterben | starb | ist gestorben | to die |
+| heißen | hieß | hat geheißen | to be called |
+
+**Mixed verbs** (new vowel + *-te*)
+
+| Infinitiv | Präteritum | Perfekt |
+|---|---|---|
+| bringen | brachte | hat gebracht |
+| denken | dachte | hat gedacht |
+| kennen | kannte | hat gekannt |
+| nennen | nannte | hat genannt |
+| wissen | wusste | hat gewusst |
+
+**Modals** (A2-U05): *konnte · musste · durfte · wollte · sollte · mochte*
+
+**Regular verbs** need no list: stem + *-te* (*machte, wohnte, arbeitete, kaufte, spielte, lernte, fragte, sagte*).
 

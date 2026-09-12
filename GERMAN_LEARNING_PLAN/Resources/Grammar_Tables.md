@@ -27,6 +27,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Dates and ordinals](#a2-dates-and-ordinals)
 - [A2: Konjunktiv II (advice, wishes, politeness)](#a2-konjunktiv-ii-advice-wishes-politeness)
 - [A2: Connectors overview](#a2-connectors-overview)
+- [B1: Präteritum](#b1-präteritum)
+- [B1: Plusquamperfekt and time conjunctions](#b1-plusquamperfekt-and-time-conjunctions)
 
 ---
 
@@ -483,4 +485,57 @@ Taught across A2-U04 (*weil, denn, dass*), A2-U05 (*wenn*), A2-U07 (*ob*) and [A
 
 - ***sondern*** only after *nicht / kein*, and it corrects: *Das ist kein Handy, **sondern** ein Tablet.* Otherwise use *aber*.
 - *weil* and *deshalb* say the same thing from opposite ends: *Ich bleibe zu Hause, **weil** ich krank **bin**.* = *Ich bin krank, **deshalb bleibe** ich zu Hause.*
+
+## B1: Präteritum
+
+Taught in [B1-U01](../B1/B1-U01_Lebenswege/L1_Frueher_war_alles_anders.md). Forms of individual verbs: [Verb Lists → Präteritum forms](Verb_Lists.md#b1-präteritum-forms).
+
+| | regular *machen* | irregular *gehen* | mixed *bringen* |
+|---|---|---|---|
+| ich | machte | ging | brachte |
+| du | machtest | gingst | brachtest |
+| er / sie / es | machte | ging | brachte |
+| wir | machten | gingen | brachten |
+| ihr | machtet | gingt | brachtet |
+| sie / Sie | machten | gingen | brachten |
+
+- **regular:** stem + *-te* (+ an extra *e* after *-t, -d, -n*: *arbeitete, öffnete*)
+- **irregular:** new stem vowel, **no** *-te*; *ich* and *er* have no ending
+- **mixed:** new vowel **and** *-te*: *bringen → brachte · denken → dachte · kennen → kannte · nennen → nannte · wissen → wusste*
+
+**Perfekt or Präteritum?**
+
+| Perfekt | Präteritum |
+|---|---|
+| everyday speech about your own past | written narration: story, report, biography, news |
+| short exchanges | longer narration, also spoken |
+| most verbs | **always** *sein, haben*, modals; usually *wissen, geben* |
+
+*es gibt* → ***es gab***. In the north the Präteritum is more common in speech than in the south; neither is wrong.
+
+## B1: Plusquamperfekt and time conjunctions
+
+Taught in [B1-U01](../B1/B1-U01_Lebenswege/L3_Nachdem_ich_angekommen_war.md).
+
+**Plusquamperfekt** = *hatte* / *war* + Partizip II — the **earlier** of two past events.
+
+| Perfekt | Plusquamperfekt |
+|---|---|
+| ich habe gearbeitet | ich **hatte** gearbeitet |
+| ich bin gefahren | ich **war** gefahren |
+
+**Time conjunctions** (all verb-final):
+
+| Conjunction | Meaning | Tense rule | Example |
+|---|---|---|---|
+| **als** | when (once, past) | Präteritum | *Als ich klein war, …* |
+| **wenn** | whenever; if | any | *(Immer) wenn es regnete, …* |
+| **nachdem** | after | subordinate clause **Plusquamperfekt**, main clause Präteritum | *Nachdem ich gegessen hatte, ging ich.* |
+| **bevor** | before | **same** tense in both clauses | *Bevor ich ging, aß ich.* |
+| **während** | while | same tense | *Während ich arbeitete, …* |
+| **seit / seitdem** | since (still true) | **Präsens** | *Seit ich hier wohne, …* |
+| **bis** | until | any | *Ich wartete, bis er kam.* |
+| **sobald** | as soon as | often Plusquamperfekt | *Sobald ich … bestanden hatte, …* |
+
+⚠️ Conjunction vs preposition: *nachdem* + clause / *nach* + dative · *bevor* + clause / *vor* + dative · *während* + clause / *während* + genitive (B1-U05).
 
