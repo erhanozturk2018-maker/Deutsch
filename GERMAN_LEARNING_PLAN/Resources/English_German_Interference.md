@@ -157,6 +157,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *the receipt* | die Rechnung (in a shop) | **der Kassenbon** | *Rechnung* = invoice, bill |
 | *It shrank.* | Es hat geschrumpft. | Es **ist eingelaufen**. | Fixed expression with *sein* |
 
+### Travel and comparing (A2-U07)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *more expensive* | mehr teuer | **teurer** | German has no "more + adjective": always *-er* |
+| *faster than* | schneller wie | schneller **als** | *als* marks a difference |
+| *as cheap as* | so billig als | so billig **wie** | *wie* marks equality |
+| *I prefer the train.* | Ich preferiere den Zug. | Ich fahre **lieber** Zug. | *lieber* does the work of "prefer" |
+| *to Switzerland* | nach die Schweiz | **in die** Schweiz | Countries with an article take *in* + accusative |
+| *at my aunt's* | zu meiner Tante (staying) | **bei** meiner Tante | *zu* = movement, *bei* = location |
+| *at home / going home* | nach Hause (at home) | **zu Hause** / **nach Hause** | Two fixed opposites |
+| *Do you know when he comes?* | Weißt du, wann kommt er? | Weißt du, **wann er kommt**? | Indirect question → verb at the end |
+| *I don't know if he comes.* | …, wenn er kommt | …, **ob** er kommt | *ob* = whether; *wenn* = condition |
+| *I missed the train.* | Ich habe den Zug vermisst. | Ich habe den Zug **verpasst**. | *vermissen* = to miss a person |
+| *The train is cancelled.* | Der Zug ist gecancelt. | Der Zug **fällt aus**. | Standard railway German |
+
 ---
 
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *als/wenn* (B1), the missing progressive in more contexts. B1 traps come later.*

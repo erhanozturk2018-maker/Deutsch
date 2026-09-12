@@ -167,6 +167,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Long compound words take the stress on the first part: ***KASS**enbon, **REISS**verschluss, **UM**tausch, **GUT**schein*.
 - Colours: *grau, braun* (*au*), *weiß* (*ei*), *grün* (*ü*), *beige* [beːʃ].
 
+### Contractions and the comma pause (A2-U07)
+
+- Spoken German melts preposition and article: *ans, am, ins, im, zum, zur, beim, aufs, vom*. Use the short form; the long one sounds emphatic.
+- Every comparative ends in the *-er* [ɐ] sound: *schneller, teurer, besser* — no English *r*.
+- Umlauts carry meaning: *alt / älter · groß / größer · lang / länger · kurz / kürzer*.
+- Indirect questions have a small pause at the comma, with the voice staying up: *Können Sie mir sagen,* ↗ *wo das Gleis ist?* ↘
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

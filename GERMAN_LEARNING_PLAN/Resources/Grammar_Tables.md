@@ -19,6 +19,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Reflexive pronouns](#a2-reflexive-pronouns)
 - [A2: Modal verbs in the past](#a2-modal-verbs-in-the-past)
 - [A2: Adjective endings stage 1](#a2-adjective-endings-stage-1)
+- [A2: Comparison](#a2-comparison)
+- [A2: Places: where to and where](#a2-places-where-to-and-where)
 
 ---
 
@@ -347,4 +349,35 @@ Taught in [A2-U06](../A2/A2-U06_Einkaufen_und_Kleidung/00_Overview_und_Wortschat
 - **After the noun: no ending.** *Die Jacke ist rot.*
 - **Without the noun:** keep article + ending: *Welchen? – **Den blauen**.*
 - **Plural without an article** (recognition at A2): the adjective takes the *die* signal: *gebrauchte Sachen, schwarze Schuhe*.
+
+## A2: Comparison
+
+Taught in [A2-U07](../A2/A2-U07_Reisen_und_Verkehr/L1_Schneller_billiger_besser.md).
+
+| basic | comparative (**-er**) | superlative (**am …sten**) |
+|---|---|---|
+| billig, schnell, bequem | billiger, schneller, bequemer | am billigsten, am schnellsten, am bequemsten |
+| laut, alt (after *-t, -d, -s, -ß, -z*) | lauter, älter | am lautesten, am ältesten |
+| alt, lang, jung, groß, kurz, warm, kalt, oft | älter, länger, jünger, größer, kürzer, wärmer, kälter, öfter | am ältesten, am längsten, … |
+| **gut** | **besser** | am **besten** |
+| **viel** | **mehr** | am **meisten** |
+| **gern** | **lieber** | am **liebsten** |
+| **hoch** | **höher** | am **höchsten** |
+
+- **Difference → *als*:** *Der Zug ist schneller **als** der Bus.*
+- **Equality → *(genau)so … wie*:** *Der Bus ist genauso teuer **wie** der Zug.* · *nicht so … wie*
+- **In front of a noun:** normal adjective endings (A2-U06): *den schnelleren Zug · die billigste Verbindung · der beste Kompromiss*.
+
+## A2: Places: where to and where
+
+Taught in [A2-U07](../A2/A2-U07_Reisen_und_Verkehr/L2_Unterwegs_buchen.md), building on the two-way prepositions of [A2-U03](../A2/A2-U03_Wohnen/00_Overview_und_Wortschatz.md).
+
+| Kind of place | *Wohin?* (movement) | *Wo?* (location) |
+|---|---|---|
+| towns, most countries | **nach** Berlin, nach Italien | **in** Berlin, in Italien |
+| countries with an article, areas | **in die** Schweiz, in die Berge, in die Stadt | **in der** Schweiz, in den Bergen, in der Stadt |
+| water, a spot | **ans** Meer, an den See, ans Fenster | **am** Meer, am See, am Fenster |
+| islands, the countryside | **auf eine** Insel, aufs Land | **auf einer** Insel, auf dem Land |
+| people, other destinations | **zu** meiner Tante, zum Bahnhof | **bei** meiner Tante, am Bahnhof |
+| home | **nach** Hause | **zu** Hause |
 

@@ -88,5 +88,5 @@ The course is being built stage by stage. Available now:
 |---|---|
 | Diagnostic Test | ✅ ready |
 | A1 Fundament (5 units + checkpoint) | ✅ ready |
-| A2 | A2-U01 – U05 and A2-R1 ✅ ready · U06 onward in preparation |
+| A2 | A2-U01 – U06, A2-R1, A2-R2 and the A2 Midpoint ✅ ready · U07 onward in preparation |
 | B1 | in preparation |

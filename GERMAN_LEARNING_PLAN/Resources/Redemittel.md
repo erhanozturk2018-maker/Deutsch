@@ -21,6 +21,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: At the restaurant](#a2-at-the-restaurant)
 - [A2: Health](#a2-health)
 - [A2: Shopping for clothes](#a2-shopping-for-clothes)
+- [A2: Travelling and asking for information](#a2-travelling-and-asking-for-information)
 
 ---
 
@@ -294,6 +295,27 @@ Taught in [A2-U06](../A2/A2-U06_Einkaufen_und_Kleidung/00_Overview_und_Wortschat
 | Der Reißverschluss ist kaputt. · Hier ist ein Fleck / ein Loch. | The zip is broken. · There's a stain / a hole here. | – |
 | Ich hätte gern mein Geld zurück. · Haben Sie den Kassenbon? | I'd like my money back. · Do you have the receipt? | – |
 | Das verstehe ich, aber … · Was können Sie mir anbieten? | I understand that, but … · What can you offer me? | polite, insisting |
+
+## A2: Travelling and asking for information
+
+Taught in [A2-U07](../A2/A2-U07_Reisen_und_Verkehr/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Einmal nach Hamburg, hin und zurück, bitte. | A return to Hamburg, please. | – |
+| Ich hätte gern zwei Fahrkarten nach … | I'd like two tickets to … | polite |
+| Ich würde gern am Fenster sitzen. | I'd like to sit by the window. | polite |
+| Wann fährt der nächste Zug? · Ist das ein direkter Zug? | When does the next train leave? · Is it direct? | – |
+| Wo muss ich umsteigen? · Von welchem Gleis fährt der Zug? | Where do I have to change? · Which platform? | – |
+| Kann ich einen Sitzplatz reservieren? – Fenster oder Gang? | Can I reserve a seat? – Window or aisle? | – |
+| Können Sie mir sagen, wo / wann / ob …? | Could you tell me where / when / whether …? | polite |
+| Wissen Sie, ob …? · Weißt du, wann …? | Do you know whether …? · Do you know when …? | formal / informal |
+| Der Zug hat Verspätung. · Der Zug fällt aus. | The train is delayed. · The train is cancelled. | – |
+| Ich habe meinen Anschluss verpasst. | I've missed my connection. | – |
+| Gilt meine Fahrkarte auch für den nächsten Zug? | Is my ticket valid for the next train too? | – |
+| Bekomme ich Geld zurück? · Wo kann ich das Formular ausfüllen? | Do I get a refund? · Where do I fill in the form? | – |
+| Ich hätte gern ein Doppelzimmer für zwei Nächte. – Mit Frühstück? | I'd like a double room for two nights. – With breakfast? | – |
+| Gute Reise! · Guten Flug! | Have a good trip / flight! | – |
 
 ---
 
