@@ -20,6 +20,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Opinions and reasons](#a2-opinions-and-reasons)
 - [A2: At the restaurant](#a2-at-the-restaurant)
 - [A2: Health](#a2-health)
+- [A2: Shopping for clothes](#a2-shopping-for-clothes)
 
 ---
 
@@ -274,6 +275,26 @@ Taught in [A2-U05](../A2/A2-U05_Gesundheit/00_Overview_und_Wortschatz.md).
 | Ruh dich aus! · Leg dich hin! · Du musst zum Arzt! | Rest! · Lie down! · You must see a doctor! | informal |
 | Oh nein, du Arme / du Armer! · Gute Besserung! | Oh no, poor you! · Get well soon! | informal / – |
 
+## A2: Shopping for clothes
+
+Taught in [A2-U06](../A2/A2-U06_Einkaufen_und_Kleidung/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Kann ich Ihnen helfen? – Danke, ich schaue nur. | Can I help you? – Thanks, I'm just looking. | formal |
+| Ich suche einen warmen Mantel / ein schickes Kleid. | I'm looking for a warm coat / a smart dress. | – |
+| Welche Größe haben Sie? – Ich habe Größe 38 / M. | What size are you? – I'm a 38 / M. | – |
+| Haben Sie das auch in Blau / in M? | Do you have this in blue / in M as well? | – |
+| Kann ich das anprobieren? · Wo ist die Kabine? | Can I try this on? · Where's the changing room? | – |
+| Das passt gut. · Das steht dir / Ihnen! | It fits well. · It suits you! | – |
+| Das ist mir zu eng / zu weit / zu lang / zu teuer. | It's too tight / loose / long / expensive for me. | – |
+| Den nehme ich. · Ich überlege es mir noch. | I'll take it. · I'll think about it. | – |
+| Zahlen Sie bar oder mit Karte? · Brauchen Sie eine Tüte? | Cash or card? · Do you need a bag? | formal |
+| Ich möchte diese Jacke gern umtauschen. | I'd like to exchange this jacket. | – |
+| Der Reißverschluss ist kaputt. · Hier ist ein Fleck / ein Loch. | The zip is broken. · There's a stain / a hole here. | – |
+| Ich hätte gern mein Geld zurück. · Haben Sie den Kassenbon? | I'd like my money back. · Do you have the receipt? | – |
+| Das verstehe ich, aber … · Was können Sie mir anbieten? | I understand that, but … · What can you offer me? | polite, insisting |
+
 ---
 
-*Added later in A2: complaining, on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+*Added later in A2: on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

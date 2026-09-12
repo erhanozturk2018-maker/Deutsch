@@ -160,6 +160,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Reflexive pronouns are never stressed: *Ich fühle mich **SCHLAPP**. · Ruh dich **AUS**!* Glue *mich / dich / sich* to the word before.
 - Präteritum of modals: stress on the first syllable, and keep the *-te*: ***KONN**te, **MUSS**te* (short *u*), ***DURF**te* (no umlaut).
 
+### Adjective endings: *-e*, *-en*, *-er* (A2-U06)
+
+- All three endings are unstressed, but they must be audible: *der neu-**e*** [ə] · *den neu-**en*** [ən] · *ein neu-**er*** [ɐ].
+- *-er* is **not** an English *-er*: no *r* sound, just a short open *a* (*Mutter, teurer, warmer*).
+- Long compound words take the stress on the first part: ***KASS**enbon, **REISS**verschluss, **UM**tausch, **GUT**schein*.
+- Colours: *grau, braun* (*au*), *weiß* (*ei*), *grün* (*ü*), *beige* [beːʃ].
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

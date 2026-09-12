@@ -18,6 +18,7 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Verb-final clauses](#a2-verb-final-clauses)
 - [A2: Reflexive pronouns](#a2-reflexive-pronouns)
 - [A2: Modal verbs in the past](#a2-modal-verbs-in-the-past)
+- [A2: Adjective endings stage 1](#a2-adjective-endings-stage-1)
 
 ---
 
@@ -323,4 +324,27 @@ Taught in [A2-U05](../A2/A2-U05_Gesundheit/L3_Krank_melden.md). For modal verbs,
 - **-te** + the endings of *hatte*; **no umlaut**; *ich* = *er*.
 - *möchten* has no past of its own: use ***wollte***.
 - ⚠️ *konnte* (could, past) ≠ *könnte* (could, would be able to: Konjunktiv II, A2-U10).
+
+## A2: Adjective endings stage 1
+
+Taught in [A2-U06](../A2/A2-U06_Einkaufen_und_Kleidung/00_Overview_und_Wortschatz.md): **nominative and accusative** only. Dative and article-less forms follow in B1-U02, the genitive in B1-U05 (CD-17).
+
+**After *der / die / das*** (and *dieser, welcher, jeder, alle*):
+
+| | masculine | feminine | neuter | plural |
+|---|---|---|---|---|
+| Nominative | der neu**e** Mantel | die neu**e** Jacke | das neu**e** Hemd | die neu**en** Schuhe |
+| Accusative | den neu**en** Mantel | die neu**e** Jacke | das neu**e** Hemd | die neu**en** Schuhe |
+
+**After *ein / kein / mein, dein, sein, ihr, unser, euer***:
+
+| | masculine | feminine | neuter | plural (*kein / mein*) |
+|---|---|---|---|---|
+| Nominative | ein neu**er** Mantel | eine neu**e** Jacke | ein neu**es** Hemd | keine neu**en** Schuhe |
+| Accusative | einen neu**en** Mantel | eine neu**e** Jacke | ein neu**es** Hemd | keine neu**en** Schuhe |
+
+- **The signal rule:** the article shows gender and case (*der, das, den, eine, einen*) → the adjective relaxes to *-e / -en*. The article shows nothing (*ein, kein, mein*) → the adjective takes the signal: *-er* (*der*), *-es* (*das*).
+- **After the noun: no ending.** *Die Jacke ist rot.*
+- **Without the noun:** keep article + ending: *Welchen? – **Den blauen**.*
+- **Plural without an article** (recognition at A2): the adjective takes the *die* signal: *gebrauchte Sachen, schwarze Schuhe*.
 

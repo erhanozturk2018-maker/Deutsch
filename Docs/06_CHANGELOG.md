@@ -317,3 +317,22 @@
   4. **Resources** grew with A2 sections for all three units. `check_vocab.py` now handles phrases starting with a short word. `.gitattributes` normalises line endings.
 - **Reason:** The M5 WP1 plan.
 - **Impact:** A2.1 is half done: U01–U03 + R1. WP2 (U04–U06, R2, Midpoint) follows, with lesson plans recorded in `00` §6.
+
+---
+
+## [010] 2026-09-12 — M5 WP2 complete: A2-U04, A2-U05, A2-U06, A2-R2, A2 Midpoint
+
+- **Milestone:** M5, WP2 (A2-U04 was committed first, as commit `23f1688`; this entry covers the whole work package)
+- **Affected files:**
+  - **Created:** `A2/A2-U04_Essen_und_Gewohnheiten/` (5), `A2/A2-U05_Gesundheit/` (5), `A2/A2-U06_Einkaufen_und_Kleidung/` (5), `A2/A2-R2_Wiederholung.md`, `A2/A2_Midpoint_Checkpoint.md`
+  - **Updated:** Resources (Grammar_Tables, Verb_Lists, Redemittel, English_German_Interference, Pronunciation_Guide), `Anki/A2.tsv` (337 cards), `GERMAN_LEARNING_PLAN/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **A2-U04 Essen & Gewohnheiten:** L1 *weil / denn* for reasons and eating habits · L2 *dass*-clauses, opinions, agreeing and disagreeing, *dass* vs *das* · L3 the restaurant script, *ohne* + accusative, *Könnte ich …?*, tipping · L4 mini-debate, Story Bank Task 7, canteen newsletter, flatmate dialogue, forum post, review, quiz.
+  2. **A2-U05 Gesundheit:** L1 body parts, *Mir tut … weh*, dative for body parts · L2 reflexive verbs, the doctor's visit, instructions with *sollen* · L3 *wenn*-clauses, Präteritum of modals, calling in sick, the pharmacy · L4 three-scene main task, Story Bank Task 5, health article, voice message, two emails, review, quiz.
+  3. **A2-U06 Einkaufen & Kleidung:** L1 clothes and colours, endings after *der/die/das*, *welch-/dies-*, "the blue one" · L2 endings after *ein/kein/mein*, the signal rule, sizes, trying on, paying · L3 faults, exchange, voucher, refund, shop rules, insisting politely · L4 three-scene main task, 4/3/2 retelling, survey article, service call, complaint email, review, quiz.
+  4. **A2-R2 Wiederholung:** 3 sittings, 50/30/20, mixed conjunction and form rounds, an endings clinic, an error clinic, three reading texts, two voice messages, a combined reply, a 20-item quiz with a redo map.
+  5. **A2 Midpoint Checkpoint:** diagnostic, not a gate. Reading (9) · language in context (22) · listening (9) · speaking and writing with the rubrics, plus a refresh map from each error type to the unit and resource that fixes it.
+  6. **Resources:** verb-final-clause and opinion/restaurant sections for U04; reflexive pronouns and modal Präteritum tables, adjective endings stage 1, reflexive verb list, health and clothes-shopping Redemittel, two interference blocks, two pronunciation sections.
+- **Reason:** The M5 WP2 plan in `00` §6.
+- **Impact:** A2.1 (U01–U06 + R1, R2, Midpoint) is complete. WP3 (U07–U10, R3, A2 Exit) closes M5.
+

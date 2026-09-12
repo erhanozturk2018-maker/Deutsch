@@ -508,3 +508,37 @@
 - **Resolution:** All findings fixed before the batch commit.
 - **Result:** **PASS WITH NOTES**
 - **Approval status:** – (autonomous mode)
+
+---
+
+## V-010 — M5 WP2: A2-U04, A2-U05, A2-U06, A2-R2, A2 Midpoint
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/A2/A2-U04_Essen_und_Gewohnheiten/` (5 files), `A2-U05_Gesundheit/` (5), `A2-U06_Einkaufen_und_Kleidung/` (5), `A2-R2_Wiederholung.md`, `A2_Midpoint_Checkpoint.md`, and the Resources sections added for these units.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The M5 criteria in `03`; the `04` v1.1 Part C checklist; the per-unit checklist in `00` §6.
+- **Method:**
+  - `check_structure.py` → 58 files, 0 problems
+  - `check_vocab.py` → U04: 0 below 3 · U05: 38 ★ rows, 0 below 3 (after adding practice for *krankschreiben*) · U06: 36 ★ rows, 0 below 3 (after adding practice for *zurückgeben*, *Mütze/Schal/Brille*, *Tüte*)
+  - `check_links.py` → 811 links, 0 broken, 17 planned
+  - `build_anki.py` → A2.tsv 337 cards (U04–U06 tagged)
+  - manual reread of all German; answer keys item by item; activity numbering and timing sums; review weighting count; main-task comparison with Appendix B
+- **Findings:**
+  1. `STR`/`DEP`, PASS. U05 matches Appendix B (reflexive verbs incl. dative for body parts, *wenn*, Präteritum of modals, *sollen*; doctor's visit and calling in sick). U06 matches (adjective endings stage 1 per CD-17, *welch-/dies-*; complaint and return). U04 was validated in the same batch's first part.
+  2. `PED`, PASS. Main-task types differ from the neighbours: U04 debate + restaurant, U05 a three-scene illness sequence, U06 a three-scene purchase-and-return sequence. Each unit uses ≥8 activity types. The adjective-ending load is split over two lessons with the signal rule as the single explanation, and CD-17's communicative accuracy target is stated to the learner in U06 L1 and the overview.
+  3. `SPK`, PASS. Every lesson has ⏱️ drills, an AI role-play with a complication and a 60 s monologue. U05 L4 records Story Bank Task 5 (A2); U06 L4 uses a 4/3/2 retelling instead of a Story Bank task, since Tasks 1, 2 and 6 are reserved for U07–U09 (decision recorded in `00` §12).
+  4. `VOC`/`DEP`, PASS. "Recycled from" tables: U05 seven earlier units (incl. three A1), U06 seven (incl. two A1 and the A1 case table). R2 weighting counted: warm-up 8/4/3 = 53/27/20 %.
+  5. `LNG`, **Minor (fixed), 6 items:**
+     - U05 L1: a garbled *ch/sch* pronunciation list rewritten
+     - U05 L3: activity numbering started at 4 (renumbered 3–7); the *seit* trick item's instruction now warns that one sentence is about now
+     - U06 L2: *nichts zu Kurzes* replaced; a dative adjective phrase in a sample answer removed
+     - U06 L3: a dative adjective phrase in an answer key replaced; *in einer anderen Größe/Farbe* marked as a fixed phrase in L2 and L3
+     - R2: a genitive (*wegen eines technischen Problems*) replaced by *aus technischen Gründen*
+     - Midpoint: a wrong anchor to the Progress Tracker fixed
+  6. `CEF`, PASS. Texts stay A2 (chat messages, surgery and shop dialogues, magazine article, notices, small ads, voicemails, reviews, emails). Structures beyond the unit are glossed with a forward reference: *als* → B1-U01, comparison → A2-U07, dative adjective endings → B1-U02, *sich freuen auf* → A2-U08.
+  7. `WRK`, PASS (estimate). Lessons 80–85 min; R2 ≈ 150 min in 3 sittings; Midpoint ≈ 110 min in 2 sittings. No learner trial yet (KI-11).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before the batch commit.
+- **Result:** **PASS WITH NOTES**
+- **Approval status:** – (autonomous mode)
+

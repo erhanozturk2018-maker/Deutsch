@@ -142,6 +142,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *if* / *when* (whenever) | ob … / wann … | **wenn** | *ob* = whether; *wann* = question only |
 | *prescription* | die Vorschrift | **das Rezept** | ⚠️ *das Rezept* = prescription and recipe; *die Rezeption* = reception |
 
+### Clothes and shopping (A2-U06)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *the blue coat* | der blau Mantel | der blau**e** Mantel · den blau**en** Mantel | German adjectives take endings before a noun |
+| *the blue one* | der blaue eine | **der blaue** | No word for "one": keep article + ending |
+| *a warm coat* (object) | ein warmen Mantel | **einen warmen** Mantel | *einen* + *-en* in the accusative |
+| *a nice shirt* | ein schöne Hemd | ein schön**es** Hemd | *ein* shows nothing → adjective takes *-es* |
+| *The jacket is red.* | Die Jacke ist rote. | Die Jacke ist **rot**. | No ending after *sein / werden / finden* |
+| *The trousers are too long.* | Die Hose sind zu lang. | Die Hose **ist** zu lang. | *die Hose, die Jeans, die Brille* are singular |
+| *I'm looking for a coat.* | Ich suche für einen Mantel. | Ich **suche** einen Mantel. | *suchen* takes no preposition |
+| *It fits.* vs *It suits you.* | Es steht. / Es passt dir gut (about looks) | Es **passt** (size). · Es **steht dir** (looks). | Two different verbs |
+| *the receipt* | die Rechnung (in a shop) | **der Kassenbon** | *Rechnung* = invoice, bill |
+| *It shrank.* | Es hat geschrumpft. | Es **ist eingelaufen**. | Fixed expression with *sein* |
+
 ---
 
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *als/wenn* (B1), the missing progressive in more contexts. B1 traps come later.*

@@ -16,9 +16,9 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
-Current batch:      M5 WP2 — A2-U04, A2-U05, A2-U06, A2-R2, A2 Midpoint
-Next task:          A2-U04 ✅ · A2-U05 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U06_Einkaufen_und_Kleidung/ (00_Overview + L1–L4), then A2-R2, A2 Midpoint — plan in §6
-Last completed:     M4 — A2 Pilot (2026-09-12, V-008)
+Current batch:      M5 WP3 — A2-U07, A2-U08, A2-U09, A2-U10, A2-R3, A2 Exit
+Next task:          M5 WP2 ✅ complete (V-010, commit + push). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U07_Reisen_und_Verkehr/ (00_Overview + L1–L4) — plan in §6 WP3, then U08, U09, U10, A2-R3, A2 Exit
+Last completed:     M5 WP2 — A2-U04, U05, U06, R2, Midpoint (2026-09-12, V-010)
 Push status:        OK (origin/main in sync after every batch)
 ```
 
@@ -121,17 +121,17 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
    - `L3_Krank_melden`: *wenn*-clauses (condition + repeated time); modal Präteritum *konnte, musste, wollte, durfte, sollte*; calling in sick; the pharmacy
    - `L4_Anwenden`: main task = doctor's visit + calling in sick (Story Bank Task 5, A2 early)
    - Resources: Verb_Lists reflexive verbs; Grammar_Tables modal Präteritum; Redemittel A2 health
-3. **A2-U06 Einkaufen & Kleidung** (adjective endings stage 1: nominative/accusative after *der-* and *ein-* words · *welch- / dies-*)
+3. ✅ **A2-U06 Einkaufen & Kleidung** (adjective endings stage 1: nominative/accusative after *der-* and *ein-* words · *welch- / dies-*)
    - `L1_Was_ziehst_du_an`: clothes; endings after *der/die/das* and *dieser, welcher* (nominative/accusative)
    - `L2_Ein_neuer_Pullover`: endings after *ein / kein / mein* (nominative/accusative); describing and choosing
    - `L3_Umtauschen`: returning and complaining (*Der Reißverschluss ist kaputt …*), receipts, refunds, exchanges; *Welcher? – Dieser.*
    - `L4_Anwenden`: main task = complaint and return in a shop
    - Endings strategy: "the signal rule" (if the article shows the gender or case signal, the adjective takes *-e / -en*; otherwise the adjective carries the signal). Accuracy target: communicative (CD-17).
-4. **A2-R2 Wiederholung:** A1 + U01–U06, weighted 50/30/20 (recent = U04–U06; previous = U01–U03; oldest = A1)
-5. **A2 Midpoint Checkpoint:** a diagnostic mid-test (not a gate), 4 skills, results → redirect to weak units
-6. Validate WP2 (V-010), record, commit, push
+4. ✅ **A2-R2 Wiederholung:** A1 + U01–U06, weighted 50/30/20 (recent = U04–U06; previous = U01–U03; oldest = A1)
+5. ✅ **A2 Midpoint Checkpoint:** a diagnostic mid-test (not a gate), 4 skills, results → redirect to weak units
+6. ✅ WP2 validated (V-010, 2026-09-12), recorded in `03`/`05`/`06`, committed and pushed
 
-**WP3:** A2-U07 (comparison, place prepositions with *an/auf/in/nach*, indirect questions, *hätte / würde gern*) · A2-U08 (verbs + prepositions, *wo-/da-* words, time prepositions, *werden* as full verb, middle-field order) · A2-U09 (light: plans and invitations, future, *Hättest du Lust …?*, *doch*) · A2-U10 (Konjunktiv II advice and wishes, *deshalb / trotzdem / sondern*, *man / jemand / niemand*) · A2-R3 · A2 Exit (4 skills + integrated scenario + Story Bank A2 recordings of all 8 tasks)
+**WP3** (next). **WP2 ✅ (2026-09-12, V-010).** Plan: A2-U07 (comparison, place prepositions with *an/auf/in/nach*, indirect questions, *hätte / würde gern*) · A2-U08 (verbs + prepositions, *wo-/da-* words, time prepositions, *werden* as full verb, middle-field order) · A2-U09 (light: plans and invitations, future, *Hättest du Lust …?*, *doch*) · A2-U10 (Konjunktiv II advice and wishes, *deshalb / trotzdem / sondern*, *man / jemand / niemand*) · A2-R3 · A2 Exit (4 skills + integrated scenario + Story Bank A2 recordings of all 8 tasks)
 
 ## 7. Next planned work
 
@@ -204,6 +204,12 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 **Open:**
 - **OD-11:** CP-001 mediation. Claude decides before M7 is finalised, records the reasoning.
 
+**Decided in autonomous mode (Claude, 2026-09-12) — Story Bank allocation for the rest of A2:**
+- U01 → Task 3 · U02 → Task 8 · U03 → Task 4 · U04 → Task 7 · U05 → Task 5 (all recorded at A2 level).
+- **U06 → no Story Bank task** (a 4/3/2 retelling on "my style" instead): U06's theme fits none of the remaining tasks, and repeating a task this soon adds nothing.
+- **U07 → Task 4 re-recorded with comparisons · U08 → Task 2 · U09 → Task 6 · U10 → Task 1.** The A2 Exit records all eight.
+- Reason: the eight tasks must all exist at A2 level by the Exit (Appendix G), and each remaining task fits one unit's theme.
+
 **Resolved 2026-09-11** (details in `06` [002] and [003]):
 - OD-01 to OD-10 as recorded in `06` [002].
 - **OD-12 (superseded by the user's autonomy authorisation):** M3 is *built* without waiting for diagnostic results. The A1 units adapt to the learner through the diagnostic routing system and the per-unit Schnelltest. The learner still takes the diagnostic before *starting* A1.
@@ -227,7 +233,9 @@ Deutch/
     ├── README.md
     ├── 00_Curriculum/09_Diagnostic_Test.md
     ├── A1/  README + U01–U05 + A1_Checkpoint.md
-    ├── A2/  README.md  A2-U01_Erlebnisse/ (00_Overview_und_Wortschatz, L1_Mein_Wochenende, L2_Unterwegs, L3_Schon_mal_erlebt, L4_Anwenden)
+    ├── A2/  README.md  A2-U01_Erlebnisse/  A2-U02_Menschen_und_Geschenke/  A2-U03_Wohnen/  A2-R1_Wiederholung.md
+    │         A2-U04_Essen_und_Gewohnheiten/  A2-U05_Gesundheit/  A2-U06_Einkaufen_und_Kleidung/
+    │         A2-R2_Wiederholung.md  A2_Midpoint_Checkpoint.md   (each unit: 00_Overview_und_Wortschatz + L1–L4)
     ├── Resources/  Rubrics  Sentence_Map  Grammar_Tables  Verb_Lists  English_German_Interference  Pronunciation_Guide
     │               Redemittel  Speaking_Toolkit  Writing_Toolkit  Listening_Reading_Sources  Anki/A1.tsv  Anki/A2.tsv
     └── Learner_Workbook/  Progress_Tracker  Story_Bank  Error_Log  Chunk_Bank  Writing_Portfolio
