@@ -205,6 +205,23 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *Happy birthday!* (two days early) | – | Say it **on** the day | Congratulating early brings bad luck |
 | *Cheers!* | Gesundheit! | **Prost!** / **Zum Wohl!** | *Gesundheit!* is for sneezes |
 
+### Technology, advice and connectors (A2-U10)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *My phone doesn't work.* | Mein Handy arbeitet nicht. | Mein Handy **funktioniert** nicht. | *arbeiten* is for people |
+| *battery* (phone) | die Batterie | **der Akku** | *Batterie* = single-use battery |
+| *I restarted it.* | Ich habe es restartet. | Ich habe es **neu gestartet**. | German verb |
+| *You have to …* (people in general) | Du musst … | **Man** muss … | *man* = one, people |
+| *Nobody knows.* | Niemand weiß nicht. | **Niemand weiß.** | One negation is enough |
+| *Could you …?* (request) | Konnten Sie …? | **Könnten** Sie …? | The umlaut makes it polite |
+| *I'd like a coffee.* | Ich würde gern einen Kaffee. | Ich **hätte** gern einen Kaffee. | *hätte* for things, *würde* for actions |
+| *You should sleep more.* | Du sollst mehr schlafen. | Du **solltest** mehr schlafen. | *sollst* = someone ordered it |
+| *If I were you* | Wenn ich du wäre | **An deiner Stelle** | The everyday German formula |
+| *so* (consequence) | So habe ich ein Limit. | **Deshalb** habe ich ein Limit. | English *so* ≠ German *so* |
+| *Nevertheless I went.* | Trotzdem ich bin gegangen. | **Trotzdem bin ich** gegangen. | *trotzdem* fills the Vorfeld → verb second |
+| *not a phone but a tablet* | kein Handy, aber ein Tablet | kein Handy, **sondern** ein Tablet | *sondern* after a negative |
+
 ---
 
-*More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *als/wenn* (B1), the missing progressive in more contexts. B1 traps come later.*
+*B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*

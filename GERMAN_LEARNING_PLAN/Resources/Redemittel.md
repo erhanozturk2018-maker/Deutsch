@@ -24,6 +24,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Travelling and asking for information](#a2-travelling-and-asking-for-information)
 - [A2: Work and the telephone](#a2-work-and-the-telephone)
 - [A2: Inviting, planning and celebrating](#a2-inviting-planning-and-celebrating)
+- [A2: Advice, wishes and polite requests](#a2-advice-wishes-and-polite-requests)
 
 ---
 
@@ -361,6 +362,26 @@ Taught in [A2-U09](../A2/A2-U09_Feste_und_Plaene/00_Overview_und_Wortschatz.md).
 | Wir kennen uns noch nicht, oder? · Und woher kennst du …? | We haven't met, have we? · And how do you know …? | party small talk |
 | Ich hole mir schnell was zu trinken. Wir reden später weiter! | I'll grab a drink. Let's talk more later! | polite exit |
 
+## A2: Advice, wishes and polite requests
+
+Taught in [A2-U10](../A2/A2-U10_Medien_und_Technik/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| An deiner / Ihrer Stelle würde ich … | If I were you, I'd … | – |
+| Du solltest / Sie sollten … · Du könntest / Sie könnten … | You should … · You could … | – |
+| Versuch doch mal … · Hast du schon … probiert? | Why not try … · Have you already tried …? | informal |
+| Ich würde … (machen). · Ich würde es jedem empfehlen. | I'd … · I'd recommend it to anyone. | – |
+| Das ist eine gute Idee. · Das habe ich schon probiert. | That's a good idea. · I've already tried that. | – |
+| Das würde bei mir nicht gehen, weil … | That wouldn't work for me, because … | – |
+| Ich hätte gern … · Ich würde gern … · Ich wäre gern … | I'd like (a thing) · I'd like to (do) · I'd like to be | – |
+| Am liebsten würde ich … · Das wäre super. | Most of all I'd like to … · That would be great. | – |
+| Könnten Sie mir bitte helfen? · Würden Sie bitte …? · Hätten Sie kurz Zeit? | Could you help me, please? · Would you please …? · Would you have a moment? | very polite |
+| Mein … funktioniert nicht mehr. · Der Akku ist schnell leer. | My … doesn't work any more. · The battery runs out quickly. | – |
+| Ich habe es schon neu gestartet. · Es hat nichts gebracht. | I've already restarted it. · It didn't help. | – |
+| Man muss zuerst … · Niemand kann mir helfen. · Kann mir jemand helfen? | You have to … first · Nobody can help me. · Can somebody help me? | – |
+| …, deshalb … · Trotzdem … · nicht …, sondern … | …, so … · Even so … · not …, but … | – |
+
 ---
 
-*Added later in A2: giving advice and wishes (U10). Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+*Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

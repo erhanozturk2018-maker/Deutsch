@@ -188,6 +188,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - An invitation rises at the end (*Komm doch mal vorbei?* ↗); an order falls (*Komm vorbei.* ↘).
 - Recognise fast speech: *wollen wir* → *woll'n wir* · *was machen wir* → *was mach'n wir* · *ich habe* → *ich hab'* · *-ag* at the end often sounds like *-ach* (*Samstach*).
 
+### Umlauts, tech words and connectors (A2-U10)
+
+- The umlaut carries the grammar: *konnte* [ɔ] vs *könnte* [œ] · *hatte* vs *hätte* · *war* vs *wäre* · *wurde* vs *würde*. Practise the pairs until a listener can tell them apart.
+- Tech loanwords are pronounced German: *AK-ku · HÄN-di · ROU-ter · UP-date · VE-lan (WLAN) · VI-deo*.
+- Stress the connector that carries the logic: ***DESHALB** konnte ich nicht anrufen. · **TROTZ**dem habe ich es gekauft.*
+- The correction pattern rises then falls: *Das ist nicht mein **KA**bel* ↗*, sondern **KE**rems* ↘*.*
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

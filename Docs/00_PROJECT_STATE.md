@@ -17,7 +17,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M5 — A2 Completion
 Status:             IN PROGRESS
 Current batch:      M5 WP3 — A2-U07, A2-U08, A2-U09, A2-U10, A2-R3, A2 Exit
-Next task:          A2-U07 ✅ · A2-U08 ✅ · A2-U09 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-U10_Medien_und_Technik/ (00_Overview + L1–L4; Konjunktiv II advice/wishes, deshalb/trotzdem/sondern, man/jemand/niemand) — plan in §6 WP3, then A2-R3, A2 Exit, then validate WP3 (V-011)
+Next task:          A2-U07 ✅ · U08 ✅ · U09 ✅ · U10 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-R3_Wiederholung.md (A1 + U01–U10, 50/30/20 with recent = U07–U10), then A2_Exit_Checkpoint.md (4 skills + integrated scenario + Story Bank A2 recordings of all 8 tasks), then validate WP3 (V-011) and close M5
 Last completed:     M5 WP2 — A2-U04, U05, U06, R2, Midpoint (2026-09-12, V-010)
 Push status:        OK (origin/main in sync after every batch)
 ```

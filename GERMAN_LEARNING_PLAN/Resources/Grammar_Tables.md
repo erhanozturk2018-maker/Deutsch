@@ -25,6 +25,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: The middle field](#a2-the-middle-field)
 - [A2: The future](#a2-the-future)
 - [A2: Dates and ordinals](#a2-dates-and-ordinals)
+- [A2: Konjunktiv II (advice, wishes, politeness)](#a2-konjunktiv-ii-advice-wishes-politeness)
+- [A2: Connectors overview](#a2-connectors-overview)
 
 ---
 
@@ -448,4 +450,37 @@ Taught in [A2-U09](../A2/A2-U09_Feste_und_Plaene/L3_Feste_feiern.md).
 - **1–19: *-te* · from 20: *-ste*.** Irregular: *erste, dritte, siebte, achte*.
 - *Wann hast du Geburtstag? – **Am dritten Mai**.* · ***Der Wievielte** ist heute? – Der vierzehnte.*
 - Written: *am 3. Mai · Köln, den 14.10.2026*.
+
+## A2: Konjunktiv II (advice, wishes, politeness)
+
+Taught in [A2-U10](../A2/A2-U10_Medien_und_Technik/L2_Was_wuerdest_du_machen.md). Full unreal conditionals (*Wenn ich reich wäre, würde ich …*) come in B1-U04.
+
+| | würde | hätte | wäre | könnte | sollte |
+|---|---|---|---|---|---|
+| ich | würde | hätte | wäre | könnte | sollte |
+| du | würdest | hättest | wärst | könntest | solltest |
+| er / sie / es | würde | hätte | wäre | könnte | sollte |
+| wir | würden | hätten | wären | könnten | sollten |
+| ihr | würdet | hättet | wärt | könntet | solltet |
+| sie / Sie | würden | hätten | wären | könnten | sollten |
+
+- ***würde* + infinitive at the end**: *Ich **würde** zuerst den Router **neu starten**.*
+- ***hätte* / *wäre*** are used alone: *Ich **hätte** gern … · Das **wäre** super.*
+- **Advice:** *An deiner Stelle würde ich … · Du solltest … · Du könntest …*
+- **Wishes:** *Ich würde gern … · Ich hätte gern … · Am liebsten würde ich …*
+- **Politeness:** *Könnten Sie …? · Würden Sie bitte …? · Hätten Sie kurz Zeit?*
+- The forms come from the Präteritum + umlaut: *hatte → hätte · war → wäre · konnte → könnte · wurde → würde*. ⚠️ *sollte* has no umlaut, so context decides between "should" and "was supposed to".
+
+## A2: Connectors overview
+
+Taught across A2-U04 (*weil, denn, dass*), A2-U05 (*wenn*), A2-U07 (*ob*) and [A2-U10](../A2/A2-U10_Medien_und_Technik/L3_Medien_im_Alltag.md) (*deshalb, trotzdem, sondern*).
+
+| Connector | Position | Verb | Example |
+|---|---|---|---|
+| *und, aber, oder, denn, **sondern*** | 0 (outside the sentence) | stays in position 2 | *…, **denn** ich **habe** keine Zeit.* |
+| ***deshalb, darum, deswegen, trotzdem**, dann, danach, außerdem, also* | Vorfeld (counts as position 1) | comes straight after | ***Deshalb rufe** ich später an.* |
+| *weil, dass, wenn, ob*, question words | take the Position-2 seat | goes to the **end** | *…, **weil** ich keine Zeit **habe**.* |
+
+- ***sondern*** only after *nicht / kein*, and it corrects: *Das ist kein Handy, **sondern** ein Tablet.* Otherwise use *aber*.
+- *weil* and *deshalb* say the same thing from opposite ends: *Ich bleibe zu Hause, **weil** ich krank **bin**.* = *Ich bin krank, **deshalb bleibe** ich zu Hause.*
 
