@@ -1,0 +1,85 @@
+# B2: Arguing Precisely, Understanding Everything
+
+At B1 you could make yourself understood about anything familiar. **B2 is where precision arrives**: you stop saying roughly what you mean and start saying exactly what you mean — with the right register, the right connector and the right degree of certainty. You follow a discussion between native speakers without translating, read a serious article without a dictionary, and hold your position in a real debate.
+
+> **Status: geplant.** The B2 units are **not written yet**. What exists today is this stage page and the [B2 Recap](B2_Recap/00_Overview.md) — a reference built from the CEFR B2 descriptors and the course's own progression, so you can already see the target and start working towards it. The units are built in milestone **M9** (see `Docs/03_MILESTONES.md`); the recap is consolidated against them as they appear.
+
+---
+
+## What you'll be able to do at the end of B2
+
+- **Follow a discussion among native speakers** at normal speed and join it without being invited.
+- **Argue a complex position**: structure an argument, concede a point without losing it, refute precisely, and hold a line under pressure.
+- **Report what others said** accurately (Konjunktiv I), and mark clearly what is fact, what is claim and what is your own view.
+- **Write structured texts of 250–350 words**: a formal letter, a complaint that escalates, an argumentative essay, a report, a summary of an article.
+- **Read** newspaper commentary, popular science and workplace documents, and recognise the writer's attitude, not only the content.
+- **Speak for 4–5 minutes** on an abstract topic with a clear structure and no obvious searching for words.
+- **Switch register** deliberately: colloquial, neutral, formal — and notice when someone else switches.
+- **Describe data and processes**: graphs, statistics, workflows, cause and effect.
+- **Negotiate**: make an offer, react to a counter-offer, set conditions, close.
+
+---
+
+## The planned units
+
+Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz`, `L1`–`L3`, `L4_Anwenden`), plus three reviews and two checkpoints.
+
+| Unit | Topic | Grammar focus |
+|---|---|---|
+| B2-U01 Identität & Gesellschaft | Lifestyles, values, belonging | Partizip I / II als Attribut; erweiterte Attribute |
+| B2-U02 Arbeitswelt & Karriere | Applications at a higher level, workplace conflict | Funktionsverbgefüge; Nominalstil ↔ Verbalstil |
+| B2-U03 Bildung & Lernen | Education systems, learning biographies | Konjunktiv I: indirekte Rede |
+| B2-U04 Medien & Öffentlichkeit | Journalism, sources, public debate | Passiversatzformen (*sich lassen*, *sein + zu*, *-bar*) |
+| B2-U05 Wirtschaft & Konsum | Money, consumption, advertising | Konditional- und Konzessivsätze (auch ohne *wenn*) |
+| B2-U06 Wissenschaft & Forschung | Research, evidence, popular science | Subjektive Modalverben (*er muss krank sein*) |
+| B2-U07 Recht & Regeln | Rules, contracts, rights and duties | Genitivpräpositionen erweitert; Passiv im Nebensatz |
+| B2-U08 Gesundheit & Psyche | Body, mind, health systems | Futur I / II für Vermutungen |
+| B2-U09 Kunst & Kultur | Film, literature, taste and criticism | Vergleichssätze; *als ob / als wenn* + Konjunktiv II |
+| B2-U10 Migration & Zusammenleben | Living together, integration, identity | Konnektoren der Mittelstufe (*indem, sofern, ohne dass, anstatt dass*) |
+| B2-U11 Technik & Digitalisierung | Technology, data, automation | Adjektiv + Präposition; feste Präpositionalgefüge |
+| B2-U12 Debatte & Verhandlung | Debating, negotiating, mediating | Modalpartikeln; Wortstellung zur Betonung |
+| B2-R1 · B2-R2 · B2-R3 | Cumulative reviews | – |
+| B2 Midpoint · B2 Exit | Diagnostic mid-test · the gate to C1 | – |
+
+*(Titles and order are the plan recorded in `Docs/01_CURRICULUM_DECISIONS.md`; they may shift slightly when the units are written.)*
+
+---
+
+## What changes compared with B1
+
+| | B1 | B2 |
+|---|---|---|
+| **Goal** | make yourself understood about anything familiar | **say exactly what you mean**, including attitude and degree of certainty |
+| **Texts** | 200–400 words, clear structure | **500–900 words**, commentary and popular science, implicit attitude |
+| **Speaking** | 2 minutes, argument with a counter-argument | **4–5 minutes**, structured, in a group, interrupted and defended |
+| **Writing** | 150–200 words | **250–350 words**, with a plan: thesis, arguments, concession, conclusion |
+| **Grammar** | joining sentences | **compressing** them: participles, nominal style, passive substitutes |
+| **Register** | neutral | **three registers used deliberately** |
+| **Reported speech** | – | **Konjunktiv I**, and knowing when it matters |
+| **Instructions in this course** | German, with English support | **German only**; explanations German with English glosses for terms |
+
+---
+
+## Before the units exist: what to do now
+
+1. Finish **B1** first. B2 without a solid B1 is slow and frustrating.
+2. Use the [B2 Recap](B2_Recap/00_Overview.md) as a **target map**, not as a course: read one section, then go and look for that structure in real German.
+3. Build the input habit B2 requires — see [Listening & Reading Sources](../Resources/Listening_Reading_Sources.md):
+   - one longer article a day, read twice: once for content, once for **how** it is written
+   - 20–30 minutes of real listening (podcast, news, interview) without subtitles
+   - one written text a week of 250+ words, self-corrected with the [Writing Toolkit](../Resources/Writing_Toolkit.md)
+4. Keep the speaking rhythm: [Speaking Toolkit](../Resources/Speaking_Toolkit.md), 4/3/2 retellings, and the [Story Bank](../Learner_Workbook/Story_Bank.md) at B2 level — the same eight tasks, now with structure, concession and register.
+
+---
+
+## The three recap sheets
+
+| Sheet | What is in it |
+|---|---|
+| [01 · Wortschatz](B2_Recap/01_Wortschatz.md) | Abstract and topic vocabulary, Nomen-Verb-Verbindungen, verb prefixes, adjective + preposition, nuance pairs, word formation |
+| [02 · Redemittel](B2_Recap/02_Redemittel.md) | Arguing, conceding, hedging, presenting, describing data, moderating, negotiating, formal correspondence |
+| [03 · Grammatik](B2_Recap/03_Grammatik.md) | Konjunktiv I, participial attributes, passive substitutes, subjective modals, Futur II, advanced connectors, nominal style, modal particles |
+
+---
+
+← [Course start page](../README.md) · [B1](../B1/README.md) · [C1](../C1/README.md) →

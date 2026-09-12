@@ -435,3 +435,20 @@
 - **Reason:** User request of 2026-09-12 (change proposal **CP-002**, approved the same day): after finishing a level, the learner needs one consolidated place answering *what should I know now?* without rereading every lesson. Three separate sheets rather than one file, so each can be detailed and still findable.
 - **Impact:** Architecture **v1.0 → v1.1**; Appendix H updated (≈169 course files). No existing file was moved or restructured; the recaps add no flashcards and no exercises. Validated as V-016.
 
+---
+
+## [017] 2026-09-13 — CP-003: Kurs auf A1 → C2 erweitert (Architektur v2.0)
+
+- **Milestone:** between M6 and M7 (user request); creates the new milestones M9–M11
+- **Affected files:**
+  - **Created:** `B2/README.md` + `B2/B2_Recap/` (4), `C1/README.md` + `C1/C1_Recap/` (4), `C2/README.md` + `C2/C2_Recap/` (4)
+  - **Updated:** `GERMAN_LEARNING_PLAN/README.md` (stage table, recap row, realistic timeline), `B1/README.md` (forward link), Docs 00/01/03/05/06
+- **Change:**
+  1. **Scope.** The course is no longer "A1 → B1" but **"A1 → C2"**. A1–B1 remains the written core; B2, C1 and C2 are defined stages whose units are built in **M9 (B2, 12 units)**, **M10 (C1, 10 units)** and **M11 (C2, 8 project units)**. M8 stays the audit of the A1–B1 core.
+  2. **Stage pages.** Each new stage has a README with its can-do targets, the planned unit inventory, a "what changes compared with the level below" table, and a status block saying the units are not written yet.
+  3. **Recaps.** Each new stage has the CP-002 recap shape — `00_Overview` plus exactly three sheets. **B2:** compression, stance, register, Nomen-Verb-Verbindungen, argumentation, Konjunktiv I, participial attributes, passive substitutes, subjective modals. **C1:** connotation, precise near-synonyms, academic and professional language, hedging, cohesion, nominal ↔ verbal style, extended attributes, advanced connectors, focus and ellipsis. **C2:** nuance ladders, idiom by register, metaphor fields, implicature and irony, rhetorical figures, mediation, editing, stylistic syntax, the grammar of vagueness and of authority.
+  4. **Honesty.** All twelve new sheets are `status: planned` and state that they are built from the CEFR descriptors and not yet consolidated against units. The C2 stage page states that C2 is prepared, not produced, by a course.
+  5. **Planning.** `01` Appendix H gained the new folder tree and a new **Appendix H.1** with the full planned unit inventory for B2, C1 and C2; `03` gained the M9–M11 milestone definitions with scope, work packages and validation criteria.
+- **Reason:** User request of 2026-09-13 (change proposal **CP-003**, approved the same day).
+- **Impact:** Architecture **v1.1 → v2.0** (scope and stage boundaries changed — a major version by the rule in `01`). Nothing in A1–B1 was moved or rewritten. Full course estimate ≈ 345 files. Validated as V-017.
+

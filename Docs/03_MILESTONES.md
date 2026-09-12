@@ -17,7 +17,10 @@
 | M5 | A2 Completion | ✅ COMPLETE (2026-09-12), V-009/V-010/V-011 | M4 **validated** |
 | M6 | B1.1 | ✅ COMPLETE (2026-09-12), V-012/V-013/V-014/V-015 | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
-| M8 | Final Curriculum Audit | ⬜ NOT STARTED | M7 |
+| M8 | Final Audit of the A1–B1 core | ⬜ NOT STARTED | M7 |
+| M9 | B2 (12 units) | ⬜ NOT STARTED | M8 · CP-003 |
+| M10 | C1 (10 units) | ⬜ NOT STARTED | M9 |
+| M11 | C2 (8 project units) | ⬜ NOT STARTED | M10 |
 
 **Status values:**
 - `NOT STARTED`
@@ -352,4 +355,58 @@
   - Every unit's vocabulary is recycled at least once later.
   - Total workload is consistent with Appendix J, or the deviation is documented.
 - **Completion status:** ⬜ NOT STARTED
+- **Next milestone:** M9 (CP-003).
+
+---
+
+## M9 — B2
+
+- **Objective:** Build the B2 stage (*Arguing Precisely, Understanding Everything*).
+- **Scope:**
+  - B2-U01 to U12 in the five-file form (`00_Overview_und_Wortschatz`, `L1`–`L3`, `L4_Anwenden`)
+  - B2-R1, B2-R2, B2-R3; B2 Midpoint Checkpoint; B2 Exit Checkpoint
+  - `Resources/Anki/B2.tsv`; B2 sections in Grammar_Tables, Verb_Lists, Redemittel, Pronunciation_Guide, English_German_Interference
+  - **Consolidation of `B2/B2_Recap/`**: each unit's vocabulary, phrases and grammar folded into the three sheets in the same batch; `status:` moves `planned → in-progress → validated`
+- **Work packages:** WP1 = U01 + review stop (the B2 template gets a second validation pass, as B1-U01 did) · WP2 = U02–U04 + R1 · WP3 = U05–U08 + R2 + Midpoint · WP4 = U09–U12 + R3 + Exit
+- **Dependencies:** M8; CP-003 (approved 2026-09-13).
+- **Validation criteria:**
+  - Instruction language **fully German** at B2 level (extends `04` A7.1).
+  - Reading texts 500–900 words with a recognisable stance; listening 400–600 words.
+  - Every structure in the B2 recap grammar sheet is taught in a unit and demanded spontaneously at least once.
+  - Speaking targets 4–5-minute turns; Story Bank recorded at B2.
+  - Register (⬇ / neutral / ⬆) is taught explicitly and tested.
+- **Completion status:** ⬜ NOT STARTED
+- **Next milestone:** M10.
+
+---
+
+## M10 — C1
+
+- **Objective:** Build the C1 stage (*Effective Operational Command*).
+- **Scope:** C1-U01 to U10 (larger units), C1-R1, C1-R2, C1 Midpoint, C1 Exit, `Resources/Anki/C1.tsv`, C1 resource sections, and consolidation of `C1/C1_Recap/`.
+- **Work packages:** WP1 = U01 + review stop · WP2 = U02–U05 + R1 + Midpoint · WP3 = U06–U10 + R2 + Exit
+- **Dependencies:** M9.
+- **Validation criteria:**
+  - Texts 1 000–2 000 words, including one literary and one academic genre per review cycle.
+  - Writing tasks are **named genres** (Abstract, Bericht, Rezension, Stellungnahme, Protokoll), each with a model and a rubric.
+  - Mediation appears in at least three units (settles CP-001 for the upper stages).
+  - Every unit demands one register switch and one piece of implicit-meaning work.
+- **Completion status:** ⬜ NOT STARTED
+- **Next milestone:** M11.
+
+---
+
+## M11 — C2
+
+- **Objective:** Build the C2 stage (*Mastery*) as **projects and feedback loops**, not as content delivery.
+- **Scope:** C2-U01 to U08, C2-R1, the C2 Final Assessment (portfolio + oral defence), `Resources/Anki/C2.tsv` (nuance pairs rather than words), C2 resource sections, and consolidation of `C2/C2_Recap/`.
+- **Work packages:** WP1 = U01 + U02 + review stop · WP2 = U03–U05 · WP3 = U06–U08 + R1 + Final
+- **Dependencies:** M10.
+- **Validation criteria:**
+  - Each unit is a **project with an audience**, not a lesson sequence.
+  - Every unit contains an editing task on someone else's German and a mediation task.
+  - Assessment is a portfolio with an oral defence; no gap-fill test at this level.
+  - The stage page's honesty clause (a course prepares C2, it does not produce it) is preserved.
+- **Completion status:** ⬜ NOT STARTED
 - **Next milestone:** None. The project is then complete; maintenance follows based on learner feedback.
+

@@ -23,8 +23,13 @@
 | **A1 Fundament** (5 units) | Say basic things **fast and reliably**, not just recognise them | [A1](A1/README.md) |
 | **A2** (10 units + reviews) | Talk about the past, people and places; arrange things; give reasons; handle shops, doctors, travel | [A2](A2/README.md) |
 | **B1** (12 units + reviews) | Tell detailed stories; describe anything, even without the exact word; discuss, argue, negotiate; follow simple news | [B1](B1/README.md) |
+| **B2** *(geplant)* | Say exactly what you mean: argue a complex position, report what others claim, switch register deliberately | [B2](B2/README.md) |
+| **C1** *(geplant)* | Understand the implicit, write genre-appropriate text, hold a position among specialists | [C1](C1/README.md) |
+| **C2** *(geplant)* | Understand virtually everything; differentiate finer shades of meaning; mediate and edit | [C2](C2/README.md) |
 
-At about **7 hours a week**, the whole course takes roughly **12 months**. If you already know part of A1 well, it goes faster.
+At about **7 hours a week**, **A1 → B1** takes roughly **12 months**. If you already know part of A1 well, it goes faster.
+
+> **A1–B1 is written; B2, C1 and C2 are planned.** Each of the three upper stages already has a **stage page** and a **recap** (Wortschatz · Redemittel · Grammatik) built from the CEFR descriptors, so the targets are visible and usable now; the units themselves are built in milestones M9–M11. Realistically, B1 → C1 is another two to three years at this pace, and C2 is reached through years of real use rather than through a course — the C2 stage page says so plainly.
 
 ### A typical week (about 7 hours)
 - 4 lessons of about 75 minutes each
@@ -71,7 +76,7 @@ Recordings stay on your device; the course never needs you to upload them.
 | [Progress Tracker](Learner_Workbook/Progress_Tracker.md) | Diagnostic results, grammar spiral, can-do ticks, unit log, checkpoint scores |
 | [Rubrics](Resources/Rubrics.md) | How speaking, writing, fluency and pronunciation are rated, and the AI rating prompts |
 
-| **Level recaps**: [A1](A1/A1_Recap/00_Overview.md) · [A2](A2/A2_Recap/00_Overview.md) · [B1](B1/B1_Recap/00_Overview.md) | Three sheets per level — **Wortschatz · Redemittel · Grammatik** — consolidating everything that level asks you to produce. Use them to revise a finished level, not to learn a new one |
+| **Level recaps**: [A1](A1/A1_Recap/00_Overview.md) · [A2](A2/A2_Recap/00_Overview.md) · [B1](B1/B1_Recap/00_Overview.md) · [B2](B2/B2_Recap/00_Overview.md) · [C1](C1/C1_Recap/00_Overview.md) · [C2](C2/C2_Recap/00_Overview.md) | Three sheets per level — **Wortschatz · Redemittel · Grammatik** — consolidating everything that level asks you to produce. Use them to revise a finished level, not to learn a new one |
 | [Sentence Map](Resources/Sentence_Map.md) | German word order as one simple map. Read it first |
 | [Speaking Toolkit](Resources/Speaking_Toolkit.md) | Fast-answer drills, shadowing, 4/3/2 retelling, AI conversation prompts |
 | [Writing Toolkit](Resources/Writing_Toolkit.md) · [Listening & Reading](Resources/Listening_Reading_Sources.md) | Writing loop and feedback prompt · TTS how-to and task sheets |

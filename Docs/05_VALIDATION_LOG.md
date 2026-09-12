@@ -723,3 +723,31 @@
 - **Result:** **PASS WITH NOTES** — the recap system is complete for every level that exists; B1 grows with B1.2.
 - **Approval status:** CP-002 approved by the user (2026-09-12).
 
+---
+
+## V-017 — CP-003: die oberen Stufen B2, C1, C2 angelegt
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/README.md`, `C1/README.md`, `C2/README.md` and the three recap folders `B2/B2_Recap/`, `C1/C1_Recap/`, `C2/C2_Recap/` (4 files each: `00_Overview`, `01_Wortschatz`, `02_Redemittel`, `03_Grammatik`); the stage table and recap row in the course README; the forward link in `B1/README.md`; Docs 00/01/03/05/06.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The user's request of 2026-09-13 ("advance this and extend the project to B2, C1, C2, written the same way"); CP-003 as recorded in `01`; the CP-002 recap shape (exactly three sheets plus a navigation overview); `04` format rules; CEFR descriptors for B2, C1 and C2.
+- **Method:**
+  - `check_structure.py` → 140 files, 0 problems
+  - `check_links.py` → 1906 links, 0 broken, 3 planned (all three to the unwritten `B1-U07`)
+  - `build_anki.py` → unchanged (A1 124 / A2 561 / B1 339): the new sheets deliberately carry no flashcard tables
+  - manual reread of every German example; every grammatical claim checked against the structures it describes; register marks (⬇ / neutral / ⬆) checked for plausibility
+- **Findings:**
+  1. `STR`, PASS. The three new stages reuse the existing architecture exactly: a stage `README.md` plus a `<Level>_Recap/` folder with `00`–`03`. No new top-level structure, no file moved, no change to A1–B1.
+  2. `STR`, PASS. **Exactly three** content sections per level, as in CP-002. No reading/writing/listening/speaking/culture/exam sheets were added.
+  3. `CEF`, PASS. The progression is substantive, not cosmetic: **B2** = precision, compression (participles, nominal style, passive substitutes) and stance (Konjunktiv I, subjective modals, hedging); **C1** = choice between correct structures, connotation, cohesion, genre; **C2** = nuance, implicature, irony, rhythm, register mastery and editing. Each sheet opens with the CEFR descriptors for that level in summarised form.
+  4. `PED`, **Honesty finding, resolved by design:** the B2/C1/C2 units do not exist, so these recaps cannot consolidate a course. Every file therefore carries `status: planned` and says in its header that it is built from the CEFR descriptors and will be consolidated when the units are written. The stage READMEs repeat this in a status block. The earlier instruction "do not pretend a recap is complete" is thereby honoured under the extended scope.
+  5. `PED`, PASS. The C2 stage page states plainly that C2 is reached through volume, real stakes and feedback rather than through a course, and describes what a course can and cannot do. Nothing on that page promises what it cannot deliver.
+  6. `LNG`, **Minor (fixed), 2 items:** a garbled cell in the B2 vocabulary table (*„plot · character |ic"*) was rewritten with a proper collocation; the part label in the B2 Redemittel header read *„Teil 1 von 3 → 2"* and was corrected to *„Teil 2 von 3"*.
+  7. `VOC`, PASS. The upper-level word sheets are organised by **distinction**, not by topic list: connotation pairs, near-synonym ladders, register scales, metaphor fields, Nomen-Verb-Verbindungen, verb-prefix families, Amtsdeutsch for reading. This is what separates them from an enlarged B1 list.
+  8. `ASS`, PASS (deferred). No assessment material was written for the new stages; the checkpoints are listed as planned in `03` under M9–M11, including the C2 portfolio-plus-defence decision.
+  9. `WRK`, PASS (estimate). B2 ≈ 4 400 words across four files, C1 ≈ 4 600, C2 ≈ 4 800 — references, not curricula.
+- **Required changes:** None remaining.
+- **Resolution:** Both `LNG` findings were fixed before the commit.
+- **Result:** **PASS WITH NOTES** — the upper stages exist as stage pages and recaps; the units are milestones M9–M11.
+- **Approval status:** CP-003 approved by the user (2026-09-13).
+

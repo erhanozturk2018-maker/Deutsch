@@ -717,6 +717,20 @@ Deutch/
     │   ├── B1_Midpoint_Checkpoint.md
     │   ├── B1_Exit_Checkpoint.md
     │   └── B1_Recap/                       ← CP-002 (00_Overview + 01_Wortschatz + 02_Redemittel + 03_Grammatik)
+    ├── B2/                                 ← CP-003, gebaut in M9
+    │   ├── README.md                       ← vorhanden
+    │   ├── B2_Recap/                       ← vorhanden (00 + 01 + 02 + 03)
+    │   ├── B2-U01_Identitaet_und_Gesellschaft/ … B2-U12_Debatte_und_Verhandlung/   ← geplant
+    │   ├── B2-R1_Wiederholung.md  B2-R2_Wiederholung.md  B2-R3_Wiederholung.md      ← geplant
+    │   └── B2_Midpoint_Checkpoint.md  B2_Exit_Checkpoint.md                        ← geplant
+    ├── C1/                                 ← CP-003, gebaut in M10
+    │   ├── README.md  C1_Recap/            ← vorhanden
+    │   ├── C1-U01_Sprache_und_Register/ … C1-U10_Rhetorik_und_Debatte/            ← geplant
+    │   └── C1-R1 · C1-R2 · C1_Midpoint_Checkpoint.md · C1_Exit_Checkpoint.md        ← geplant
+    ├── C2/                                 ← CP-003, gebaut in M11
+    │   ├── README.md  C2_Recap/            ← vorhanden
+    │   ├── C2-U01_Stil_und_Register/ … C2-U08_Freies_Projekt/                      ← geplant
+    │   └── C2-R1_Wiederholung.md · C2_Final_Assessment.md                          ← geplant
     ├── Resources/
     │   ├── Sentence_Map.md
     │   ├── Grammar_Tables.md
@@ -737,7 +751,64 @@ Deutch/
         └── Writing_Portfolio.md
 ```
 
-**Count:** root README 1 + 00_Curriculum 9 + A1 7 + A2 56 + B1 66 + Resources 13 + Learner_Workbook 5 + **recaps 12 (CP-002)** = **about 169 course files**.
+**Count (A1–B1 core):** root README 1 + 00_Curriculum 9 + A1 7 + A2 56 + B1 66 + Resources 13 + Learner_Workbook 5 + **recaps 12 (CP-002)** = **about 169 course files**.
+
+**Count (CP-003, obere Stufen):** vorhanden heute **15** (3 stage READMEs + 12 recap sheets). Geplant: B2 ≈ 70, C1 ≈ 56, C2 ≈ 34 → der vollständige Kurs A1 → C2 umfasst **etwa 345 Dateien**.
+
+### Appendix H.1 — Geplante Einheiten der oberen Stufen (CP-003)
+
+**B2 (M9, 12 Einheiten, Fünf-Datei-Form wie A2/B1)**
+
+| Einheit | Thema | Grammatikschwerpunkt |
+|---|---|---|
+| B2-U01 Identität & Gesellschaft | Lebensstile, Werte, Zugehörigkeit | Partizip I/II als Attribut; erweiterte Attribute |
+| B2-U02 Arbeitswelt & Karriere | Bewerbung auf höherem Niveau, Konflikte | Funktionsverbgefüge; Nominal- ↔ Verbalstil |
+| B2-U03 Bildung & Lernen | Bildungssysteme, Lernbiografien | Konjunktiv I, indirekte Rede |
+| B2-U04 Medien & Öffentlichkeit | Journalismus, Quellen, Debatte | Passiversatzformen |
+| B2-U05 Wirtschaft & Konsum | Geld, Konsum, Werbung | Konditional- und Konzessivsätze, auch ohne *wenn* |
+| B2-U06 Wissenschaft & Forschung | Forschung, Evidenz | subjektive Modalverben |
+| B2-U07 Recht & Regeln | Regeln, Verträge, Rechte | Genitivpräpositionen erweitert |
+| B2-U08 Gesundheit & Psyche | Körper, Psyche, Systeme | Futur I/II als Vermutung |
+| B2-U09 Kunst & Kultur | Film, Literatur, Kritik | Vergleichssätze, *als ob* + Konjunktiv II |
+| B2-U10 Migration & Zusammenleben | Zusammenleben, Identität | *indem, sofern, ohne dass, anstatt dass* |
+| B2-U11 Technik & Digitalisierung | Technik, Daten, Automatisierung | Adjektiv + Präposition, feste Präpositionalgefüge |
+| B2-U12 Debatte & Verhandlung | Debattieren, Verhandeln, Vermitteln | Modalpartikeln, Wortstellung zur Betonung |
+
+Dazu B2-R1/R2/R3, B2 Midpoint, B2 Exit.
+
+**C1 (M10, 10 Einheiten)**
+
+| Einheit | Thema | Schwerpunkt |
+|---|---|---|
+| C1-U01 Sprache & Register | Varietäten des Deutschen | Register, Stilebenen, Ellipse |
+| C1-U02 Wissenschaftliches Arbeiten | akademisches Lesen und Schreiben | Nominalstil, Hedging, Zitieren |
+| C1-U03 Politik & Institutionen | Entscheidungsprozesse | Passiversatz, unpersönliche Konstruktionen, Amtsdeutsch |
+| C1-U04 Wirtschaft & Globalisierung | Märkte, Arbeit, Ungleichheit | Funktionsverbgefüge, Statistiksprache |
+| C1-U05 Literatur & Interpretation | close reading | Konjunktiv, Erzählperspektive, Bildsprache |
+| C1-U06 Ethik & Dilemmata | Argumentieren ohne klare Antwort | konzessive Strukturen, Modalität |
+| C1-U07 Beruflicher Alltag | Meeting, Verhandlung, Moderation, Feedback | Gesprächssteuerung, Indirektheit |
+| C1-U08 Geschichte & Erinnerung | Erinnerungskultur, Verantwortung | Vergangenheitsformen im Diskurs, Zitat und Bericht |
+| C1-U09 Wissenschaftskommunikation | Komplexes einfach erklären | Mediation, Umformulierung, Adressatenbezug |
+| C1-U10 Rhetorik & Debatte | Überzeugen unter Druck | rhetorische Mittel, Fokussierung |
+
+Dazu C1-R1/R2, C1 Midpoint, C1 Exit.
+
+**C2 (M11, 8 projektförmige Einheiten)**
+
+| Einheit | Fokus |
+|---|---|
+| C2-U01 Stil & Register meistern | denselben Inhalt in fünf Registern |
+| C2-U02 Idiomatik & Kollokationen | Idiom, Kollokation, Metapher und ihre Konnotation |
+| C2-U03 Fachsprachen | Recht, Medizin, Technik, Verwaltung lesen und schreiben |
+| C2-U04 Literarische Texte | Perspektive, Bildlichkeit, Ironie, Mehrdeutigkeit |
+| C2-U05 Rhetorik & Persuasion | rhetorische Figuren, Argument unter Druck |
+| C2-U06 Nuance & Implikatur | Implikatur, Untertreibung, Höflichkeit als Strategie |
+| C2-U07 Redigieren & Mediation | fremdes Deutsch redigieren, dolmetschen, zusammenführen |
+| C2-U08 Freies Projekt | selbstgewähltes Langprojekt mit mündlicher Verteidigung |
+
+Dazu C2-R1 und ein **C2 Final Assessment** als Portfolio mit Verteidigung (kein Lückentest).
+
+**Anmerkung zur Ehrlichkeit (CD-CP-003):** C2 ist durch einen Kurs nur vorbereitbar, nicht herstellbar. Die C2-Stufenseite sagt das ausdrücklich; die Einheiten sind als Projekte und Feedbackschleifen konzipiert, nicht als Stoffvermittlung.
 
 ## Appendix I — Lesson template
 
@@ -819,11 +890,12 @@ Log significant local changes in `06_CHANGELOG.md`.
 - **v1.1, v1.2…** (minor): approved change to content allocation, thresholds or templates.
 - Local changes do not change the version.
 
-**Current version: v1.1.** (v1.1 = CP-002, the per-level recap folders, approved by the user on 2026-09-12.)
+**Current version: v2.0.** (v2.0 = CP-003, scope extended to A1 → C2, approved by the user on 2026-09-13. v1.1 = CP-002, the per-level recap folders, 2026-09-12.)
 
 ### Change proposal register
 
 | ID | Date | Proposal | Reason | Status |
 |---|---|---|---|---|
+| CP-003 | 2026-09-13 | **Extend the course scope from „A1 → B1“ to „A1 → C2“.** Add the stages **B2, C1, C2**, each with a stage `README.md` and a recap folder (`00_Overview` + `01_Wortschatz` + `02_Redemittel` + `03_Grammatik`, the CP-002 shape). The unit inventories are planned now and built later in new milestones **M9 (B2, 12 units)**, **M10 (C1, 10 units)** and **M11 (C2, 8 project units)**; M8 remains the audit of the A1–B1 core and is no longer the end of the project. The three new recaps are marked `status: planned` and state openly that they are built from the CEFR descriptors, not yet consolidated against written units. | Requested by the user on 2026-09-13. The learner's goal moved beyond B1; leaving the upper stages undefined would mean either inventing them ad hoc later or stopping the course at B1. | **APPROVED by the user, 2026-09-13** — applied; architecture v2.0 |
 | CP-002 | 2026-09-12 | Add a **Recap / Cheat Sheet** per level: one folder `<Level>_Recap/` inside each level folder, containing `00_Overview.md` (navigation only) plus exactly three reference sheets — `01_Wortschatz.md`, `02_Redemittel.md`, `03_Grammatik.md`. No other recap categories (no reading/writing/listening/speaking/culture/exam sheets). New file type `recap`; recaps are learner-facing reference, contain no exercises, and are linked from the level README, the course README and the level's checkpoint. A level still being written gets a recap of the material that exists, marked `status: in-progress` with a „Was noch fehlt“ section. | Requested by the user on 2026-09-12: after finishing a level the learner needs one consolidated place for *what should I know now*, without rereading every lesson. Three separate sheets rather than one file so each can be detailed without becoming unnavigable. | **APPROVED by the user, 2026-09-12** — applied; architecture v1.1 |
 | CP-001 | 2026-09-11 | *(Candidate, not yet formally proposed.)* Add an explicit **mediation** strand (explaining German content in English and vice versa) beyond the light coverage in B1-U11/U12 | Known gap from the Phase 1 internal audit | **Must be decided before M7 starts** |

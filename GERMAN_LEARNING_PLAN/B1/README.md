@@ -84,4 +84,4 @@ If a German instruction ever stops you, the English support line is right there 
 
 ---
 
-← [Course README](../README.md) · [A2](../A2/README.md) · [Start: B1-U01 Lebenswege](B1-U01_Lebenswege/00_Overview_und_Wortschatz.md) →
+← [Course README](../README.md) · [A2](../A2/README.md) · [Start: B1-U01 Lebenswege](B1-U01_Lebenswege/00_Overview_und_Wortschatz.md) · [Danach: B2](../B2/README.md) →
