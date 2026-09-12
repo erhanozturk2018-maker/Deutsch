@@ -10,15 +10,15 @@
 
 ```text
 Project:            German A1 → B1 Curriculum
-Architecture:       Approved — Baseline v1.0 (2026-09-11)
+Architecture:       Approved — v1.1 (2026-09-12: CP-002, per-level recap folders)
 Lesson standard:    04_LESSON_STANDARDS v1.2 (A1/A2 pilot-validated; B1.1 instruction language fixed by the B1-U01 review stop, V-012)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1 ✅ COMPLETE (2026-09-12, V-015)
 Status:             BETWEEN MILESTONES
-Current batch:      — (M6 closed; next batch: the level recap sheets, then M7 B1.2)
-Next task:          M6 complete (V-015). NEXT: the Recap / Cheat Sheet sheets requested by the user on 2026-09-12 (see CD-44 in 01 and 00 section 6): one A1_Recap.md, A2_Recap.md and B1_Recap.md per level folder, each with exactly three sections (Wortschatz / Redemittel / Grammatik), B1 marked as covering B1.1 only. After that: M7 (B1.2, B1-U07 to U12, B1-R2, B1-R3, B1 Exit), deciding CP-001 (mediation) before M7 is finalised
-Last completed:     M6 WP3 + M6 closure — B1-U06, B1 Midpoint (2026-09-12, V-015)
+Current batch:      — (M6 closed; recap system done, V-016; next: M7 B1.2)
+Next task:          Recap system complete (V-016). NEXT: M7 (B1.2) — B1-U07 Umwelt & Nachhaltigkeit (obwohl vs trotzdem, sodass), then U08-U12, B1-R2, B1-R3, B1 Exit; decide CP-001 (mediation) before M7 is finalised. After each new B1 unit, extend GERMAN_LEARNING_PLAN/B1/B1_Recap/ (01/02/03) with that unit's vocabulary, phrases and grammar and tick it off in the „Was noch fehlt“ table
+Last completed:     Recap system per level (CP-002, 2026-09-12, V-016)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: ce8ce70 (B1-U02)
 ```
@@ -125,12 +125,14 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 - **M7:** B1.2 (B1-U07 to U12, B1-R2, B1-R3, B1 Exit). Decide OD-11 (mediation) before it is finalised.
 - **M8:** final audit (including `check_links --strict`), final report, final state "A1 → B1 CURRICULUM COMPLETE"
+- **Recaps (standing task, CP-002):** every new B1 unit is added to `B1/B1_Recap/01_Wortschatz.md`, `02_Redemittel.md` and `03_Grammatik.md` in the same batch, and the „Was noch fehlt“ table in `00_Overview.md` is updated. When B1.2 is complete, `status:` changes from `in-progress` to `validated`.
 
 ## 8. Approved curriculum version
 
 - **Architecture v1.0.** Authoritative record: `01_CURRICULUM_DECISIONS.md` (CD-01–CD-43, Appendices A–J).
 - **Lesson standard:** `04_LESSON_STANDARDS.md` **v1.1**, validated for A1/A2 by the M4 pilot. The B1 variant is checked at the B1-U01 special review.
 - **Pending change proposal:** CP-001 (mediation), to be decided by Claude before M7 is finalised (OD-11).
+- **Applied change proposal:** CP-002 (per-level recap folders), approved by the user on 2026-09-12 → architecture v1.1.
 
 ---
 

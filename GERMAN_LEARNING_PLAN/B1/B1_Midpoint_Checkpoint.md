@@ -35,6 +35,7 @@ Die erste Hälfte von B1:
 - Öffnen Sie jeden Lösungsschlüssel **erst**, wenn der Teil fertig ist, und tragen Sie das Ergebnis unten ins Profil ein.
 - Sprechen und Schreiben bewerten Sie mit den [Rubrics](../Resources/Rubrics.md).
 - Nehmen Sie die Sprechteile **auf**. Ohne Aufnahme keine Bewertung.
+- Zum Wiederholen **vorher**: der [B1 Recap](B1_Recap/00_Overview.md) — Wortschatz, Redemittel und Grammatik von B1.1 auf drei Blättern.
 
 | Teil | Fertigkeit | Zeit | Referenzwert |
 |---|---|---|---|

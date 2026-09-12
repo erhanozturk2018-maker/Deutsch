@@ -682,7 +682,12 @@ Deutch/
     │   ├── A1-U03_Mein_Tag.md
     │   ├── A1-U04_Koennen_muessen_duerfen.md
     │   ├── A1-U05_In_der_Stadt.md
-    │   └── A1_Checkpoint.md
+    │   ├── A1_Checkpoint.md
+    │   └── A1_Recap/                       ← CP-002
+    │       ├── 00_Overview.md
+    │       ├── 01_Wortschatz.md
+    │       ├── 02_Redemittel.md
+    │       └── 03_Grammatik.md
     ├── A2/
     │   ├── README.md
     │   ├── A2-U01_Erlebnisse/
@@ -698,7 +703,8 @@ Deutch/
     │   ├── A2-U10_Medien_und_Technik/
     │   ├── A2-R1_Wiederholung.md   A2-R2_Wiederholung.md   A2-R3_Wiederholung.md
     │   ├── A2_Midpoint_Checkpoint.md
-    │   └── A2_Exit_Checkpoint.md
+    │   ├── A2_Exit_Checkpoint.md
+    │   └── A2_Recap/                       ← CP-002 (00_Overview + 01_Wortschatz + 02_Redemittel + 03_Grammatik)
     ├── B1/
     │   ├── README.md
     │   ├── B1-U01_Lebenswege/               B1-U02_Menschen_beschreiben/
@@ -709,7 +715,8 @@ Deutch/
     │   ├── B1-U11_Wissenschaft_und_Technik/ B1-U12_Diskussion/
     │   ├── B1-R1_Wiederholung.md   B1-R2_Wiederholung.md   B1-R3_Wiederholung.md
     │   ├── B1_Midpoint_Checkpoint.md
-    │   └── B1_Exit_Checkpoint.md
+    │   ├── B1_Exit_Checkpoint.md
+    │   └── B1_Recap/                       ← CP-002 (00_Overview + 01_Wortschatz + 02_Redemittel + 03_Grammatik)
     ├── Resources/
     │   ├── Sentence_Map.md
     │   ├── Grammar_Tables.md
@@ -730,7 +737,7 @@ Deutch/
         └── Writing_Portfolio.md
 ```
 
-**Count:** root README 1 + 00_Curriculum 9 + A1 7 + A2 56 + B1 66 + Resources 13 + Learner_Workbook 5 = **about 157 course files**.
+**Count:** root README 1 + 00_Curriculum 9 + A1 7 + A2 56 + B1 66 + Resources 13 + Learner_Workbook 5 + **recaps 12 (CP-002)** = **about 169 course files**.
 
 ## Appendix I — Lesson template
 
@@ -812,10 +819,11 @@ Log significant local changes in `06_CHANGELOG.md`.
 - **v1.1, v1.2…** (minor): approved change to content allocation, thresholds or templates.
 - Local changes do not change the version.
 
-**Current version: v1.0.**
+**Current version: v1.1.** (v1.1 = CP-002, the per-level recap folders, approved by the user on 2026-09-12.)
 
 ### Change proposal register
 
 | ID | Date | Proposal | Reason | Status |
 |---|---|---|---|---|
+| CP-002 | 2026-09-12 | Add a **Recap / Cheat Sheet** per level: one folder `<Level>_Recap/` inside each level folder, containing `00_Overview.md` (navigation only) plus exactly three reference sheets — `01_Wortschatz.md`, `02_Redemittel.md`, `03_Grammatik.md`. No other recap categories (no reading/writing/listening/speaking/culture/exam sheets). New file type `recap`; recaps are learner-facing reference, contain no exercises, and are linked from the level README, the course README and the level's checkpoint. A level still being written gets a recap of the material that exists, marked `status: in-progress` with a „Was noch fehlt“ section. | Requested by the user on 2026-09-12: after finishing a level the learner needs one consolidated place for *what should I know now*, without rereading every lesson. Three separate sheets rather than one file so each can be detailed without becoming unnavigable. | **APPROVED by the user, 2026-09-12** — applied; architecture v1.1 |
 | CP-001 | 2026-09-11 | *(Candidate, not yet formally proposed.)* Add an explicit **mediation** strand (explaining German content in English and vice versa) beyond the light coverage in B1-U11/U12 | Known gap from the Phase 1 internal audit | **Must be decided before M7 starts** |

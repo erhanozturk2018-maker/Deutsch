@@ -25,6 +25,7 @@ You already know most of A1. You'd recognise these words and structures in a tex
 | [A1-U04 Können, müssen, dürfen](A1-U04_Koennen_muessen_duerfen.md) | Requests, abilities, rules, help | modal verbs, the bracket, imperative, position of *nicht* | ~4 h | ~1 h |
 | [A1-U05 In der Stadt](A1-U05_In_der_Stadt.md) | Getting around town, directions, tickets | place phrases, *war/hatte*, recognising the Perfekt | ~3.5 h | ~1 h |
 | [A1 Checkpoint](A1_Checkpoint.md) | The gate into A2 | everything above + fluency | ~2 h | – |
+| [**A1 Recap**](A1_Recap/00_Overview.md) | The level on three sheets: [Wortschatz](A1_Recap/01_Wortschatz.md) · [Redemittel](A1_Recap/02_Redemittel.md) · [Grammatik](A1_Recap/03_Grammatik.md) | reference, not a lesson | ~1 h | – |
 
 Load: U01 and U05 are lighter; U02–U04 carry more grammar.
 
@@ -81,6 +82,6 @@ Every A1 unit is **one file** with the same structure:
 
 ## After A1
 
-Take the [A1 Checkpoint](A1_Checkpoint.md). It includes the Story Bank A1 recordings. Pass it and you start A2 with [A2-U01 Erlebnisse](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md): talking about the past with the Perfekt, which you already met in A1-U05.
+Revise with the [A1 Recap](A1_Recap/00_Overview.md) — the level's vocabulary, phrases and grammar on three reference sheets — and then take the [A1 Checkpoint](A1_Checkpoint.md). It includes the Story Bank A1 recordings. Pass it and you start A2 with [A2-U01 Erlebnisse](../A2/A2-U01_Erlebnisse/00_Overview_und_Wortschatz.md): talking about the past with the Perfekt, which you already met in A1-U05.
 
 ← [Course start page](../README.md)

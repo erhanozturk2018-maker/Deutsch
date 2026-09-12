@@ -13,6 +13,7 @@ status: validated
 > **Level:** A1 · **Time:** about 2.5 hours in **two sittings** + 20 min scoring
 > **Before this:** all five A1 units, or the Fast track from your [diagnostic](../00_Curriculum/09_Diagnostic_Test.md)
 > **This checkpoint decides:** are you ready for A2, or which A1 sections should you strengthen first?
+> **Revising first?** The [A1 Recap](A1_Recap/00_Overview.md) has the level's Wortschatz, Redemittel and Grammatik on three sheets.
 
 ## What is assessed
 

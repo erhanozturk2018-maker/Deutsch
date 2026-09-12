@@ -694,3 +694,32 @@
 - **Result:** **PASS WITH NOTES** — M6 (B1.1) complete.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-016 — Recap system (CP-002): A1, A2 and B1 recap folders
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/A1/A1_Recap/`, `A2/A2_Recap/`, `B1/B1_Recap/` (4 files each: `00_Overview`, `01_Wortschatz`, `02_Redemittel`, `03_Grammatik`), plus the links added to the three level READMEs, the course README and the three checkpoints.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The user's specification of 2026-09-12 (exactly three recap sections; detailed, not a checklist; CEFR-appropriate progression; built out of the existing curriculum; fits the existing architecture; no new parallel structure; levels that do not exist are not invented); CP-002 as recorded in `01`; `04` format rules.
+- **Method:**
+  - Inventory first: the existing levels were read off the filesystem (A1, A2, B1 exist; **B2, C1, C2 do not exist and were not created**), and the sources of each section were located — vocabulary in the A1 unit `## 📚 Wortschatz` tables and the A2/B1 `### ★ Aktiver Kern` tables, phrases in `Resources/Redemittel.md` plus the per-unit Redemittel blocks, grammar in `Resources/Grammar_Tables.md` plus the unit explanations.
+  - `check_structure.py` → 125 files, 0 problems
+  - `check_links.py` → 1789 links, 0 broken, 3 planned (all three to the unwritten `B1-U07_Umwelt_und_Nachhaltigkeit/`)
+  - `build_anki.py` → unchanged (A1 124 / A2 561 / B1 339): the recaps deliberately carry **no** flashcard tables, so they cannot duplicate the decks
+  - manual reread: every article and plural checked against the unit word banks; every grammar table checked against `Resources/Grammar_Tables.md`; every phrase checked for naturalness and level
+- **Findings:**
+  1. `STR`, PASS. One folder per level inside the level's own folder, named like the existing `A1_Checkpoint.md` / `B1_Midpoint_Checkpoint.md` files; files numbered `00`–`03` like the unit folders' `00_Overview_und_Wortschatz.md`. No `Recaps/` root folder, no file moved, no existing structure changed.
+  2. `STR`, PASS. **Exactly three** content sections per level — Wortschatz, Redemittel, Grammatik. `00_Overview.md` is navigation only (what the three sheets are, how to use them, what is deliberately absent) and adds no fourth category.
+  3. `CEF`, PASS. Progression is real, not cosmetic: A1 = concrete everyday items, fixed phrases, one-clause grammar; A2 = topic vocabulary with Perfekt forms, phrases that give reasons and compare, the dative and subordinate clauses; B1 = **abstract nouns, collocations and verb-preposition patterns**, argumentation language, and the joining structures (relative clauses, Konjunktiv II, genitive, passive).
+  4. `VOC`, PASS. Curated, not copied: each level's sheet groups the material into semantic categories and adds what a reference needs and a lesson does not — gender rules, plural patterns, the frequent-verb and frequent-adjective lists, word-formation tables, and at B1 a collocation table.
+  5. `PED`, PASS. Each sheet states how to revise with it (cover the German, say it, 10–15-minute blocks, go back to the named unit) and ends in a self-test; nothing is presented as an exercise to be completed in the file.
+  6. `LNG`, **Minor (fixed), 1 item:** *der Rat* was carried over from the A2-U10 word bank as *der Rat, ¨-e*; in the meaning "advice" it has no plural, so the recap now gives *der Rat (Sg., Pl. Ratschläge)*.
+  7. `DEP`, PASS. Each sheet says what it assumes (A2 assumes A1, B1 assumes A1 and A2) and links to the level below instead of repeating it.
+  8. `ASS`, PASS. The B1 recap is marked `status: in-progress` and carries a **Was noch fehlt** table listing U07–U12 and what each will add, so the sheet is honest about covering only B1.1 and is trivially extendable.
+  9. `WRK`, PASS (estimate). A1 ≈ 2 300 words, A2 ≈ 3 400, B1 ≈ 3 900 across the three sheets — a reference, not a second curriculum.
+- **Required changes:** None remaining.
+- **Resolution:** The single `LNG` finding was fixed before the commit.
+- **Result:** **PASS WITH NOTES** — the recap system is complete for every level that exists; B1 grows with B1.2.
+- **Approval status:** CP-002 approved by the user (2026-09-12).
+

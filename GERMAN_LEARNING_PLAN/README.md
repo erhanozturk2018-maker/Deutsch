@@ -71,6 +71,7 @@ Recordings stay on your device; the course never needs you to upload them.
 | [Progress Tracker](Learner_Workbook/Progress_Tracker.md) | Diagnostic results, grammar spiral, can-do ticks, unit log, checkpoint scores |
 | [Rubrics](Resources/Rubrics.md) | How speaking, writing, fluency and pronunciation are rated, and the AI rating prompts |
 
+| **Level recaps**: [A1](A1/A1_Recap/00_Overview.md) · [A2](A2/A2_Recap/00_Overview.md) · [B1](B1/B1_Recap/00_Overview.md) | Three sheets per level — **Wortschatz · Redemittel · Grammatik** — consolidating everything that level asks you to produce. Use them to revise a finished level, not to learn a new one |
 | [Sentence Map](Resources/Sentence_Map.md) | German word order as one simple map. Read it first |
 | [Speaking Toolkit](Resources/Speaking_Toolkit.md) | Fast-answer drills, shadowing, 4/3/2 retelling, AI conversation prompts |
 | [Writing Toolkit](Resources/Writing_Toolkit.md) · [Listening & Reading](Resources/Listening_Reading_Sources.md) | Writing loop and feedback prompt · TTS how-to and task sheets |

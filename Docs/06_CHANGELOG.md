@@ -418,3 +418,20 @@
 - **Reason:** The M6 WP3 plan in `00` §6.
 - **Impact:** **M6 (B1.1) is complete**: B1-U01 to U06, B1-R1 and the B1 Midpoint. Validated as V-015. Next: M7 (B1.2), with CP-001 (mediation) to be decided before M7 is finalised.
 
+---
+
+## [016] 2026-09-12 — Recap system per level (CP-002, architecture v1.1)
+
+- **Milestone:** between M6 and M7 (user request)
+- **Affected files:**
+  - **Created:** `A1/A1_Recap/` (4 files), `A2/A2_Recap/` (4), `B1/B1_Recap/` (4)
+  - **Updated:** `A1/README.md`, `A2/README.md`, `B1/README.md`, `GERMAN_LEARNING_PLAN/README.md`, `A1/A1_Checkpoint.md`, `A2/A2_Exit_Checkpoint.md`, `B1/B1_Midpoint_Checkpoint.md` (links only), Docs 00/01/05/06
+- **Change:**
+  1. Each level now has a **recap folder** in its own folder: `00_Overview.md` (navigation, how to revise, what is deliberately not here) plus **exactly three** reference sheets — `01_Wortschatz.md`, `02_Redemittel.md`, `03_Grammatik.md`.
+  2. **Wortschatz:** semantic categories with article, plural, forms, Perfekt auxiliary, case and collocation; plus frequent verbs, frequent adjectives, small words, numbers (A1), the A2 participle list and verbs with prepositions, and at B1 abstract nouns, collocations and word families.
+  3. **Redemittel:** organised by communicative purpose, with **fixed expressions marked off from productive patterns** (🔒 / 🔁), and a memorisable list at the end of each level (20 / 25 / 30 sentences).
+  4. **Grammatik:** every structure of the level with forms, word order, examples, exceptions, contrasts with similar structures, and a typical-error table; each sheet ends in a spoken self-test.
+  5. **Scope:** only the levels that exist (A1, A2, B1) were built. B2/C1/C2 do not exist in the repository and were not invented. The B1 recap is marked `in-progress` and covers B1.1, with a **Was noch fehlt** table for U07–U12.
+- **Reason:** User request of 2026-09-12 (change proposal **CP-002**, approved the same day): after finishing a level, the learner needs one consolidated place answering *what should I know now?* without rereading every lesson. Three separate sheets rather than one file, so each can be detailed and still findable.
+- **Impact:** Architecture **v1.0 → v1.1**; Appendix H updated (≈169 course files). No existing file was moved or restructured; the recaps add no flashcards and no exercises. Validated as V-016.
+

@@ -12,6 +12,7 @@ status: validated
 
 > **Level:** A2.2 · **Time:** about 3–3.5 hours in **two sittings** + 30 min scoring · **Before this:** [A2-R3](A2-R3_Wiederholung.md)
 > **This checkpoint decides:** are you ready to start B1, or which A2 areas need a short repair first?
+> **Revising first?** The [A2 Recap](A2_Recap/00_Overview.md) has the level's Wortschatz, Redemittel and Grammatik on three sheets.
 
 ## What is assessed
 

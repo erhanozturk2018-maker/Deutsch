@@ -34,6 +34,7 @@ This is also the level where German stops being a subject and becomes a language
 | [B1-U05 Reisen & Kulturen](B1-U05_Reisen_und_Kulturen/00_Overview_und_Wortschatz.md) | Cultures, complaints | **Genitive**; paired connectors | ●● |
 | [B1-U06 Medien & Nachrichten](B1-U06_Medien_und_Nachrichten/00_Overview_und_Wortschatz.md) | News, processes, social media | **Passive** (present, Präteritum, with modals) | ●●● |
 | [B1 Midpoint Checkpoint](B1_Midpoint_Checkpoint.md) | Diagnostic mid-test: four skills + an integrated situation | – | – |
+| [**B1 Recap**](B1_Recap/00_Overview.md) | The level on three sheets: [Wortschatz](B1_Recap/01_Wortschatz.md) · [Redemittel](B1_Recap/02_Redemittel.md) · [Grammatik](B1_Recap/03_Grammatik.md) — currently B1.1, grows with B1.2 | reference, not a lesson | – |
 
 **B1.2 Argumentieren & Handeln** (arguing & acting) — units U07–U12, B1-R2, B1-R3 and the **B1 Exit**: the full list is in the course [README](../README.md) and appears here as the units are built.
 

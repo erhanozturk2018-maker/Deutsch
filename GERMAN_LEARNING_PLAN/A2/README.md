@@ -44,6 +44,7 @@ In A1 you made the basics fast and reliable. A2 is where German starts to become
 | [A2-U09 Feste & Pläne](A2-U09_Feste_und_Plaene/00_Overview_und_Wortschatz.md) | Invitations, plans, celebrations | Future, *Hättest du Lust …?* (a lighter unit) | ● |
 | [A2-U10 Medien & Technik](A2-U10_Medien_und_Technik/00_Overview_und_Wortschatz.md) | Tech problems, advice, wishes | **Konjunktiv II** (advice, wishes), *deshalb / trotzdem* | ●● |
 | [A2-R3 Wiederholung](A2-R3_Wiederholung.md) + [A2 Exit](A2_Exit_Checkpoint.md) | Review + the gate to B1 | – | – |
+| [**A2 Recap**](A2_Recap/00_Overview.md) | The level on three sheets: [Wortschatz](A2_Recap/01_Wortschatz.md) · [Redemittel](A2_Recap/02_Redemittel.md) · [Grammatik](A2_Recap/03_Grammatik.md) | reference, not a lesson | – |
 
 ---
 
