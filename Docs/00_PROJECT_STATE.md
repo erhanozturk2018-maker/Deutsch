@@ -14,11 +14,11 @@ Architecture:       Approved — Baseline v1.0 (2026-09-11)
 Lesson standard:    04_LESSON_STANDARDS v1.1 (pilot-validated 2026-09-12)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
-Current Milestone:  M5 — A2 Completion
+Current Milestone:  M6 — B1.1
 Status:             IN PROGRESS
-Current batch:      M5 WP3 — A2-U07, A2-U08, A2-U09, A2-U10, A2-R3, A2 Exit
-Next task:          A2-U07 ✅ · U08 ✅ · U09 ✅ · U10 ✅ written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/A2/A2-R3_Wiederholung.md (A1 + U01–U10, 50/30/20 with recent = U07–U10), then A2_Exit_Checkpoint.md (4 skills + integrated scenario + Story Bank A2 recordings of all 8 tasks), then validate WP3 (V-011) and close M5
-Last completed:     M5 WP2 — A2-U04, U05, U06, R2, Midpoint (2026-09-12, V-010)
+Current batch:      M6 WP1 — B1 README, B1-U01 Lebenswege, then the German-instructions review stop
+Next task:          M5 ✅ COMPLETE (A2 is finished: U01–U10, R1–R3, Midpoint, Exit; A2.tsv 561 cards). NEXT: M6 WP1 — write GERMAN_LEARNING_PLAN/B1/README.md and B1/B1-U01_Lebenswege/ (00_Overview + L1–L4: Präteritum of all verbs, als vs wenn, Plusquamperfekt with nachdem/bevor, während/seit/bis/sobald; main task: biography presentation + 4/3/2 retelling), then the special review of German task instructions (CD-10 / 04 A7) before B1-U02
+Last completed:     M5 — A2 Completion, all work packages (2026-09-12, V-011)
 Push status:        OK (origin/main in sync after every batch)
 ```
 
@@ -96,48 +96,35 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 ---
 
-## 6. Current work — M5 A2 Completion
+## 6. Current work — M6 B1.1
 
-**Model to follow:** `A2/A2-U01_Erlebnisse/`, the validated pilot, under `04` v1.1. **Don't copy blindly**: adapt to each unit's purpose.
+**Model to follow:** the validated A2 units under `04` v1.1, with the B1 changes below. **A2 is complete and must not be rebuilt.**
 
-**Per-unit checklist** (from the pilot):
-- 5 files: `00_Overview_und_Wortschatz` (plain `## Wortschatz` heading, "Recycled from" ≥15 items from ≥3 earlier units incl. A1) · `L1`–`L3` (~75–85 min, 7–8 numbered activities, 3-2-1 warm-up, Entdecken, Explanation with **unnumbered H3** subheadings, practice, ⏱️, 🎭 AI prompt, 🗣️ 60 s, 👄, ⚠️, 🔗 + "New words", ✅ with blank-page recall, 🚀, 🃏) · `L4_Anwenden` (main task from Appendix B, S4 timed retell, 📖, 🎧, 📝 writing loop, mixed review incl. A1, 10-item unit quiz with redo map, workbook update)
+**What changes at B1** (from `01` CD-10, CD-18, CD-23, Appendix B, and `04` A7):
+- **More German in the instructions.** Task lines, success criteria and activity titles move step by step into German; explanations stay in English. The exact rule is reviewed after B1-U01 (see below).
+- **Longer texts:** reading 200–400 words, with real structure (article, report, interview, forum thread).
+- **Relative clauses** from B1-U02 on are used for "talk around the word you don't know" tasks.
+- Speaking targets S3–S4: 2-minute turns, 4/3/2 retellings, opinion with counter-argument.
+
+**Per-unit checklist** (unchanged from A2, plus the B1 points):
+- 5 files: `00_Overview_und_Wortschatz` (plain `## Wortschatz`, "Recycled from" ≥15 items from ≥3 earlier units incl. A1) · `L1`–`L3` (~80–90 min, 7–8 numbered activities) · `L4_Anwenden` (main task from Appendix B, timed retell, 📖, 🎧, 📝, mixed review, 10-item quiz with redo map, workbook update)
 - Reading in ≥2 and listening in ≥2 of L1–L4; writing in ≥2 (L4 always)
 - Run `tools/check_structure.py`, `tools/check_vocab.py <unit>`, `tools/build_anki.py`, `tools/check_links.py`
-- Add the unit's A2 content to Resources (Grammar_Tables, Verb_Lists, Redemittel, Interference, Pronunciation) as needed
+- Add each unit's B1 content to Resources; create `Resources/Anki/B1.tsv` with the first B1 unit
 
-**WP1 ✅ (2026-09-12, V-009):** A2-U02 Menschen & Geschenke · A2-U03 Wohnen · A2-R1 Wiederholung (+ dative, prepositions and position-verb resource sections, `.gitattributes`)
+**WP1 (in progress):** `B1/README.md` · **B1-U01 Lebenswege** (Präteritum of all verbs, spoken vs written; *als* vs *wenn*; Plusquamperfekt with *nachdem/bevor*; *während, seit, bis, sobald*; main task: biography presentation + 4/3/2 retelling; Story Bank Task 3 at B1)
+  - Then the **review stop**: reread B1-U01 against CD-10 and `04` A7, decide how much German the instructions use from B1-U02 on, record the decision in `06` and, if it changes the standard, in `04` as v1.2.
 
-**WP2** (in progress). Lesson plans, so any session can build them consistently:
-1. ✅ **A2-U04 Essen & Gewohnheiten** (*weil / dass / denn*; verb-final clauses on the Sentence Map)
-   - `L1_Warum`: *weil* + *denn* for reasons; food habits and preferences; the spoken *weil* + verb-second note
-   - `L2_Ich_finde_dass`: *dass*-clauses (*Ich finde / glaube / denke, dass …; Es ist wichtig, dass …*); opinion starters; agreeing and disagreeing
-   - `L3_Im_Restaurant`: ordering with special requests, allergies, paying, complaining politely (*Könnte ich …?* as a phrase); reasons in service talk
-   - `L4_Anwenden`: main task = restaurant role-play + mini-debate "Lohnt es sich, zu Hause zu kochen?" (Story Bank Task 7, A2 early)
-   - Resources: Sentence_Map (link), Grammar_Tables A2 verb-final clauses, Redemittel A2 opinions and restaurant
-2. ✅ **A2-U05 Gesundheit** (reflexive verbs · *wenn* · modal Präteritum · *sollen*)
-   - `L1_Mir_gehts_nicht_gut`: body parts, symptoms, *Mir tut … weh, Ich habe Kopfschmerzen*, dative reflexive (*Ich habe mir den Arm gebrochen*)
-   - `L2_Beim_Arzt`: reflexive verbs (*sich fühlen, sich ausruhen, sich erholen, sich hinlegen, sich freuen*); advice with *sollen*; the doctor's visit
-   - `L3_Krank_melden`: *wenn*-clauses (condition + repeated time); modal Präteritum *konnte, musste, wollte, durfte, sollte*; calling in sick; the pharmacy
-   - `L4_Anwenden`: main task = doctor's visit + calling in sick (Story Bank Task 5, A2 early)
-   - Resources: Verb_Lists reflexive verbs; Grammar_Tables modal Präteritum; Redemittel A2 health
-3. ✅ **A2-U06 Einkaufen & Kleidung** (adjective endings stage 1: nominative/accusative after *der-* and *ein-* words · *welch- / dies-*)
-   - `L1_Was_ziehst_du_an`: clothes; endings after *der/die/das* and *dieser, welcher* (nominative/accusative)
-   - `L2_Ein_neuer_Pullover`: endings after *ein / kein / mein* (nominative/accusative); describing and choosing
-   - `L3_Umtauschen`: returning and complaining (*Der Reißverschluss ist kaputt …*), receipts, refunds, exchanges; *Welcher? – Dieser.*
-   - `L4_Anwenden`: main task = complaint and return in a shop
-   - Endings strategy: "the signal rule" (if the article shows the gender or case signal, the adjective takes *-e / -en*; otherwise the adjective carries the signal). Accuracy target: communicative (CD-17).
-4. ✅ **A2-R2 Wiederholung:** A1 + U01–U06, weighted 50/30/20 (recent = U04–U06; previous = U01–U03; oldest = A1)
-5. ✅ **A2 Midpoint Checkpoint:** a diagnostic mid-test (not a gate), 4 skills, results → redirect to weak units
-6. ✅ WP2 validated (V-010, 2026-09-12), recorded in `03`/`05`/`06`, committed and pushed
+**WP2:** B1-U02 (relative clauses, adjective endings stage 2, n-declension) · B1-U03 (*zu*-infinitive, *da-* word + clause) · B1-U04 (Konjunktiv II, full: unreal conditionals, wishes, advice)
 
-**WP3** (next). **WP2 ✅ (2026-09-12, V-010).** Plan: A2-U07 (comparison, place prepositions with *an/auf/in/nach*, indirect questions, *hätte / würde gern*) · A2-U08 (verbs + prepositions, *wo-/da-* words, time prepositions, *werden* as full verb, middle-field order) · A2-U09 (light: plans and invitations, future, *Hättest du Lust …?*, *doch*) · A2-U10 (Konjunktiv II advice and wishes, *deshalb / trotzdem / sondern*, *man / jemand / niemand*) · A2-R3 · A2 Exit (4 skills + integrated scenario + Story Bank A2 recordings of all 8 tasks)
+**WP3:** B1-U05 (genitive, *wegen/trotz/während*, nominalisation) · B1-U06 (passive, media) · B1-R1 + B1 Midpoint
+
+**Story Bank at B1:** all eight tasks are recorded again at B1 level across M6/M7; the B1 Exit requires the full set.
 
 ## 7. Next planned work
 
-- **M6:** B1.1, with a special review after B1-U01 (German task instructions)
-- **M7:** B1.2. Decide OD-11 (mediation) before it is finalised.
-- **M8:** final audit
+- **M7:** B1.2 (B1-U07 to U12, B1-R2, B1-R3, B1 Exit). Decide OD-11 (mediation) before it is finalised.
+- **M8:** final audit (including `check_links --strict`), final report, final state "A1 → B1 CURRICULUM COMPLETE"
 
 ## 8. Approved curriculum version
 
@@ -233,9 +220,9 @@ Deutch/
     ├── README.md
     ├── 00_Curriculum/09_Diagnostic_Test.md
     ├── A1/  README + U01–U05 + A1_Checkpoint.md
-    ├── A2/  README.md  A2-U01_Erlebnisse/  A2-U02_Menschen_und_Geschenke/  A2-U03_Wohnen/  A2-R1_Wiederholung.md
-    │         A2-U04_Essen_und_Gewohnheiten/  A2-U05_Gesundheit/  A2-U06_Einkaufen_und_Kleidung/
-    │         A2-R2_Wiederholung.md  A2_Midpoint_Checkpoint.md   (each unit: 00_Overview_und_Wortschatz + L1–L4)
+    ├── A2/  README.md  U01–U10 (each a folder: 00_Overview_und_Wortschatz + L1–L4)
+    │         A2-R1_Wiederholung.md  A2-R2_Wiederholung.md  A2-R3_Wiederholung.md
+    │         A2_Midpoint_Checkpoint.md  A2_Exit_Checkpoint.md            ← A2 COMPLETE
     ├── Resources/  Rubrics  Sentence_Map  Grammar_Tables  Verb_Lists  English_German_Interference  Pronunciation_Guide
     │               Redemittel  Speaking_Toolkit  Writing_Toolkit  Listening_Reading_Sources  Anki/A1.tsv  Anki/A2.tsv
     └── Learner_Workbook/  Progress_Tracker  Story_Bank  Error_Log  Chunk_Bank  Writing_Portfolio

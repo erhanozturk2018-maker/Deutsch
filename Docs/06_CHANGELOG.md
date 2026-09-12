@@ -336,3 +336,22 @@
 - **Reason:** The M5 WP2 plan in `00` §6.
 - **Impact:** A2.1 (U01–U06 + R1, R2, Midpoint) is complete. WP3 (U07–U10, R3, A2 Exit) closes M5.
 
+---
+
+## [011] 2026-09-12 — M5 complete: A2-U07 to U10, A2-R3, A2 Exit Checkpoint
+
+- **Milestone:** M5, WP3 — and with it **M5 (A2 Completion) is finished**
+- **Affected files:**
+  - **Created:** `A2/A2-U07_Reisen_und_Verkehr/` (5), `A2/A2-U08_Arbeit_und_Termine/` (5), `A2/A2-U09_Feste_und_Plaene/` (5), `A2/A2-U10_Medien_und_Technik/` (5), `A2/A2-R3_Wiederholung.md`, `A2/A2_Exit_Checkpoint.md`
+  - **Updated:** Resources (Grammar_Tables, Verb_Lists, Redemittel, English_German_Interference, Pronunciation_Guide), `Anki/A2.tsv` (561 cards), `GERMAN_LEARNING_PLAN/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **A2-U07 Reisen & Verkehr:** comparative and superlative (*als* vs *so … wie*, *gern–lieber–am liebsten*) · travel prepositions *Wohin?/Wo?* and the ticket counter · indirect questions with *ob* and question words, delays and refunds · plan-and-survive main task with Story Bank Task 4.
+  2. **A2-U08 Arbeit & Termine:** jobs, *seit/ab/vor/für/bis*, *werden* as a full verb · verbs with fixed prepositions and *da-/wo-* words · the business phone call, appointments and the Mittelfeld order · three-scene main task with Story Bank Task 2.
+  3. **A2-U09 Feste & Pläne (light):** invitations, accepting and declining, *doch/mal* · the future (present + time word, *werden*) · dates and ordinals, festivals, party small talk · the A2 exam task "Gemeinsam etwas planen" with Story Bank Task 6.
+  4. **A2-U10 Medien & Technik:** technical problems and *man/jemand/niemand* · Konjunktiv II for advice, wishes and politeness (no unreal conditionals, CD-15) · *deshalb/trotzdem/sondern* and media habits · support-call main task with Story Bank Task 1.
+  5. **A2-R3:** the whole of A2 in three sittings — connector round, forms clinic, three text types, vocabulary sprint, four role-plays, error clinic, four recordings, timed writing, 25-item quiz with a redo map.
+  6. **A2 Exit Checkpoint:** the B1 gate per Appendix G — reading (15), language in context (20), listening (12), an **integrated scenario** (email → voicemail → call → message), speaking (monologue, planning dialogue, four reactions), writing (personal + formal), the Story Bank table for all eight tasks, thresholds, a remediation map and a pointer to the Goethe *Modellsatz*.
+  7. **Resources:** comparison, places, *da-/wo-*, middle field, future, dates, Konjunktiv II and connector-overview tables; the verbs-with-prepositions list; travel, work/phone, inviting and advice Redemittel; four interference blocks and four pronunciation sections.
+- **Reason:** The M5 WP3 plan in `00` §6.
+- **Impact:** **A2 is complete**: 10 units, 3 cumulative reviews, a midpoint diagnostic and an exit gate, with 561 A2 flashcards. Next: M6 (B1.1), starting with the B1 README and B1-U01, followed by the special review of German task instructions.
+

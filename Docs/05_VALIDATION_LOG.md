@@ -542,3 +542,39 @@
 - **Result:** **PASS WITH NOTES**
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-011 — M5 WP3 and M5 closure: A2-U07 to U10, A2-R3, A2 Exit Checkpoint
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/A2/A2-U07_Reisen_und_Verkehr/` (5 files), `A2-U08_Arbeit_und_Termine/` (5), `A2-U09_Feste_und_Plaene/` (5), `A2-U10_Medien_und_Technik/` (5), `A2-R3_Wiederholung.md`, `A2_Exit_Checkpoint.md`, and the Resources sections for these units.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The M5 criteria in `03` (unit map fidelity, recycling, vocabulary, ≥6 activity types, no identical main-task type in consecutive units, U09 light, reviews 50/30/20 reaching A1, the Exit implementing Appendix G); the `04` v1.1 Part C checklist; the per-unit checklist in `00` §6.
+- **Method:**
+  - `check_structure.py` → 80 files, 0 problems
+  - `check_vocab.py` → U07: 33 ★, 0 below 3 · U08: 32 ★, 0 below 3 · U09: 29 ★, 0 below 3 · U10: 27 ★, 0 below 3 (each after adding practice for the items the tool flagged)
+  - `check_links.py` → 1149 links, 0 broken, 3 planned (all B1 targets)
+  - `build_anki.py` → A2.tsv 561 cards, tagged by unit
+  - manual reread of all German; answer keys item by item; activity numbering and timings; review weighting count; Exit thresholds compared with Appendix G
+- **Findings:**
+  1. `STR`/`DEP`, PASS. U07 matches Appendix B (comparison, *an/auf/in/nach* with places, indirect questions, *hätte/würde gern*; trip planning + missed connection). U08 matches (verbs + prepositions, *wo-/da-* words, *seit/ab/vor/für/bis*, *werden* as a full verb, middle field; reschedule by phone + working day). U09 matches and is genuinely **light** (no new major grammar beyond the future, *doch*, dates; 70–75-minute lessons; `est_minutes` 285 vs 325). U10 matches (Konjunktiv II advice/wishes only — no unreal conditionals, per CD-15 — *deshalb/trotzdem/sondern*, *man/jemand/niemand*).
+  2. `PED`, PASS. Main-task types stay distinct across the block: comparison-and-decide (U07), three-scene working day (U08), joint planning, exam-style (U09), support call (U10). Each unit uses ≥8 activity types. A2-R3 has an error clinic, a vocabulary sprint and four interleaved role-plays.
+  3. `SPK`, PASS. Every lesson has ⏱️ drills, an AI role-play with a complication and a 60 s monologue. Story Bank A2: U07 → Task 4 (with comparisons), U08 → Task 2, U09 → Task 6, U10 → Task 1; the Exit requires all eight and asks for the four early ones to be re-recorded. This closes the allocation decision recorded in `00` §12.
+  4. `VOC`/`DEP`, PASS. "Recycled from" tables: U07 seven units, U08 seven, U09 eight, U10 eight, each including A1. A2-R3 weighting counted: warm-up 12/5/3 = 60/25/15 % — within tolerance of 50/30/20 given that the recent block is four units rather than three; the quiz is 25 items weighted 7/6/6/6 across U07–U10 with A1/A2.1 items inside the reading and error clinic.
+  5. `ASS`, PASS. The A2 Exit implements Appendix G: four skills in an exam-like structure with original tasks, an **integrated scenario** (email → voicemail → phone call → written message), Story Bank recordings, thresholds ≥70 % per receptive part and task completion ≥3/4 for speaking and writing, a remediation map, and a pointer to the official Goethe *Modellsatz* as external validation (no official material reproduced).
+  6. `LNG`, **Minor (fixed), 8 items:**
+     - U07 L2/L3: *in einer anderen Größe/Farbe* marked as a fixed phrase (dative endings are B1-U02); *gelten* given a proper explanation and card
+     - U08 L1: a garbled pronunciation list rewritten as two clean rules (compounds vs loanwords)
+     - U08 L3: two *zu*-infinitives removed from answer keys (B1 grammar)
+     - U09 L1: a broken sample sentence and a wrong relative link fixed
+     - U09 L2: three explanation subheadings were numbered like activities; renumbered as plain H3
+     - U10 L1: a Konjunktiv II sentence removed from the L1 sample (it belongs to L2)
+     - U10 L3: a malformed Sentence-Map row and a *zu*-infinitive in a sample answer fixed
+     - U10 L4: the *zu*-infinitive in the reading text glossed with a forward reference to B1-U03
+  7. `CEF`, PASS. Texts stay A2 (chat, ticket counter, announcements, forum, job ad, voicemails, notices, small ads, advice column, hotline). Forward references are glossed: *als* → B1-U01, dative adjective endings → B1-U02, *zu*-infinitive → B1-U03, unreal conditionals → B1-U04.
+  8. `WRK`, PASS (estimate). U07, U08, U10 lessons 80–85 min; U09 70–75 min (light); A2-R3 ≈150 min in 3 sittings; A2 Exit ≈210 min in 2 sittings. No learner trial yet (KI-11).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before the batch commits.
+- **Result:** **PASS WITH NOTES** — M5 (A2 Completion) is closed.
+- **Approval status:** – (autonomous mode)
+

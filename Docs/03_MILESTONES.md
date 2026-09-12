@@ -14,7 +14,7 @@
 | M2 | Diagnostic System | ✅ COMPLETE (2026-09-11), V-003 | M1 |
 | M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-007 | M2 (diagnostic *built*; results not required, see OD-12) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ✅ COMPLETE (2026-09-12), V-008 | M3 |
-| M5 | A2 Completion | 🔄 IN PROGRESS | M4 **validated** |
+| M5 | A2 Completion | ✅ COMPLETE (2026-09-12), V-009/V-010/V-011 | M4 **validated** |
 | M6 | B1.1 | ⬜ NOT STARTED | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED | M7 |
@@ -263,7 +263,7 @@
 - **Work packages (approved, OD-09):**
   - **WP1 ✅ (2026-09-12, V-009):** U02, U03, R1
   - **WP2 ✅ (2026-09-12, V-010):** U04, U05, U06, R2, Midpoint
-  - **WP3:** U07, U08, U09, U10, R3, Exit
+  - **WP3 ✅ (2026-09-12, V-011):** U07, U08, U09, U10, R3, A2 Exit
 - **Dependencies:** M4 **approved**.
 - **Validation criteria:**
   - Unit map fidelity (Appendix B).
@@ -274,7 +274,7 @@
   - Reviews weighted 50/30/20 and reaching into A1.
   - The Exit implements Appendix G, including an integrated scenario.
   - Links resolve; `04` Part C passed.
-- **Completion status:** ⬜ NOT STARTED
+- **Completion status:** ✅ COMPLETE (2026-09-12, V-009 WP1 · V-010 WP2 · V-011 WP3)
 - **Next milestone:** M6.
 
 ---
