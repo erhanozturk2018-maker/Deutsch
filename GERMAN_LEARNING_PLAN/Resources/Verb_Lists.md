@@ -8,8 +8,9 @@ Reference lists of verbs whose forms or partners you have to learn: irregular pa
 - [A2: Dative verbs](#a2-dative-verbs)
 - [A2: Position verbs](#a2-position-verbs)
 - [A2: Reflexive verbs](#a2-reflexive-verbs)
+- [A2: Verbs with prepositions](#a2-verbs-with-prepositions)
 
-*Added later:* verbs with prepositions (A2-U08) · Präteritum forms (B1-U01).
+*Added later:* Präteritum forms (B1-U01).
 
 ---
 
@@ -164,4 +165,35 @@ Taught in [A2-U05](../A2/A2-U05_Gesundheit/00_Overview_und_Wortschatz.md). Prono
 | sich verletzen | hat sich verletzt | to hurt oneself |
 
 **With a body part (dative pronoun):** *sich (Dat.) die Hände waschen · sich den Arm brechen · sich den Fuß verletzen · sich in den Finger schneiden · sich die Hand verbrennen*
+
+## A2: Verbs with prepositions
+
+Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/L2_Ich_freue_mich_darauf.md). Learn each verb **together with** its preposition and case; the English preposition is almost never the same.
+
+| Verb + preposition | Case | English |
+|---|---|---|
+| warten auf | A | to wait for |
+| sich freuen auf | A | to look forward to |
+| sich freuen über | A | to be glad about (already happened) |
+| sich ärgern über | A | to be annoyed about |
+| sich interessieren für | A | to be interested in |
+| sich kümmern um | A | to take care of |
+| sich bewerben um / bei | A / D | to apply for / to (a company) |
+| denken an | A | to think of |
+| sich erinnern an | A | to remember |
+| glauben an | A | to believe in |
+| sprechen / reden über | A | to talk about |
+| sich vorbereiten auf | A | to prepare for |
+| Angst haben vor | D | to be afraid of |
+| sprechen mit | D | to talk to |
+| sich treffen mit | D | to meet (up with) |
+| telefonieren mit | D | to talk on the phone to |
+| teil\|nehmen an | D | to take part in |
+| gehören zu | D | to be part of |
+| ein\|laden zu | D | to invite to |
+| fragen nach | D | to ask for/about |
+
+**Things → one word with *da(r)-*:** *darauf, darüber, darum, dafür, davor, daran, damit, danach*.
+**Questions about things → *wo(r)-*:** *worauf, worüber, wofür, wovor, woran, womit, wonach*.
+**People → preposition + pronoun / question word:** *auf sie · mit ihm · Auf wen? · Mit wem?*
 

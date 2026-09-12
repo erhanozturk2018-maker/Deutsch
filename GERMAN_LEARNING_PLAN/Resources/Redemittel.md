@@ -22,6 +22,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Health](#a2-health)
 - [A2: Shopping for clothes](#a2-shopping-for-clothes)
 - [A2: Travelling and asking for information](#a2-travelling-and-asking-for-information)
+- [A2: Work and the telephone](#a2-work-and-the-telephone)
 
 ---
 
@@ -317,6 +318,26 @@ Taught in [A2-U07](../A2/A2-U07_Reisen_und_Verkehr/00_Overview_und_Wortschatz.md
 | Ich hätte gern ein Doppelzimmer für zwei Nächte. – Mit Frühstück? | I'd like a double room for two nights. – With breakfast? | – |
 | Gute Reise! · Guten Flug! | Have a good trip / flight! | – |
 
+## A2: Work and the telephone
+
+Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Register |
+|---|---|---|
+| Was machst du beruflich? – Ich bin … / Ich arbeite als … bei … | What do you do? – I'm a … / I work as a … at … | – |
+| Ich arbeite seit drei Jahren hier. · Ich habe vor zwei Jahren angefangen. | I've been working here for three years. · I started two years ago. | – |
+| Ich bin für … zuständig. · Ich kümmere mich um … | I'm responsible for … · I take care of … | – |
+| Firma Meko, Winter am Apparat. · Hier spricht … | Meko, Winter speaking. · This is … | formal |
+| Könnte ich bitte Frau … sprechen? – Einen Moment, ich verbinde. | Could I speak to Ms …, please? – One moment, I'll put you through. | formal |
+| Sie ist gerade in einer Besprechung. · Er ist heute nicht im Haus. | She's in a meeting. · He's not in today. | formal |
+| Kann ich etwas ausrichten? – Können Sie ihr ausrichten, dass …? | Can I take a message? – Could you tell her that …? | formal |
+| Rufen Sie mich bitte zurück. · Ich bin bis 17 Uhr erreichbar. | Please call me back. · I'm available until 5 p.m. | formal |
+| Passt Ihnen Dienstag um zehn? – Das passt mir gut. | Does Tuesday at ten suit you? – That suits me well. | formal |
+| Da habe ich leider schon einen Termin. · Um vier ist schlecht. | I'm afraid I have an appointment then. · Four is bad for me. | – |
+| Können wir den Termin verschieben? · Ich muss leider absagen. | Can we postpone? · I'm afraid I have to cancel. | – |
+| Sag mir bitte Bescheid. · Ich melde mich. | Let me know. · I'll be in touch. | informal / – |
+| Vielen Dank, auf Wiederhören! | Thank you, goodbye! (phone) | formal |
+
 ---
 
-*Added later in A2: on the phone, inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+*Added later in A2: inviting and declining. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*

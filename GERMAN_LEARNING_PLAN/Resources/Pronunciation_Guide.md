@@ -174,6 +174,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Umlauts carry meaning: *alt / älter · groß / größer · lang / länger · kurz / kürzer*.
 - Indirect questions have a small pause at the comma, with the voice staying up: *Können Sie mir sagen,* ↗ *wo das Gleis ist?* ↘
 
+### *da-* words, phone numbers and loanword stress (A2-U08)
+
+- *da-* and *wo-* words are stressed on the **preposition**: *da**RAUF**, da**RÜ**ber, wo**RAUF**, wo**FÜR***. Say them as one word.
+- German compounds stress the first part (***AR**beitszeit, **WEI**terbildung*); loanwords stress the last syllable (*Ingeni**EUR**, Stud**ENT**, Journal**IST***).
+- On the phone, say numbers in small groups with pauses, and use ***zwo*** for *zwei* when the line is bad.
+- *-ig* at the end sounds like *-ich*: *zwanz**ich**, zuständ**ich***.
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

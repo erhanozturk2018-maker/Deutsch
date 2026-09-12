@@ -173,6 +173,23 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *I missed the train.* | Ich habe den Zug vermisst. | Ich habe den Zug **verpasst**. | *vermissen* = to miss a person |
 | *The train is cancelled.* | Der Zug ist gecancelt. | Der Zug **fällt aus**. | Standard railway German |
 
+### Work, prepositions and the phone (A2-U08)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *I'm a teacher.* | Ich bin ein Lehrer. | Ich bin **Lehrer**. | No article with jobs |
+| *I've worked here for 3 years.* | Ich habe hier drei Jahre gearbeitet. | Ich **arbeite seit** drei Jahren hier. | Still true → *seit* + present |
+| *to wait for* | warten für | **warten auf** (+ A) | Fixed preposition |
+| *to look forward to* | sich freuen zu | **sich freuen auf** (+ A) | Fixed preposition |
+| *to be afraid of* | Angst von | **Angst vor** (+ D) | Fixed preposition |
+| *to be interested in* | sich interessieren in | **sich interessieren für** (+ A) | Fixed preposition |
+| *What are you waiting for?* | Was wartest du auf? | **Worauf** wartest du? | No stranded prepositions |
+| *I'm looking forward to it.* | Ich freue mich auf es. | Ich freue mich **darauf**. | Things → *da(r)-* word |
+| *Does Tuesday suit you?* | Passt Sie Dienstag? | **Passt Ihnen** Dienstag? | *passen* + dative |
+| *This is Sam.* (phone) | Das ist Sam. | **Sam am Apparat.** / **Hier spricht Sam.** | Phone convention |
+| *Goodbye* (on the phone) | Auf Wiedersehen | **Auf Wiederhören** | You hear, not see |
+| *I'll send it to you tomorrow.* | Ich schicke morgen es dir. | Ich schicke **es dir** morgen. | Pronouns early in the middle field |
+
 ---
 
 *More A2 traps are added as the units come: case-driven prepositions (*warten **auf***, *Angst **vor***), *als/wenn* (B1), the missing progressive in more contexts. B1 traps come later.*

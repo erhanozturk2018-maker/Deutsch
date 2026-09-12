@@ -21,6 +21,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Adjective endings stage 1](#a2-adjective-endings-stage-1)
 - [A2: Comparison](#a2-comparison)
 - [A2: Places: where to and where](#a2-places-where-to-and-where)
+- [A2: da- and wo- words](#a2-da--and-wo--words)
+- [A2: The middle field](#a2-the-middle-field)
 
 ---
 
@@ -380,4 +382,34 @@ Taught in [A2-U07](../A2/A2-U07_Reisen_und_Verkehr/L2_Unterwegs_buchen.md), buil
 | islands, the countryside | **auf eine** Insel, aufs Land | **auf einer** Insel, auf dem Land |
 | people, other destinations | **zu** meiner Tante, zum Bahnhof | **bei** meiner Tante, am Bahnhof |
 | home | **nach** Hause | **zu** Hause |
+
+## A2: da- and wo- words
+
+Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/L2_Ich_freue_mich_darauf.md). For **things** only; for people use preposition + pronoun (*auf sie*) or preposition + *wen/wem* (*Auf wen?*).
+
+| Preposition | *da-* word ("it") | *wo-* word (question) |
+|---|---|---|
+| an | daran | woran |
+| auf | darauf | worauf |
+| für | dafür | wofür |
+| mit | damit | womit |
+| nach | danach | wonach |
+| über | darüber | worüber |
+| um | darum | worum |
+| vor | davor | wovor |
+| zu | dazu | wozu |
+
+An extra ***r*** appears before a vowel: *da**r**auf, da**r**über, wo**r**an*. Stress the preposition part: *da-**RAUF***.
+
+## A2: The middle field
+
+Taught in [A2-U08](../A2/A2-U08_Arbeit_und_Termine/L3_Termine_verschieben.md). The Vorfeld is free; the Mittelfeld has a default order.
+
+1. **Pronouns first**, accusative before dative: *Ich schicke **es Ihnen** morgen.*
+2. **Pronoun before noun:** *Ich schicke **ihr die Unterlagen**. · Ich schicke **sie meiner Chefin**.*
+3. **Two nouns:** dative before accusative: *Ich schicke **meiner Chefin die Unterlagen**.*
+4. **Then: time → reason → manner → place** (*Te-Ka-Mo-Lo*): *Ich fahre **morgen wegen des Termins mit dem Zug nach Hamburg**.*
+5. ***nicht*** goes late: before the second verb, or before the element it negates: *Ich rufe ihn heute **nicht** an.*
+
+Two habits cover most sentences: **pronouns early**, **time before place**.
 
