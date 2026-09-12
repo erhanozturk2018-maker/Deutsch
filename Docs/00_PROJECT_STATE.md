@@ -20,7 +20,7 @@ Current batch:      — (M6 closed; recaps V-016; upper stages angelegt V-017; n
 Next task:          B2/C1/C2 angelegt (V-017). NEXT unverändert: M7 (B1.2) — B1-U07 Umwelt & Nachhaltigkeit (obwohl vs trotzdem, sodass), dann U08-U12, B1-R2, B1-R3, B1 Exit; CP-001 (Mediation) vor Abschluss von M7 entscheiden. Danach M8 (Audit des A1-B1-Kerns), dann M9 (B2), M10 (C1), M11 (C2). Bei jeder neuen Einheit den Recap der Stufe mitziehen (01/02/03 + „Was noch fehlt“)
 Last completed:     Obere Stufen B2/C1/C2 angelegt (CP-003, 2026-09-13, V-017)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
-                    Last commit pushed by the user: ce8ce70 (B1-U02)
+                    Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)
 ```
 
 ---
