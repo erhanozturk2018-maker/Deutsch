@@ -237,6 +237,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *Since I live here …* | Seit ich hier wohnte | **Seit** ich hier **wohne** | *seit* + present when still true |
 | *while* | Während ich arbeitete machte ich … | Während ich arbeitete**,** machte ich … | Comma, then verb, comma, verb |
 
+### Describing people and things (B1-U02)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *the man I mean* | der Mann ich meine | der Mann, **den** ich meine | The pronoun can never be dropped |
+| *the woman who is standing there* | die Frau, die steht dort | die Frau, die dort **steht** | Verb at the end |
+| *the woman I work with* | die Frau, die ich mit arbeite | die Frau, **mit der** ich arbeite | Preposition first |
+| *the colleague I helped* | der Kollege, den ich geholfen habe | der Kollege, **dem** ich geholfen habe | *helfen* + Dativ |
+| *the people I help* | die Leute, den ich helfe | die Leute, **denen** ich helfe | Dative plural = *denen* |
+| *the book that is on the table* | das Buch, was auf dem Tisch liegt | das Buch, **das** auf dem Tisch liegt | *was* only after *alles, etwas, nichts* |
+| *I spoke to a colleague.* | Ich habe mit einem Kollege gesprochen. | … mit einem Kolleg**en** … | n-declension |
+| *with the new colleague* | mit dem neue Kollegen | mit dem neu**en** Kollegen | Dative: always *-en* |
+| *with the other children* | mit den anderen Kinder | mit den anderen Kinder**n** | Dative plural: *-n* on the noun too |
+| *good coffee* | gut Kaffee | gut**er / guten** Kaffee | Without an article the adjective carries the signal |
+| *We know each other.* | Wir kennen einander. (everyday) | Wir kennen **uns**. | *einander* is formal |
+
 ---
 
 *B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*

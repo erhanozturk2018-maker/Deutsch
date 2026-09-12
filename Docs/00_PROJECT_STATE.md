@@ -17,7 +17,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1
 Status:             IN PROGRESS
 Current batch:      M6 WP1 — B1-U02 Menschen beschreiben, B1-U03 Arbeit & Beruf (B1 README ✅, B1-U01 ✅, review stop ✅)
-Next task:          B1 README ✅ · B1-U01 ✅ · review stop ✅ (04 v1.2, rule A7.1). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U02_Menschen_beschreiben/ (00_Overview + L1–L4: relative clauses nom/acc/dat and with prepositions, adjective endings stage 2 (dative + article-less), n-declension, sich = each other; main tasks: 'Wer ist das?' guessing game and Taboo-style describing), following 04 A7.1 for the instruction language
+Next task:          B1-U01 OK - B1-U02 OK written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U03_Arbeit_und_Beruf/ (00_Overview + L1-L4: zu + infinitive, um...zu vs damit, da-word + clause; main tasks: job-interview simulation and application email), then close M6 WP1
 Last completed:     M6 WP1 part 1 — B1 README, B1-U01, review stop → 04 v1.2 (2026-09-12, V-012)
 Push status:        OK (origin/main in sync after every batch)
 ```

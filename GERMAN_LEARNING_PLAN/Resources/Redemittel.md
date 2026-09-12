@@ -26,6 +26,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Inviting, planning and celebrating](#a2-inviting-planning-and-celebrating)
 - [A2: Advice, wishes and polite requests](#a2-advice-wishes-and-polite-requests)
 - [B1: Telling a story and presenting](#b1-telling-a-story-and-presenting)
+- [B1: Describing people and things](#b1-describing-people-and-things)
 
 ---
 
@@ -403,6 +404,28 @@ Taught in [B1-U01](../B1/B1-U01_Lebenswege/00_Overview_und_Wortschatz.md).
 | Was mich am meisten beeindruckt, ist … | What impresses me most is … | evaluating |
 | Für mich zeigt dieses Leben, dass … | For me this life shows that … | conclusion |
 | Kurz gesagt: … · Vielen Dank fürs Zuhören. | In short: … · Thank you for listening. | closing |
+
+## B1: Describing people and things
+
+Taught in [B1-U02](../B1/B1-U02_Menschen_beschreiben/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Use |
+|---|---|---|
+| Das ist der/die …, der/die … | That's the … who … | identifying |
+| Ich meine den/die, der/die … | I mean the one who … | identifying |
+| Welche meinst du? – Die, die am Tisch sitzt. | Which one do you mean? – The one at the table. | identifying |
+| Sie wirkt sehr ruhig. · Er ist eher zurückhaltend. | She seems very calm. · He's rather reserved. | careful judgement |
+| Sie kann manchmal ziemlich direkt sein. | She can be quite direct sometimes. | careful criticism |
+| Sie ist ein Mensch, dem man vertrauen kann. | She's a person you can trust. | character |
+| … großzügig — einmal hat sie zum Beispiel … | … generous — once, for example, she … | character with an example |
+| Was man wissen sollte: … | What you should know: … | honest limitation |
+| Wir kennen uns seit … · Wir verstehen uns gut. | We've known each other since … · We get on well. | relationships |
+| Wir helfen uns gegenseitig. | We help each other. | relationships |
+| Das ist so ein Ding / Gerät, mit dem man … | It's one of those things you … with | paraphrasing |
+| Das ist eine Art … · So ähnlich wie …, aber kleiner. | It's a kind of … · A bit like …, but smaller. | paraphrasing |
+| Es ist aus Holz / Metall / Plastik und ungefähr so groß wie … | It's made of wood / metal / plastic and about the size of … | paraphrasing |
+| Mir fällt das Wort gerade nicht ein. | I can't think of the word right now. | rescue |
+| Wie sagt man das auf Deutsch? | How do you say that in German? | rescue |
 
 ---
 

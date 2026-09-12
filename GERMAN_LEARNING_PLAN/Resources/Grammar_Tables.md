@@ -29,6 +29,9 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [A2: Connectors overview](#a2-connectors-overview)
 - [B1: Präteritum](#b1-präteritum)
 - [B1: Plusquamperfekt and time conjunctions](#b1-plusquamperfekt-and-time-conjunctions)
+- [B1: Relative clauses](#b1-relative-clauses)
+- [B1: Adjective endings stage 2](#b1-adjective-endings-stage-2)
+- [B1: n-declension](#b1-n-declension)
 
 ---
 
@@ -538,4 +541,64 @@ Taught in [B1-U01](../B1/B1-U01_Lebenswege/L3_Nachdem_ich_angekommen_war.md).
 | **sobald** | as soon as | often Plusquamperfekt | *Sobald ich … bestanden hatte, …* |
 
 ⚠️ Conjunction vs preposition: *nachdem* + clause / *nach* + dative · *bevor* + clause / *vor* + dative · *während* + clause / *während* + genitive (B1-U05).
+
+## B1: Relative clauses
+
+Taught in [B1-U02](../B1/B1-U02_Menschen_beschreiben/00_Overview_und_Wortschatz.md).
+
+| | maskulin | feminin | neutrum | Plural |
+|---|---|---|---|---|
+| Nominativ | der | die | das | die |
+| Akkusativ | den | die | das | die |
+| Dativ | dem | der | dem | **denen** |
+| Genitiv (B1-U05) | dessen | deren | dessen | deren |
+
+**Two questions decide the form:**
+1. **Gender and number** come from the noun *before* the comma.
+2. **The case** comes from the job *inside* the relative clause (subject → Nom., direct object → Akk., dative verb or dative preposition → Dat.).
+
+- Verb at the **end**; the comma is compulsory: *Die Frau, die dort steht, ist meine Chefin.*
+- **Preposition first:** *die Firma, **bei der** ich arbeite* · *die Antwort, **auf die** ich warte* · *die Stadt, **in der** ich aufgewachsen bin*. Which preposition? The one the verb demands ([Verb Lists → Verbs with prepositions](Verb_Lists.md#a2-verbs-with-prepositions)).
+- Without a noun: *Welche meinst du? – **Die**, die am Tisch sitzt.*
+- ⚠️ German never leaves the pronoun out: *der Mann, **den** ich meine*.
+- *was* only after *alles, etwas, nichts, vieles, das*: *alles, **was** ich weiß*.
+
+## B1: Adjective endings stage 2
+
+Taught in [B1-U02](../B1/B1-U02_Menschen_beschreiben/L3_So_ein_Ding_mit_dem_man.md); stage 1 (Nom./Akk.) is in [A2-U06](Grammar_Tables.md#a2-adjective-endings-stage-1).
+
+**Dative — the easiest rule in the system: every adjective ends in *-en*.**
+
+| | maskulin | feminin | neutrum | Plural |
+|---|---|---|---|---|
+| nach *der*-Wörtern | dem neu**en** Mantel | der neu**en** Jacke | dem neu**en** Hemd | den neu**en** Schuhe**n** |
+| nach *ein*-Wörtern | einem neu**en** Mantel | einer neu**en** Jacke | einem neu**en** Hemd | meinen neu**en** Schuhe**n** |
+
+⚠️ In the dative plural the **noun** also takes an *-n* (*den Kindern, den Freunden*).
+
+**Without an article — the adjective carries the full signal:**
+
+| | maskulin | feminin | neutrum | Plural |
+|---|---|---|---|---|
+| Nominativ | gut**er** Kaffee | gut**e** Milch | gut**es** Brot | gut**e** Ideen |
+| Akkusativ | gut**en** Kaffee | gut**e** Milch | gut**es** Brot | gut**e** Ideen |
+| Dativ | gut**em** Kaffee | gut**er** Milch | gut**em** Brot | gut**en** Ideen |
+
+Two adjectives in a row take the **same** ending: *ein kleines rundes Teil · mit langen dunklen Haaren*.
+The genitive comes in B1-U05.
+
+## B1: n-declension
+
+Taught in [B1-U02](../B1/B1-U02_Menschen_beschreiben/L2_Die_Frau_mit_der_ich_arbeite.md). A group of **masculine** nouns adds *-n* / *-en* in every case except the nominative singular.
+
+| | Singular | Plural |
+|---|---|---|
+| Nominativ | der Kolleg**e** | die Kolleg**en** |
+| Akkusativ | den Kolleg**en** | die Kolleg**en** |
+| Dativ | dem Kolleg**en** | den Kolleg**en** |
+
+**Who belongs to it**
+- masculine nouns in *-e* for people and animals: *der Kollege, der Junge, der Kunde, der Experte, der Neffe, der Franzose, der Löwe*
+- people-words in *-ent, -ant, -ist, -at, -oge*: *der Student, der Praktikant, der Journalist, der Kandidat, der Psychologe*
+- irregulars: *der Mensch → den Menschen · der Nachbar → den Nachbarn · der Herr → den Herrn (Pl. die Herren) · der Name → den Namen (Gen. des Namens)*
 

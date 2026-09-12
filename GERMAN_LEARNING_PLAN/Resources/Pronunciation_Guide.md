@@ -204,6 +204,14 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Breathe **at the comma**, never inside a clause; keep the final verb audible: *…bestanden **HAT**te*.
 - Stress: *nach**DEM*** · ***WÄH**rend* · *so**BALD*** · *seit**DEM***.
 
+### Relative clauses and weak endings (B1-U02)
+
+- A relative clause is its own breath group: *Das ist der Kollege,* ↗ *(Pause)* *der die ganze IT macht.* ↘ When it sits inside the sentence there are two pauses: *Die Frau,* ↗ *die dort steht,* ↗ *ist meine Chefin.* ↘
+- The relative pronoun is short and unstressed; the **verb at the end** carries the information.
+- *Präposition + Pronomen* is one unit, stressed on the preposition: *die Frau, **MIT** der ich arbeite*.
+- *denen* has two syllables — don't reduce it to *den*.
+- Adjective endings are weak but audible: *mit dem neu**en** Kol**LE**gen* — stress stays on the noun.
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*
