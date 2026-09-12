@@ -269,6 +269,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *I'm good at customer contact.* | Ich bin gut in Kundenkontakt. | Ich kann gut **mit** Kunden **umgehen**. | Fixed German expression |
 | *my salary expectation: 3000 net a month* | 3000 Euro netto im Monat | … Euro **brutto im Jahr** | German convention: gross, per year |
 
+### Hypotheticals, advice and wellbeing (B1-U04)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *If I had time, I would read.* | Wenn ich Zeit würde haben, … | Wenn ich Zeit **hätte**, … | *haben/sein*/modals have their own forms |
+| *I would be able to come.* | Ich würde kommen können. | Ich **könnte** kommen. | Never *würde* + modal |
+| *I wish I had more time.* | Ich wünsche, ich habe mehr Zeit. | Ich **wünschte**, ich **hätte** mehr Zeit. | Fixed wish form + Konjunktiv II |
+| *I should have asked.* | Ich sollte gefragt haben. | Ich **hätte fragen sollen**. | *hätte* + Infinitiv + modal infinitive |
+| *I would have gone.* | Ich hätte gegangen. | Ich **wäre** gegangen. | Movement verbs take *sein* |
+| *If I had known …* | Wenn ich das gewusst habe, … | Wenn ich das **gewusst hätte**, … | Both halves Konjunktiv II |
+| *You should sleep more.* (own advice) | Du sollst mehr schlafen. | Du **solltest** mehr schlafen. | *sollst* = someone else's instruction |
+| *eventually* | eventuell | **schließlich / am Ende** | *eventuell* = possibly |
+| *I'm stressed.* | Ich bin Stress. | Ich **habe Stress.** / Ich **bin gestresst**. | Fixed expression |
+| *to relax / switch off* | relaxen | **sich entspannen / abschalten** | German verbs |
+| *Could you help me?* (request) | Konnten Sie mir helfen? | **Könnten** Sie mir helfen? | The umlaut makes it polite |
+
 ---
 
 *B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*

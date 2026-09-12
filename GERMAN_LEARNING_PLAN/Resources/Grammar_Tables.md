@@ -35,6 +35,7 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [B1: zu + infinitive](#b1-zu--infinitive)
 - [B1: Purpose — um zu and damit](#b1-purpose--um-zu-and-damit)
 - [B1: da-word + clause](#b1-da-word--clause)
+- [B1: Konjunktiv II in full](#b1-konjunktiv-ii-in-full)
 
 ---
 
@@ -659,4 +660,41 @@ Taught in [B1-U03](../B1/B1-U03_Arbeit_und_Beruf/L3_Das_Vorstellungsgespraech.md
 - **Same subject** → *zu*-infinitive · **different subject** → *dass*-clause.
 - The *da*-word is **not optional**: *Ich freue mich **darauf**, … zu …*
 - Questions use the *wo(r)-* form: ***Worauf** freuen Sie sich? · **Woran** arbeiten Sie gerade?*
+
+## B1: Konjunktiv II in full
+
+Taught in [B1-U04](../B1/B1-U04_Gesundheit_und_Wohlbefinden/00_Overview_und_Wortschatz.md); the A2 chunks are in [A2: Konjunktiv II](Grammar_Tables.md#a2-konjunktiv-ii-advice-wishes-politeness).
+
+**The forms**
+
+| haben | sein | werden | können | müssen | dürfen | wissen | sollen |
+|---|---|---|---|---|---|---|---|
+| hätte | wäre | würde | könnte | müsste | dürfte | wüsste | sollte |
+
+Endings: *ich -e, du -est, er -e, wir -en, ihr -et, sie -en*. All other verbs: ***würde* + Infinitiv**.
+Written or spoken survivals: *käme, ginge, fände, gäbe, ließe*; very common in speech: ***bräuchte***.
+⚠️ Never *würde haben / würde sein / würde können* — these verbs have their own forms.
+
+**Present (unreal)**
+
+| Function | Example |
+|---|---|
+| unreal condition | *Wenn ich mehr Zeit **hätte**, **würde** ich mehr lesen.* |
+| unreal comparison to reality | *Wenn ich Zeit **habe**, lese ich.* (real) vs *hätte … würde* (unreal) |
+| wish | *Ich **wünschte**, ich hätte mehr Zeit. · Wenn ich **nur** mehr Zeit hätte!* |
+| politeness | *Könnten Sie …? · Dürfte ich …? · Wäre es möglich, … zu …? · Sie müssten noch …* |
+
+**Past (unreal)** = ***hätte / wäre* + Partizip II** — one single past form.
+
+| Function | Example |
+|---|---|
+| regret | *Ich **hätte** früher **fragen sollen**.* (two infinitives at the end) |
+| unreal past condition | ***Wenn** ich das **gewusst hätte**, **wäre** ich nicht **gekommen**.* |
+| careful criticism | *Du **hättest** mir das **sagen können**. · An deiner Stelle **hätte** ich …* |
+| near-miss | ***Beinahe hätte** ich den Zug **verpasst**.* |
+| mixed time | *Wenn ich damals **gefragt hätte**, **würde** ich heute anders **dastehen**.* |
+
+**The advice ladder** (B1-U04 L3), from careful to strong:
+*Hast du schon mal … probiert? → Du könntest … → Vielleicht solltest du … → An deiner Stelle würde ich … → Es wäre gut, wenn … → Geh doch mal …! → Du müsstest wirklich …*
+Softeners: *vielleicht, eigentlich, eher, ein bisschen, einfach mal, erst einmal* — use one, not three.
 

@@ -28,6 +28,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [B1: Telling a story and presenting](#b1-telling-a-story-and-presenting)
 - [B1: Describing people and things](#b1-describing-people-and-things)
 - [B1: Applications and job interviews](#b1-applications-and-job-interviews)
+- [B1: Hypotheticals and advice](#b1-hypotheticals-and-advice)
 
 ---
 
@@ -450,6 +451,29 @@ Taught in [B1-U03](../B1/B1-U03_Arbeit_und_Beruf/00_Overview_und_Wortschatz.md).
 | Meine Gehaltsvorstellung liegt bei … Euro brutto im Jahr. | My salary expectation is … gross per year. | salary |
 | Vielen Dank für das Gespräch. Ich freue mich auf Ihre Rückmeldung. | Thank you for the interview. I look forward to hearing from you. | closing |
 | Vielen Dank für Ihr Feedback. Das nehme ich mit. | Thank you for the feedback. I'll take that on board. | after a rejection |
+
+## B1: Hypotheticals and advice
+
+Taught in [B1-U04](../B1/B1-U04_Gesundheit_und_Wohlbefinden/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Use |
+|---|---|---|
+| Wenn ich mehr Zeit hätte, würde ich … | If I had more time, I'd … | unreal condition |
+| Wenn ich du wäre, würde ich … · An deiner Stelle würde ich … | If I were you, I'd … | advice |
+| Ich wünschte, … · Wenn ich nur …! | I wish … · If only …! | wishes |
+| Ich hätte … sollen / können. | I should / could have … | regret |
+| Das hätte ich anders gemacht. · Rückblickend … | I'd have done that differently. · Looking back … | hindsight |
+| Beinahe hätte ich … | I almost … | near-miss |
+| Das hättest du nicht wissen können. | You couldn't have known that. | reassurance |
+| Hast du schon mal … probiert? · Wäre das nichts für dich? | Have you ever tried …? · Would that be something for you? | careful advice |
+| Du könntest … · Vielleicht solltest du … | You could … · Maybe you should … | advice |
+| Es wäre gut, wenn du … würdest. | It would be good if you … | advice |
+| Du müsstest wirklich … | You really ought to … | strong advice |
+| Das probiere ich mal. · Da hast du recht. | I'll give that a try. · You're right. | accepting |
+| Das habe ich schon probiert, aber es hat nichts gebracht. | I've tried that, but it didn't help. | rejecting |
+| Das wäre bei mir schwierig, weil … · Und was würdest du machen? | That would be difficult for me, because … · And what would you do? | rejecting, turning back |
+| Ich komme kaum zur Ruhe. · Ich stehe unter Druck. · Ich bin ständig gereizt. | I can hardly wind down. · I'm under pressure. · I'm constantly irritable. | describing stress |
+| Dürfte ich Sie kurz stören? · Wäre es möglich, … zu …? | Might I disturb you briefly? · Would it be possible to …? | very polite |
 
 ---
 

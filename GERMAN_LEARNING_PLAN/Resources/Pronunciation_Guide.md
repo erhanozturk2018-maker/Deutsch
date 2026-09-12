@@ -219,6 +219,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - *damit* is stressed on the second syllable: *da**MIT***. So are the *da*-words: *da**RAUF**, da**FÜR**, da**RAN**, da**VOR***.
 - In interviews: replace fillers with a real pause, and let statements **fall** at the end — a rising ending sounds unsure.
 
+### Umlauts, verb chains and the tone of advice (B1-U04)
+
+- The umlaut is the grammar: *hatte* [a] vs *hätte* [ɛ] · *konnte* [ɔ] vs *könnte* [œ] · *musste* [ʊ] vs *müsste* [ʏ] · *wurde* vs *würde*. Practise the pairs until a listener can tell them apart.
+- Past Konjunktiv sentences end in two or three verbs — keep them separate and stress the main verb: *Ich hätte früher **FRA**gen sollen.*
+- *hätte* and *wäre* are unstressed: they are grammar, not news.
+- Advice: a falling, flat melody sounds like an order; a lighter, slightly rising one sounds like a suggestion. Softeners (*vielleicht, einfach mal*) are quick and unstressed.
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

@@ -17,7 +17,7 @@ Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1
 Status:             IN PROGRESS
 Current batch:      M6 WP2 — B1-R1 Wiederholung, B1-U04 Gesundheit & Wohlbefinden, B1-U05 Reisen & Kulturen
-Next task:          B1-R1 OK written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U04_Gesundheit_und_Wohlbefinden/ (00_Overview + L1-L4: Konjunktiv II in full - unreal wenn-clauses, wishes, polite forms; main tasks: 'What would you do?' scenarios and an advice-column reply), then B1-U05_Reisen_und_Kulturen/
+Next task:          B1-R1 OK - B1-U04 OK written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U05_Reisen_und_Kulturen/ (00_Overview + L1-L4: genitive + wegen/trotz/waehrend/statt, paired connectors entweder...oder / weder...noch / sowohl...als auch / nicht nur...sondern auch; main tasks: formal complaint email and culture-comparison talk), then close M6 WP2 with a validation
 Last completed:     M6 WP1 — B1 README, U01, U02, U03, review stop (2026-09-12, V-012 + V-013)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: ce8ce70 (B1-U02)
