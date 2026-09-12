@@ -42,4 +42,4 @@ This workspace holds a long-running project: a CEFR-aligned German course from A
 
 - Commit at milestone and batch boundaries with meaningful messages. Never commit temporary scripts or junk.
 - **Never add `Co-Authored-By`, "Generated with …" or any other AI-attribution lines to commit messages** (user instruction, 2026-09-11). Authorship attribution is the user's decision.
-- After each commit, push to `origin main` if possible. Never force-push unless the user explicitly asks. If a push is rejected or needs permission, do not retry repeatedly: record it in `Docs/00_PROJECT_STATE.md`, keep working locally, and try again at the next boundary.
+- **Do not push (user instruction, 2026-09-12).** Commit at every batch boundary and stop there; **the user pushes to `origin main` themselves**. Never force-push. If the user later asks for pushes again, resume pushing after each commit.

@@ -32,6 +32,9 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [B1: Relative clauses](#b1-relative-clauses)
 - [B1: Adjective endings stage 2](#b1-adjective-endings-stage-2)
 - [B1: n-declension](#b1-n-declension)
+- [B1: zu + infinitive](#b1-zu--infinitive)
+- [B1: Purpose — um zu and damit](#b1-purpose--um-zu-and-damit)
+- [B1: da-word + clause](#b1-da-word--clause)
 
 ---
 
@@ -601,4 +604,59 @@ Taught in [B1-U02](../B1/B1-U02_Menschen_beschreiben/L2_Die_Frau_mit_der_ich_arb
 - masculine nouns in *-e* for people and animals: *der Kollege, der Junge, der Kunde, der Experte, der Neffe, der Franzose, der Löwe*
 - people-words in *-ent, -ant, -ist, -at, -oge*: *der Student, der Praktikant, der Journalist, der Kandidat, der Psychologe*
 - irregulars: *der Mensch → den Menschen · der Nachbar → den Nachbarn · der Herr → den Herrn (Pl. die Herren) · der Name → den Namen (Gen. des Namens)*
+
+## B1: zu + infinitive
+
+Taught in [B1-U03](../B1/B1-U03_Arbeit_und_Beruf/L1_Ich_habe_vor_zu_wechseln.md).
+
+**Structure:** main clause + comma + … + ***zu* + Infinitiv at the very end**.
+*Ich habe vor, die Stelle **zu wechseln**. · Es ist wichtig, pünktlich **zu sein**.*
+
+| Group | Examples |
+|---|---|
+| planning, hoping, starting, stopping | *vorhaben, planen, beschließen, sich entscheiden, hoffen, versuchen, anfangen, aufhören, vergessen, vorschlagen* |
+| asking and advising (+ Dativ) | *bitten, empfehlen, raten, erlauben, verbieten* |
+| *es* + adjective | *Es ist wichtig / schwierig / schön / anstrengend / (un)möglich, … zu …* |
+| noun + *haben* | *Lust / Zeit / Angst / die Möglichkeit haben, … zu …* |
+
+- **Separable verbs:** the *zu* goes inside, one word: *anzufangen, einzukaufen, weiterzubilden, zurückzurufen*.
+- **No *zu*** after: modal verbs · *werden* (future) · *gehen, fahren, kommen* + purpose · *lassen, sehen, hören, bleiben*.
+- **Same subject** → *zu*-infinitive. **Different subject** → *dass*-clause: *Ich hoffe, **dass mein Chef** das versteht.*
+- The comma is optional in very short groups but compulsory in extended ones; this course always writes it.
+
+## B1: Purpose — um zu and damit
+
+Taught in [B1-U03](../B1/B1-U03_Arbeit_und_Beruf/L2_Um_zu_oder_damit.md).
+
+| Situation | Form | Example |
+|---|---|---|
+| **same subject** | ***um** … **zu** + Infinitiv* | *Ich lerne Deutsch, **um** hier **zu arbeiten**.* |
+| **different subject** | ***damit*** + verb at the end | *Ich erkläre es, **damit** alle es **verstehen**.* |
+| short, no verb | ***zum*** + nominalised verb | *Ich brauche das **zum Arbeiten**.* |
+
+- *um … zu* has **no subject of its own**: *um mich zu bewerben* (not ~~um ich mich zu bewerben~~).
+- With a modal the modal goes last: *um mich bewerben **zu können***.
+- *warum?* asks for a **cause** (*weil*), *wozu?* for a **purpose** (*um … zu*).
+- With the same subject *damit* is grammatically possible but sounds heavy — prefer *um … zu*.
+
+## B1: da-word + clause
+
+Taught in [B1-U03](../B1/B1-U03_Arbeit_und_Beruf/L3_Das_Vorstellungsgespraech.md). Verbs with a fixed preposition ([Verb Lists](Verb_Lists.md#a2-verbs-with-prepositions)) cannot take a clause directly: a ***da*-word** stands in the main clause as a placeholder.
+
+| Verb + preposition | *da*-word | Continuation |
+|---|---|---|
+| sich freuen auf | **darauf** | *…, im Team zu arbeiten.* |
+| sich freuen über | **darüber** | *…, dass Sie angerufen haben.* |
+| sich interessieren für | **dafür** | *…, größere Projekte zu übernehmen.* |
+| warten auf | **darauf** | *…, dass die Firma antwortet.* |
+| denken an | **daran** | *…, mich zu bewerben.* |
+| arbeiten an | **daran** | *…, besser abzugeben.* |
+| Angst haben vor | **davor** | *…, etwas Falsches zu sagen.* |
+| sich kümmern um | **darum** | *…, dass alle informiert sind.* |
+| neigen zu | **dazu** | *…, zu viel selbst zu machen.* |
+| Wert legen auf | **darauf** | *…, dass Absprachen eingehalten werden.* |
+
+- **Same subject** → *zu*-infinitive · **different subject** → *dass*-clause.
+- The *da*-word is **not optional**: *Ich freue mich **darauf**, … zu …*
+- Questions use the *wo(r)-* form: ***Worauf** freuen Sie sich? · **Woran** arbeiten Sie gerade?*
 

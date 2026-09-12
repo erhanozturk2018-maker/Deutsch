@@ -212,6 +212,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - *denen* has two syllables — don't reduce it to *den*.
 - Adjective endings are weak but audible: *mit dem neu**en** Kol**LE**gen* — stress stays on the noun.
 
+### The zu-bracket and speaking under pressure (B1-U03)
+
+- *zu* is weak and glued to the infinitive: *zu-**WECH**seln*. With separable verbs the stress stays on the prefix and the *zu* hides inside: ***AN**zufangen, **EIN**zukaufen*.
+- *um … zu* is a bracket: make **both** ends audible — *…, **UM** vor der Arbeit zu **LER**nen.*
+- *damit* is stressed on the second syllable: *da**MIT***. So are the *da*-words: *da**RAUF**, da**FÜR**, da**RAN**, da**VOR***.
+- In interviews: replace fillers with a real pause, and let statements **fall** at the end — a rising ending sounds unsure.
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

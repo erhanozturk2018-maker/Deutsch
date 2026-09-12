@@ -371,3 +371,19 @@
 - **Reason:** The M6 WP1 plan in `00` §6, and the review stop mandated by `03` M6.
 - **Impact:** B1 has begun, and the instruction-language question — the biggest open format question for the remaining eleven units — is now settled in the standard rather than decided again in each unit. Next: B1-U02 (relative clauses, adjective endings stage 2, n-declension).
 
+---
+
+## [013] 2026-09-12 — M6 WP1 complete: B1-U02, B1-U03; Git workflow changed to commit-only
+
+- **Milestone:** M6, WP1
+- **Affected files:**
+  - **Created:** `B1/B1-U02_Menschen_beschreiben/` (5), `B1/B1-U03_Arbeit_und_Beruf/` (5)
+  - **Updated:** Resources (Grammar_Tables, Redemittel, English_German_Interference, Pronunciation_Guide), `Anki/B1.tsv` (170 cards), `CLAUDE.md`, Docs 00/05/06
+- **Change:**
+  1. **B1-U02 Menschen beschreiben:** L1 relative clauses (Nom./Akk.), appearance and character · L2 dative and prepositional relative clauses, n-declension, *sich* = each other · L3 adjective endings stage 2 (dative, article-less) and the paraphrase toolkit · L4 "Wer ist das?" + Taboo, Story Bank Task 8, WG profiles, two views of one colleague, a 150–180-word portrait.
+  2. **B1-U03 Arbeit & Beruf:** L1 *zu* + infinitive (and where it is absent) · L2 *um … zu* vs *damit*, *wozu?*, *zum Lernen* · L3 *da*-word + clause and the full job interview (strengths, weaknesses, questions, salary) · L4 complete application (letter + interview), Story Bank Task 1 at B1, two contrasting application letters, a rejection call with feedback.
+  3. **Resources:** relative-clause, adjective-endings-stage-2, n-declension, *zu*-infinitive, purpose and *da*-word tables; B1 Redemittel for describing people and for applications; two interference blocks; two pronunciation sections.
+  4. **Git workflow (user instruction, 2026-09-12):** Claude now **commits only and never pushes**; the user pushes to GitHub. Recorded in `CLAUDE.md` and `00` §1/§10. Reason: GitHub kept a cached "claude" entry in the repository's Contributors list even after the history had been rewritten to remove all AI-attribution trailers, and the user wants full control over what reaches the public repo.
+- **Reason:** The M6 WP1 plan in `00` §6, and the user's Git instruction.
+- **Impact:** B1.1 is half built (README, U01, U02, U03 + the instruction-language rule). Next: **B1-R1** (first B1 cumulative review), then B1-U04 (Konjunktiv II, full) and B1-U05 (genitive, paired connectors).
+

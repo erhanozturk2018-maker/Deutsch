@@ -27,6 +27,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [A2: Advice, wishes and polite requests](#a2-advice-wishes-and-polite-requests)
 - [B1: Telling a story and presenting](#b1-telling-a-story-and-presenting)
 - [B1: Describing people and things](#b1-describing-people-and-things)
+- [B1: Applications and job interviews](#b1-applications-and-job-interviews)
 
 ---
 
@@ -426,6 +427,29 @@ Taught in [B1-U02](../B1/B1-U02_Menschen_beschreiben/00_Overview_und_Wortschatz.
 | Es ist aus Holz / Metall / Plastik und ungefähr so groß wie … | It's made of wood / metal / plastic and about the size of … | paraphrasing |
 | Mir fällt das Wort gerade nicht ein. | I can't think of the word right now. | rescue |
 | Wie sagt man das auf Deutsch? | How do you say that in German? | rescue |
+
+## B1: Applications and job interviews
+
+Taught in [B1-U03](../B1/B1-U03_Arbeit_und_Beruf/00_Overview_und_Wortschatz.md).
+
+| Phrase | Meaning | Use |
+|---|---|---|
+| Ich habe vor, mich bei Ihnen zu bewerben. | I'm planning to apply to you. | plans |
+| Ich habe beschlossen, die Stelle zu wechseln. | I've decided to change jobs. | plans |
+| Ich bewerbe mich bei Ihnen, um … zu … | I'm applying to you in order to … | covering letter |
+| Ich bin gelernte/r … und arbeite seit … als … | I'm a trained … and have worked as a … since … | self-presentation |
+| Zurzeit bin ich für … zuständig. | At the moment I'm responsible for … | self-presentation |
+| Ich komme an eine Grenze. · Ich möchte mich weiterentwickeln. | I'm reaching a limit. · I want to develop further. | reason for changing |
+| Weil Sie im Bereich … arbeiten. Deshalb bewerbe ich mich bei Ihnen. | Because you work in … That's why I'm applying. | why this company |
+| Ich kann gut mit … umgehen. Ein Beispiel: … | I'm good at dealing with … For example: … | strengths |
+| Ich neige dazu, … zu … Daran arbeite ich, indem ich … | I tend to … I'm working on that by … | weaknesses |
+| Ich freue mich darauf, … zu … | I'm looking forward to … | closing |
+| Darf ich fragen, wie …? · Ich würde gern wissen, wie … | May I ask how …? · I'd like to know how … | your questions |
+| Worauf legen Sie im Team Wert? | What do you value in the team? | your questions |
+| Habe ich Sie richtig verstanden, dass …? | Did I understand correctly that …? | checking |
+| Meine Gehaltsvorstellung liegt bei … Euro brutto im Jahr. | My salary expectation is … gross per year. | salary |
+| Vielen Dank für das Gespräch. Ich freue mich auf Ihre Rückmeldung. | Thank you for the interview. I look forward to hearing from you. | closing |
+| Vielen Dank für Ihr Feedback. Das nehme ich mit. | Thank you for the feedback. I'll take that on board. | after a rejection |
 
 ---
 

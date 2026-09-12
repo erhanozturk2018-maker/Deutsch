@@ -608,3 +608,31 @@
 - **Result:** **PASS WITH NOTES** — M6 WP1 continues with B1-U02.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-013 — M6 WP1 complete: B1-U02 Menschen beschreiben, B1-U03 Arbeit & Beruf
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-U02_Menschen_beschreiben/` (5 files), `B1/B1-U03_Arbeit_und_Beruf/` (5 files), the B1 sections added to Resources, `Resources/Anki/B1.tsv`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The M6 criteria in `03` (instruction language per `04` A7.1, B1-length texts, relative clauses used for talking around words from U02 on, unit map fidelity to Appendix B); the `04` v1.2 Part C checklist; the per-unit checklist in `00` §6.
+- **Method:**
+  - `check_structure.py` → 96 files, 0 problems
+  - `check_vocab.py` → U02: 28 ★, 0 below 3 (after adding practice for *widersprechen*, *ansprechen*, *schlank/kräftig/sportlich*) · U03: 27 ★, 0 below 3 (after adding practice for *abgeben* and *ausbilden*)
+  - `check_links.py` → 1367 links, 0 broken, 3 planned
+  - `build_anki.py` → `B1.tsv` 170 cards (U01–U03)
+  - manual reread of all German; answer keys item by item; every instruction checked against `04` A7.1
+- **Findings:**
+  1. `STR`/`DEP`, PASS. U02 matches Appendix B: relative clauses in nominative, accusative, dative and with prepositions; adjective endings stage 2 (dative and article-less); n-declension; *sich* = each other; main tasks "Wer ist das?" and Taboo-style describing. U03 matches: *zu* + infinitive, *um … zu* vs *damit*, *da*-word + clause; main tasks job-interview simulation and application letter.
+  2. `PED`, PASS. U02 L3 makes the paraphrase strategy an explicit skill with a four-move toolkit (category, function, material/form, comparison) plus rescue phrases — this is CD-18's "describe things whose name you don't know" implemented as a trainable routine rather than a remark. U03 L4 contrasts two application letters (empty adjectives vs concrete examples with numbers), which teaches the register lesson faster than any rule could.
+  3. `SPK`, PASS. Every lesson has a ⏱️ drill, an AI role-play and a 2-minute monologue; U02 L4 records Story Bank Task 8 and U03 L4 Task 1 at B1, both as 4/3/2 retellings, with an explicit comparison against the earlier recordings.
+  4. `LNG`, **Minor (fixed), 5 items:** a garbled error-table row in U03 L1 (*zurückzurufen*); a malformed ✓/✗ row in U03 L2; a wrong anchor for the *um zu / damit* table (em dash produces a double hyphen in the slug); *ansprechen/widersprechen* and *abgeben/ausbilden* were listed as ★ but barely practised; *schlank/kräftig/sportlich* had no example sentences.
+  5. `CEF`, PASS. Reading texts 180–260 words (WG profiles, forum posts, two application letters); listening 180–230 words (photo talk, colleague discussion, interview, rejection call). Forward references glossed: *obwohl* → B1-U07, genitive → B1-U05.
+  6. `VOC`/`DEP`, PASS. "Recycled from" tables cover seven and eight earlier units including A1; both units build directly on A2-U06 (endings), A2-U08 (verbs + prepositions) and B1-U01 (Präteritum).
+  7. `A7.1`, PASS. The instruction language follows the new rule: German activity titles, German success criteria and checklists, English support lines only on first use of a formula, English explanations, role-play prompts in English.
+  8. `WRK`, PASS (estimate). Lessons 85–90 min; each unit ≈345 min. No learner trial yet (KI-11).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before the commits.
+- **Result:** **PASS WITH NOTES** — M6 WP1 (B1 README, U01, U02, U03 + review stop) is complete; WP2 (B1-R1, U04, U05) follows.
+- **Approval status:** – (autonomous mode)
+

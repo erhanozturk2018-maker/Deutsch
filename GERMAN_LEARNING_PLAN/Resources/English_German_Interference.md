@@ -253,6 +253,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *good coffee* | gut Kaffee | gut**er / guten** Kaffee | Without an article the adjective carries the signal |
 | *We know each other.* | Wir kennen einander. (everyday) | Wir kennen **uns**. | *einander* is formal |
 
+### Plans, purpose and applications (B1-U03)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *I plan to change jobs.* | Ich plane wechseln. | Ich habe vor, die Stelle **zu wechseln**. | *zu* + infinitive at the end |
+| *I can come.* | Ich kann zu kommen. | Ich kann **kommen**. | No *zu* after modals |
+| *I stopped smoking.* | Ich habe aufgehört rauchen. | Ich habe aufgehört **zu rauchen**. | *aufhören* + *zu* |
+| *I forgot to call him back.* | …, ihn zurück zu rufen. | …, ihn **zurückzurufen**. | Separable verb: one word |
+| *in order to work here* | zu arbeiten hier | **um** hier **zu arbeiten** | Purpose needs *um … zu* |
+| *so that my children have it easier* | um meine Kinder es leichter haben | **damit** meine Kinder es leichter haben | Different subject → *damit* |
+| *for learning* | zum lernen | **zum Lernen** | Nominalised verb: capital letter |
+| *I'm looking forward to working here.* | Ich freue mich, hier zu arbeiten. | Ich freue mich **darauf**, hier zu arbeiten. | *sich freuen auf* needs the *da*-word |
+| *We're waiting for the company to answer.* | Wir warten darauf, die Firma zu antworten. | …, **dass die Firma antwortet**. | Different subject → *dass* |
+| *I'm good at customer contact.* | Ich bin gut in Kundenkontakt. | Ich kann gut **mit** Kunden **umgehen**. | Fixed German expression |
+| *my salary expectation: 3000 net a month* | 3000 Euro netto im Monat | … Euro **brutto im Jahr** | German convention: gross, per year |
+
 ---
 
 *B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*

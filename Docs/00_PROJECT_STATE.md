@@ -16,10 +16,11 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1
 Status:             IN PROGRESS
-Current batch:      M6 WP1 — B1-U02 Menschen beschreiben, B1-U03 Arbeit & Beruf (B1 README ✅, B1-U01 ✅, review stop ✅)
-Next task:          B1-U01 OK - B1-U02 OK written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U03_Arbeit_und_Beruf/ (00_Overview + L1-L4: zu + infinitive, um...zu vs damit, da-word + clause; main tasks: job-interview simulation and application email), then close M6 WP1
-Last completed:     M6 WP1 part 1 — B1 README, B1-U01, review stop → 04 v1.2 (2026-09-12, V-012)
-Push status:        OK (origin/main in sync after every batch)
+Current batch:      M6 WP2 — B1-R1 Wiederholung, B1-U04 Gesundheit & Wohlbefinden, B1-U05 Reisen & Kulturen
+Next task:          M6 WP1 complete (V-013). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-R1_Wiederholung.md (cumulative review B1-U01 to U03 + A2, 50/30/20, 3 sittings), then B1-U04_Gesundheit_und_Wohlbefinden/ (Konjunktiv II in full: unreal wenn-clauses, wishes, polite forms) and B1-U05_Reisen_und_Kulturen/ (genitive + wegen/trotz/während/statt, paired connectors)
+Last completed:     M6 WP1 — B1 README, U01, U02, U03, review stop (2026-09-12, V-012 + V-013)
+Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
+                    Last commit pushed by the user: ce8ce70 (B1-U02)
 ```
 
 ---
@@ -114,7 +115,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 **WP1:** `B1/README.md` ✅ · **B1-U01 Lebenswege** ✅ (V-012) · **review stop ✅** → `04` **v1.2**, rule **A7.1** fixes the instruction language for B1.1 and B1.2. Remaining in WP1: **B1-U02 Menschen beschreiben** (relative clauses nom/acc/dat and with prepositions; adjective endings stage 2; n-declension; *sich* = each other; main tasks: "Wer ist das?" and Taboo-style describing; Story Bank Task 8 at B1) and **B1-U03 Arbeit & Beruf** (*zu* + infinitive; *um … zu* vs *damit*; *da-* word + clause; job-interview simulation and application email).
 
-**WP2:** B1-R1 (cumulative review) · B1-U04 (Konjunktiv II, full: unreal conditionals, wishes, advice) · B1-U05 (genitive, *wegen/trotz/während*, paired connectors)
+**WP2 (in progress):** **B1-R1** (cumulative review: B1-U01 to U03 at 50 %, A2.2 at 30 %, older A2/A1 at 20 %; three sittings; error clinic; four role-plays) · **B1-U04 Gesundheit & Wohlbefinden** (Konjunktiv II in full: unreal *wenn*-clauses, wishes, polite forms; "What would you do?" scenarios and an advice-column reply) · **B1-U05 Reisen & Kulturen** (genitive + *wegen, trotz, während, statt*; paired connectors *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*; formal complaint email and culture-comparison talk)
 
 **WP3:** B1-U06 (passive: present, Präteritum, with modals) · B1 Midpoint (review + diagnostic mid-test), then M6 closing validation
 
@@ -156,6 +157,8 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 ---
 
 ## 10. Important constraints
+
+- **Git: commit only, never push (user instruction, 2026-09-12).** Claude commits at every batch boundary with a clean message (no AI-attribution lines, no `Co-Authored-By`); the user pushes to GitHub manually. Reason: the user wants full control over what reaches the public repository and over who appears as a contributor there.
 
 - Markdown per `04_LESSON_STANDARDS.md`; English explanations; German task instructions from B1 (CD-10).
 - No audio or image files. Listening uses TTS-ready scripts (CD-30). External resources are optional extras; no lesson may depend on them.
