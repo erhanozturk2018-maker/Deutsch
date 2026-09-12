@@ -285,6 +285,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *to relax / switch off* | relaxen | **sich entspannen / abschalten** | German verbs |
 | *Could you help me?* (request) | Konnten Sie mir helfen? | **Könnten** Sie mir helfen? | The umlaut makes it polite |
 
+### Genitive, paired connectors and complaints (B1-U05)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *the title of the film* | der Titel von dem Film (in writing) | der Titel **des Films** | Written German uses the genitive |
+| *Anna's car* | Annas' Auto | **Annas** Auto | No apostrophe |
+| *because of the weather* | wegen dem Wetter (in writing) | **wegen des Wetters** | *wegen* + genitive |
+| *my neighbour's flat* | die Wohnung meines Nachbars | die Wohnung meines **Nachbarn** | n-declension |
+| *neither … nor* | nicht weder … noch | **weder … noch** | Already negative |
+| *both … and* | beide … und | **sowohl … als auch** | Fixed pair |
+| *the more …, the more …* | je mehr …, je mehr … | **je …, desto …** (+ comparatives) | Fixed pair, verb-final *je*-clause |
+| *Either we go by train or …* | Entweder wir fahren … | **Entweder fahren wir** … | Vorfeld rule |
+| *I complain about the room.* | Ich beschwere mich über der Zustand. | … über **den** Zustand | *sich beschweren über* + accusative |
+| *Dear Sir or Madam.* + capital | Sehr geehrte Damen und Herren. Ich … | Sehr geehrte Damen und Herren**,** **ich** … | Comma, then lower case |
+| *I demand my money back!* | Ich verlange mein Geld!!! | **Ich bitte Sie**, mir … **zu erstatten**. | Register |
+
 ---
 
 *B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*

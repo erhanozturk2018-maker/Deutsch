@@ -226,6 +226,13 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - *hätte* and *wäre* are unstressed: they are grammar, not news.
 - Advice: a falling, flat melody sounds like an order; a lighter, slightly rising one sounds like a suggestion. Softeners (*vielleicht, einfach mal*) are quick and unstressed.
 
+### The genitive -s, connector poles and a factual tone (B1-U05)
+
+- Don't swallow the genitive *-s*: *des Wetter**s**, des Film**s**, des Urlaub**s***; after *-t/-d* it is a full syllable: *des Kind-**es***.
+- Stress: ***WE**-gen · **TROTZ** · **WÄH**-rend*; the phrase carries one main stress on the noun: *wegen des **WET**ters*.
+- Paired connectors have **two poles** — stress the contrasted words, not the connectors: ***ENT**weder mit dem **ZUG** oder mit dem **BUS***; a small pause after the first half.
+- A complaint read aloud should sound **even and falling**, with the stress on dates and numbers: *am **DRIT**ten Mai · **VIER**zig Prozent*. The calmer the voice, the stronger the complaint.
+
 ---
 
 *Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*

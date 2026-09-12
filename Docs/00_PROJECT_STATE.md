@@ -16,9 +16,9 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1
 Status:             IN PROGRESS
-Current batch:      M6 WP2 — B1-R1 Wiederholung, B1-U04 Gesundheit & Wohlbefinden, B1-U05 Reisen & Kulturen
-Next task:          B1-R1 OK - B1-U04 OK written (checks pass). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U05_Reisen_und_Kulturen/ (00_Overview + L1-L4: genitive + wegen/trotz/waehrend/statt, paired connectors entweder...oder / weder...noch / sowohl...als auch / nicht nur...sondern auch; main tasks: formal complaint email and culture-comparison talk), then close M6 WP2 with a validation
-Last completed:     M6 WP1 — B1 README, U01, U02, U03, review stop (2026-09-12, V-012 + V-013)
+Current batch:      M6 WP3 — B1-U06 Medien & Nachrichten (Passiv), B1 Midpoint Checkpoint
+Next task:          M6 WP2 complete (V-014). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U06_Medien_und_Nachrichten/ (00_Overview + L1-L4: Passiv present, Praeteritum and with modals; main tasks: explain how something is made or done, and a pros/cons discussion about social media), then B1_Midpoint_Checkpoint.md (review + diagnostic mid-test, not a gate), then close M6 with a validation
+Last completed:     M6 WP2 — B1-R1, B1-U04, B1-U05 (2026-09-12, V-014)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: ce8ce70 (B1-U02)
 ```
@@ -117,7 +117,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 **WP2 (in progress):** **B1-R1** (cumulative review: B1-U01 to U03 at 50 %, A2.2 at 30 %, older A2/A1 at 20 %; three sittings; error clinic; four role-plays) · **B1-U04 Gesundheit & Wohlbefinden** (Konjunktiv II in full: unreal *wenn*-clauses, wishes, polite forms; "What would you do?" scenarios and an advice-column reply) · **B1-U05 Reisen & Kulturen** (genitive + *wegen, trotz, während, statt*; paired connectors *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*; formal complaint email and culture-comparison talk)
 
-**WP3:** B1-U06 (passive: present, Präteritum, with modals) · B1 Midpoint (review + diagnostic mid-test), then M6 closing validation
+**WP3 (next):** **B1-U06 Medien & Nachrichten** (Passiv: Präsens, Präteritum, mit Modalverben; *man* as the active alternative; news and social media; main tasks: describing a process and a pros/cons discussion; Story Bank Task 7 at B1) · **B1 Midpoint Checkpoint** (four skills + integrated scenario, diagnostic only, redirects to weak units), then the M6 closing validation
 
 **Story Bank at B1:** all eight tasks are recorded again at B1 level across M6/M7; the B1 Exit requires the full set.
 

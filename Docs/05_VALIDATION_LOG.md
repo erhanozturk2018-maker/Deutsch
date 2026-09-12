@@ -636,3 +636,31 @@
 - **Result:** **PASS WITH NOTES** — M6 WP1 (B1 README, U01, U02, U03 + review stop) is complete; WP2 (B1-R1, U04, U05) follows.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-014 — M6 WP2: B1-R1, B1-U04 Gesundheit & Wohlbefinden, B1-U05 Reisen & Kulturen
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-R1_Wiederholung.md`, `B1/B1-U04_Gesundheit_und_Wohlbefinden/` (5 files), `B1/B1-U05_Reisen_und_Kulturen/` (5 files), the B1 sections added to Resources, `Resources/Anki/B1.tsv`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The M6 criteria in `03`; `04` v1.2 including rule A7.1 (instruction language); the per-unit checklist in `00` §6; CD-15 (Konjunktiv II staged: chunks at A2-U10, full system at B1-U04) and CD-17 (adjective endings) for the sequencing.
+- **Method:**
+  - `check_structure.py` → 107 files, 0 problems
+  - `check_vocab.py` → U04: 27 ★, 0 below 3 (after adding practice for *einschlafen/aufwachen* and *Sorge/Termindruck*) · U05: 29 ★, 0 below 3 (after adding practice for *Sehenswürdigkeit*, *mitteilen*, *ankündigen*)
+  - `check_links.py` → 1521 links, 0 broken, 3 planned
+  - `build_anki.py` → `B1.tsv` 283 cards (U01–U05)
+  - manual reread of all German; answer keys item by item; review weighting counted; a targeted scan for Konjunktiv I (`sei/werde/solle`), which does not belong at this stage
+- **Findings:**
+  1. `STR`/`DEP`, PASS. U04 matches Appendix B (Konjunktiv II in full: unreal *wenn*-clauses, wishes, polite forms; "What would you do?" scenarios and an advice-column reply) and stays inside CD-15: no Konjunktiv I, no reported speech. U05 matches (genitive + *wegen/trotz/während/statt*, paired connectors; formal complaint email and culture-comparison talk).
+  2. `PED`, PASS. U04 L3 turns advice into a **graded ladder** (question → *könnte* → *sollte* → *An deiner Stelle* → *Es wäre gut, wenn* → imperative → *müsste*) with a rule that the learner asks three questions before advising — this is the pragmatics layer CEFR B1 asks for and lessons usually skip. U05 L3 teaches the complaint by **contrasting two letters**, so the register lesson is discovered rather than asserted.
+  3. `SPK`, PASS. Each lesson has a ⏱️ drill, an AI role-play and a 2-minute monologue. Story Bank at B1: U04 → Task 2, U05 → Task 5, both as 4/3/2 retellings with an explicit comparison against the A2 recording.
+  4. `REV`, PASS. B1-R1 weighting counted: warm-up 12/5/3 = 60/25/15 %, quiz 25 items across the three units plus older material; three sittings, error clinic, four role-plays, timed writing and a 4/3/2 retelling, as specified in Appendix G.
+  5. `LNG`, **Minor (fixed), 8 items:** four Konjunktiv-I forms in transcripts and samples (*solle, sei, werde* ×2) replaced by indicative or Konjunktiv II, since Konjunktiv I is B1.2 material; *obwohl* glossed with its forward reference to B1-U07; a garbled error-table row in U03 L1 and a malformed ✓/✗ row in U03 L2 (found while cross-checking) fixed in the previous batch; the *um zu / damit* anchor corrected; four ★ items given real practice.
+  6. `CEF`, PASS. Reading texts 200–320 words (survey, advice page, article on the holiday effect, station notice, blog on cultural differences, two complaint letters, Overtourism article); listening 180–260 words. Forward references glossed: *obwohl* → B1-U07, Passiv → B1-U06.
+  7. `VOC`/`DEP`, PASS. "Recycled from" tables cover seven units each, including A1 and A2; U05 explicitly builds the complaint out of U04's Konjunktiv II, U03's *zu*-infinitive and its own genitive.
+  8. `WRK`, PASS (estimate). Lessons 85–90 min; units ≈345 min; B1-R1 ≈165 min in three sittings. No learner trial yet (KI-11).
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before the commits.
+- **Result:** **PASS WITH NOTES** — M6 WP2 complete; WP3 (B1-U06 Passiv, B1 Midpoint) closes M6.
+- **Approval status:** – (autonomous mode)
+

@@ -29,6 +29,7 @@ Register tags: `[informal]` = friends, family, people you say *du* to; `[formal]
 - [B1: Describing people and things](#b1-describing-people-and-things)
 - [B1: Applications and job interviews](#b1-applications-and-job-interviews)
 - [B1: Hypotheticals and advice](#b1-hypotheticals-and-advice)
+- [B1: Complaints and comparing cultures](#b1-complaints-and-comparing-cultures)
 
 ---
 
@@ -474,6 +475,35 @@ Taught in [B1-U04](../B1/B1-U04_Gesundheit_und_Wohlbefinden/00_Overview_und_Wort
 | Das wäre bei mir schwierig, weil … · Und was würdest du machen? | That would be difficult for me, because … · And what would you do? | rejecting, turning back |
 | Ich komme kaum zur Ruhe. · Ich stehe unter Druck. · Ich bin ständig gereizt. | I can hardly wind down. · I'm under pressure. · I'm constantly irritable. | describing stress |
 | Dürfte ich Sie kurz stören? · Wäre es möglich, … zu …? | Might I disturb you briefly? · Would it be possible to …? | very polite |
+
+## B1: Complaints and comparing cultures
+
+Taught in [B1-U05](../B1/B1-U05_Reisen_und_Kulturen/00_Overview_und_Wortschatz.md).
+
+**Die förmliche Beschwerde — fünf Teile**
+
+| Part | Phrase |
+|---|---|
+| Bezug | *Am 3. Mai war ich Gast in Ihrem Hotel (Buchungsnummer …). · Ich beziehe mich auf meine Bestellung vom …* |
+| Anlass | *Leider muss ich mich über … beschweren. · Leider gab es dabei mehrere Probleme.* |
+| Sachverhalt | *Erstens … Zweitens … Und drittens … · Nach meiner Meldung an der Rezeption …* |
+| Forderung | *Da ich … nicht nutzen konnte, bitte ich Sie, mir … zu erstatten. · Ich erwarte, dass …* |
+| Frist und Schluss | *Ich wäre Ihnen dankbar, wenn Sie mir bis zum … antworten würden. · Mit freundlichen Grüßen* |
+
+**Nachhaken am Telefon:** *Ich beziehe mich auf meine Mail vom … · Bisher habe ich keine Antwort erhalten. · Könnten Sie mir sagen, wie der Stand ist? · Bis wann kann ich mit einer Antwort rechnen?*
+
+**Ton:** Fakten statt Urteile (*war nicht gereinigt* statt *war dreckig*), Bitte statt Forderung (*Ich bitte Sie, …* statt *Ich verlange*), eine Zahl und ein Datum, keine Ausrufezeichen.
+
+**Kulturen vergleichen**
+
+| Phrase | Use |
+|---|---|
+| Mir ist aufgefallen, dass … · Ich habe den Eindruck, dass … | reporting your experience |
+| Im Vergleich zu … · Anders als bei uns … · Ähnlich wie in … | comparing |
+| Das kommt darauf an. · Das ist von Region zu Region verschieden. | hedging |
+| Natürlich gibt es Ausnahmen. · Das gilt nicht für alle. | admitting exceptions |
+| Zwar …, aber … · Einerseits …, andererseits … | balancing |
+| Je …, desto … | describing a development |
 
 ---
 

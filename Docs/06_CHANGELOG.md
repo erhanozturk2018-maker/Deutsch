@@ -387,3 +387,19 @@
 - **Reason:** The M6 WP1 plan in `00` §6, and the user's Git instruction.
 - **Impact:** B1.1 is half built (README, U01, U02, U03 + the instruction-language rule). Next: **B1-R1** (first B1 cumulative review), then B1-U04 (Konjunktiv II, full) and B1-U05 (genitive, paired connectors).
 
+---
+
+## [014] 2026-09-12 — M6 WP2: B1-R1, B1-U04, B1-U05
+
+- **Milestone:** M6, WP2
+- **Affected files:**
+  - **Created:** `B1/B1-R1_Wiederholung.md`, `B1/B1-U04_Gesundheit_und_Wohlbefinden/` (5), `B1/B1-U05_Reisen_und_Kulturen/` (5)
+  - **Updated:** Resources (Grammar_Tables, Redemittel, English_German_Interference, Pronunciation_Guide), `Anki/B1.tsv` (283 cards), Docs 00/05/06
+- **Change:**
+  1. **B1-R1 Wiederholung:** the first B1 cumulative review — 50 % B1-U01–U03, 30 % A2.2, 20 % older, in three sittings, with a subordinate-clause round across all six connector types, a forms clinic, three text types, a vocabulary sprint, four role-plays, timed writing, an error clinic, four recordings, a 4/3/2 retelling and a 25-item quiz with a repair map.
+  2. **B1-U04 Gesundheit & Wohlbefinden:** L1 Konjunktiv II of the present (forms, unreal conditions, wishes, politeness) · L2 Konjunktiv II of the past (*hätte/wäre* + Partizip II, *hätte … sollen/können*, near-misses, mixed time) · L3 the advice ladder, softening particles and reacting to advice, with the stress and wellbeing vocabulary · L4 four "Was würden Sie tun?" scenarios, Story Bank Task 2, an article on the holiday effect, three views on work–life balance, an advice-column reply.
+  3. **B1-U05 Reisen & Kulturen:** L1 the genitive (forms, possession, *wegen/trotz/während/statt/innerhalb/außerhalb*, *dessen/deren*, written vs spoken) · L2 paired connectors and *je …, desto …*, plus how to compare cultures without generalising · L3 the formal complaint in five parts, factual register, demands and deadlines, following up by phone · L4 complaint + culture talk, Story Bank Task 5, an Overtourism article, three voices from a tourist town, a forum post.
+  4. **Resources:** the full B1 Konjunktiv II table, the genitive and paired-connector tables, Redemittel for hypotheticals/advice and for complaints/culture comparison, two interference blocks and two pronunciation sections.
+- **Reason:** The M6 WP2 plan in `00` §6.
+- **Impact:** B1.1 is five sixths built. Only **B1-U06 (Passiv)** and the **B1 Midpoint** remain before M6 closes. Validated as V-014.
+

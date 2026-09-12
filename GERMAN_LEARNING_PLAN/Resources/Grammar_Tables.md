@@ -36,6 +36,8 @@ Quick-reference tables for looking things up. **The explanations are in the less
 - [B1: Purpose — um zu and damit](#b1-purpose--um-zu-and-damit)
 - [B1: da-word + clause](#b1-da-word--clause)
 - [B1: Konjunktiv II in full](#b1-konjunktiv-ii-in-full)
+- [B1: Genitive](#b1-genitive)
+- [B1: Paired connectors](#b1-paired-connectors)
 
 ---
 
@@ -697,4 +699,43 @@ Written or spoken survivals: *käme, ginge, fände, gäbe, ließe*; very common 
 **The advice ladder** (B1-U04 L3), from careful to strong:
 *Hast du schon mal … probiert? → Du könntest … → Vielleicht solltest du … → An deiner Stelle würde ich … → Es wäre gut, wenn … → Geh doch mal …! → Du müsstest wirklich …*
 Softeners: *vielleicht, eigentlich, eher, ein bisschen, einfach mal, erst einmal* — use one, not three.
+
+## B1: Genitive
+
+Taught in [B1-U05](../B1/B1-U05_Reisen_und_Kulturen/L1_Wegen_des_Wetters.md).
+
+| | maskulin | feminin | neutrum | Plural |
+|---|---|---|---|---|
+| Artikel | **des** | **der** | **des** | **der** |
+| Nomen | + **-s / -es** | — | + **-s / -es** | — |
+| Beispiel | des Mann**es**, des Vater**s** | der Frau | des Kind**es**, des Auto**s** | der Leute |
+
+- ***-es*** after one-syllable nouns and after *-s, -ß, -z, -sch*; ***-s*** for most longer nouns.
+- **n-declension** nouns take *-n / -en*: *des Kollegen, des Studenten, des Menschen*.
+- **Adjective endings:** *-en* after an article (*des neuen Autos, der neuen Kollegin*); without an article the adjective carries the signal (*wegen starken Regens*, but *wegen umfangreicher Bauarbeiten*).
+- **Names:** *Annas Auto* — no apostrophe (only after *s/ß/x/z*: *Max' Buch*).
+
+**Genitive prepositions:** *wegen · trotz · während · statt / anstatt · innerhalb · außerhalb · aufgrund*
+*Wegen des Wetters · trotz des Regens · während der Ferien · statt des Busses · innerhalb einer Woche · außerhalb der Stadt · aufgrund technischer Probleme*
+
+**Relative pronoun:** ***dessen*** (m/n) · ***deren*** (f/Pl.) — invariable: *der Kollege, **dessen** Frau … · die Nachbarin, **deren** Hund …*
+
+**Written vs spoken:** speech replaces the genitive (*wegen dem Wetter · das Auto von meinem Bruder*). Understand both; **write** the genitive.
+
+## B1: Paired connectors
+
+Taught in [B1-U05](../B1/B1-U05_Reisen_und_Kulturen/L2_Sowohl_als_auch.md).
+
+| Pair | Meaning | Example |
+|---|---|---|
+| entweder … oder | either … or | *Wir fahren **entweder** im Mai **oder** im September.* |
+| weder … noch | neither … nor (no extra *nicht*) | *Ich spreche **weder** Französisch **noch** Spanisch.* |
+| sowohl … als auch | both … and (plural verb) | *Sowohl mein Bruder **als auch** meine Schwester **wohnen** dort.* |
+| nicht nur … sondern auch | not only … but also | ***Nicht nur** das Essen, **sondern auch** die Leute waren toll.* |
+| zwar … aber | admittedly … but | ***Zwar** ist es teuer, **aber** man findet Arbeit.* |
+| einerseits … andererseits | on the one hand … on the other | ***Einerseits** praktisch, **andererseits** unpersönlich.* |
+| je …, desto … (= je … umso …) | the more …, the more … | ***Je länger** ich hier lebe, **desto besser** verstehe ich das.* |
+
+- *Entweder* / *Nicht nur* in the Vorfeld → the verb comes **straight after**.
+- *je …, desto …*: **two comparatives**; the *je*-clause is subordinate (**verb at the end**), the *desto*-part is a main clause.
 
