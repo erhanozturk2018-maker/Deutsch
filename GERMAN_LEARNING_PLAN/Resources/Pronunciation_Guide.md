@@ -233,6 +233,15 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - Paired connectors have **two poles** — stress the contrasted words, not the connectors: ***ENT**weder mit dem **ZUG** oder mit dem **BUS***; a small pause after the first half.
 - A complaint read aloud should sound **even and falling**, with the stress on dates and numbers: *am **DRIT**ten Mai · **VIER**zig Prozent*. The calmer the voice, the stronger the complaint.
 
+### The participle at the end and contrast stress (B1-U06)
+
+- The passive puts the meaning **at the end**: *Die Quelle wird zuerst ge**PRÜFT**.* *wird* and *wurde* are weak, short and unstressed — they are grammar, not content.
+- Stress sits on the **stem** of the Partizip, never on *ge-*: *ge**SCHRIE**ben, ge**LE**sen*. Verbs in *-ieren* and verbs with an inseparable prefix take **no *ge-***: *korri**GIERT**, ver**ÖF**fentlicht*.
+- A modal passive ends in a cluster of grammar: *… gekürzt **werden muss**.* Say *werden muss* quickly and quietly, almost as one word. In a question the modal carries the stress instead: ***MUSS** das heute noch gemacht werden?*
+- *muss nicht* ↔ *darf nicht*: stress the **modal**, or the difference disappears — *das **MUSS** nicht* / *das **DARF** nicht*.
+- *werden* [ˈveːɐ̯dn̩] ↔ *wurden* [ˈvʊʁdn̩]: long *e* against short *u* is the only signal for present against past.
+- **Contrast stress** when you weigh things up: *EINerseits …, ANDErerseits … · Nicht die ge**SCHWIN**digkeit, sondern die **AUS**wahl.* In *nicht A, sondern B*, stress **both** poles. Put a small pause before *allerdings* and *trotzdem* so the objection lands.
+
 ---
 
-*Added later: sentence rhythm, contrast stress, and recognising connected speech (*haste, isses, wir ham*) (B1).*
+*Added later: recognising connected speech (*haste, isses, wir ham*) and reading long written sentences aloud (B1.2).*

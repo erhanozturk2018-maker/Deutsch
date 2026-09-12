@@ -508,3 +508,36 @@ Taught in [B1-U05](../B1/B1-U05_Reisen_und_Kulturen/00_Overview_und_Wortschatz.m
 ---
 
 *Added in B1: discussing, arguing, conceding, summarising, formal letters. Added in B1: discussing, arguing, conceding, summarising, presenting, formal letters.*
+
+## B1: Arguing and weighing up
+
+Taught in [B1-U06](../B1/B1-U06_Medien_und_Nachrichten/L3_Nachrichten_und_soziale_Medien.md).
+
+**Vor- und Nachteile**
+
+| Function | Phrase |
+|---|---|
+| Vorteil | *Ein Vorteil ist, dass … · Dafür spricht, dass … · Der größte Vorteil ist sicher … · … hat den Vorteil, dass … · Positiv finde ich, dass …* |
+| Nachteil | *Ein Nachteil ist, dass … · Dagegen spricht, dass … · Das größte Problem dabei ist … · Kritisch sehe ich, dass …* |
+| abwägen | *Einerseits …, andererseits … · Auf der einen Seite …, auf der anderen Seite … · Zwar …, aber … · Das kommt darauf an, ob … · Es hängt davon ab, wie …* |
+| Position | *Letztlich überwiegen für mich die Vorteile. · Alles in allem bin ich dafür / dagegen. · Meiner Meinung nach sollte … · Ich tendiere eher zu …* |
+
+**Auf ein Gegenargument reagieren**
+
+| Zustimmen und einschränken | Widersprechen |
+|---|---|
+| *Das stimmt, aber …* | *Da bin ich anderer Meinung, weil …* |
+| *Da haben Sie recht, allerdings …* | *Das sehe ich anders: …* |
+| *Klar, trotzdem …* | *Das halte ich für übertrieben.* |
+| *Im Prinzip ja, nur …* | *Genau das Gegenteil ist der Fall.* |
+
+> Concede first, then object — *Da haben Sie recht, allerdings …* is the single most useful B1 move in a discussion.
+
+**Einen Ablauf erklären:** *Zuerst wird … · Dann / Anschließend wird … · Dabei wird darauf geachtet, dass … · Erst wenn …, wird … · Zum Schluss wird … · Häufig wird vergessen, dass …*
+
+**Aufgaben verteilen:** *Was muss noch gemacht werden? · Das muss bis Freitag erledigt werden. · Wer ist dafür zuständig? · Das übernehme ich. · Darum kümmere ich mich. · Das liegt bei dir. · Da bin ich nicht zuständig. · Das ist schon erledigt.*
+
+**Quellen prüfen:** *Wer behauptet das? · Gibt es eine Quelle? · Wann wurde das veröffentlicht? · Wurde das von unabhängigen Medien bestätigt? · Das hat sich als falsch herausgestellt. · Seriöse Informationen müssen nicht weitergeleitet werden.*
+
+**Eine Stellungnahme (Leserbrief):** *Mit großem Interesse habe ich Ihren Artikel „…" gelesen. · In einem Punkt möchte ich Ihnen widersprechen: … · Ich würde mir wünschen, dass … · Vielleicht sollte häufiger erklärt werden, …*
+

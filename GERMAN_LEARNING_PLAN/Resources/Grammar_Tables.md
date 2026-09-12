@@ -739,3 +739,47 @@ Taught in [B1-U05](../B1/B1-U05_Reisen_und_Kulturen/L2_Sowohl_als_auch.md).
 - *Entweder* / *Nicht nur* in the Vorfeld → the verb comes **straight after**.
 - *je …, desto …*: **two comparatives**; the *je*-clause is subordinate (**verb at the end**), the *desto*-part is a main clause.
 
+## B1: Passive
+
+Taught in [B1-U06](../B1/B1-U06_Medien_und_Nachrichten/L1_Wie_wird_das_gemacht.md).
+
+**Form: *werden* + Partizip II**
+
+| Tense | Active | Passive |
+|---|---|---|
+| Präsens | Man prüft die Quelle. | Die Quelle **wird geprüft**. |
+| Präteritum | Man prüfte die Quelle. | Die Quelle **wurde geprüft**. |
+| Perfekt (recognition) | Man hat die Quelle geprüft. | Die Quelle **ist geprüft worden**. |
+| with a modal | Man muss die Quelle prüfen. | Die Quelle **muss geprüft werden**. |
+| subordinate clause | …, weil man sie prüfen muss. | …, weil sie **geprüft werden muss**. |
+
+**Conjugation of *werden***
+
+| | Präsens | Präteritum |
+|---|---|---|
+| ich | werde | wurde |
+| du | wirst | wurdest |
+| er/sie/es | wird | wurde |
+| wir/sie/Sie | werden | wurden |
+| ihr | werdet | wurdet |
+
+**Rules**
+
+- The **accusative object** of the active sentence becomes the **subject**, and the verb agrees with it: *Man liest Dokumente.* → *Dokumente **werden** gelesen.*
+- Verbs **without** an accusative object form an **impersonal passive**: *Hier **wird gearbeitet**. · Es **wird** viel **diskutiert**.*
+- The doer, if named: ***von*** + Dativ (person, agent) · ***durch*** + Akkusativ (means, cause). Usually it is left out — that is the point of the passive.
+- Passive **Perfekt** uses ***worden***, never *geworden*.
+- Word order with a modal: Modal (conjugated) … **Partizip II + *werden*** at the end. In a subordinate clause the modal moves **last**: *…, dass das **gemacht werden muss***.
+- **Vorgangspassiv** (*werden*) = the action; **Zustandspassiv** (*sein*) = the resulting state: *Die Tür **wird** geöffnet.* ↔ *Die Tür **ist** geöffnet.*
+- Spoken alternative: ***man*** + active. Same content, everyday register.
+
+**Three jobs of *werden***
+
+| Use | Example |
+|---|---|
+| to become | *Es **wird** kalt.* |
+| future (A2-U09) | *Ich **werde** morgen anrufen.* |
+| passive (B1-U06) | *Der Text **wird** geschrieben.* |
+
+**Describing a process:** *Zuerst wird … · Dann / Danach wird … · Anschließend wird … · Dabei wird darauf geachtet, dass … · Erst wenn …, wird … · Zum Schluss wird …*
+

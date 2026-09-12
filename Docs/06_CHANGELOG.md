@@ -403,3 +403,18 @@
 - **Reason:** The M6 WP2 plan in `00` §6.
 - **Impact:** B1.1 is five sixths built. Only **B1-U06 (Passiv)** and the **B1 Midpoint** remain before M6 closes. Validated as V-014.
 
+---
+
+## [015] 2026-09-12 — M6 COMPLETE: B1-U06, B1 Midpoint Checkpoint
+
+- **Milestone:** M6, WP3 and closure
+- **Affected files:**
+  - **Created:** `B1/B1-U06_Medien_und_Nachrichten/` (5), `B1/B1_Midpoint_Checkpoint.md`
+  - **Updated:** `B1/README.md` (every built unit, the review and the Midpoint are now linked from the roadmap), Resources (Grammar_Tables, Redemittel, English_German_Interference, Pronunciation_Guide), `Anki/B1.tsv` (339 cards), Docs 00/03/05/06
+- **Change:**
+  1. **B1-U06 Medien & Nachrichten:** L1 *Wie wird das gemacht?* (Passiv Präsens/Präteritum, impersonal passive, *von/durch*, passive vs *man*, describing a process) · L2 *Das muss noch gemacht werden* (passive with modals, passive in subordinate clauses, *werden* ↔ *sein*, distributing tasks and responsibility) · L3 *Nachrichten und soziale Medien* (advantages and disadvantages, weighing up, conceding and objecting, checking sources and false reports) · L4 the editorial-plan main task (process + discussion), Story Bank Task 7, the article "Wem gehört die Nachricht?", three reactions, a reader's letter, mixed review and quiz.
+  2. **B1 Midpoint Checkpoint:** a diagnostic over B1-U01 to U06 in two sittings — reading (3 texts, 12 items), language in context (24 items), listening (3 recordings, 10 items), speaking (monologue, discussion, integrated complaint situation) and writing (160–200 words), then a profile table and a refresh map with a two-refresh rule.
+  3. **Resources:** the full B1 passive section (forms, *werden* conjugation, rules, the three jobs of *werden*, process language), the B1 arguing and weighing-up Redemittel, and an interference and a pronunciation block for the unit.
+- **Reason:** The M6 WP3 plan in `00` §6.
+- **Impact:** **M6 (B1.1) is complete**: B1-U01 to U06, B1-R1 and the B1 Midpoint. Validated as V-015. Next: M7 (B1.2), with CP-001 (mediation) to be decided before M7 is finalised.
+

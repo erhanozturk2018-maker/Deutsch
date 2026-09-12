@@ -664,3 +664,33 @@
 - **Result:** **PASS WITH NOTES** — M6 WP2 complete; WP3 (B1-U06 Passiv, B1 Midpoint) closes M6.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-015 — M6 WP3 and M6 closure: B1-U06 Medien & Nachrichten, B1 Midpoint Checkpoint
+
+- **Date:** 2026-09-12
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-U06_Medien_und_Nachrichten/` (5 files), `B1/B1_Midpoint_Checkpoint.md`, the B1 passive and argumentation sections added to Resources, `B1/README.md`, `Resources/Anki/B1.tsv`; and M6 as a whole.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** The M6 criteria in `03`; `04` v1.2 including rule A7.1; the per-unit checklist in `00` §6; Appendix B for the unit's main tasks; CD-29 (Story Bank) for Task 7.
+- **Method:**
+  - `check_structure.py` → 113 files, 0 problems
+  - `check_vocab.py GERMAN_LEARNING_PLAN/B1/B1-U06_Medien_und_Nachrichten` → 27 ★, **0 below 3** on the first run
+  - `check_links.py` → 1611 links, 0 broken, 3 planned (all three to the not-yet-written `B1-U07_Umwelt_und_Nachhaltigkeit/`)
+  - `build_anki.py` → `B1.tsv` 339 cards (U01–U06, +56)
+  - manual reread of all German; answer keys checked item by item; a targeted scan for Konjunktiv I, which is B1.2 material
+- **Findings:**
+  1. `STR`/`DEP`, PASS. B1-U06 follows Appendix B: Passiv Präsens/Präteritum, impersonal passive, *von/durch*, passive with modals, passive in subordinate clauses, Vorgangs- vs Zustandspassiv, *man* as the spoken alternative. The two main tasks (describe a process, pros-and-cons discussion) are both in L4 Aktivität 2.
+  2. `PED`, PASS. L1 derives the passive from a text about **how a news item is made**, so the grammar and the topic are the same thing. L2 teaches the modal passive through a real editorial meeting and ends in task distribution, which is where learners actually need the form. L3 separates *arguing* from *having an opinion* and teaches "concede first, then object".
+  3. `SPK`, PASS. Each lesson has a ⏱️ drill, an AI role-play and a 2-minute monologue; L4 adds the two-part main task and **Story Bank Task 7 (Meine Meinung)** as a 4/3/2 retelling with a comparison against the A2 recording. With this, B1.1 has recorded Story Bank tasks 3, 8, 1, 2, 5 and 7.
+  4. `ASS`, PASS. The **B1 Midpoint** covers U01–U06 over five parts (Lesen 12, Sprache im Kontext 24, Hören 10, Sprechen with monologue/discussion/integrated situation, Schreiben 160–200 words), is explicitly **diagnostic, not a gate**, and ends in a profile table plus a refresh map that points at the exact lessons. Reference values are stated as "what solid looks like", not as pass marks.
+  5. `LNG`, **Minor (fixed), 4 items:** one Konjunktiv I form (*sei*) in the Midpoint reading text replaced by Konjunktiv II; a confused bullet about *-ieren* verbs in L1's pronunciation section rewritten as two clean groups (*-ieren* and inseparable prefixes); a redundant gloss in L2 Übung 3 item 6 clarified (*sollte* as Präteritum, with the pointer to the identical Konjunktiv II form); five numbered explanation subheadings in L3 changed to plain H3 so they are not read as activities.
+  6. `CEF`, PASS. Reading 200–330 words (how a news item is made, editorial meeting transcript, three opinions, "Wem gehört die Nachricht?", three reactions, plus the Midpoint's company email, blog text and forum thread); listening 150–260 words. No forward references beyond the glossed *obwohl* → B1-U07.
+  7. `VOC`/`DEP`, PASS. "Recycled from" covers eight earlier units including A1-U04 (modal verbs) and A2-U01 (Partizip II) — the two halves the passive is built from.
+  8. `REV`, PASS. The Midpoint's gap-fill and sentence tasks are weighted one grammar block per unit (2×U01, 2×U02, 3×U03, 2×U04, 2×U05, 1×U06 in 2A; the same spread in 2B), so no unit can hide.
+  9. `WRK`, PASS (estimate). Unit ≈345 min; Midpoint ≈130 min in two sittings. No learner trial yet (KI-11).
+- **M6 as a whole:** B1-U01 to U06, B1-R1, the B1 Midpoint, `B1/README.md`, `Resources/Anki/B1.tsv` and all B1.1 resource content exist and pass the four tools. The B1-U01 review stop happened and produced `04` v1.2 / rule A7.1.
+- **Required changes:** None remaining.
+- **Resolution:** All findings fixed before the commit.
+- **Result:** **PASS WITH NOTES** — M6 (B1.1) complete.
+- **Approval status:** – (autonomous mode)
+

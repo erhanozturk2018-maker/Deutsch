@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-12. Session 5: M5 WP1 complete (V-009); WP2 in progress. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-12. Session 6: M6 (B1.1) complete (V-015). **Update at every milestone or batch boundary.**
 
 ---
 
@@ -14,11 +14,11 @@ Architecture:       Approved — Baseline v1.0 (2026-09-11)
 Lesson standard:    04_LESSON_STANDARDS v1.2 (A1/A2 pilot-validated; B1.1 instruction language fixed by the B1-U01 review stop, V-012)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11)
 Current Phase:      Curriculum Construction
-Current Milestone:  M6 — B1.1
-Status:             IN PROGRESS
-Current batch:      M6 WP3 — B1-U06 Medien & Nachrichten (Passiv), B1 Midpoint Checkpoint
-Next task:          M6 WP2 complete (V-014). NEXT: write GERMAN_LEARNING_PLAN/B1/B1-U06_Medien_und_Nachrichten/ (00_Overview + L1-L4: Passiv present, Praeteritum and with modals; main tasks: explain how something is made or done, and a pros/cons discussion about social media), then B1_Midpoint_Checkpoint.md (review + diagnostic mid-test, not a gate), then close M6 with a validation
-Last completed:     M6 WP2 — B1-R1, B1-U04, B1-U05 (2026-09-12, V-014)
+Current Milestone:  M6 — B1.1 ✅ COMPLETE (2026-09-12, V-015)
+Status:             BETWEEN MILESTONES
+Current batch:      — (M6 closed; next batch: the level recap sheets, then M7 B1.2)
+Next task:          M6 complete (V-015). NEXT: the Recap / Cheat Sheet sheets requested by the user on 2026-09-12 (see CD-44 in 01 and 00 section 6): one A1_Recap.md, A2_Recap.md and B1_Recap.md per level folder, each with exactly three sections (Wortschatz / Redemittel / Grammatik), B1 marked as covering B1.1 only. After that: M7 (B1.2, B1-U07 to U12, B1-R2, B1-R3, B1 Exit), deciding CP-001 (mediation) before M7 is finalised
+Last completed:     M6 WP3 + M6 closure — B1-U06, B1 Midpoint (2026-09-12, V-015)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: ce8ce70 (B1-U02)
 ```
@@ -97,7 +97,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 ---
 
-## 6. Current work — M6 B1.1
+## 6. Last completed milestone — M6 B1.1 ✅
 
 **Model to follow:** the validated A2 units under `04` v1.1, with the B1 changes below. **A2 is complete and must not be rebuilt.**
 
@@ -115,9 +115,9 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 **WP1:** `B1/README.md` ✅ · **B1-U01 Lebenswege** ✅ (V-012) · **review stop ✅** → `04` **v1.2**, rule **A7.1** fixes the instruction language for B1.1 and B1.2. Remaining in WP1: **B1-U02 Menschen beschreiben** (relative clauses nom/acc/dat and with prepositions; adjective endings stage 2; n-declension; *sich* = each other; main tasks: "Wer ist das?" and Taboo-style describing; Story Bank Task 8 at B1) and **B1-U03 Arbeit & Beruf** (*zu* + infinitive; *um … zu* vs *damit*; *da-* word + clause; job-interview simulation and application email).
 
-**WP2 (in progress):** **B1-R1** (cumulative review: B1-U01 to U03 at 50 %, A2.2 at 30 %, older A2/A1 at 20 %; three sittings; error clinic; four role-plays) · **B1-U04 Gesundheit & Wohlbefinden** (Konjunktiv II in full: unreal *wenn*-clauses, wishes, polite forms; "What would you do?" scenarios and an advice-column reply) · **B1-U05 Reisen & Kulturen** (genitive + *wegen, trotz, während, statt*; paired connectors *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*; formal complaint email and culture-comparison talk)
+**WP2 ✅ COMPLETE (V-014):** **B1-R1** (cumulative review: B1-U01 to U03 at 50 %, A2.2 at 30 %, older A2/A1 at 20 %; three sittings; error clinic; four role-plays) · **B1-U04 Gesundheit & Wohlbefinden** (Konjunktiv II in full: unreal *wenn*-clauses, wishes, polite forms; "What would you do?" scenarios and an advice-column reply) · **B1-U05 Reisen & Kulturen** (genitive + *wegen, trotz, während, statt*; paired connectors *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*; formal complaint email and culture-comparison talk)
 
-**WP3 (next):** **B1-U06 Medien & Nachrichten** (Passiv: Präsens, Präteritum, mit Modalverben; *man* as the active alternative; news and social media; main tasks: describing a process and a pros/cons discussion; Story Bank Task 7 at B1) · **B1 Midpoint Checkpoint** (four skills + integrated scenario, diagnostic only, redirects to weak units), then the M6 closing validation
+**WP3 ✅ COMPLETE (V-015):** **B1-U06 Medien & Nachrichten** (Passiv: Präsens, Präteritum, mit Modalverben; *man* as the active alternative; news and social media; main tasks: describing a process and a pros/cons discussion; Story Bank Task 7 at B1) · **B1 Midpoint Checkpoint** (four skills + integrated scenario, diagnostic only, redirects to weak units), then the M6 closing validation
 
 **Story Bank at B1:** all eight tasks are recorded again at B1 level across M6/M7; the B1 Exit requires the full set.
 

@@ -27,13 +27,13 @@ This is also the level where German stops being a subject and becomes a language
 | Unit | Topic | Grammar | Load |
 |---|---|---|---|
 | [B1-U01 Lebenswege](B1-U01_Lebenswege/00_Overview_und_Wortschatz.md) | Life stories, biographies, turning points | **Präteritum of all verbs**; ***als* vs *wenn***; **Plusquamperfekt**; *während, seit, bis, sobald* | ●●● |
-| B1-U02 Menschen beschreiben | People, personality, describing things | **Relative clauses**; adjective endings stage 2; n-declension | ●●● |
-| B1-U03 Arbeit & Beruf | Applications, interviews, goals | ***zu* + infinitive**; *um … zu* vs *damit*; *da-* word + clause | ●● |
-| B1-R1 Wiederholung | Cumulative review | – | – |
-| B1-U04 Gesundheit & Wohlbefinden | Stress, lifestyle, hypotheticals | **Konjunktiv II, full** (unreal *wenn*-clauses) | ●●● |
-| B1-U05 Reisen & Kulturen | Cultures, complaints | **Genitive**; paired connectors | ●● |
-| B1-U06 Medien & Nachrichten | News, processes, social media | **Passive** (present, Präteritum, with modals) | ●●● |
-| B1 Midpoint | Review + diagnostic mid-test | – | – |
+| [B1-U02 Menschen beschreiben](B1-U02_Menschen_beschreiben/00_Overview_und_Wortschatz.md) | People, personality, describing things | **Relative clauses**; adjective endings stage 2; n-declension | ●●● |
+| [B1-U03 Arbeit & Beruf](B1-U03_Arbeit_und_Beruf/00_Overview_und_Wortschatz.md) | Applications, interviews, goals | ***zu* + infinitive**; *um … zu* vs *damit*; *da-* word + clause | ●● |
+| [B1-R1 Wiederholung](B1-R1_Wiederholung.md) | Cumulative review | – | – |
+| [B1-U04 Gesundheit & Wohlbefinden](B1-U04_Gesundheit_und_Wohlbefinden/00_Overview_und_Wortschatz.md) | Stress, lifestyle, hypotheticals | **Konjunktiv II, full** (unreal *wenn*-clauses) | ●●● |
+| [B1-U05 Reisen & Kulturen](B1-U05_Reisen_und_Kulturen/00_Overview_und_Wortschatz.md) | Cultures, complaints | **Genitive**; paired connectors | ●● |
+| [B1-U06 Medien & Nachrichten](B1-U06_Medien_und_Nachrichten/00_Overview_und_Wortschatz.md) | News, processes, social media | **Passive** (present, Präteritum, with modals) | ●●● |
+| [B1 Midpoint Checkpoint](B1_Midpoint_Checkpoint.md) | Diagnostic mid-test: four skills + an integrated situation | – | – |
 
 **B1.2 Argumentieren & Handeln** (arguing & acting) — units U07–U12, B1-R2, B1-R3 and the **B1 Exit**: the full list is in the course [README](../README.md) and appears here as the units are built.
 

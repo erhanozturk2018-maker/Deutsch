@@ -15,7 +15,7 @@
 | M3 | A1 Consolidation | ✅ COMPLETE (2026-09-11), V-007 | M2 (diagnostic *built*; results not required, see OD-12) |
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ✅ COMPLETE (2026-09-12), V-008 | M3 |
 | M5 | A2 Completion | ✅ COMPLETE (2026-09-12), V-009/V-010/V-011 | M4 **validated** |
-| M6 | B1.1 | ⬜ NOT STARTED | M5 |
+| M6 | B1.1 | ✅ COMPLETE (2026-09-12), V-012/V-013/V-014/V-015 | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
 | M8 | Final Curriculum Audit | ⬜ NOT STARTED | M7 |
 
@@ -298,7 +298,7 @@
   - Reading texts reach B1 length and complexity.
   - Relative clauses are used for talking-around-words tasks from U02 on.
   - The Midpoint includes a review.
-- **Completion status:** ⬜ NOT STARTED
+- **Completion status:** ✅ **COMPLETE (2026-09-12)** — WP1 (B1 README, U01, review stop → `04` v1.2/A7.1, U02, U03; V-012/V-013), WP2 (B1-R1, U04, U05; V-014), WP3 (U06, B1 Midpoint; V-015). All four tools pass: 113 files / 0 problems, 1611 links / 0 broken, `B1.tsv` 339 cards.
 - **Next milestone:** M7.
 
 ---

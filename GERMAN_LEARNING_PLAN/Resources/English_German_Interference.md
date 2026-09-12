@@ -301,6 +301,25 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *Dear Sir or Madam.* + capital | Sehr geehrte Damen und Herren. Ich … | Sehr geehrte Damen und Herren**,** **ich** … | Comma, then lower case |
 | *I demand my money back!* | Ich verlange mein Geld!!! | **Ich bitte Sie**, mir … **zu erstatten**. | Register |
 
+### The passive, modals and arguing (B1-U06)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *The text is written.* (action) | Der Text **ist** geschrieben. | Der Text **wird** geschrieben. | *werden* for the action, *sein* for the state |
+| *has been corrected* | ist korrigiert **geworden** | ist korrigiert **worden** | Passive Perfekt uses *worden* |
+| *The documents are read.* | Die Dokumente **wird** gelesen. | Die Dokumente **werden** gelesen. | The verb agrees with the new subject |
+| *written by a colleague* | **bei** einem Kollegen geschrieben | **von** einem Kollegen geschrieben | *von* + dative for the agent |
+| *That has to be done.* | Das muss **werden gemacht**. | Das muss **gemacht werden**. | Partizip II + *werden*, in that order |
+| *You mustn't smoke here.* | Du **musst** hier nicht rauchen. | Hier **darf** nicht **geraucht werden**. | *muss nicht* = no need; *darf nicht* = forbidden |
+| *…, because it has to be checked* | …, weil es **muss geprüft werden** | …, weil es **geprüft werden muss** | Conjugated verb last |
+| *responsible for the project* | zuständig **von** dem Projekt | zuständig **für** das Projekt | *zuständig für* + accusative |
+| *I agree.* | Ich bin agree / einverstanden mit dir. | Ich **stimme** dir **zu**. / **Da hast du recht.** | Fixed German phrases |
+| *It depends.* | Das **hängt an**. | Das **kommt darauf an**. / Es **hängt davon ab**, ob … | Fixed expression + da-word |
+| *I'm against it.* | Ich bin **für das nicht**. | Ich bin **dagegen**. | *dafür / dagegen* are single words |
+| *actually* | Das ist **aktuell** nicht wahr. | Das ist **eigentlich** nicht wahr. | *aktuell* = current |
+| *on the other hand* | auf der **zweiten** Seite | auf der **anderen** Seite | Fixed pair |
+| *sensible* | Das ist nicht **sensibel**. | Das ist nicht **vernünftig**. | *sensibel* = sensitive |
+
 ---
 
-*B1 traps come later: als/wenn, word order with two clauses, the passive, and the false friends of academic language. B1 traps come later.*
+*Still to come at B1.2: reported speech, *während/obwohl* in long sentences, and the false friends of academic language.*
