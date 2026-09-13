@@ -484,3 +484,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | To summarise, I think … | *Zusammenfassend gesagt, ich denke …* | **Zusammenfassend: Ich denke …** | Verb auf Position 2 |
 | We agree on that. | *Wir sind einig über das.* | **Wir sind uns darin einig.** | Reflexivpronomen |
 
+## B1-U07: Gegensatz, Folge und Meinung
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| Although it's raining, I still go. | *Obwohl es regnet, trotzdem gehe ich.* | **Obwohl es regnet, gehe ich.** | nur ein Konnektor |
+| Although it isn't raining | *Obwohl es regnet nicht* | **Obwohl es nicht regnet** | Verb ans Ende |
+| Nevertheless I cycle. | *Trotzdem ich fahre.* | **Trotzdem fahre ich.** | *trotzdem* besetzt Position 1 |
+| despite the rain | *trotz dem Regen* ⚖ | **trotz des Regens** | *trotz* + Genitiv |
+| despite the rain | *obwohl des Regens* | **trotz des Regens** | *obwohl* + Satz, *trotz* + Nomen |
+| so that (result) | *Die Tonne ist so klein, sodass …* | **so klein, dass …** | nach *so* folgt *dass* |
+| too expensive to finance | *zu teuer, um wir es finanzieren* | **zu teuer, um es zu finanzieren** | *um … zu* + Infinitiv |
+| big enough | *genug groß* | **groß genug** | *genug* nach dem Adjektiv |
+| the more …, the more … | *je mehr, je mehr* ⚖ | **je mehr …, desto/umso mehr …** | zweites Glied: *desto* / *umso* |
+| In my opinion | *Meine Meinung nach* | **Meiner Meinung nach** | feste Wendung im Dativ |
+| I agree with you. | *Ich stimme mit dir zu.* | **Ich stimme dir zu.** | *zustimmen* + Dativ |
+| I'm agree. | *Ich bin agree.* | **Da stimme ich dir zu.** | – |
+| dependent on the car | *angewiesen von dem Auto* | **angewiesen auf das Auto** | *angewiesen auf* + Akkusativ |
+| all in all | *alles in allen* | **alles in allem** | feste Wendung |
+

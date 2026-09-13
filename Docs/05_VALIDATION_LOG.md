@@ -1173,3 +1173,34 @@
 - **Result:** **PASS** — **M9 ist abgeschlossen.** B2 umfasst zwölf Einheiten, drei Wiederholungen, das Midpoint und das Exit Checkpoint, dazu einen vollständig konsolidierten Recap und 599 Anki-Karten. Als Nächstes **M7 (B1.2)** gemäß der Reihenfolge aus `03`.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-032 — M7 WP1 (Teil 1): B1-U07 Umwelt & Nachhaltigkeit — Beginn von B1.2
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-U07_Umwelt_und_Nachhaltigkeit/` (5 Dateien), die B1-U07-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B1.tsv`, `B1/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M7-Kriterien in `03`; `04` v1.2 inkl. **A7.1 (Spalte B1.2)**; Einheitenplan in `01` Appendix (B1-U07: *obwohl* vs *trotzdem*, *sodass / so … dass*, *je … desto*, Argumentaufbau); CEFR-B1-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **210 Dateien, 0 Probleme** (nach Korrektur, s. Findings 7)
+  - `check_vocab.py B1-U07` → **37 ★, 0 unter 3** (nach Nachbesserung)
+  - `check_links.py` → **2642 Links, 0 broken, 0 planned** — die drei bisher „geplanten“ Links aus dem B1 Midpoint zeigen jetzt auf eine existierende Einheit
+  - `build_anki.py` → `B1.tsv` **382 Karten** (vorher 339)
+  - vollständige Wiederlesung; jede Konnektorform gegen Wortstellung und Kasus geprüft
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform der B1-Einheiten eingehalten: Overview + L1–L3 (je ~85 min, 8–9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~90 min). Karteikartentabellen in allen vier Lektionen.
+  2. `LNG`, PASS. **A7.1, Spalte B1.2** umgesetzt: keine englischen Hilfszeilen mehr, Lösungen zu Lese- und Hörtexten auf **Deutsch**, Erklärungen weiterhin auf Englisch. Der Wechsel ist der Lernenden **ausdrücklich angekündigt** — in L1 als Kasten und im Overview als eigener Absatz, wie es A7.1 Regel 5 verlangt.
+  3. `PED`, PASS. Die Einheit ist als **Argumentwerkzeug** gebaut: L1 Gegensatz, L2 Folge und Zusammenhang, L3 der Aufbau in fünf Teilen. Teil 4 (Gegenargument mit Antwort) ist ausdrücklich als der Teil benannt, den Lernende auslassen.
+  4. `PED`, PASS. Die Entdecken-Aufgabe in L3 stellt zwei Forumsbeiträge gegenüber, von denen der lautere der schwächere ist — damit ist die Lernregel „Beispiel schlägt Adjektiv“ an einem Fall gezeigt statt behauptet.
+  5. `ETH`, PASS. Das Thema Umwelt wird **konkret und alltagsnah** behandelt (Müll, Wege, Geräte, Gebühren) statt politisch. Der Lesetext in L4 zieht ausdrücklich **kein** allgemeines Rezept aus einem Einzelfall (*jedes Viertel ist anders, die Zahlen aus einem einzigen Versuch sagen wenig*), und L3 verlangt ausdrücklich, **keine Zahlen zu erfinden** und Gehörtes als Gehörtes zu markieren. Die drei Hörstimmen vertreten unterschiedliche Interessen, ohne dass eine als die richtige markiert wäre.
+  6. `CEF`, PASS. Lesetext 300 Wörter; drei Hörtexte je 80–110 Wörter; Schreibaufgabe **120–150 Wörter** (B1-Format Forumsbeitrag) in fünf Abschnitten. Sprechaufgaben: vier 2-Minuten-Formate plus **Story Bank Task 4** als 4/3/2.
+  7. `STR`, **Minor (behoben):** Die nummerierten H3-Überschriften im Erklärungsteil (*### 1. obwohl …*) wurden von `check_structure.py` als Aktivitäten ohne Zeitangabe gezählt — derselbe Fall wie früher in B2-U01 und B1-U06. Alle Erklärungsüberschriften in L1–L3 wurden entnummeriert.
+  8. `VOC`, **Minor (behoben):** *gebraucht*, *öffentliche Verkehrsmittel* und *der Aufwand* erreichten die Schwelle nicht. Behoben durch drei inhaltliche Ergänzungen: ein Kasten zum Plural von *öffentliche Verkehrsmittel*, eine Erklärzeile zu *Aufwand* und ein erweitertes Beispiel in L3 (*gebraucht hätte ich einen für 60 bekommen*). Danach 0 unter 3.
+  9. `DEP`, PASS. Mit dieser Einheit sind die **drei geplanten Links** aus `B1_Midpoint_Checkpoint.md` aufgelöst; der Kurs hat damit erstmals **0 planned links**.
+  10. `ASS`, PASS. 10-Item-Quiz in L4 mit Reparaturkarte auf Lektionsebene.
+  11. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 345 min, konsistent mit B1-U01 bis U06.
+- **Required changes:** Keine offen.
+- **Resolution:** Die beiden Minor-Punkte wurden vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B1-U07 ist Teil des Kurses; **B1.2 hat begonnen**. Als Nächstes B1-U08 Zusammenleben.
+- **Approval status:** – (autonomous mode)
+

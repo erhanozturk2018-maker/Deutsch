@@ -461,3 +461,20 @@ Umgangssprachlich verkürzt: *drauf · dran · drüber* ⚖ — verstehen, aber 
 - Beim Unterbrechen entscheidet der **Einsatz**, nicht die Lautstärke: an einer Satzgrenze funktioniert es, mitten im Wort nicht.
 - ***Halten wir fest*** wird langsam und tief gesprochen — es ist das Signal, dass die Diskussion endet.
 
+## B1-U07: obwohl, trotzdem und die Pause vor *dass*
+
+| Wort | Betonung | Hinweis |
+|---|---|---|
+| *obwohl* | ob**WOHL** | das *b* klingt fast wie *p*: *op**WOHL*** |
+| *trotzdem* | **TROTZ**dem | vorn betont — daran hört man Position 1 |
+| *dennoch* | **DEN**noch | wie *trotzdem*, nur formeller |
+| *sodass* | unbetont, schnell | ein Wort: *so-dass* |
+| *je … desto* | zwei Akzente | *Je **FLA**cher …, | desto **MEHR** …* |
+
+- Vor ***dass*** steht ein Komma und eine hörbare **kleine Pause**: *Die Tonne ist so klein, | dass sie nie reicht.*
+- Bei ***so … dass*** trägt das **Adjektiv** den Akzent, nicht das *so*: *so **KLEIN**, dass …*
+- In *trotz des Regens* wird die Genitivendung deutlich gesprochen: *des **RE**gens*.
+- Meinungen klingen im Deutschen **ruhiger**, als Lernende erwarten: *Meiner **MEI**nung nach …* fällt am Ende ab (↘).
+- *na**TÜR**lich* trägt den Akzent auf der zweiten Silbe; danach folgt eine kleine Pause, bevor der Einwand kommt.
+- ***Alles in allem*** wird langsam und fallend gesprochen: Es kündigt das Ende an.
+

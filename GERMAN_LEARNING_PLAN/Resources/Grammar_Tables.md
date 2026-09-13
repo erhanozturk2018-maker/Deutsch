@@ -1343,3 +1343,52 @@ Auf Position 1 steht **genau ein** Satzglied, das Verb bleibt auf **Position 2**
 
 **Hervorhebungsstrukturen:** *Was ich meine, ist … · Es ist die Frist, die … · Worauf es ankommt, ist … · Genau das meine ich. · Gerade darum geht es.* — Platzhalter-*es*: *Es haben sich drei Leute gemeldet.*
 
+## B1: Contrast, consequence and proportion
+
+Taught in [B1-U07](../B1/B1-U07_Umwelt_und_Nachhaltigkeit/L1_Obwohl_es_regnet.md) (contrast) and [L2](../B1/B1-U07_Umwelt_und_Nachhaltigkeit/L2_So_viel_dass.md) (consequence, proportion).
+
+**Der Gegensatz**
+
+| Bauform | Wortstellung | Beispiel |
+|---|---|---|
+| **obwohl** (Konjunktion) | Verb **am Ende** | *Ich fahre, **obwohl** es **regnet**.* |
+| **obgleich · wenngleich** ⬆ | Verb am Ende | – |
+| **trotzdem · dennoch** (Adverb) | Verb **direkt danach** | *Es regnet. **Trotzdem fahre** ich.* |
+| **allerdings** (schwächer) | schränkt ein | *Das stimmt, **allerdings** nur bei uns.* |
+| **trotz** (Präposition) | + **Genitiv** (⚖ + D) | ***Trotz** des Regens fahre ich.* |
+| **zwar … aber** | *zwar* auf Position 1 | ***Zwar** ist es unangenehm, **aber** …* |
+
+- ***obwohl*** = Gegensatz, ***weil*** = Grund. Probe: Folgt der zweite Teil aus dem ersten?
+- **Nur ein Konnektor pro Satz:** *~~Obwohl es regnet, trotzdem fahre ich.~~*
+- *trotz* nimmt ein **Nomen**, *obwohl* einen **Satz**.
+
+**Die Folge**
+
+| Bauform | Beispiel | Anmerkung |
+|---|---|---|
+| **sodass** | *Die Tonne war überfüllt, **sodass** die Abfuhr sie stehen **ließ**.* | steht nie am Satzanfang |
+| **so + Adj. … dass** | *Die Tonne ist **so** klein, **dass** sie nie **reicht**.* | der **Grad** ist der Punkt |
+| **so viel / so viele … dass** | *Es war **so viel** Papier da, **dass** …* | – |
+| **zu … um … zu** | *Das ist **zu** teuer, **um** es **zu finanzieren**.* | Ziel wird **nicht** erreicht |
+| **genug … um … zu** | *groß **genug**, **um** eine Woche **zu reichen*** | Ziel **wird** erreicht; *genug* steht **nach** dem Adjektiv |
+| **als dass** ⬆ | *Es ist zu spät, **als dass** wir noch anfangen könnten.* | selten auf B1 |
+
+Nach *so* + Adjektiv folgt ***dass***, nicht *sodass*.
+
+**Der Zusammenhang: je … desto / umso**
+
+| Teil | Bau | Beispiel |
+|---|---|---|
+| **je** + Komparativ | **Nebensatz**, Verb am Ende | *Je flacher die Kartons **sind**, …* |
+| **desto / umso** + Komparativ | **Hauptsatz**, Verb **direkt danach** | *… desto mehr **passt** hinein.* |
+
+- Der *je*-Teil steht **zuerst**; *desto* und *umso* sind gleichwertig.
+- **Beide** Teile brauchen einen Komparativ. Nicht *~~je …, je …~~* ⚖.
+
+**Folge oder Grund? Dieselbe Lage, andere Richtung**
+
+| Richtung | Konnektor | Beispiel |
+|---|---|---|
+| Grund zuerst | *weil · da* | *Die Abfuhr ließ sie stehen, **weil** sie überfüllt war.* |
+| Folge zuerst | *sodass · deshalb · deswegen* | *Sie war überfüllt, **sodass** die Abfuhr sie stehen ließ.* |
+

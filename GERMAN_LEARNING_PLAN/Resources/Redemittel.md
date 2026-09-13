@@ -1209,3 +1209,52 @@ Taught in [B2-U12](../B2/B2-U12_Debatte_und_Verhandlung/L3_Eine_Debatte_fuehren.
 
 **Das Protokoll:** *Besprochen wurde … · Einigkeit besteht darin, dass … · Unterschiedlich bewertet wird … · Offen bleibt … · X prüft bis zum … · Eine Entscheidung ist für den … vorgesehen.*
 
+## B1: Building an argument
+
+Taught in [B1-U07](../B1/B1-U07_Umwelt_und_Nachhaltigkeit/L3_Ein_Argument_bauen.md).
+
+**Die fünf Teile eines Beitrags**
+
+| Teil | Redemittel |
+|---|---|
+| 1 **These** | *Meiner Meinung nach … · Ich bin dafür / dagegen, dass … · Ich finde, dass …* |
+| 2 **Argument** | *Der wichtigste Grund ist … · Dafür spricht, dass … · Dazu kommt, dass …* |
+| 3 **Beispiel** | *Zum Beispiel … · Bei mir ist es so, dass … · In unserer Straße …* |
+| 4 **Gegenargument + Antwort** | *Natürlich …, aber … · Man könnte sagen, dass … Allerdings … · Dagegen spricht zwar …, trotzdem …* |
+| 5 **Fazit** | *Alles in allem … · Deshalb finde ich … · Ich würde meine Meinung ändern, wenn …* |
+
+> Teil 4 ist der, den Lernende auslassen — und der einen Beitrag überzeugend macht.
+
+**Meinung sagen, drei Stärken**
+
+| Stärke | Redemittel |
+|---|---|
+| vorsichtig | *Ich glaube, … · Ich habe den Eindruck, dass … · Vielleicht wäre es besser, wenn …* |
+| normal | *Meiner Meinung nach … · Ich finde, dass … · Für mich ist wichtig, dass …* |
+| klar | *Ich bin klar dafür / dagegen. · Für mich ist entscheidend, dass …* |
+
+**Reagieren**
+
+| Reaktion | Redemittel |
+|---|---|
+| zustimmen | *Da stimme ich dir zu. · Das sehe ich genauso. · Da hast du recht.* |
+| teilweise | *Da ist etwas dran, aber … · In dem Punkt ja, in dem anderen nicht.* |
+| widersprechen | *Das sehe ich anders. · Da bin ich anderer Meinung. · Das kann ich so nicht sagen.* |
+| nachfragen | *Wie meinst du das genau? · Woran machst du das fest?* |
+
+> ⚠️ *Ich bin nicht einverstanden* ist korrekt, aber stark — Alltag: *Das sehe ich anders.* Und: *Ich stimme **dir** zu* (Dativ, ohne Präposition).
+
+**Das Beispiel schlägt das Adjektiv**
+
+| ❌ schwach | ✅ stärker |
+|---|---|
+| *Das ist total unfair.* | *In unserer Straße zahlen die einen nichts und die anderen 90 Euro im Monat.* |
+| *Das bringt gar nichts.* | *Bei uns wurde das vor zwei Jahren eingeführt; geändert hat sich nichts.* |
+| *Alle finden das schlecht.* | *Von den zwölf Leuten in meinem Kurs findet es einer gut.* |
+
+**Ehrlich bleiben:** keine Zahlen erfinden. *Ich habe gelesen, dass … · Es heißt oft, dass … · Ich weiß nicht, ob das stimmt, aber …*
+
+**Wortfeld Umwelt und Nachhaltigkeit (Alltag)**
+
+*der Müll · trennen · die Verpackung · das Pfand · Mehrweg ↔ Einweg · wiederverwenden* — *öffentliche Verkehrsmittel · das Rad · die Strecke · die Parkgebühr* — *der Strom · die Heizung · der Verbrauch · sparen* — *regional · saisonal · gebraucht kaufen · reparieren · die Anschaffung · sich lohnen* — *die Nachhaltigkeit · nachhaltig · verzichten auf · vermeiden · bewusst*
+

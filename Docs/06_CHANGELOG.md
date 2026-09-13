@@ -647,3 +647,16 @@
 - **Reason:** Abschluss von M9 laut `03`.
 - **Impact:** **M9 abgeschlossen.** B2: zwölf Einheiten, drei Wiederholungen, Midpoint, Exit, konsolidierter Recap, 599 Anki-Karten; 205 Dateien im Kurs, 0 Strukturprobleme, 0 defekte Links. Als Nächstes **M7 (B1.2)** — B1-U07 bis U12, B1-R2, B1-R3, B1 Exit; davor bzw. dabei ist **CP-001 (Mediation)** zu entscheiden.
 
+## [032] 2026-09-13 — M7 WP1 (Teil 1): B1-U07 Umwelt & Nachhaltigkeit — B1.2 beginnt
+
+- **Milestone:** M7, WP1 (laufend)
+- **Affected files:**
+  - **Created:** `B1/B1-U07_Umwelt_und_Nachhaltigkeit/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B1: Contrast, consequence and proportion), `Resources/Redemittel.md` (B1: Building an argument), `Resources/English_German_Interference.md` (B1-U07), `Resources/Pronunciation_Guide.md` (B1-U07), `Anki/B1.tsv` (382 Karten), `B1/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **B1-U07 Umwelt & Nachhaltigkeit:** L1 *Obwohl es regnet* (*obwohl*, *trotzdem/dennoch*, *trotz* + Genitiv, *zwar … aber*, *obwohl* ↔ *weil*, ein Konnektor pro Satz) · L2 *So viel, dass* (*sodass*, *so … dass*, *zu … um … zu*, *genug … um … zu*, *je … desto/umso*, Folge ↔ Grund) · L3 *Ein Argument bauen* (die fünf Teile eines Beitrags, Meinung in drei Stärken, zustimmen und widersprechen, drei Bauformen des Gegenarguments, Wortschatz Umwelt im Alltag) · L4 *Anwenden* (Diskussion und Forumsbeitrag in beiden Rollen, Story Bank Task 4 auf B1, Artikel „Die Straße, die keiner wollte“, drei Stimmen aus dem Viertel, Forumsbeitrag 120–150 Wörter, Test).
+  2. **Stufenwechsel B1.2 umgesetzt** (A7.1, Spalte B1.2): keine englischen Hilfszeilen mehr, Lösungen zu Lese- und Hörtexten auf Deutsch, Erklärungen weiterhin Englisch — der Lernenden in L1 und im Overview ausdrücklich angekündigt.
+  3. **Resources:** Gegensatz, Folge und Zusammenhang als B1-Gesamttabelle; Redemittel für den Argumentaufbau in fünf Teilen; vierzehn Interferenzfallen; Aussprache von *obwohl*, *trotzdem*, *je … desto* und der Pause vor *dass*.
+- **Reason:** M7 laut `03`, begonnen nach dem Abschluss von M9 gemäß der Nutzer-Reihenfolge (B2 → B1.2 → C1 → C2).
+- **Impact:** B1 umfasst jetzt U01–U07, B1-R1 und das B1 Midpoint. Validiert als V-032. **Der Kurs hat erstmals 0 geplante und 0 defekte Links**, weil die drei Verweise aus dem B1 Midpoint jetzt auf eine existierende Einheit zeigen. Als Nächstes B1-U08 Zusammenleben.
+
