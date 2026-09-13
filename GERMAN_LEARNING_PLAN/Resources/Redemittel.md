@@ -752,3 +752,46 @@ Taught in [B2-U04](../B2/B2-U04_Medien_und_Oeffentlichkeit/L3_Wem_kann_man_glaub
 
 > Die wirksamste Formel: **die Quelle ernst nehmen, die Schlussfolgerung angreifen.** *Die Zahl stimmt. Was daraus gefolgert wird, halte ich für nicht haltbar.*
 
+## B2: Negotiating and talking about money
+
+Taught in [B2-U05](../B2/B2-U05_Wirtschaft_und_Konsum/L3_Der_Preis_und_der_Wert.md).
+
+**Die fünf Phasen**
+
+| Phase | Redemittel |
+|---|---|
+| 1 Rahmen | *Lassen Sie uns über … sprechen. · Mir geht es vor allem um …* |
+| 2 Position | *Unsere Vorstellung liegt bei … · Wir kalkulieren mit … · Der Preis liegt bei …* |
+| 3 Interessen erkunden | *Worauf kommt es Ihnen an? · Was ist für Sie wichtiger — Preis oder Termin? · Was wäre für Sie eine Lösung?* |
+| 4 Tauschen | *Sofern Sie …, wären wir bereit, … · Wenn wir …, könnten Sie dann …? · Unter der Voraussetzung, dass …* |
+| 5 Abschluss | *Halten wir fest: … · Ich fasse zusammen: … Passt das so? · Dann bestätige ich Ihnen das schriftlich bis …* |
+
+> **Regel für Phase 4:** kein Zugeständnis ohne Gegenleistung.
+
+**Ablehnen in fünf Stärken**
+
+| Stärke | Formulierung |
+|---|---|
+| weich | *Das müsste ich mir noch überlegen.* |
+| klar | *In dieser Form kann ich nicht zustimmen.* |
+| begründet | *Das liegt deutlich über unserem Budget; das bekomme ich intern nicht begründet.* |
+| mit Angebot | *So wie es zugeschnitten ist, nicht. Denkbar wäre für mich …* |
+| endgültig | *Das kommt für uns nicht in Frage. · Da sehe ich keinen Spielraum.* |
+
+**Zeit gewinnen:** *Das muss ich intern abstimmen. · Lassen Sie mich das durchrechnen. · Ich melde mich bis Freitag.*
+
+**Über Geld sprechen**
+
+| ❌ schwach | ✅ sachlich |
+|---|---|
+| *Tut mir leid, aber das kostet leider …* | *Der Preis liegt bei …* |
+| *Ich weiß, das ist viel, aber …* | *(Preis nennen — dann schweigen.)* |
+| *Ginge da noch was?* | *Bei welcher Menge wäre ein anderer Preis möglich?* |
+| *Wir sind eigentlich zu teuer …* | *Wir sind nicht der günstigste Anbieter. Der Unterschied liegt in …* |
+
+**Preis, Kosten, Wert**
+
+*der Preis* (was verlangt wird) · *die Kosten* (was es insgesamt kostet) · *die Folgekosten* (Wartung, Betrieb, Schulung) · *der Wert* (was es bringt) · *der Aufpreis* · *der Rabatt* · *das Skonto* (bei schneller Zahlung) · *das Preis-Leistungs-Verhältnis* · *sich rechnen / sich lohnen* · *sich etwas leisten können*
+
+> ⚠️ ***günstig*** = guter Preis für die Leistung · ***billig*** ⚖ ist meist abwertend. *Preise* sind **hoch**, *Waren* sind **teuer**.
+

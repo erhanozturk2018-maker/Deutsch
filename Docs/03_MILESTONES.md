@@ -359,6 +359,20 @@
 
 ---
 
+> ### Reihenfolge der verbleibenden Milestones (Nutzerentscheidung, 2026-09-13)
+>
+> Auf ausdrücklichen Wunsch des Nutzers gilt ab jetzt diese Reihenfolge:
+>
+> | Rang | Milestone | Inhalt |
+> |---|---|---|
+> | 1 | **M9** | B2 vollständig (U01–U12, R1–R3, Midpoint, Exit) |
+> | 2 | **M7** | B1.2 fertigstellen (B1-U07–U12, B1-R2, B1-R3, B1 Exit) |
+> | 3 | **M8** | Audit des A1–B1-Kerns (`check_links --strict`) |
+> | 4 | **M10** | C1 |
+> | 5 | **M11** | C2 |
+>
+> Begründung des Nutzers: B2 zuerst zu Ende bringen, dann die Lücke in B1 schließen, danach die oberen Stufen. Die Sequenzabweichung gegenüber der ursprünglichen Planung (M7 vor M9) ist damit bestätigt und nicht mehr provisorisch.
+
 ## M9 — B2
 
 - **Objective:** Build the B2 stage (*Arguing Precisely, Understanding Everything*).

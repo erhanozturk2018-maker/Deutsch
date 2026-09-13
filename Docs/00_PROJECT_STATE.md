@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-12. Session 6: M6 (B1.1) complete (V-015). **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-13. Session 7: M9 WP3 laeuft — B2-U05 gebaut (V-022); Reihenfolge B2 → M7 → M10 → M11 festgelegt. **Update at every milestone or batch boundary.**
 
 ---
 
@@ -14,11 +14,12 @@ Architecture:       Approved — v2.0 (2026-09-13: CP-003, scope extended to A1 
 Lesson standard:    04_LESSON_STANDARDS v1.3 (A1/A2 pilot-validated; B1 A7.1 aus V-012; B2+ A7.2 einsprachig Deutsch, V-018)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M11 added by CP-003
 Current Phase:      Curriculum Construction
-Current Milestone:  M6 — B1.1 ✅ COMPLETE (2026-09-12, V-015)
-Status:             BETWEEN MILESTONES
-Current batch:      M9 WP3 (WP2 abgeschlossen: U02-U04 + R1; V-019 bis V-021). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
-Next task:          M9 WP3: **B2-U05 Wirtschaft & Konsum** (Konditional- und Konzessivsätze, auch ohne *wenn*), dann **B2-U06 Wissenschaft & Forschung** (subjektive Modalverben), **B2-U07 Recht & Regeln** (Genitivpräpositionen, Passiv im Nebensatz), **B2-U08 Gesundheit & Psyche** (Futur I/II als Vermutung), **B2-R2** und das **B2 Midpoint**. Danach WP4 (U09-U12, R3, B2 Exit). Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2)
-Last completed:     M9 WP2 abgeschlossen — B2-U04 + B2-R1 (2026-09-13, V-021)
+Current Milestone:  M9 — B2 ▶ IN PROGRESS (WP3). Zuletzt abgeschlossen: M6 B1.1 ✅ (2026-09-12, V-015)
+Status:             IN PROGRESS
+Current batch:      M9 WP3 (U05 gebaut, V-022). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          M9 WP3: **B2-U06 Wissenschaft & Forschung** (subjektive Modalverben), **B2-U07 Recht & Regeln** (Genitivpräpositionen, Passiv im Nebensatz), **B2-U08 Gesundheit & Psyche** (Futur I/II als Vermutung), **B2-R2** und das **B2 Midpoint**. Danach WP4 (U09-U12, R3, B2 Exit). Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2)
+Last completed:     M9 WP3 (Teil 1) — B2-U05 Wirtschaft & Konsum (2026-09-13, V-022)
+Build order:        **B2 (M9) → B1.2 (M7) → C1 (M10) → C2 (M11)**; M8 (Audit A1-B1) nach M7. Nutzerentscheidung 2026-09-13.
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)
 ```

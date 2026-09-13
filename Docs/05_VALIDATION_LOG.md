@@ -872,3 +872,32 @@
 - **Result:** **PASS WITH NOTES** — **M9 WP2 abgeschlossen** (U02, U03, U04, R1). B2 hat vier Einheiten und eine Wiederholung.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-022 — M9 WP3 (Teil 1): B2-U05 Wirtschaft & Konsum
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U05_Wirtschaft_und_Konsum/` (5 Dateien), die B2-U05-Abschnitte in `Resources/Grammar_Tables.md` und `Resources/Redemittel.md`, `Resources/Anki/B2.tsv`, `B2/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2 (einsprachig Deutsch ab B2); Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (Aushandeln, Argumentieren, Einräumen).
+- **Method:**
+  - `check_structure.py` → **166 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U05` → **31 ★, 0 unter 3** (nach Nachbesserung bei *in Frage kommen*)
+  - `check_links.py` → **2190 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **281 Karten** (U01–U05)
+  - vollständige Wiederlesung; jede Bedingungsform gegen ihre *wenn*-Entsprechung rückgeprüft, jede konzessive Form gegen die Wortstellungsregel
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: `00_Overview_und_Wortschatz.md` + L1–L3 (je ~90 min, 8–9 nummerierte Aktivitäten mit Zeitangabe) + `L4_Anwenden.md` (Integration, ~95 min). Karteikartentabellen in allen vier Lektionen.
+  2. `PED`, PASS. Die Einheit ist als **Paar** gebaut: L1 gibt die Bedingung, L2 die Einräumung — zusammen sind das die beiden Bewegungen jeder Verhandlung, die L3 dann als Fünf-Phasen-Modell operationalisiert und L4 in einer Aufgabe mit Zielkonflikt zusammenführt.
+  3. `PED`, PASS. L2 trennt ausdrücklich das **echte Einräumen** (etwas Konkretes zugeben) vom rhetorischen *zwar … aber*, das nichts zugibt. Das ist der Punkt, an dem B2-Lernende sonst hängen bleiben.
+  4. `LNG`, PASS. Die Registerübersicht zu *wenn / falls / sofern / soweit* nennt für jede Form eine Nuance statt sie als Synonyme zu behandeln; *es sei denn* ist korrekt mit **Hauptsatzstellung** dargestellt.
+  5. `CEF`, PASS. Lesetext „Die Armutsprämie" 480 Wörter; drei Stimmen je 120–150 Wörter als Hörvorlage; Schreibaufgabe (Leserbrief) 250–300 Wörter; Vereinbarung 6–8 Sätze. Passend zu B2.2.
+  6. `SPK`, PASS. **Story Bank Task 6 auf B2** („Etwas planen") ist bewusst mit **Zielkonflikt** angesetzt — der Unterschied zur B1-Aufnahme ist damit hörbar: Plan → Abwägung.
+  7. `VOC`, **Minor (behoben):** *in Frage kommen* erreichte nur ein Vorkommen, weil alle Varianten typografisch aufgeteilt waren (`**kommt** … **in Frage**`) und die Prüfung auf die zusammenhängende Kleinschreibung testet. Behoben durch einen echten Erklärkasten in L3 (Bedeutung, Verneinungstendenz, Schreibung *in Frage / infrage*) und eine zusätzliche Reflexionsfrage in L4. Danach 0 unter 3.
+  8. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene.
+  9. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min, konsistent mit U01–U04.
+- **Required changes:** Keine offen.
+- **Resolution:** Der `VOC`-Punkt wurde vor dem Commit behoben; die Nachbesserung ist inhaltlich (Erklärung + Aufgabe), nicht kosmetisch.
+- **Result:** **PASS WITH NOTES** — B2-U05 ist Teil des Kurses. M9 WP3 läuft weiter mit U06.
+- **Approval status:** – (autonomous mode)
+

@@ -939,3 +939,44 @@ Taught in [B2-U04](../B2/B2-U04_Medien_und_Oeffentlichkeit/L1_Das_laesst_sich_be
 - Das ***es*** des unpersönlichen Passivs steht nur in **Position 1**: *Darauf **wird hingewiesen**, dass …*
 - Die Probe für jede Ersatzform: **ins echte Passiv zurückübersetzen**.
 
+## B2: Conditional and concessive clauses
+
+Taught in [B2-U05](../B2/B2-U05_Wirtschaft_und_Konsum/L1_Sollte_es_dazu_kommen.md).
+
+**Die Bedingung**
+
+| Form | Beispiel | Register / Nuance |
+|---|---|---|
+| **wenn** | *Wenn die Bestellung eingeht, liefern wir.* | neutral, auch wiederholt |
+| **falls** | *Falls Sie Fragen haben, …* | einmalig, eher unsicher |
+| **sofern** | *Der Preis gilt, sofern die Bestellung eingeht.* | formell, **einschränkend** |
+| **soweit** | *Soweit gesetzlich zulässig, …* | juristisch |
+| **ohne *wenn*** (Verb Position 1) | ***Sollten** Sie Interesse haben, …* · ***Wäre** das der Fall, …* · ***Hätte** ich das gewusst, …* | schriftlich, höflich |
+| **es sei denn(, dass)** | *…, es sei denn, das Material **ist** nicht verfügbar.* | Ausnahme; **Hauptsatzstellung** |
+| **sofern nicht · außer wenn** | – | Ausnahme |
+| **andernfalls · ansonsten · sonst** | *Zahlen Sie bis Freitag; andernfalls …* | Folge |
+| **Nominalbedingung** | *bei Nichtzahlung · im Falle einer Verzögerung · bei Bedarf · vorbehaltlich Ihrer Zustimmung* | formell |
+| **feste Einleitungen** | *unter der Voraussetzung, dass … · vorausgesetzt, dass … · angenommen, dass … · gesetzt den Fall, dass …* | – |
+
+| Typ | Form | Beispiel |
+|---|---|---|
+| real | Indikativ | *Wenn die Bestellung eingeht, liefern wir.* |
+| vorsichtig real | *sollte* | *Sollte die Bestellung eingehen, …* |
+| irreal (Gegenwart) | Konjunktiv II | *Wenn sie einginge, würden wir liefern.* |
+| irreal (Vergangenheit) | *hätte/wäre* + Part. II | *Wäre sie eingegangen, hätten wir geliefert.* |
+
+**Die Einräumung**
+
+| Bauform | Wörter | Wortstellung | Beispiel |
+|---|---|---|---|
+| Konjunktion | *obwohl · obgleich · wenngleich · auch wenn · selbst wenn · wobei* | Verb am **Ende** | *Obwohl die Rate gesunken **ist**, …* |
+| Adverb | *trotzdem · dennoch · gleichwohl · nichtsdestotrotz · allerdings · jedoch* | Verb **direkt danach** | *…; **trotzdem bleiben** die Preise hoch.* |
+| Präposition | *trotz · ungeachtet* (+ G) · *entgegen* (+ D) | – | *Trotz der gesunkenen Rate …* |
+| Paar | *zwar … aber / doch / dennoch* | Pos. 1 + Pos. 0 | *Zwar ist sie gesunken, aber …* |
+| gehoben | *so + Adjektiv + … + auch (+ sein mag)* | – | *So berechtigt die Kritik auch ist, …* |
+
+- ***obwohl*** setzt die Tatsache voraus; ***auch wenn*** und ***selbst wenn*** lassen offen, ob sie zutrifft.
+- **Nie zwei Konjunktionen:** *~~Obwohl es teuer ist, aber ich kaufe es~~*.
+- *trotzdem* besetzt **Position 1** — das Verb folgt sofort.
+- *allerdings* und *jedoch* **schränken ein**, sie widersprechen nicht.
+

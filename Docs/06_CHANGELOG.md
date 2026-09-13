@@ -511,3 +511,16 @@
 - **Reason:** M9 WP2 laut `03`; Nutzerauftrag, B2 fortlaufend ohne Rückfrage zu bauen (2026-09-13).
 - **Impact:** **M9 WP2 abgeschlossen.** B2 umfasst jetzt U01–U04 und R1. Validiert als V-021. Als Nächstes WP3: U05–U08, R2, B2 Midpoint.
 
+## [022] 2026-09-13 — M9 WP3 (Teil 1): B2-U05 Wirtschaft & Konsum + Reihenfolge der Milestones
+
+- **Milestone:** M9, WP3 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U05_Wirtschaft_und_Konsum/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Conditional and concessive clauses), `Resources/Redemittel.md` (B2: Negotiating and talking about money), `Anki/B2.tsv` (281 Karten), `B2/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **B2-U05 Wirtschaft & Konsum:** L1 *Sollte es dazu kommen* (*wenn / falls / sofern / soweit*, Bedingung ohne *wenn* mit Verb auf Position 1, *es sei denn*, Nominalbedingungen wie *bei Nichtzahlung*) · L2 *So berechtigt die Kritik auch ist* (konzessive Konjunktionen, Adverbien, Präpositionen, *zwar … aber*, *so + Adjektiv + auch*, echtes vs. rhetorisches Einräumen) · L3 *Der Preis und der Wert* (fünf Verhandlungsphasen, Preis/Kosten/Folgekosten/Wert, Ablehnen in fünf Stärken, *günstig* vs. *billig*) · L4 *Anwenden* (Verhandlung + schriftliche Vereinbarung, Story Bank Task 6 auf B2 mit Zielkonflikt, Artikel „Die Armutsprämie", drei Stimmen als Hörvorlage, Leserbrief, Test).
+  2. **Resources:** vollständige Bedingungsübersicht (Formen, Register, vier Typen von real bis irreal-Vergangenheit) und Konzessivübersicht (Bauform → Wortstellung); Redemittel für die fünf Verhandlungsphasen, fünf Ablehnungsstärken und das Sprechen über Geld.
+  3. **Reihenfolge festgeschrieben** (Nutzerentscheidung 2026-09-13): **M9 (B2) → M7 (B1.2) → M8 (Audit) → M10 (C1) → M11 (C2)**. In `03` als Tabelle vor M9 eingetragen, in `00` als `Build order` im Statusblock.
+- **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen und danach B1 zu Ende zu führen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U05 und R1. Validiert als V-022. Als Nächstes B2-U06 Wissenschaft & Forschung (subjektive Modalverben).
+
