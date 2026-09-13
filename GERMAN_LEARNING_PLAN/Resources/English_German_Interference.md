@@ -411,3 +411,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | I'm worried. | *Ich mache mir Sorge.* | **Ich mache mir Sorgen.** | feste Wendung im Plural |
 | I'll accompany you. | *Ich begleite dich mit.* | **Ich begleite dich.** | *begleiten* ist nicht trennbar |
 
+## B2-U09: Vergleichen und über Werke sprechen
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| bigger than me | *größer wie ich* ⚖ | **größer als ich** | nach Komparativ: *als* |
+| as if he knew | *als ob er weiß* | **als ob er wüsste** | Konjunktiv II nach *als ob* |
+| as if he were tired (short form) | *als er wäre müde* | **als wäre er müde** | nach *als* steht das Verb sofort |
+| It seems to me … | *Mir kommt vor, …* | **Mir kommt es vor, …** | unpersönliches *es* |
+| the more …, the more … | *je mehr, je mehr* ⚖ | **je mehr …, desto/umso mehr …** | zweites Glied: *desto* / *umso* |
+| The film is about … | *Der Film handelt über …* | **Der Film handelt von …** | *handeln von* + Dativ |
+| It's about friendship. | *Es geht über Freundschaft.* | **Es geht um Freundschaft.** | *es geht um* + Akkusativ |
+| the story (plot) | *die Geschichte des Films* ⚖ | **die Handlung** | *Geschichte* heißt auch *history* |
+| the director did well | *die Regie hat gut gespielt* | **die Hauptdarstellerin hat gut gespielt** | *Regie* ≠ Schauspiel |
+| I liked the film. | *Ich habe den Film gefallen.* | **Der Film hat mir gefallen.** | *gefallen* + Dativ, Werk ist Subjekt |
+| It reminds me of early works. | *Es erinnert an frühen Werken.* | **Es erinnert an frühe Werke.** | *erinnern an* + Akkusativ |
+| It rose to twelve per cent. (difference meant) | *um* ↔ *auf* verwechselt | **um zwölf Prozent gestiegen** | *um* = Differenz, *auf* = Endstand |
+| boring | *langweilend* | **langweilig** | Adjektiv, kein Partizip |
+

@@ -1120,3 +1120,72 @@ German normally expresses the future with the **present tense** (*Morgen fahre i
 
 > ⚠️ ***werden*** ohne Infinitiv heißt **become**: *Ich werde müde.* Und englisch *I will call* ist ***Ich rufe an*** / ***Ich werde anrufen***, nie *~~Ich will anrufen~~*.
 
+## B2: Comparison, real and irreal
+
+Taught in [B2-U09](../B2/B2-U09_Kunst_und_Kultur/L1_Als_ob_nichts_gewesen_waere.md) (irreal) and [L2](../B2/B2-U09_Kunst_und_Kultur/L2_Je_genauer_desto_besser.md) (real).
+
+**Der irreale Vergleich**
+
+| Bauform | Wortstellung | Beispiel |
+|---|---|---|
+| **als ob** + Konj. II | Verb **am Ende** | *Er tut so, **als ob** er alles **wüsste**.* |
+| **als wenn** + Konj. II ⚖ | Verb am Ende | *Es klingt, **als wenn** da jemand **wäre**.* |
+| **als** + Konj. II ⬆ | Verb **direkt nach *als*** | *Er tut so, **als wüsste** er alles.* |
+
+| Zeitverhältnis | Form | Beispiel |
+|---|---|---|
+| gleichzeitig | Konj. II Gegenwart | *…, als ob er **schliefe** / **schlafen würde**.* |
+| vorzeitig | *hätte / wäre* + Part. II | *…, als ob er **geschlafen hätte**.* |
+| nachzeitig | *würde* + Infinitiv | *…, als ob es gleich **losgehen würde**.* |
+
+- **Einleitende Verben:** *aussehen · wirken · klingen · scheinen · sich anfühlen · vorkommen* (+ D) · *tun*.
+- *vorkommen* und *scheinen* sind **unpersönlich**: *Mir kommt **es** vor, als ob … · **Es** scheint, als ob …*
+- ***Es wirkt, als ob*** = Eindruck · ***Er tut so, als ob*** = unterstellte **Absicht**.
+- Der Indikativ nach *als ob* kommt vor, gilt aber als umgangssprachlich. Geschrieben: **Konjunktiv II**.
+- Feste Wendung: *…, als wäre nichts gewesen.*
+
+**wie ↔ als ↔ als ob**
+
+| Form | Bedeutung | Beispiel |
+|---|---|---|
+| **wie** | realer Vergleich (Gleichheit) | *Sie singt **wie** ihre Mutter.* |
+| **als** | Ungleichheit, nach Komparativ | *Sie singt besser **als** ihre Mutter.* |
+| **als ob** + Konj. II | irrealer Vergleich | *Sie singt, **als ob** sie nie etwas anderes **getan hätte**.* |
+
+**Der reale Vergleich**
+
+| Form | Beispiel |
+|---|---|
+| **so … wie · genauso … wie · ebenso … wie** ⬆ | *so lang wie der erste Teil* |
+| **nicht so … wie · bei weitem nicht so … wie** | *bei weitem nicht so dicht wie* |
+| **doppelt / halb / fast so … wie** | *doppelt so lang wie* |
+| Komparativ + **als** | *länger als der erste* |
+| **immer** + Komparativ | *Die Stücke werden **immer kürzer**.* |
+
+**Unregelmäßig:** *gut → besser → am besten · viel → mehr → am meisten · gern → lieber → am liebsten · hoch → höher → am höchsten · nah → näher → am nächsten*.
+
+**je … desto / umso**
+
+| Teil | Bau | Beispiel |
+|---|---|---|
+| **je** + Komparativ | **Nebensatz**, Verb am Ende | *Je länger der Abend **dauerte**, …* |
+| **desto / umso** + Komparativ | **Hauptsatz**, Verb **direkt danach** | *… desto klarer **wurde** es.* |
+
+- Der *je*-Teil steht immer zuerst; *umso* ist etwas gehobener als *desto*.
+- ***umso*** kann allein stehen und rückwirkend verstärken: *Das lenkt den Blick **umso stärker** auf …*
+- Verwandt: *je nachdem, ob / wie*.
+
+**Unterschiede abstufen**
+
+| Stärke | Wörter |
+|---|---|
+| sehr groß | *weit · bei weitem · erheblich · wesentlich* |
+| groß | *deutlich · merklich · spürbar* |
+| mittel | *etwas · ein wenig* |
+| klein | *kaum · unwesentlich · geringfügig* |
+| exakt | ***um*** + Zahl (*um zwölf Prozent höher*) |
+
+**Vergleichsausdrücke der Schriftsprache:** *im Vergleich zu* (+ D) · *verglichen mit* (+ D) · *gegenüber* (+ D) · *im Gegensatz zu* (+ D) · *ähnlich wie · anders als · vergleichbar mit* (+ D) · *erinnern an* (+ A).
+
+> ⚠️ Nach dem Komparativ steht **als**, nie *wie* ⚖ — und nie beides (*~~als wie~~*). ***um*** = Differenz, ***auf*** = Endstand. ***im Vergleich zu*** stellt nebeneinander, ***im Gegensatz zu*** behauptet einen Widerspruch.
+

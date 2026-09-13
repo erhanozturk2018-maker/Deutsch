@@ -1022,3 +1022,33 @@
 - **Result:** **PASS** — **M9 WP3 abgeschlossen.** Die erste Hälfte von B2 (U01–U08, R1, R2, Midpoint) ist vollständig. Als Nächstes WP4: U09–U12, B2-R3, B2 Exit.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-027 — M9 WP4 (Teil 1): B2-U09 Kunst & Kultur
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U09_Kunst_und_Kultur/` (5 Dateien), die B2-U09-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 6 konsolidiert und erweitert).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (Filme und Literatur besprechen, Standpunkt begründen, Vor- und Nachteile abwägen).
+- **Method:**
+  - `check_structure.py` → **188 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U09` → **42 ★, 0 unter 3** (nach Nachbesserung bei *vorkommen*)
+  - `check_links.py` → **2403 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **471 Karten** (U01–U09)
+  - vollständige Wiederlesung; jede Konjunktiv-II-Form gegen ihre Zeitstufe geprüft, jede Vergleichsform gegen *wie* / *als*
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~95 min).
+  2. `PED`, PASS. Die Einheit ist um **eine Trennlinie** gebaut: Tatsache ↔ Eindruck. L1 gibt die Form dafür (*als ob* + Konjunktiv II), L2 das Maß (Vergleiche und Abstufungen), L3 die Anwendung (Beschreiben vor Bewerten, Beleg zu jedem Urteil). Jede der drei Lektionen hat eine Aufgabe, die diese Linie ausdrücklich zieht.
+  3. `PED`, PASS. Die Unterscheidung ***Es wirkt, als ob*** (Eindruck) ↔ ***Er tut so, als ob*** (unterstellte Absicht) ist der ethisch relevante Punkt der Einheit und wird dreimal aufgegriffen: in L1 als Grammatik, in L3 als Kritikregel („Kritik gilt dem Werk, nicht den Menschen“) und in L4 als Kriterium der Schreibaufgabe.
+  4. `LNG`, PASS. Beide Wortstellungen nach *als ob* / *als* sind korrekt und als Registerunterschied dargestellt; die drei Zeitstufen sind vollständig. Der häufige Muttersprachlerfehler *größer wie* ist als ⚖ markiert, nicht als Norm.
+  5. `CEF`, PASS. Lesetext „Vier Sterne und kein Grund“ 390 Wörter mit einer Argumentation, die auf B2-U06 zurückgreift (Selbstauswahl der Stichprobe); drei Hörtexte je 110–150 Wörter; Schreibaufgabe 250–300 Wörter in fünf Abschnitten.
+  6. `SPK`, **Abweichung, bewusst und dokumentiert.** Die acht Story-Bank-Aufgaben sind auf B2 mit U01–U08 vollständig durchlaufen. Statt eine Aufgabe zu wiederholen, tritt ab U09 ein anderes 4/3/2-Format an ihre Stelle: die **Rezension** (`StageB2_Rezension`). Der Unterschied ist im Overview und in L4 ausdrücklich begründet — Sprechen über eine Sache statt über das eigene Leben — und die Aufnahme geht in dieselbe Sammlung, bleibt also als Vergleichsstück für das B2 Exit erhalten. Dasselbe Muster war in B1 vorgesehen, wo U09–U12 ebenfalls keine Story-Bank-Aufgabe tragen.
+  7. `VOC`, **Minor (behoben):** *vorkommen* erreichte nur zwei Vorkommen. Behoben durch einen inhaltlich notwendigen Kasten zu den **unpersönlichen** Verben (*Mir kommt **es** vor* … · *Es scheint* …) samt Hinweis auf die Trennbarkeit — eine Erklärung, die ohnehin gefehlt hat. Danach 0 unter 3. *vortäuschen*, *scheinen*, *die Einsamkeit* und *der Dokumentarfilm* wurden beim Entwurf in die Verstehen-Liste verschoben, weil sie die Schwelle nicht erreichen.
+  8. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene (1–4 → L1, 5–7 → L2, 8–10 → L3).
+  9. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min, konsistent mit U01–U08.
+  10. `DEP`, PASS. Der B2-Recap § 6 enthält jetzt die geprüfte Fassung des irrealen Vergleichs aus U09 und einen neuen Unterabschnitt zum realen Vergleich mit *je … desto*; die Statuszeile nennt U01–U09.
+- **Required changes:** Keine offen.
+- **Resolution:** Der `VOC`-Punkt wurde vor dem Commit behoben; die `SPK`-Abweichung ist als Entscheidung dokumentiert, nicht als Versäumnis.
+- **Result:** **PASS WITH NOTES** — B2-U09 ist Teil des Kurses. M9 WP4 läuft weiter mit U10.
+- **Approval status:** – (autonomous mode)
+

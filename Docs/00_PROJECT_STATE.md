@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-13. Session 7: **M9 WP3 abgeschlossen** — B2-U05 bis U08, B2-R2 und B2 Midpoint (V-022 bis V-026). **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-13. Session 7: M9 WP4 laeuft — B2-U09 gebaut (V-027); WP3 abgeschlossen (V-022 bis V-026). **Update at every milestone or batch boundary.**
 
 ---
 
@@ -16,9 +16,9 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M
 Current Phase:      Curriculum Construction
 Current Milestone:  M9 — B2 ▶ IN PROGRESS (WP4; WP1-WP3 abgeschlossen). Zuletzt abgeschlossen: M6 B1.1 ✅ (2026-09-12, V-015)
 Status:             IN PROGRESS
-Current batch:      M9 WP4 (WP3 abgeschlossen: U05-U08 + R2 + Midpoint; V-022 bis V-026). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
-Next task:          M9 WP4: **B2-U09 Kunst & Kultur** (Vergleichssätze, *als ob* + Konjunktiv II), dann **B2-U10 Migration & Zusammenleben** (*indem, sofern, ohne dass, anstatt dass*), **B2-U11 Technik & Digitalisierung** (Adjektiv + Präposition), **B2-U12 Debatte & Verhandlung** (Modalpartikeln, Wortstellung zur Betonung), **B2-R3** und das **B2 Exit**. Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2)
-Last completed:     **M9 WP3 abgeschlossen** — B2-R2 + B2 Midpoint Checkpoint (2026-09-13, V-026)
+Current batch:      M9 WP4 (U09 gebaut, V-027). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          M9 WP4: **B2-U10 Migration & Zusammenleben** (*indem, sofern, ohne dass, anstatt dass*), **B2-U11 Technik & Digitalisierung** (Adjektiv + Präposition), **B2-U12 Debatte & Verhandlung** (Modalpartikeln, Wortstellung zur Betonung), **B2-R3** und das **B2 Exit**. Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2)
+Last completed:     M9 WP4 (Teil 1) — B2-U09 Kunst & Kultur (2026-09-13, V-027)
 Build order:        **B2 (M9) → B1.2 (M7) → C1 (M10) → C2 (M11)**; M8 (Audit A1-B1) nach M7. Nutzerentscheidung 2026-09-13.
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)

@@ -578,3 +578,17 @@
 - **Reason:** Abschluss von M9 WP3 laut `03`.
 - **Impact:** **M9 WP3 abgeschlossen.** Die erste Hälfte von B2 ist vollständig: U01–U08, R1, R2 und das Midpoint. Validiert als V-026. Als Nächstes WP4: **B2-U09 Kunst & Kultur**, U10–U12, B2-R3 und das B2 Exit.
 
+## [027] 2026-09-13 — M9 WP4 (Teil 1): B2-U09 Kunst & Kultur
+
+- **Milestone:** M9, WP4 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U09_Kunst_und_Kultur/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Comparison, real and irreal), `Resources/Redemittel.md` (B2: Talking about works and criticism), `Resources/English_German_Interference.md` (B2-U09), `Resources/Pronunciation_Guide.md` (B2-U09), `Anki/B2.tsv` (471 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U09 Kunst & Kultur:** L1 *Als ob nichts gewesen wäre* (irrealer Vergleich mit *als ob / als wenn / als*, beide Wortstellungen, drei Zeitstufen, einleitende Verben inkl. der unpersönlichen, *so tun, als ob* als unterstellte Absicht, *wie* ↔ *als* ↔ *als ob*) · L2 *Je genauer, desto besser* (Vergleichspartikeln, *je … desto/umso* mit ihrer Wortstellung, Unterschiede abstufen von *bei weitem* bis *kaum*, exakte Differenz mit *um*, *immer* + Komparativ, schriftsprachliche Vergleichsausdrücke) · L3 *Worüber man bei einem Film spricht* (Werk beschreiben, Wirkung benennen, die vier Fragen einer Kritik, Geschmack ↔ Urteil, empfehlen und abraten ohne zu verraten) · L4 *Anwenden* (dieselbe Rezension als Entscheidungshilfe und als Kennergespräch, 4/3/2-Rezension, Artikel „Vier Sterne und kein Grund“, drei Stimmen über Kritik, geschriebene Rezension, Test).
+  2. **Resources:** realer und irrealer Vergleich als Gesamttabelle inkl. *je … desto* und Abstufungsskala; Redemittel für Beschreiben, Wirkung, die vier Kritikfragen, Geschmack ↔ Urteil und Empfehlungen; dreizehn Interferenzfallen; Aussprache von Konjunktiv-Umlauten, Komparativen und Kulturfremdwörtern.
+  3. **B2-Recap konsolidiert:** § 6 enthält die geprüfte Fassung des irrealen Vergleichs und einen neuen Unterabschnitt zum realen Vergleich; Statuszeile U01–U09.
+  4. **Story-Bank-Entscheidung:** Die acht Aufgaben sind auf B2 durchlaufen; ab U09 tritt die **Rezension** als 4/3/2-Format an ihre Stelle (`StageB2_Rezension`), begründet im Overview und in L4.
+- **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U09, R1, R2 und das Midpoint. Validiert als V-027. Als Nächstes **B2-U10 Migration & Zusammenleben** (*indem, sofern, ohne dass, anstatt dass*).
+

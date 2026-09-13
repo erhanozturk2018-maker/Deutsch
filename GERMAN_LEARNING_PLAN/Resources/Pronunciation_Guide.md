@@ -343,3 +343,36 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - *Was würde **DIR** helfen?* — der Akzent auf *dir* ist der ganze Unterschied zwischen Frage und Ratschlag.
 - Bei Grenzen bleibt die Stimme ruhig und tief, ohne Entschuldigungsmelodie am Ende: *Ich habe Zeit bis halb sieben.*
 
+## B2-U09: Komparative, Konjunktiv-Umlaute und Kulturwörter
+
+**Die Umlaute tragen die Bedeutung**
+
+| Paar | Unterschied |
+|---|---|
+| *wusste* ↔ *wüsste* | Indikativ ↔ Konjunktiv II |
+| *hatte* ↔ *hätte* | Indikativ ↔ Konjunktiv II |
+| *war* ↔ *wäre* | Indikativ ↔ Konjunktiv II |
+| *lang* ↔ *länger* | Positiv ↔ Komparativ |
+
+Ohne hörbaren Umlaut kippt der irreale Vergleich in eine Behauptung. Üben Sie die Paare direkt hintereinander.
+
+**Komparativ und Superlativ**
+
+- Die Endung ***-er*** wird am Wortende zum a-Laut: *länger* = *LÄNG-a*, *besser* = *BESS-a*. Ein deutliches *r* klingt fremd.
+- Superlativ: Akzent **vor** der Endung — *am **LÄNG**sten*, *am **BES**ten*.
+- ***je … desto*** trägt **zwei** Akzente, je einen auf dem Komparativ, mit Pause dazwischen: *Je **LÄN**ger der Abend dauerte, | desto **KLA**rer wurde es.*
+- ***als ob*** verschmilzt zu *als'ob*; der Akzent liegt auf dem Vollverb am Ende: *als ob nichts ge**WE**sen wäre*.
+
+**Kulturwörter**
+
+| Wort | Sprechweise |
+|---|---|
+| die Regie | *re-**ZHIE*** — weiches *g* wie in *Journal*, *Etage* |
+| das Genre | ungefähr *ZHAN-re*, nasal beginnend |
+| der Regisseur | *re-zhi-**SÖR*** |
+| die Inszenierung | *ins-tse-**NIE**-rung* |
+| die Perspektive | *per-**SPEK**-ti-ve* |
+| die Dramaturgie | *dra-ma-tur-**GIE*** |
+
+Deutsche Komposita betonen dagegen vorn: ***HAND**lung* · ***HAUPT**figur* · ***DREH**buch* · ***SCHNITT***. Fremdwort und Kompositum im selben Satz sicher zu betonen ist das eigentliche Kennzeichen von B2.
+

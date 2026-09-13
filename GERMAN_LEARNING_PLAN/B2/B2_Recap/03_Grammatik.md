@@ -235,10 +235,41 @@ German normally expresses the future with the **present** (*Morgen fahre ich nac
 
 ### Irrealer Vergleich: *als ob / als wenn / als*
 
-*Er tut, **als ob** er alles **wüsste**. · Er tut, **als wüsste** er alles.* (after bare *als*: **verb second**)
-Always **Konjunktiv II**.
+*Aus [B2-U09](../B2-U09_Kunst_und_Kultur/L1_Als_ob_nichts_gewesen_waere.md) konsolidiert.*
 
----
+| Bauform | Wortstellung | Beispiel |
+|---|---|---|
+| **als ob** + Konj. II | Verb **am Ende** | *Er tut so, **als ob** er alles **wüsste**.* |
+| **als wenn** + Konj. II ⚖ | Verb am Ende | *Es klingt, **als wenn** da jemand **wäre**.* |
+| **als** + Konj. II ⬆ | Verb **direkt nach *als*** | *Er tut so, **als wüsste** er alles.* |
+
+| Zeitverhältnis | Form | Beispiel |
+|---|---|---|
+| gleichzeitig | Konj. II Gegenwart | *…, als ob er **schliefe**.* |
+| vorzeitig | *hätte / wäre* + Part. II | *…, als ob er **geschlafen hätte**.* |
+| nachzeitig | *würde* + Infinitiv | *…, als ob es gleich **losgehen würde**.* |
+
+- Einleitende Verben: *aussehen · wirken · klingen · scheinen · sich anfühlen · vorkommen* (+ D) · *tun*.
+- *vorkommen* und *scheinen* sind **unpersönlich**: *Mir kommt **es** vor, als ob …*
+- ***Es wirkt, als ob*** = Eindruck · ***Er tut so, als ob*** = unterstellte **Absicht**.
+- **wie** = realer Vergleich · **als** (nach Komparativ) = Ungleichheit · **als ob** = irreal. Nie *~~als wie~~*.
+- Feste Wendung: *…, als wäre nichts gewesen.*
+
+### Realer Vergleich und *je … desto*
+
+*Aus [B2-U09 L2](../B2-U09_Kunst_und_Kultur/L2_Je_genauer_desto_besser.md).*
+
+| Form | Beispiel |
+|---|---|
+| **so … wie** · **nicht so … wie** · **doppelt so … wie** | *fast so lang wie der erste Teil* |
+| Komparativ + **als** | *länger als der erste* |
+| **immer** + Komparativ | *Die Stücke werden **immer kürzer**.* |
+| **je** + Komp. (Nebensatz) → **desto/umso** + Komp. (Verb direkt danach) | *Je länger es dauert, desto weniger erklärt es.* |
+
+**Abstufen:** *bei weitem · erheblich · deutlich · merklich · etwas · kaum · geringfügig* + Komparativ; exakt mit ***um*** (*um zwölf Prozent höher*). ***um*** = Differenz, ***auf*** = Endstand.
+
+**Schriftsprachlich:** *im Vergleich zu · verglichen mit · gegenüber · im Gegensatz zu* (alle + D) · *vergleichbar mit* (+ D) · *erinnern an* (+ A).
+
 
 ## 7 · Nominalstil ↔ Verbalstil
 

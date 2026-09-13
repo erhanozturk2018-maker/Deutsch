@@ -971,3 +971,60 @@ Taught in [B2-U08](../B2/B2-U08_Gesundheit_und_Psyche/L2_Mir_geht_es_nicht_gut.m
 
 **Wenn ein Gespräch nicht reicht:** *Ich bleibe dabei. Und ich glaube, das ist mehr, als ich tragen kann. · Soll ich mit dir zusammen nach einer Beratungsstelle suchen? · Willst du, dass ich dich zum Termin begleite? · Ich mache mir Sorgen — geht es dir so schlecht, dass du daran denkst, dir etwas anzutun?* Bei **ja**: ärztlicher Notdienst oder Notrufnummer.
 
+## B2: Talking about works and criticism
+
+Taught in [B2-U09](../B2/B2-U09_Kunst_und_Kultur/L3_Worueber_man_bei_einem_Film_spricht.md).
+
+**1 · Beschreiben, ohne zu bewerten**
+
+| Funktion | Redemittel |
+|---|---|
+| Worum es geht | *Der Film **handelt von** … · Es **geht um** … · Der Roman **erzählt die Geschichte** einer …* |
+| Anfang | *Das Buch **setzt ein mit** … · Der Film **beginnt** mit einer Szene, in der …* |
+| Ort und Zeit | *Die Handlung **spielt in** … · angesiedelt in …* |
+| Perspektive | *erzählt **aus der Perspektive** eines Kindes · in der **Ich-Form** · aus **wechselnden** Perspektiven* |
+| Aufbau | *in drei Teile **gegliedert** · **springt** zwischen zwei Zeitebenen* |
+| Machart | *Die **Kamera** bleibt lange auf … · Der **Schnitt** ist ruhig. · Die **Regie** verzichtet auf …* |
+
+> ⚠️ ***die Handlung*** = plot · ***die Inszenierung*** = staging · ***die Regie*** = direction. Die drei werden am häufigsten verwechselt.
+
+**2 · Wirkung benennen**
+
+| Richtung | Redemittel |
+|---|---|
+| stark | *geht nahe · bleibt hängen · hat mich nicht losgelassen* |
+| aktiv | *packt von der ersten Seite an · zieht einen hinein* |
+| schwach | *lässt mich kalt · hat mich nicht erreicht · die Mitte zieht sich* |
+| überkonstruiert | *wirkt bemüht / überkonstruiert / effekthascherisch* ⬆ |
+| zu deutlich | *erklärt zu viel · die Musik sagt einem, was man fühlen soll* |
+
+**3 · Die vier Fragen einer Kritik**
+
+1. Was will das Werk? (nicht: was wollten die Macher — das wissen Sie nicht)
+2. Gelingt es?
+3. **Woran mache ich das fest?** ← hier stehen die Belege
+4. Für wen ist es?
+
+**4 · Geschmack ↔ Urteil**
+
+| Geschmack | Urteil |
+|---|---|
+| *Mir hat es nicht gefallen.* | *Der Aufbau trägt die Länge nicht.* |
+| *Ich mag keine ruhigen Filme.* | *Der Film nimmt sich Zeit — eine Entscheidung, keine Schwäche.* |
+| *Ich bin nicht die Zielgruppe.* | *Das Buch setzt Wissen voraus, das es nicht liefert.* |
+
+*Mir hat es nicht gefallen, **aber** es ist sorgfältig gemacht. · **Handwerklich** ist das tadellos; mich hat es trotzdem nicht erreicht. · Das liegt vermutlich an mir und nicht am Film.*
+
+**Test:** Kann jemand mit anderem Geschmack dem Satz zustimmen? Dann ist es ein Urteil.
+
+**5 · Empfehlen und abraten**
+
+| Absicht | Redemittel |
+|---|---|
+| empfehlen | *Wenn du X mochtest, wirst du das mögen. · Lohnt sich, wenn man … · eher im Kino als zu Hause* |
+| einschränken | *Man sollte wissen, dass … · Bring Geduld mit. · Die ersten zwanzig Minuten muss man aushalten.* |
+| abraten | *Ich würde es nicht noch einmal sehen. · Man verpasst nichts.* ⚖ |
+| ohne zu verraten | *Ohne zu viel zu verraten: … · Mehr sage ich nicht.* |
+
+> ⚠️ **Kritik gilt dem Werk, nicht den Menschen.** *Der Film erklärt zu viel* ist Kritik. *Die Regisseurin traut ihrem Publikum nichts zu* ist eine Behauptung über eine Person, die Sie nicht kennen.
+
