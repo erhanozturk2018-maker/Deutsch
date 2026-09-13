@@ -1083,3 +1083,34 @@
 - **Result:** **PASS** — B2-U10 ist Teil des Kurses. M9 WP4 läuft weiter mit U11.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-029 — M9 WP4 (Teil 3): B2-U11 Technik & Digitalisierung
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U11_Technik_und_Digitalisierung/` (5 Dateien), die B2-U11-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 8 konsolidiert).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (Probleme darstellen und aushandeln, Anleitungen geben und verstehen, Standpunkt begründen).
+- **Method:**
+  - `check_structure.py` → **198 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U11` → **43 ★, 0 unter 3** (nach Nachbesserung bei *ab|stürzen*)
+  - `check_links.py` → **2495 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **558 Karten** (U01–U11)
+  - vollständige Wiederlesung; **jede** feste Präposition gegen Kasus und Bedeutung geprüft, jedes *da*-Wort gegen die Vokalregel
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~95 min).
+  2. `PED`, PASS. Die Einheit nimmt die letzte große Systembaustelle auf B2 in **drei Wortarten** auseinander: Adjektiv (L1), Verb und Nomen (L2), und macht daraus in L3 eine **Anwendung** — die Fehlermeldung, in der fast alle diese Präpositionen tatsächlich vorkommen. Der Nutzen ist unmittelbar; die Vokabelarbeit hat ein Ziel.
+  3. `PED`, PASS. Die **fünf Angaben** (Ziel, Schritte, Ergebnis, Erwartung, Umgebung) sind das praktische Kernstück: nachstellbar statt gefühlt. Der Rollentausch in L3 (Hotline ↔ jemandem etwas erklären) übt beide Seiten und verbietet ausdrücklich, selbst zum Gerät zu greifen.
+  4. `LNG`, PASS. Kasus sind durchgehend angegeben, *bestehen* in allen **drei** Bedeutungen kontrastiert, die Personen-Ausnahme (*auf wen*, nicht *worauf*) eigens behandelt. Der häufigste B2-Fehler — das **fehlende** *da*-Wort — ist als Regel, als Fehlerzeile und als Übung vertreten.
+  5. `CEF`, PASS. Lesetext „Der Preis der Bequemlichkeit“ 400 Wörter mit drei eigenen Abstufungen; drei Hörtexte je 110–140 Wörter; Schreibaufgabe 250–300 Wörter in fünf Abschnitten, darunter einer, der die Argumente der **Gegenseite** fair wiedergeben muss.
+  6. `PED`/`ETH`, PASS. Der Abschnitt „ohne Hype, ohne Untergang“ behandelt beide Richtungen gleich streng und verlangt Menge, Quelle oder Abstufung. Die Unterscheidung **Werkzeug ↔ Menschen** (*Das System schlägt vor; entschieden wird in der Abteilung*) ist ausdrücklich mit dem Passiv ohne Agens aus B2-U07 verknüpft: Ein handelndes Programm lässt die Verantwortlichen verschwinden. Die Einheit macht keine empirischen Behauptungen über Wirkungen von Technik; der Lesetext markiert seine Befunde als **umstritten** und **nicht verallgemeinerbar**.
+  7. `SPK`, PASS. 4/3/2-Format dieser Einheit: **eine Technik, die meinen Alltag verändert hat** (`StageB2_Technik`), mit der Pflicht zu einer Abstufung statt eines Pauschalurteils und einem Satz über das, was verloren ging.
+  8. `VOC`, **Minor (behoben):** *ab|stürzen* erreichte nur zwei Vorkommen. Behoben in L3 durch eine geänderte Übungsvorgabe und einen ergänzenden Hinweis in der Lösung, wie ein tatsächlicher Absturz gemeldet wird — inhaltlich sinnvoll, weil „abstürzen“ und „Fenster schließt sich“ zwei verschiedene Befunde sind. *teilnehmen an*, *ausgehen von*, *die Voraussetzung für*, *der Anspruch auf* und *der Zugriff auf* wurden beim Entwurf in die Verstehen-Liste verschoben.
+  9. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene (1–4 → L1, 5–8 → L2, 9–10 → L3).
+  10. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min.
+  11. `DEP`, PASS. Der B2-Recap § 8 ist jetzt die geprüfte Gesamtfassung aus U11 (Adjektive, Verben, Nomen, Umformungsregel, *da*/*wo*-Wörter, unpersönliche Wendungen); die Statuszeile nennt U01–U11.
+- **Required changes:** Keine offen.
+- **Resolution:** Der `VOC`-Punkt wurde vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B2-U11 ist Teil des Kurses. Es fehlen **B2-U12**, **B2-R3** und das **B2 Exit**.
+- **Approval status:** – (autonomous mode)
+

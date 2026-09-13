@@ -318,24 +318,44 @@ Bei **zwei Infinitiven** (Ersatzinfinitiv) rückt das gebeugte Verb **vor** die 
 
 ## 8 · Präpositionalgefüge und feste Wendungen
 
-| Wendung | Kasus | Beispiel |
-|---|---|---|
-| **im Hinblick auf** | + A | **Im Hinblick auf** die Kosten … |
-| **in Bezug auf** | + A | – |
-| **hinsichtlich / bezüglich** ⬆ | + G | **Hinsichtlich** der Termine … |
-| **im Rahmen** | + G | **Im Rahmen** des Projekts … |
-| **im Zuge** | + G | **Im Zuge** der Reform … |
-| **angesichts** | + G | **Angesichts** der Lage … |
-| **aufgrund / infolge** | + G | **Infolge** des Unfalls … |
-| **anhand** | + G | **Anhand** der Daten … |
-| **mittels** ⬆ | + G | – |
-| **im Gegensatz zu** | + D | – |
-| **im Vergleich zu** | + D | – |
-| **im Zusammenhang mit** | + D | – |
-| **in der Lage sein zu** | + D | Ich bin nicht **in der Lage**, das zu tun. |
-| **die Absicht haben zu** | – | – |
+*Aus [B2-U11](../B2-U11_Technik_und_Digitalisierung/L1_Abhaengig_wovon.md) und [L2](../B2-U11_Technik_und_Digitalisierung/L2_Es_kommt_darauf_an.md) konsolidiert.*
 
----
+Adjective, verb and noun each carry a **fixed** preposition. Learn the **pair**, never the word alone — it cannot be derived from the meaning and rarely matches English.
+
+**Adjektiv + Präposition**
+
+| Präposition | Kasus | Adjektive |
+|---|---|---|
+| **von** | D | *abhängig · unabhängig · überzeugt · begeistert · enttäuscht · überrascht · betroffen* |
+| **für** | A | *verantwortlich · zuständig · geeignet ↔ ungeeignet · typisch · entscheidend · dankbar* |
+| **auf** | A | *angewiesen · gespannt · stolz · neugierig · vorbereitet* |
+| **an** | D | *interessiert · beteiligt · schuld · reich ↔ arm* |
+| **mit** | D | *einverstanden · zufrieden · verbunden · vergleichbar · beschäftigt* |
+| **über** | A | *informiert · erstaunt · verärgert* |
+| **zu** | D | *bereit · fähig · entschlossen · verpflichtet* |
+| **gegenüber** | D | *skeptisch · aufgeschlossen · kritisch* |
+
+**Verb + Präposition (Auswahl)**
+
+*hinweisen auf · sich beziehen auf · achten auf · verzichten auf · sich verlassen auf · ankommen auf* (es) · *beruhen auf* (+ D) · *teilnehmen an · zweifeln an · liegen an* (es) · *sich wenden an* (+ A) · *sich beschweren über · verfügen über · abhängen von · ausgehen von · sich handeln um* (es) · *sich kümmern um · sorgen für · rechnen mit · umgehen mit · warnen vor · schützen vor · führen zu · beitragen zu*
+
+> ⚠️ ***bestehen*** dreifach: *besteht **aus** vier Teilen* (Zusammensetzung) · *besteht **darin**, … zu …* (Inhalt) · *besteht **auf** einer Zusage* (Forderung, **Dativ**).
+
+**Nomen + Präposition:** *der Zugang zu · der Umgang mit · die Abhängigkeit von · der Einfluss auf · die Auswirkung auf · der Anspruch auf · die Voraussetzung für · der Bedarf an · der Mangel an · die Verantwortung für · der Hinweis auf · der Zweifel an · der Zugriff auf*
+
+**Beim Umformen bleibt die Präposition:** *von etwas abhängen* → *die **Abhängigkeit von** etwas* · *auf etwas hinweisen* → *ein **Hinweis auf** etwas*.
+
+**da- und wo-Wörter**
+
+| vor Nebensatz | Frage (Sache) | Frage (Person) |
+|---|---|---|
+| *davon · darauf · daran · dafür · darüber · damit · darin* | *wovon · worauf · woran · wofür · womit* | *von wem · auf wen · an wen · für wen* |
+
+- Vor Vokal ein **r**: *da**r**auf*, *da**r**an*. Bei **Personen** nie ein *da*-Wort: *stolz **auf sie***.
+- Häufigster B2-Fehler: das **fehlende** *da*-Wort — *Ich bin **daran** interessiert, … zu …*
+
+**Unpersönliche Wendungen:** *es kommt auf … an · es liegt an · es geht um · es handelt sich um · es hängt davon ab, ob …*
+
 
 ## 9 · Wortstellung zur Betonung
 

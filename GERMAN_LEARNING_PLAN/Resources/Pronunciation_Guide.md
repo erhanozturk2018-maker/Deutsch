@@ -404,3 +404,33 @@ Deutsche Komposita betonen dagegen vorn: ***HAND**lung* · ***HAUPT**figur* · *
 
 Derselbe Text wirkt freundlich, neutral oder scharf — entschieden wird es allein über die Melodie.
 
+## B2-U11: da-Wörter, Präfixe und Anglizismen
+
+**da- und wo-Wörter**
+
+| Wort | Akzent |
+|---|---|
+| *darauf · daran · darüber* | auf der **zweiten** Silbe: *da**RAUF***, *da**RAN***, *da**RÜ**ber* |
+| *davon · damit · dafür* | ebenso: *da**VON***, *da**MIT***, *da**FÜR*** |
+| *wovon · worauf · woran* | **vorn**, weil Fragewörter: ***WO**von*, ***WO**rauf*, ***WO**ran* |
+
+Umgangssprachlich verkürzt: *drauf · dran · drüber* ⚖ — verstehen, aber nicht schreiben.
+
+**Trennbare Verben mit Präposition**
+
+- Der Akzent liegt auf dem **Präfix**: ***HIN**weisen* · ***AUS**gehen* · ***ZU**greifen* · ***AN**kommen*.
+- Im Satz tragen *da*-Wort und Präfix **beide** einen Akzent: *Ich weise da**RAUF** **HIN**, dass …*
+- *Es kommt da**RAUF** **AN**.* — ohne den Endakzent auf *an* klingt der Satz unfertig.
+- *be**RU**hen* · *be**STE**hen* — der Bedeutungsunterschied liegt allein in der Präposition, nicht in der Betonung.
+
+**Anglizismen im deutschen Satz**
+
+| Wort | Hinweis |
+|---|---|
+| das Update / Upgrade | englische Aussprache, deutscher Artikel und Plural: *die Up**DATES*** |
+| Komposita | Akzent zieht nach vorn: ***UP**date-Fenster*, ***DOWN**load-Ordner* |
+| die Version | deutsches *s* wie in *Sonne*: *Ver**SION*** |
+| die Datei | eingedeutscht, Endbetonung: *Da**TEI*** |
+
+Üben Sie den Übergang: ein Anglizismus mitten im deutschen Satz, **ohne** die Sprechmelodie zu wechseln.
+

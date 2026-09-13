@@ -1217,3 +1217,66 @@ Taught in [B2-U10](../B2/B2-U10_Migration_und_Zusammenleben/L1_Indem_man_zuhoert
 - ***dadurch, dass*** kann eine **unbeabsichtigte** Ursache nennen; *indem* nennt fast immer ein absichtliches Mittel.
 - ***wobei*** steht im gesprochenen Deutsch oft fast als eigener Satz und leitet einen Einwand ein, ohne zu widersprechen.
 
+## B2: Fixed prepositions
+
+Taught in [B2-U11](../B2/B2-U11_Technik_und_Digitalisierung/L1_Abhaengig_wovon.md) (Adjektive) and [L2](../B2/B2-U11_Technik_und_Digitalisierung/L2_Es_kommt_darauf_an.md) (Verben und Nomen).
+
+Adjective, verb and noun each carry a **fixed** preposition. It cannot be derived from the meaning and rarely matches English — learn the **pair**, never the word alone.
+
+**Adjektiv + Präposition**
+
+| Präposition | Kasus | Adjektive |
+|---|---|---|
+| **von** | D | *abhängig · unabhängig · überzeugt · begeistert · enttäuscht · überrascht · betroffen · frei* |
+| **für** | A | *verantwortlich · zuständig · geeignet ↔ ungeeignet · typisch · entscheidend · wichtig · dankbar · bekannt* |
+| **auf** | A | *angewiesen · gespannt · stolz · neugierig · vorbereitet · eifersüchtig* |
+| **an** | D | *interessiert · beteiligt · schuld · reich ↔ arm · erkennbar* |
+| **mit** | D | *einverstanden · zufrieden ↔ unzufrieden · verbunden · vergleichbar · verwandt · beschäftigt* |
+| **über** | A | *informiert · erstaunt · erfreut · verärgert* |
+| **zu** | D | *bereit · fähig · entschlossen · verpflichtet · freundlich* |
+| **in** | D | *erfahren · geübt* |
+| **gegenüber** | D | *skeptisch · aufgeschlossen · kritisch* |
+
+**Verb + Präposition (B2-Auswahl)**
+
+| Präposition | Verben |
+|---|---|
+| **auf** (+ A) | *hinweisen · sich beziehen · achten · verzichten · reagieren · sich verlassen · sich vorbereiten · ankommen* (es) |
+| **auf** (+ D) | *beruhen · bestehen* (= hartnäckig verlangen) |
+| **an** (+ D) | *teilnehmen · zweifeln · liegen* (es) · *arbeiten · leiden · erkennen* |
+| **an** (+ A) | *sich wenden · sich erinnern · denken · glauben* |
+| **über** (+ A) | *sich beschweren · verfügen · nachdenken · sich informieren · berichten* |
+| **von** (+ D) | *abhängen · ausgehen · absehen · profitieren · träumen* |
+| **um** (+ A) | *sich handeln* (es) · *gehen* (es) · *bitten · sich kümmern · sich bewerben* |
+| **für** (+ A) | *sorgen · sich interessieren · sich entscheiden · sich bedanken* |
+| **mit** (+ D) | *rechnen · sich befassen · zusammenhängen · umgehen* |
+| **vor** (+ D) | *warnen · schützen · sich fürchten* |
+| **zu** (+ D) | *führen · beitragen · gehören · sich äußern* |
+| **aus** (+ D) | *bestehen · folgen · schließen* |
+| **in** (+ D) | *bestehen* (= der Inhalt sein) |
+
+> ⚠️ ***bestehen*** dreifach: *Das Team **besteht aus** vier Personen* (Zusammensetzung) · *Die Arbeit **besteht darin**, … zu …* (Inhalt) · *Sie **besteht auf** einer Zusage* (Forderung, **Dativ**).
+
+**Nomen + Präposition:** *der Zugang zu · der Umgang mit · die Abhängigkeit von · der Einfluss auf · die Auswirkung auf · der Anspruch auf · die Voraussetzung für · der Bedarf an · der Mangel an · das Interesse an · die Verantwortung für · der Hinweis auf · der Zweifel an · die Reaktion auf · der Zugriff auf*
+
+**Umformen — die Präposition bleibt**
+
+| Verbalstil | Nominalstil |
+|---|---|
+| *Wir **hängen von** einem Anbieter **ab**.* | *die **Abhängigkeit von** einem Anbieter* |
+| *Das **wirkt sich auf** den Ablauf **aus**.* | *die **Auswirkung auf** den Ablauf* |
+| *Er **weist auf** einen Fehler **hin**.* | *ein **Hinweis auf** einen Fehler* |
+| *Wir **greifen auf** die Daten **zu**.* | *der **Zugriff auf** die Daten* |
+
+**da- und wo-Wörter**
+
+| vor Nebensatz / Infinitivsatz | Frage nach **Sachen** | Frage nach **Personen** |
+|---|---|---|
+| *davon · darauf · daran · dafür · darüber · damit · darin · dazu* | *wovon · worauf · woran · wofür · worüber · womit* | *von wem · auf wen · an wen · für wen · mit wem* |
+
+- Vor Vokal steht ein **r**: *da**r**auf*, *da**r**an*, *da**r**über* — aber *davon*, *damit*, *dafür*.
+- Bei **Personen** nie ein *da*-Wort: *Ich bin stolz **auf sie***.
+- Häufigster B2-Fehler: das **fehlende** *da*-Wort — *~~Ich bin interessiert, mehr zu erfahren~~* → *Ich bin **daran** interessiert, …*
+
+**Unpersönliche Wendungen:** *es kommt auf … an* (+ A) · *es liegt an* (+ D) · *es geht um* (+ A) · *es handelt sich um* (+ A) · *es hängt davon ab, ob …*
+

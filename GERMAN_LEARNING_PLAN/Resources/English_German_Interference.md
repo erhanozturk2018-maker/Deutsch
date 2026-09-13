@@ -447,3 +447,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | He grew up here. | *Er ist hier aufgewachst.* | **Er ist hier aufgewachsen.** | *wachsen – wuchs – gewachsen* |
 | That doesn't match what I know. | *Das deckt sich nicht zu dem …* | **Das deckt sich nicht mit dem …** | *sich decken mit* + Dativ |
 
+## B2-U11: feste Präpositionen und Technikwortschatz
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| dependent on | *abhängig auf / aus* | **abhängig von** (+ D) | feste Präposition |
+| interested in | *interessiert in* | **interessiert an** (+ D) | feste Präposition |
+| responsible for | *verantwortlich von* | **verantwortlich für** (+ A) | feste Präposition |
+| proud of the work | *stolz auf der Arbeit* | **stolz auf die Arbeit** | *auf* hier + Akkusativ |
+| sceptical about | *skeptisch über* | **skeptisch gegenüber** (+ D) | feste Präposition |
+| I'm interested in learning more. | *Ich bin interessiert, mehr zu erfahren.* | **Ich bin daran interessiert, mehr zu erfahren.** | *da*-Wort fehlt |
+| What does it depend on? | *Was hängt das ab?* | **Wovon hängt das ab?** | *wo*-Wort |
+| to refer to | *sich beziehen zu* | **sich beziehen auf** (+ A) | feste Präposition |
+| to be based on | *beruhen an* | **beruhen auf** (+ D) | feste Präposition |
+| to insist on a promise | *bestehen auf eine Zusage* | **bestehen auf einer Zusage** | *bestehen auf* + **Dativ** |
+| It's about a decision. | *Es geht über eine Entscheidung.* | **Es geht um eine Entscheidung.** | *es geht um* + Akkusativ |
+| The data is saved. | *Die Daten ist gespeichert.* | **Die Daten sind gespeichert.** | *Daten* ist Plural |
+| The program crashed. | *Das Programm ist gecrasht.* ⚖ | **Das Programm ist abgestürzt.** | deutsches Verb |
+| to log in | *sich einloggen* ⚖ | **sich anmelden** | förmliches Register |
+

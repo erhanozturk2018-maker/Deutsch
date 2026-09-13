@@ -2,7 +2,7 @@
 
 At B1 you could make yourself understood about anything familiar. **B2 is where precision arrives**: you stop saying roughly what you mean and start saying exactly what you mean — with the right register, the right connector and the right degree of certainty. You follow a discussion between native speakers without translating, read a serious article without a dictionary, and hold your position in a real debate.
 
-> **Status: im Bau (M9).** **Die erste Hälfte von B2 ist fertig:** B2-U01 bis B2-U08, die Wiederholungen [B2-R1](B2-R1_Wiederholung.md) und [B2-R2](B2-R2_Wiederholung.md) sowie das [B2 Midpoint Checkpoint](B2_Midpoint_Checkpoint.md) sind geschrieben und validiert. **B2-U09 und B2-U10 sind ebenfalls fertig.** Die Einheiten **U11 und U12**, **B2-R3** und das **B2 Exit** entstehen nacheinander in Milestone **M9** (siehe `Docs/03_MILESTONES.md`). Der [B2 Recap](B2_Recap/00_Overview.md) ist **teilweise konsolidiert**: Was aus U01–U10 geprüft übernommen wurde, steht dort benannt; der Rest bleibt eine aus den CEFR-Deskriptoren gebaute Referenz.
+> **Status: im Bau (M9).** **Die erste Hälfte von B2 ist fertig:** B2-U01 bis B2-U08, die Wiederholungen [B2-R1](B2-R1_Wiederholung.md) und [B2-R2](B2-R2_Wiederholung.md) sowie das [B2 Midpoint Checkpoint](B2_Midpoint_Checkpoint.md) sind geschrieben und validiert. **B2-U09 bis B2-U11 sind ebenfalls fertig.** Die Einheit **U12**, **B2-R3** und das **B2 Exit** entstehen nacheinander in Milestone **M9** (siehe `Docs/03_MILESTONES.md`). Der [B2 Recap](B2_Recap/00_Overview.md) ist **teilweise konsolidiert**: Was aus U01–U11 geprüft übernommen wurde, steht dort benannt; der Rest bleibt eine aus den CEFR-Deskriptoren gebaute Referenz.
 >
 > **Ab B2 sind die Lektionen einsprachig Deutsch** (Regel A7.2 in `04`): auch die Erklärungen und Fehlertabellen. Englisch steht nur noch in den KI-Rollenspielen und in den Abruf-Prompts.
 
@@ -38,7 +38,7 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 | [**B2-U08 Gesundheit & Psyche**](B2-U08_Gesundheit_und_Psyche/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Befinden, Belastung, unterstützende Gespräche | Futur I / II als Vermutung |
 | [**B2-U09 Kunst & Kultur**](B2-U09_Kunst_und_Kultur/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Film, Literatur, Geschmack und Kritik | realer und irrealer Vergleich; *als ob* + Konjunktiv II |
 | [**B2-U10 Migration & Zusammenleben**](B2-U10_Migration_und_Zusammenleben/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Zusammenleben, Zugehörigkeit, genau über Menschen sprechen | *indem · ohne dass · anstatt dass · wobei* |
-| B2-U11 Technik & Digitalisierung | Technology, data, automation | Adjektiv + Präposition; feste Präpositionalgefüge |
+| [**B2-U11 Technik & Digitalisierung**](B2-U11_Technik_und_Digitalisierung/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Technik, Daten, Probleme melden und erklären | feste Präpositionen bei Adjektiven, Verben und Nomen |
 | B2-U12 Debatte & Verhandlung | Debating, negotiating, mediating | Modalpartikeln; Wortstellung zur Betonung |
 | [**B2-R1**](B2-R1_Wiederholung.md) ✅ · [**B2-R2**](B2-R2_Wiederholung.md) ✅ **gebaut** · B2-R3 | Kumulative Wiederholungen, je drei Sitzungen | – |
 | [**B2 Midpoint**](B2_Midpoint_Checkpoint.md) ✅ **gebaut** · B2 Exit | Diagnose nach der ersten Hälfte · das Tor zu C1 | – |
@@ -65,7 +65,7 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 ## Solange die übrigen Einheiten entstehen
 
 1. Finish **B1** first. B2 without a solid B1 is slow and frustrating.
-2. Arbeiten Sie **B2-U01** bis **B2-U04**, dann **B2-R1**, danach **B2-U05** bis **B2-U08**, dann **B2-R2**, dann das **B2 Midpoint Checkpoint** und anschließend **B2-U09** und **B2-U10** — all das ist fertig und validiert.
+2. Arbeiten Sie **B2-U01** bis **B2-U04**, dann **B2-R1**, danach **B2-U05** bis **B2-U08**, dann **B2-R2**, dann das **B2 Midpoint Checkpoint** und anschließend **B2-U09** bis **B2-U11** — all das ist fertig und validiert.
 3. Use the [B2 Recap](B2_Recap/00_Overview.md) as a **target map**, not as a course: read one section, then go and look for that structure in real German.
 4. Build the input habit B2 requires — see [Listening & Reading Sources](../Resources/Listening_Reading_Sources.md):
    - one longer article a day, read twice: once for content, once for **how** it is written

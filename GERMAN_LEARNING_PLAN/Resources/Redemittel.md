@@ -1105,3 +1105,49 @@ Taught in [B2-U10](../B2/B2-U10_Migration_und_Zusammenleben/L2_Wer_dazugehoert.m
 
 **Wenn Sie danebenlagen:** *Das war ungeschickt formuliert. Ich meinte … · Stimmt, das war zu pauschal. · Danke, das wusste ich nicht.* — und dann weiterreden.
 
+## B2: Technology, problems and instructions
+
+Taught in [B2-U11](../B2/B2-U11_Technik_und_Digitalisierung/L3_Was_die_Technik_mit_uns_macht.md).
+
+**Die fünf Angaben einer Fehlermeldung**
+
+| Angabe | Formulierung |
+|---|---|
+| 1 Ziel | *Ich wollte … eintragen / hochladen / exportieren.* |
+| 2 Schritte | *Ich habe … geöffnet, dann auf „…" geklickt, dann …* |
+| 3 Ergebnis | *Das Fenster schließt sich. · Es erscheint die Meldung „…". · Nichts passiert.* |
+| 4 Erwartung | *Ich hätte erwartet, dass … · Erwartet hätte ich, dass …* |
+| 5 Umgebung | *seit dem Update vom Montag · bei etwa jedem dritten Versuch · bei mir und zwei Kolleginnen · Version 4.2.1* |
+| + geprüft | *Ein Neustart hat nichts geändert. · Im Testkonto tritt der Fehler nicht auf.* |
+
+> **Regel:** Ein Fehler, den man **nachstellen** kann, wird bearbeitet; ein Fehler, den man nur **fühlen** kann, wird verschoben.
+
+**Wortfelder:** *das Konto · der Zugang · sich an\|melden ↔ ab\|melden · das Kennwort · zurück\|setzen* — *die Anwendung · die Version · das Update · aktualisieren · die Einstellung · die Ansicht* — *die Datei · der Anhang · hoch\|laden ↔ herunter\|laden · speichern · exportieren* — *ab\|stürzen · einfrieren · die Fehlermeldung · der Neustart · die Störung · aus\|fallen* — *die Sicherung · sichern · wieder\|herstellen* — *die Daten (Pl.) · die Einwilligung · die Weitergabe · die Auskunft · löschen*
+
+> ⚠️ ***Daten*** ist **Plural**: *Die Daten **sind** gespeichert.*
+
+**Anleiten**
+
+| Form | Wann | Beispiel |
+|---|---|---|
+| Imperativ | persönlich | *Öffne die Einstellungen.* |
+| Sie-Imperativ | förmlich | *Öffnen Sie die Einstellungen.* |
+| Infinitiv | Handbuch | *Einstellungen öffnen. Konto auswählen.* |
+| Passiv / *man* | Beschreibung | *Zunächst wird die Datei exportiert.* |
+
+**Reihenfolge:** *zunächst · danach · anschließend · zum Schluss · sobald … · bevor Sie …*
+**Prüffragen:** *Was siehst du jetzt? · Erscheint dann „…"? · Sag mir, was auf dem Bildschirm steht.*
+**Scham nehmen:** *Das ist kein Anfängerfehler; das übersehen alle.* — und: nicht selbst zum Gerät greifen.
+
+**Urteilen ohne Hype und ohne Untergang**
+
+| Muster | Was fehlt | Besser |
+|---|---|---|
+| *Das verändert alles.* | Wer tut wann was anders? | *Für einige Arbeitsschritte ändert sich viel — welche, zeigt sich erst.* |
+| *Keiner kann mehr lesen.* | Menge und Quelle | *In meiner Erfahrung lesen viele anders: kürzer, öfter unterbrochen.* |
+| *Damit spart man massiv Zeit.* | Abstufung | *Bei wiederkehrenden Aufgaben dürfte das deutlich schneller sein.* |
+
+**Werkzeug ↔ Menschen:** *Das System **schlägt vor**; **entschieden wird** in der Abteilung.* — nicht *Die KI entscheidet*. Ein handelndes Programm lässt die Verantwortlichen verschwinden.
+
+**Sachlich kritisieren:** *Ich bin **skeptisch gegenüber** dem Versprechen, dass … · Der Nutzen ist unbestritten; die Frage ist, wofür man ihn bezahlt. · Ich möchte **darauf hinweisen**, dass … · Woran würden wir merken, dass es nicht funktioniert?*
+

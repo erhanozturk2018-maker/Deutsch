@@ -607,3 +607,16 @@
 - **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U10, R1, R2 und das Midpoint. Validiert als V-028. Als Nächstes **B2-U11 Technik & Digitalisierung** (Adjektiv + Präposition, feste Präpositionalgefüge).
 
+## [029] 2026-09-13 — M9 WP4 (Teil 3): B2-U11 Technik & Digitalisierung
+
+- **Milestone:** M9, WP4 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U11_Technik_und_Digitalisierung/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Fixed prepositions), `Resources/Redemittel.md` (B2: Technology, problems and instructions), `Resources/English_German_Interference.md` (B2-U11), `Resources/Pronunciation_Guide.md` (B2-U11), `Anki/B2.tsv` (558 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U11 Technik & Digitalisierung:** L1 *Abhängig wovon?* (Adjektive mit fester Präposition nach Gruppen, Kasusregel bei Wechselpräpositionen, *da*-Wörter vor Nebensätzen, *wo*-Wörter, Personen ↔ Sachen) · L2 *Es kommt darauf an* (Verben und Nomen mit fester Präposition, Umformen ohne Präpositionsverlust, *bestehen* in drei Bedeutungen, die unpersönlichen Wendungen) · L3 *Was die Technik mit uns macht* (die fünf Angaben einer Fehlermeldung, Wortschatz von Konto bis Sicherung und Daten, Anleitungen in vier Formen mit Prüffragen, Urteilen ohne Hype und ohne Kulturpessimismus, Werkzeug ↔ Menschen) · L4 *Anwenden* (Entscheidung über ein Werkzeug in beiden Rollen, 4/3/2 Technik, Artikel „Der Preis der Bequemlichkeit“, drei Stimmen, Stellungnahme, Test).
+  2. **Resources:** feste Präpositionen als Gesamtwerk (Adjektive nach Präposition, Verben nach Präposition und Kasus, Nomen, Umformungstabelle, *da*/*wo*-Wörter); Redemittel für Fehlermeldung, Anleitung und Technikurteil; vierzehn Interferenzfallen; Aussprache von *da*-Wörtern, Präfixen und Anglizismen.
+  3. **B2-Recap konsolidiert:** § 8 ist jetzt die geprüfte Fassung aus U11; Statuszeile U01–U11.
+- **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U11, R1, R2 und das Midpoint. Validiert als V-029. Zum Abschluss von M9 fehlen **B2-U12 Debatte & Verhandlung**, **B2-R3** und das **B2 Exit Checkpoint**.
+
