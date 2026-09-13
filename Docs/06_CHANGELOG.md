@@ -482,3 +482,17 @@
 - **Reason:** M9 WP2 laut `03`; Fortsetzung des Nutzerauftrags vom 2026-09-13, B2 Einheit für Einheit zu schreiben.
 - **Impact:** B2 hat jetzt zwei vollständige Einheiten. Validiert als V-019.
 
+---
+
+## [020] 2026-09-13 — M9 WP2 (Teil 2): B2-U03 Bildung & Lernen
+
+- **Milestone:** M9, WP2
+- **Affected files:**
+  - **Created:** `B2/B2-U03_Bildung_und_Lernen/` (5)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Konjunktiv I und indirekte Rede), `Resources/Redemittel.md` (B2: Referieren, Zusammenfassen, Zahlen), `Anki/B2.tsv` (177 Karten), `B2/README.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U03 Bildung & Lernen:** L1 *Er sagt, er sei* (Konjunktiv-I-Formen, Ersatzregel, drei Zeitstufen, indirekte Fragen und Aufforderungen, *laut / zufolge / angeblich / sollen / wollen*) · L2 *Dem Bericht zufolge* (zwölf Redeeinleitungsverben und ihre Haltung, durchgehend referieren, Abwechslungsmittel, Zitat ↔ Paraphrase ↔ Zusammenfassung, Quellenangabe, eigene Stimme abtrennen) · L3 *Bildungswege* (das deutsche Bildungssystem in acht Begriffen, Bildungswege erzählen, Anteile und Entwicklungen versprachlichen, *um / auf / von … auf*, Beschreibung ↔ Deutung) · L4 *Anwenden* (Referat ohne Wertung + Debatte in beiden Rollen, Story Bank Task 3 auf B2, Artikel „Die Illusion der Durchlässigkeit", drei Reaktionen, Zusammenfassung 250–300 Wörter, Test).
+  2. **Resources:** vollständige Konjunktiv-I-Tabelle mit Ersatzregel und Zeitstufen; Redemittel für Redeeinleitungsverben, Quellenangaben, Abwechslung beim Referieren, Abtrennung der eigenen Stimme sowie Zahlen und Grafikbeschreibung.
+- **Reason:** M9 WP2 laut `03`.
+- **Impact:** B2 hat jetzt drei vollständige Einheiten (U01–U03). Validiert als V-020. Zusätzlich wurde der **Gesamtkurs auf nichtlateinische Zeichen geprüft** — nach einer Korrektur 0 Treffer.
+

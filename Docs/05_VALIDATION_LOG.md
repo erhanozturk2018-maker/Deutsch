@@ -811,3 +811,34 @@
 - **Result:** **PASS WITH NOTES** — B2-U02 abgeschlossen; M9 WP2 zu einem Drittel erledigt.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-020 — M9 WP2 (Teil 2): B2-U03 Bildung & Lernen
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U03_Bildung_und_Lernen/` (5 Dateien), die B2-U03-Abschnitte in `Resources/Grammar_Tables.md` und `Resources/Redemittel.md`, `Resources/Anki/B2.tsv`, `B2/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren; die in V-018 freigegebene B2-Vorlage.
+- **Method:**
+  - `check_structure.py` → 155 Dateien, 0 Probleme
+  - `check_vocab.py B2-U03` → 32 ★, **0 unter 3** (nach Nachbesserung bei *die Stellungnahme* und *entgegenhalten / einwenden*)
+  - `check_links.py` → 2063 Links, 0 broken, 3 planned
+  - `build_anki.py` → `B2.tsv` **177 Karten** (U01–U03)
+  - **zusätzlicher Scan des gesamten Kurses auf kyrillische und griechische Zeichen** (Regex über alle 155 Dateien) → nach der Korrektur **0 Treffer**
+  - vollständige Wiederlesung; jede Konjunktiv-I-Form einzeln gegen die Ersatzregel geprüft
+- **Findings:**
+  1. `STR`, PASS. Fünf Dateien in der Vorlagenform; 9/9/9/8 nummerierte Aktivitäten mit Zeitangaben; Karteikartentabellen vollständig; durchgehend Deutsch nach A7.2.
+  2. `PED`, PASS. Der Aufbau trennt konsequent **Form** (L1), **Text** (L2) und **Inhalt** (L3): L1 gibt die Formen und die Ersatzregel, L2 zeigt an zwei Fassungen desselben Vortrags, warum fünfmal *sie sagte* kein Referat ist, L3 liefert Bildungswortschatz plus Zahlenversprachlichung. L4 verlangt beides zugleich — erst referieren ohne Wertung, dann Position beziehen.
+  3. `PED`, PASS. Die didaktische Kernidee der Einheit ist **die Trennung der Stimmen**: Konjunktiv I = Quelle, Indikativ = ich. Sie wird in L2 explizit gemacht, in L4 geprüft (Aufgabe 6 „Wer spricht?") und im Rollenspiel abgefragt („Ist das Ihre Meinung oder die des Autors?").
+  4. `CEF`, PASS. Lesetexte: Meldung 300 Wörter, zwei Wiedergaben 2 × 90, drei Bildungswege 300, Artikel 520; Hörtexte 3 × 120–140; Schreibaufgabe 250–300 Wörter (Zusammenfassung mit abgetrenntem Bewertungsteil); Sprechen: Referat + Debatte in beiden Rollen.
+  5. `SPK`, PASS. **Story Bank Task 3 auf B2** mit der neuen Anforderung „Erzählung ↔ Deutung markieren"; drei KI-Rollenspiele, jedes mit einer Frage, die der Text **nicht** beantwortet, damit *Dazu sagt der Text nichts* geübt wird.
+  6. `LNG`, **Minor (behoben), 3 Punkte:** (a) In L4 stand in einem Sprechernamen eine **kyrillische Zeichenfolge** (*Brандt*) — korrigiert; der anschließende Scan des Gesamtkurses ergab keine weiteren Treffer. (b) *die Stellungnahme* und *entgegenhalten / einwenden* waren nur genannt → eigene Tabellenzeile, zwei Übungsitems und Quizeinträge ergänzt. (c) Ein Anker von L2 nach L1 zeigte auf eine Überschrift ohne Zeitangabe — korrigiert.
+  7. `VOC`, PASS. 32 ★-Einträge in zwei funktionalen Gruppen: **Redeeinleitungsverben** (die Grammatik der Einheit) und **Bildungswortschatz** (das Thema). Zahlenausdrücke (*rund, knapp, gut, der Anteil, der Anstieg*) sind als eigene Gruppe aufgenommen, weil sie in L3 systematisch geübt werden.
+  8. `ASS`, PASS. Unit-Test mit 10 Items und Reparaturplan; Selbstcheck an den Einheitszielen; Workbook-Eintrag.
+  9. `DEP`, PASS. Sieben Rückverweise; der Kontrast Konjunktiv I ↔ Konjunktiv II (B1-U04) wird an drei Stellen ausdrücklich thematisiert, weil er die Hauptfehlerquelle ist.
+  10. `WRK`, PASS (Schätzung). 90 + 90 + 90 + 95 = 365 min, wie B2-U01 und B2-U02.
+- **Required changes:** Keine offen.
+- **Resolution:** Alle drei `LNG`-Punkte vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B2-U03 abgeschlossen; M9 WP2 zu zwei Dritteln erledigt.
+- **Approval status:** – (autonomous mode)
+

@@ -640,3 +640,62 @@ Taught in [B2-U02](../B2/B2-U02_Arbeitswelt_und_Karriere/L3_Das_Konfliktgespraec
 
 *Wie besprochen halte ich Folgendes fest: … · Die Zuständigkeit liegt bei … · Die Unterlagen liegen bis zum … vor. · Bei absehbarer Verzögerung erfolgt eine Information bis spätestens … · Eine Überprüfung ist für den … vorgesehen. · Bei Rückfragen stehe ich gern zur Verfügung.*
 
+## B2: Reporting, summarising and describing data
+
+Taught in [B2-U03](../B2/B2-U03_Bildung_und_Lernen/L2_Dem_Bericht_zufolge.md).
+
+**Redeeinleitungsverben — jedes trägt eine Haltung**
+
+| Funktion | Verben |
+|---|---|
+| neutral | *sagen · erklären · ausführen · berichten* |
+| Gewichtung | *betonen · hervorheben · hinweisen auf (+ A) · anmerken* |
+| Zugeständnis | *einräumen · zugeben* |
+| Skepsis ⚖ | *behaupten · beteuern* |
+| Widerspruch | *bestreiten · zurückweisen · entgegenhalten · erwidern · einwenden* |
+| Bewertung | *kritisieren · beanstanden · begrüßen* |
+| Forderung | *fordern · verlangen · warnen vor (+ D) · appellieren an (+ A)* |
+| Nachtrag | *ergänzen · hinzufügen* |
+| institutionell | *eine Stellungnahme abgeben · mitteilen · bekannt geben* |
+
+**Quellen angeben**
+
+*Dem Bericht **zufolge** … · **Laut** einer Studie der Universität … · **Nach** Angaben des Ministeriums … · **In** dem Bericht **heißt es**, … · Wie Dahl (2024) zeigt, …*
+
+**Über mehrere Absätze referieren, ohne zu ermüden**
+
+| Mittel | Beispiel |
+|---|---|
+| Einleitungsverb wechseln | *Sie betonte … Später räumte sie ein …* |
+| Einschub mit *so* | *Mit zehn Jahren, **so betonte sie**, lasse sich …* |
+| *zufolge* / *laut* (kein Konjunktiv nötig) | *Ihren Angaben **zufolge** trennen die meisten Länder später.* |
+| Nominalstil | *Ihre **Forderung**: die Entscheidung revidierbar zu machen.* |
+| sparsames Zitat | *Sie nannte das System eine „Sortiermaschine".* |
+
+**Die eigene Stimme abtrennen**
+
+*So weit die Darstellung des Berichts. **Meiner Einschätzung nach** … · Bis hierhin folge ich der Argumentation. **Fraglich ist jedoch**, ob … · Der Autor argumentiert schlüssig; **ich halte allerdings** den Schluss **für** zu weitgehend. · **Dazu sagt der Text nichts.***
+
+> Der Modus markiert die Stimme: **Konjunktiv I = die Quelle · Indikativ = ich.**
+
+**Zahlen und Anteile**
+
+| Anteil | Formulierung |
+|---|---|
+| 10 % · 25 % · 33 % | *jeder Zehnte · ein Viertel · rund ein Drittel* |
+| 50 % · 66 % · 75 % · 90 % | *die Hälfte, jeder Zweite · zwei Drittel · drei Viertel · neun von zehn* |
+
+*Präzisionswörter:* ***rund / etwa*** (ungefähr) · ***knapp*** (etwas weniger) · ***gut*** (etwas mehr) · ***genau***.
+
+**Entwicklungen**
+
+*steigen · zunehmen · sich erhöhen ↔ sinken · abnehmen · zurückgehen · sich verringern · konstant bleiben · stagnieren · den Höchststand erreichen*
+*Grad:* **leicht · deutlich · erheblich · drastisch · sprunghaft**
+*Präpositionen:* ***um*** (Differenz) · ***auf*** (Endwert) · ***von … auf*** (Anfang und Ende) · ***im Vergleich zu*** (Bezugspunkt)
+
+**Grafik einleiten und deuten**
+
+*Die Grafik zeigt … · Die Angaben beziehen sich auf den Zeitraum von … bis … · Quelle ist … · **Auffällig ist, dass** … · Der größte Unterschied besteht zwischen … und … · **Das lässt darauf schließen, dass** … · Eine mögliche Erklärung wäre …*
+
+> Erst **beschreiben**, dann **deuten** — und den Übergang markieren. Prüfungen bewerten beides getrennt.
+

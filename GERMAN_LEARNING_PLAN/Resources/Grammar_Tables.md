@@ -869,3 +869,44 @@ Taught in [B2-U02](../B2/B2-U02_Arbeitswelt_und_Karriere/L1_Eine_Entscheidung_tr
 
 > **Stilregel:** höchstens **eine** Nominalkonstruktion pro Satz. Ketten aus Nominalisierung + Genitiv + Genitiv heißen **Substantivitis** und gelten als Stilfehler. ***erfolgen*** ist das typische Amtsverb: *Die Benachrichtigung erfolgt* heißt *Wir benachrichtigen Sie*.
 
+## B2: Konjunktiv I and indirect speech
+
+Taught in [B2-U03](../B2/B2-U03_Bildung_und_Lernen/L1_Er_sagt_er_sei.md).
+
+**Formen** — Infinitivstamm + *-e, -est, -e, -en, -et, -en*
+
+| | sein | haben | werden | können | sagen | geben |
+|---|---|---|---|---|---|---|
+| ich | sei | habe | werde | könne | sage | gebe |
+| du | sei(e)st | habest | werdest | könnest | sagest | gebest |
+| **er/sie/es** | **sei** | **habe** | **werde** | **könne** | **sage** | **gebe** |
+| wir | seien | haben | werden | können | sagen | geben |
+| ihr | seiet | habet | werdet | könnet | saget | gebet |
+| sie/Sie | **seien** | haben | werden | können | sagen | geben |
+
+- ***sein*** ist die einzige unregelmäßige Form (ohne *-e* in der 1. und 3. Person Singular).
+- **Der Vokalwechsel des Indikativs entfällt:** *er gibt → er **gebe*** · *er fährt → er **fahre*** · *er spricht → er **spreche***.
+- **Ersatzregel:** Ist die Konjunktiv-I-Form mit dem Indikativ identisch (*sie haben*), nimmt man den **Konjunktiv II**: *Sie sagen, sie **hätten** keine Zeit.*
+
+**Drei Zeitstufen — mehr gibt es nicht**
+
+| Original | Indirekte Rede |
+|---|---|
+| Präsens | *er **sei** müde* |
+| Präteritum / Perfekt / Plusquamperfekt | *er **sei** müde **gewesen*** · *er **habe** … **gehabt*** |
+| Futur oder Zukunftsbedeutung | *er **werde** kommen* |
+
+**Satzbau:** *Er sagt, er sei krank.* (ohne *dass*, Verb an Position 2) oder *Er sagt, **dass** er krank **sei**.* (Verb am Ende).
+**Verschiebungen:** Pronomen (*ich → er*) und Zeitangaben (*morgen → am nächsten Tag*).
+
+| Original | Indirekt |
+|---|---|
+| Ja/Nein-Frage | *Er fragte, **ob** ich **käme**.* |
+| W-Frage | *Er fragte, **wann** ich **käme**.* |
+| Aufforderung | *Er sagte, ich **solle** anrufen.* |
+| höfliche Bitte | *Sie bat, ich **möge** ihr helfen.* |
+
+**Alternativen ohne Konjunktiv:** *laut* + D/G · *zufolge* (nachgestellt, + D) · *nach Angaben* + G · *angeblich* · ***sollen*** (fremde Behauptung) · ***wollen*** (Eigenbehauptung).
+
+> Der Konjunktiv I hat **nichts** mit Irrealität zu tun. *Er sei krank* heißt: jemand sagt das. Der Kontrast zum Konjunktiv II ist die eigentliche Lernaufgabe.
+
