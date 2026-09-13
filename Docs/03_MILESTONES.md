@@ -381,7 +381,7 @@
   - B2-R1, B2-R2, B2-R3; B2 Midpoint Checkpoint; B2 Exit Checkpoint
   - `Resources/Anki/B2.tsv`; B2 sections in Grammar_Tables, Verb_Lists, Redemittel, Pronunciation_Guide, English_German_Interference
   - **Consolidation of `B2/B2_Recap/`**: each unit's vocabulary, phrases and grammar folded into the three sheets in the same batch; `status:` moves `planned → in-progress → validated`
-- **Work packages:** **WP1 = U01 ✅ (2026-09-13, V-018) + Review-Stop → `04` v1.3 / Regel A7.2** · WP2 = U02–U04 + R1 · WP3 = U05–U08 + R2 + Midpoint · WP4 = U09–U12 + R3 + Exit
+- **Work packages:** **WP1 = U01 ✅** (2026-09-13, V-018) + Review-Stop → `04` v1.3 / Regel A7.2 · **WP2 = U02–U04 + R1 ✅** (2026-09-13, V-019 bis V-021) · **WP3 = U05–U08 + R2 + Midpoint ✅** (2026-09-13, V-022 bis V-026) · WP4 = U09–U12 + R3 + Exit ▶
 - **Dependencies:** CP-003 (approved 2026-09-13). **Sequenzabweichung:** M9 wurde auf ausdrücklichen Wunsch des Nutzers **vor** M7 (B1.2) und M8 begonnen. M7 und M8 bleiben offen und unverändert im Plan.
 - **Validation criteria:**
   - Instruction language **fully German** at B2 level (extends `04` A7.1).
@@ -389,8 +389,8 @@
   - Every structure in the B2 recap grammar sheet is taught in a unit and demanded spontaneously at least once.
   - Speaking targets 4–5-minute turns; Story Bank recorded at B2.
   - Register (⬇ / neutral / ⬆) is taught explicitly and tested.
-- **Completion status:** ⬜ NOT STARTED
-- **Next milestone:** M10.
+- **Completion status:** ▶ IN PROGRESS (WP4). Die erste Hälfte von B2 — U01–U08, R1, R2 und das Midpoint — ist fertig und validiert.
+- **Next milestone:** M7 (B1.2), gemäß der Reihenfolge oben; M10 danach.
 
 ---
 
