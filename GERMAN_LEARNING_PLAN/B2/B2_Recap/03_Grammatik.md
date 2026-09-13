@@ -242,7 +242,30 @@ Formal written German prefers **nouns** where speech uses verbs. B2 requires you
 | **Damit** das Ziel **erreicht wird**, … | **Zur Erreichung** des Ziels … |
 | **Wenn** es **nötig ist**, … | **Bei Bedarf** … · **Erforderlichenfalls** ⬆ |
 
-**Die Präpositionen des Nominalstils:** *aufgrund, infolge, mittels, anhand, hinsichtlich, bezüglich, im Rahmen, im Zuge, angesichts, ungeachtet* (alle + Genitiv) · *zwecks, seitens* ⬆
+**Die Präpositionen des Nominalstils** *(aus [B2-U07](../B2-U07_Recht_und_Regeln/L1_Aufgrund_der_Sachlage.md) konsolidiert)*
+
+| Feld | Präpositionen (+ G) |
+|---|---|
+| Grund, Folge | *wegen · aufgrund · infolge · angesichts · dank* (auch + D) |
+| Einräumung, Ersatz | *trotz · ungeachtet · anstelle · vorbehaltlich* |
+| Zeit, Ort | *während · innerhalb ↔ außerhalb · oberhalb ↔ unterhalb · jenseits* |
+| Mittel, Bezug | *mittels · mithilfe · anhand · hinsichtlich · bezüglich · im Rahmen · im Zuge · zwecks · seitens* ⬆ |
+
+- **Dativ statt Genitiv:** *entgegen · binnen · gemäß · zufolge · laut* (auch + G).
+- **Nachgestellt:** *den Berichten **zufolge*** · *den Vorschriften **gemäß*** · *dem Antrag **entsprechend*** · *der Ordnung **halber*** ⬆.
+- **Plural ohne Artikel:** kein sichtbarer Genitiv → Dativ (*wegen Bauarbeiten*) oder *von* (*aufgrund von Bauarbeiten*).
+- ***infolge*** nennt die **Folge**, ***aufgrund*** die **Grundlage**; ***dank*** ist positiv.
+
+**Die Verben am Nebensatzende** *(aus [B2-U07](../B2-U07_Recht_und_Regeln/L2_Was_zu_beachten_ist.md))*
+
+| Verben | Beispiel |
+|---|---|
+| 2 (Passiv) | *…, dass die Frist **eingehalten wird**.* |
+| 3 (Passiv + Modal) | *…, dass die Frist **eingehalten werden muss**.* |
+| 3 (Passiv Perfekt) | *…, dass die Frist **eingehalten worden ist**.* |
+| **2 Infinitive** | *…, dass die Frist **hat** eingehalten werden **müssen**.* |
+
+Bei **zwei Infinitiven** (Ersatzinfinitiv) rückt das gebeugte Verb **vor** die Gruppe — die einzige Ausnahme von „Verb ans Ende“.
 
 ---
 

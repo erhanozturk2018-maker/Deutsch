@@ -1035,3 +1035,57 @@ Every modal verb has two readings. The **objective** one says something about th
 - ***dürfte nicht*** wird als **Verbot** gelesen. Für die Vermutung: *dürfte kaum* oder *vermutlich nicht*.
 - **Eine** Abstufung pro Aussage: *~~Das dürfte möglicherweise vielleicht stimmen.~~*
 
+## B2: Genitive prepositions and verb clusters
+
+Taught in [B2-U07](../B2/B2-U07_Recht_und_Regeln/L1_Aufgrund_der_Sachlage.md) (prepositions) and [L2](../B2/B2-U07_Recht_und_Regeln/L2_Was_zu_beachten_ist.md) (verb order).
+
+**Genitivpräpositionen nach Bedeutung**
+
+| Feld | Präposition | Beispiel | Anmerkung |
+|---|---|---|---|
+| Grund | **wegen** (⚖ + D) | *wegen des Lärms* | neutral bis schriftlich |
+| Grund | **aufgrund** | *aufgrund der Sachlage* | Grundlage einer Entscheidung |
+| Folge | **infolge** | *infolge des Sturms* | **Folge**, nicht Grund |
+| Grund (positiv) | **dank** (+ G / + D) | *dank ihrer Hilfe* | nur Positives |
+| Bewertung | **angesichts** | *angesichts der Lage* | „wenn man das sieht" |
+| Einräumung | **trotz** (⚖ + D) · **ungeachtet** | *ungeachtet der Bedenken* | – |
+| Ersatz | **anstelle · anstatt** | *anstelle einer Kündigung* | – |
+| Vorbehalt | **vorbehaltlich** | *vorbehaltlich Ihrer Zustimmung* | Vertrag, Bescheid |
+| Zeit | **während · innerhalb ↔ außerhalb** | *innerhalb einer Woche* | – |
+| Zeit | **binnen** (+ D, ⚖ + G) | *binnen zwei Wochen* | – |
+| Ort | **oberhalb ↔ unterhalb · diesseits ↔ jenseits · abseits** | *jenseits des Flusses* | alle + G |
+| Mittel | **mittels · mithilfe** | *mittels eines Formulars* | – |
+| Grundlage | **anhand** | *anhand der Unterlagen* | – |
+| Bezug | **hinsichtlich · bezüglich** | *bezüglich Ihrer Anfrage* | *im Hinblick auf* (+ A) ist häufiger |
+| Urheber | **seitens · vonseiten** | *seitens der Behörde* | – |
+| Zweck | **zwecks** | *zwecks Klärung* | Behördendeutsch |
+| Rechnung | **abzüglich ↔ zuzüglich** | *zuzüglich der Kosten* | – |
+
+**Dativ, nicht Genitiv:** *entgegen · binnen · gemäß · zufolge · laut* (auch + G) · *dank* (auch + G).
+
+**Nachgestellt:** *den Berichten **zufolge*** · *den Vorschriften **gemäß*** (auch davor) · *dem Antrag **entsprechend*** · *der Ordnung **halber*** ⬆.
+
+**Plural ohne Artikel** zeigt keinen Genitiv → **Dativ** (*wegen Bauarbeiten*) oder **von** (*aufgrund von Bauarbeiten*). Dasselbe bei Namen und Abkürzungen.
+
+**Register:** Bescheid, Vertrag, Aushang → *aufgrund, hinsichtlich, vorbehaltlich*. E-Mail im Team → *wegen*. Gespräch → *weil*. Drei Genitivpräpositionen in einem Absatz lesen sich wie eine Verordnung.
+
+**Die Verben am Nebensatzende**
+
+| Verben | Beispiel |
+|---|---|
+| 1 | *…, dass die Frist **endet**.* |
+| 2 Perfekt | *…, dass die Frist **geendet hat**.* |
+| 2 Passiv | *…, dass die Frist **eingehalten wird**.* |
+| 2 Modal | *…, dass man die Frist **einhalten muss**.* |
+| 3 Passiv + Modal | *…, dass die Frist **eingehalten werden muss**.* |
+| 3 Passiv Perfekt | *…, dass die Frist **eingehalten worden ist**.* |
+| 3 Passiv Futur | *…, dass die Frist **eingehalten werden wird**.* |
+
+**Ausnahme — zwei Infinitive (Ersatzinfinitiv):** das gebeugte Verb rückt **vor** die Infinitivgruppe.
+
+- *…, dass die Frist **hat** eingehalten werden **müssen**.*
+- *…, dass er die Zahlen **hat** prüfen **sollen**.*
+- *…, dass sie das nicht **hat** kommen **sehen**.*
+
+Statt *gemusst / gesollt / gekonnt* steht der **Infinitiv**. Korrekt, aber schwerfällig: Im eigenen Schreiben ist ab vier Verben ein Hauptsatz fast immer besser.
+

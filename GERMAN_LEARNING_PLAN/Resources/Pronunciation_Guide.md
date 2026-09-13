@@ -294,3 +294,27 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 | angeblich ↔ vermeintlich | **AN**geblich ↔ ver**MEINT**lich | unterschiedliche Akzentsilbe |
 | zufolge | unbetont, nachgestellt | *Be**RICH**ten zufolge* |
 
+## B2-U07: Nominalgruppen, Verbketten und Daten
+
+**Lange Nominalgruppen gliedern**
+
+- Die Genitivgruppe wird **als Einheit** gesprochen, danach eine kurze Pause: *Aufgrund der gestiegenen Kosten | wird der Start verschoben.*
+- Der Akzent liegt auf dem **Nomen**, nicht auf der Präposition: *aufgrund der **KOS**ten* · *innerhalb einer **WO**che*.
+- Nachgestellte Präpositionen sind unbetont: *den Be**RICH**ten zufolge* · *den Vor**SCHRIF**ten gemäß*.
+- *an**GE**sichts* · *un**GE**achtet* — Akzent auf der zweiten Silbe.
+
+**Die Verbkette am Satzende**
+
+- Der Akzent liegt auf dem **Vollverb**, alles danach wird leiser: *…, dass der Antrag hat ge**PRÜFT** werden müssen.*
+- Vor dem Verbblock steht eine kleine Pause: *…, dass die Geräte nach der Benutzung | gereinigt werden.*
+- *unter**SAGT*** · *un**ZU**lässig* · aber ***UN**befugt* · *be**DARF***.
+
+**Daten und Nummern am Telefon**
+
+| Form | Sprechweise |
+|---|---|
+| Datum | *am zwölf**TEN*** · *bis zum ers**TEN*** — Ordnungsendung deutlich |
+| Vorgangsnummer | in Zweierblöcken mit Pausen: *84-2291* = *vierundachtzig — zweiundzwanzig — einundneunzig* |
+| Betrag | *neunundvierzig Euro neunzig*, Pause danach |
+| *Widerspruch* ↔ *widersprechen* | ***WI**derspruch* ↔ *wider**SPRE**chen* |
+

@@ -375,3 +375,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | He may not smoke. (guess) | *Er dürfte nicht rauchen.* | **Er dürfte kaum rauchen.** | *dürfte nicht* liest sich als Verbot |
 | the alleged perpetrator (probably guilty) | *der vermeintliche Täter* | **der angebliche Täter** | *vermeintlich* heißt: er war es nicht |
 
+## B2-U07: Regeln, Fristen und förmliche Schreiben
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| because of the noise (written) | *wegen dem Lärm* | **wegen des Lärms** | schriftlich Genitiv; Dativ nur mündlich ⚖ |
+| during the holiday | *während dem Urlaub* | **während des Urlaubs** | *während* + Genitiv |
+| within a week | *innerhalb von einer Woche* ⚖ | **innerhalb einer Woche** | *von* ist überflüssig |
+| according to the reports | *zufolge den Berichten* | **den Berichten zufolge** | *zufolge* wird nachgestellt |
+| due to the storm (result) | *aufgrund des Sturms* | **infolge des Sturms** | *infolge* = Folge, *aufgrund* = Grundlage |
+| thanks to the storm (ironic) | *dank des Sturms* | **wegen des Sturms** | *dank* ist im Deutschen positiv |
+| to cancel an order | *eine Bestellung kündigen* | **eine Bestellung stornieren** | *kündigen* = laufender Vertrag |
+| to object to a decision | *einen Bescheid widersprechen* | **einem Bescheid widersprechen** · *Widerspruch **gegen** … einlegen* | *widersprechen* + Dativ |
+| a right to an explanation | *Anspruch für eine Begründung* | **Anspruch auf eine Begründung** | *Anspruch auf* + Akkusativ |
+| to be liable for damage | *den Schaden haften* | **für den Schaden haften** | *haften für* + Akkusativ |
+| I call on you to pay. | *Ich fordere Sie auf für die Zahlung.* | **Ich fordere Sie auf, zu zahlen.** | *auffordern* + *zu*-Infinitiv |
+| with reference to your letter | *bezugnehmend auf Ihrem Schreiben* | **unter Bezugnahme auf Ihr Schreiben** | *auf* + Akkusativ |
+| exceptions require approval | *Ausnahmen bedürfen die Zustimmung* | **Ausnahmen bedürfen der Zustimmung** | *bedürfen* + Genitiv |
+

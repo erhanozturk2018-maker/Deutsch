@@ -931,3 +931,34 @@
 - **Result:** **PASS** — B2-U06 ist Teil des Kurses. M9 WP3 läuft weiter mit U07.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-024 — M9 WP3 (Teil 3): B2-U07 Recht & Regeln
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U07_Recht_und_Regeln/` (5 Dateien), die B2-U07-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 7 konsolidiert und um die Verbketten erweitert).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (formelle Korrespondenz, Standpunkt schriftlich vertreten, komplexe Sachtexte verstehen).
+- **Method:**
+  - `check_structure.py` → **176 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U07` → **50 ★, 0 unter 3** (ohne Nachbesserung)
+  - `check_links.py` → **2271 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **377 Karten** (U01–U07)
+  - vollständige Wiederlesung; jede Präposition gegen ihren Kasus geprüft, jede Verbkette gegen die Ersatzinfinitiv-Regel
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~95 min). Karteikartentabellen in allen vier Lektionen.
+  2. `PED`, PASS. Die Einheit ist um **eine einzige Fähigkeit** gebaut: in beide Richtungen übersetzen. L1 macht das mit zwei Fassungen desselben Aushangs, L3 mit der Tabelle Amtsdeutsch → Klartext, L4 verlangt beide Richtungen in einer Aufgabe.
+  3. `PED`, PASS. Die **Skala der Strenge** (untersagt → bedarf der Zustimmung → verpflichtet → zulässig → steht frei) ist die eigentliche Lernleistung von L2: Sie entscheidet darüber, ob man überhaupt fragen darf. Die vier **Eskalationsstufen** in L3 sind ihr Gegenstück auf der Handlungsseite, mit der ausdrücklichen Regel „eine Stufe pro Schreiben“.
+  4. `LNG`, PASS. Der Ersatzinfinitiv ist korrekt als **einzige** Ausnahme von der Endstellung dargestellt und mit drei Beispieltypen belegt (Modalverb, Modalverb im Perfekt, Wahrnehmungsverb). Die Dativ-Ausnahmen und der unsichtbare Genitiv im artikellosen Plural sind eigene Regeln, keine Fußnoten.
+  5. `CEF`, PASS. Lesetext „Die unbeantragten Ansprüche“ 400 Wörter; drei Hörtexte je 110–140 Wörter; Schreibaufgabe 250–300 Wörter in Betreff plus fünf Abschnitten; dazu ein kurzes Schreiben (6–8 Sätze) in L3.
+  6. `SPK`, PASS. **Story Bank Task 4 auf B2** („Mein Ort“) verlangt den Ort als **sozialen Raum** inklusive einer Regel oder Zuständigkeit, die ihn prägt — einmal in Regelsprache, einmal in Klartext. Damit trägt die Sprechaufgabe genau die Fähigkeit, um die die Einheit gebaut ist.
+  7. `CEF`/`ETH`, PASS. Die Einheit trägt an **drei** Stellen (Overview, L3, Redemittel-Abschnitt) einen ausdrücklichen Hinweis, dass hier **Sprache** geübt wird und **kein Rechtsrat** erteilt wird, mit Verweis auf Vertrag und Beratungsstelle. Kein Beispiel nennt konkrete gesetzliche Fristen als verbindlich; die Fristen in den Beispielen stammen aus erfundenen Verträgen und Bescheiden.
+  8. `VOC`, PASS. 50 ★-Einträge, alle beim ersten Lauf über der Schwelle. Zwei Kandidaten (*anstelle*, *umsetzen*) wurden beim Entwurf in die Verstehen-Liste verschoben, weil sie in den Lektionen nicht dreimal vorkommen — lieber eine ehrliche Liste als eine künstlich aufgefüllte.
+  9. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene (1–3 → L1, 4–7 → L2, 8–10 → L3).
+  10. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min, konsistent mit U01–U06.
+  11. `DEP`, PASS. Der B2-Recap § 7 wurde von einer einzeiligen Aufzählung auf die konsolidierte Tabelle aus U07 umgestellt und um die Verbketten am Nebensatzende ergänzt; die Statuszeile nennt jetzt U01–U07.
+- **Required changes:** Keine offen.
+- **Resolution:** –
+- **Result:** **PASS** — B2-U07 ist Teil des Kurses. M9 WP3 läuft weiter mit U08.
+- **Approval status:** – (autonomous mode)
+

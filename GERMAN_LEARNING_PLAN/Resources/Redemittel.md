@@ -843,3 +843,70 @@ Taught in [B2-U06](../B2/B2-U06_Wissenschaft_und_Forschung/L3_Korrelation_ist_ke
 
 > ⚠️ ***signifikant*** ist im Deutschen ein **statistischer** Begriff. Wer „wichtig" meint, sagt *bedeutsam* oder *erheblich*. ***Evidenz*** ist kein Zählwort wie englisch *evidence* — zählbar sind **Belege** und **Hinweise**.
 
+## B2: Rules, rights and formal complaints
+
+Taught in [B2-U07](../B2/B2-U07_Recht_und_Regeln/L3_Recht_haben_und_Recht_bekommen.md).
+
+> ⚠️ **Kein Rechtsrat.** Diese Sammlung übt **Sprache**. Welche Fristen und Rechte konkret gelten, sagen der Vertrag, die zuständige Stelle oder eine Beratungsstelle.
+
+**Die Skala der Strenge**
+
+| Stufe | Formulierung |
+|---|---|
+| Verbot | *ist untersagt · ist verboten · ist unzulässig · darf nicht …* |
+| Genehmigungspflicht | *bedarf der Zustimmung · ist genehmigungspflichtig · nur mit vorheriger Erlaubnis* |
+| Pflicht | *ist verpflichtet, zu … · hat zu … · ist zu … · es ist darauf zu achten, dass …* |
+| Empfehlung | *wird empfohlen · es empfiehlt sich, zu … · sollte* |
+| Erlaubnis | *ist zulässig · ist gestattet · steht zur Verfügung* |
+| Freistellung | *es steht jedem frei, zu … · kann, muss aber nicht* |
+
+**Rechte, Pflichten, Haftung:** *berechtigt sein zu · verpflichtet sein zu · Anspruch haben auf* (+ A) · *haften für* (+ A) · *die Kosten tragen* · *die Gebühr entfällt* · *weitere Schritte bleiben vorbehalten*
+
+**Die vier Stufen einer Auseinandersetzung**
+
+| Stufe | Sprache |
+|---|---|
+| 1 Anfragen | *Ich wende mich an Sie, weil … · Können Sie mir mitteilen, ob …?* |
+| 2 Frist setzen | *Ich fordere Sie auf, … **bis zum** … · Ich setze Ihnen eine Frist bis …* |
+| 3 Widerspruch | *Hiermit lege ich Widerspruch gegen … vom … ein. · Ich widerspreche der Entscheidung vom …* |
+| 4 Stelle einschalten | *Sollte keine Reaktion erfolgen, werde ich die Beratungsstelle einschalten.* |
+
+> **Eine Stufe pro Schreiben.** Wer im ersten Brief mit der letzten Stufe droht, hat nichts mehr in der Hand.
+
+**Der Aufbau eines förmlichen Schreibens**
+
+| Baustein | Formulierung |
+|---|---|
+| Betreff | *Sache · Nummer · **Frist**: „Doppelte Abbuchung, Kundennr. … — Rückerstattung bis …"* |
+| Bezug | *Unter Bezugnahme auf Ihr Schreiben vom … · In Ihrem Bescheid vom … heißt es, …* |
+| Sachverhalt | *Am 28. August wurde … · Vereinbart war …* (datiert, **ohne Bewertung**) |
+| Forderung | *Ich fordere Sie auf, … zu … · Ich beantrage … · Ich bitte um …* (**eine**, nicht drei) |
+| Frist | *bis zum 27. September · binnen zwei Wochen* (Datum, nicht „zeitnah") |
+| Folge | *Sollte … nicht erfolgen, werde ich …* |
+| Nachweis | *Als Nachweis füge ich … bei. · Die Unterlagen liegen bei.* |
+
+**Zu weich ↔ verbindlich**
+
+| ❌ | ✅ |
+|---|---|
+| *Vielleicht könnten Sie das prüfen?* | *Ich bitte Sie, den Vorgang zu prüfen.* |
+| *bei Gelegenheit* | *bis zum 27. September* |
+| *Ich wäre Ihnen sehr dankbar, wenn …* | *Ich fordere Sie auf, …* |
+| *Es wäre schön, wenn sich jemand meldet.* | *Ich bitte um eine schriftliche Bestätigung.* |
+
+Der Ton bleibt **sachlich**: kein *endlich*, kein *unglaublich*, keine Ausrufezeichen. Die Schärfe liegt in **Frist und Folge**.
+
+**Amtsdeutsch → Klartext**
+
+| Amtsdeutsch | Klartext |
+|---|---|
+| *Ihrem Antrag kann nicht entsprochen werden.* | Nein. |
+| *Die Angelegenheit wird geprüft.* | Es passiert gerade nichts. |
+| *Es wird gebeten, … einzureichen.* | Sie müssen … einreichen. |
+| *Es bleibt Ihnen unbenommen, …* | Sie dürfen, aber wir helfen nicht. |
+| *Nach Aktenlage …* | Nach dem, was uns vorliegt. |
+| *Der Bescheid ergeht kostenpflichtig.* | Sie zahlen Gebühren. |
+| *Gegen diesen Bescheid kann innerhalb eines Monats Widerspruch eingelegt werden.* | Sie haben **einen Monat**. |
+
+> Der letzte Satz heißt **Rechtsbehelfsbelehrung** und steht am Ende jedes Bescheids. Suchen Sie ihn zuerst: Er sagt Ihnen, wie viel Zeit Sie haben.
+

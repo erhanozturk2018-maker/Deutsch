@@ -537,3 +537,17 @@
 - **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U06 und R1. Validiert als V-023. Als Nächstes B2-U07 Recht & Regeln (Genitivpräpositionen, Passiv im Nebensatz).
 
+## [024] 2026-09-13 — M9 WP3 (Teil 3): B2-U07 Recht & Regeln
+
+- **Milestone:** M9, WP3 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U07_Recht_und_Regeln/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Genitive prepositions and verb clusters), `Resources/Redemittel.md` (B2: Rules, rights and formal complaints), `Resources/English_German_Interference.md` (B2-U07), `Resources/Pronunciation_Guide.md` (B2-U07), `Anki/B2.tsv` (377 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U07 Recht & Regeln:** L1 *Aufgrund der Sachlage* (Genitivpräpositionen nach Bedeutungsfeldern, Dativ-Ausnahmen, nachgestellte Präpositionen, unsichtbarer Genitiv im artikellosen Plural, Register) · L2 *Was zu beachten ist* (Verbreihenfolge am Nebensatzende bis zu vier Verben, Ersatzinfinitiv, Skala der Strenge, Rechte/Pflichten/Haftung, Regeltexte in drei Fragen zerlegen) · L3 *Recht haben und Recht bekommen* (vier Eskalationsstufen, Aufbau eines förmlichen Schreibens, höflich und trotzdem hart, Amtsdeutsch entschlüsseln, Vertrag/Kündigung/Widerruf/Mahnung/Bescheid) · L4 *Anwenden* (Widerspruch schriftlich und am Telefon in beiden Rollen, Story Bank Task 4 auf B2, Artikel „Die unbeantragten Ansprüche“, drei Stimmen zum Verfahren, vollständiger Widerspruch, Test).
+  2. **Resources:** Genitivpräpositionen als Gesamttabelle nach Bedeutungsfeldern samt Kasus- und Registerregeln; die Verbketten am Nebensatzende inklusive Ersatzinfinitiv; Redemittel für Strenge-Skala, Eskalationsstufen, Schreibenaufbau und Amtsdeutsch → Klartext; dreizehn Interferenzfallen; Aussprache von Nominalgruppen, Verbketten, Daten und Nummern.
+  3. **B2-Recap konsolidiert:** § 7 enthält jetzt die geprüfte Präpositionstabelle aus U07 und die Verbketten; die Statuszeile nennt U01–U07.
+  4. **Ethische Absicherung:** Die Einheit sagt an drei Stellen ausdrücklich, dass sie **Sprache** übt und **keinen Rechtsrat** gibt, und verweist auf Vertrag und Beratungsstelle.
+- **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U07 und R1. Validiert als V-024. Als Nächstes B2-U08 Gesundheit & Psyche (Futur I/II als Vermutung), dann B2-R2 und das B2 Midpoint.
+
