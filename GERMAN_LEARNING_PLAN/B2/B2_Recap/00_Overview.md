@@ -10,7 +10,7 @@ status: in-progress
 ---
 # B2 Recap — Überblick
 
-> **Level:** B2 · **Status: teilweise konsolidiert.** **B2-U01 bis B2-U06 sind gebaut.** Aus diesen Einheiten geprüft übernommen: Partizipialattribute und Gerundivum (U01), Nominalstil und Funktionsverbgefüge (U02), Konjunktiv I und indirekte Rede (U03), Passiversatzformen (U04), Konditional- und Konzessivsätze (U05), subjektive Modalverben (U06), **Genitivpräpositionen und Verbketten am Nebensatzende** (U07). Alles Übrige — darunter Futur I/II als Vermutung, Modalpartikeln und die Wortstellung zur Betonung — ist weiterhin eine aus den **CEFR-B2-Deskriptoren** gebaute Referenz und wird mit jeder neuen Einheit (M9) konsolidiert.
+> **Level:** B2 · **Status: teilweise konsolidiert.** **B2-U01 bis B2-U06 sind gebaut.** Aus diesen Einheiten geprüft übernommen: Partizipialattribute und Gerundivum (U01), Nominalstil und Funktionsverbgefüge (U02), Konjunktiv I und indirekte Rede (U03), Passiversatzformen (U04), Konditional- und Konzessivsätze (U05), subjektive Modalverben (U06), Genitivpräpositionen und Verbketten am Nebensatzende (U07), **Futur I und II als Vermutung** (U08). Alles Übrige — darunter Modalpartikeln und die Wortstellung zur Betonung — ist weiterhin eine aus den **CEFR-B2-Deskriptoren** gebaute Referenz und wird mit jeder neuen Einheit (M9) konsolidiert.
 > **It answers one question:** *what should I know at the end of B2?*
 > **It is not a lesson.** No exercises. Use it as a map, a checklist and a quick reference.
 

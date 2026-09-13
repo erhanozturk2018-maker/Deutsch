@@ -182,12 +182,26 @@ The same modal verbs, but now they say something about the **speaker**, not abou
 
 ## 5 · Futur I und II als Vermutung
 
+*Aus [B2-U08](../B2-U08_Gesundheit_und_Psyche/L1_Er_wird_es_vergessen_haben.md) konsolidiert.*
+
+German normally expresses the future with the **present** (*Morgen fahre ich nach Köln*). The Futur forms exist above all for **assumption**.
+
 | Form | Gebrauch | Beispiel |
 |---|---|---|
-| **Futur I** (*werden* + Inf.) | future, promise, **assumption about now** | *Er **wird** im Büro **sein**.* (he's probably in the office) |
-| **Futur II** (*werden* + Part. II + *haben/sein*) | **assumption about the past**, or completed future | *Er **wird** es **vergessen haben**.* · *Bis Mai **werde** ich das **abgeschlossen haben**.* |
+| **Futur I** (*werden* + Inf.) | **Vermutung über jetzt** | *Sie **wird** im Zug **sitzen**.* |
+| Futur I | Zusage, Versprechen | *Ich **werde** mich darum **kümmern**.* |
+| Futur I ⚠️ | scharfe Aufforderung | *Du **wirst** dich jetzt **entschuldigen**.* |
+| **Futur II** (*werden* + Part. II + *haben/sein*) | **Vermutung über früher** | *Er **wird** es **vergessen haben**.* |
+| Futur II | abgeschlossene Zukunft | *Bis Mai **werde** ich das **abgeschlossen haben**.* |
+| Futur II Passiv | – | *Der Antrag **wird** bearbeitet **worden sein**.* |
 
-Often combined with *wohl, sicher, schon*: *Das **wird** er **wohl vergessen haben**.*
+- **Hilfsverb wie im Perfekt:** *wird **gegangen sein*** ↔ *wird **angerufen haben***.
+- **Signalwörter:** *wohl · schon · sicher · bestimmt · vermutlich*. Ohne sie ist Futur I oft mehrdeutig.
+- **Feste Wendung:** *Das wird schon wieder.*
+- **Im Nebensatz** steht das gebeugte *wird* ganz hinten: *…, dass er es **vergessen haben wird***.
+- **Register gegenüber § 4:** *dürfte* steht im Bericht, *wird wohl* im Gespräch — beide sagen dasselbe.
+
+> ⚠️ ***werden*** ohne Infinitiv heißt **become**: *Ich werde müde.* Englisch *I will call* ist ***Ich rufe an*** / ***Ich werde anrufen***, nie *~~Ich will anrufen~~*.
 
 ---
 

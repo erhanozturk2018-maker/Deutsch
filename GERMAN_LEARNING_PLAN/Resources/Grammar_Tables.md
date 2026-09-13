@@ -1089,3 +1089,34 @@ Taught in [B2-U07](../B2/B2-U07_Recht_und_Regeln/L1_Aufgrund_der_Sachlage.md) (p
 
 Statt *gemusst / gesollt / gekonnt* steht der **Infinitiv**. Korrekt, aber schwerfällig: Im eigenen Schreiben ist ab vier Verben ein Hauptsatz fast immer besser.
 
+## B2: Futur as assumption
+
+Taught in [B2-U08](../B2/B2-U08_Gesundheit_und_Psyche/L1_Er_wird_es_vergessen_haben.md).
+
+German normally expresses the future with the **present tense** (*Morgen fahre ich nach Köln*). The Futur forms are used above all for **assumption**.
+
+| Form | Bau | Beispiel | Bedeutung |
+|---|---|---|---|
+| **Futur I** | *werden* + Infinitiv | *Sie **wird** im Zug **sitzen**.* | Vermutung über **jetzt** |
+| Futur I | – | *Ich **werde** mich darum **kümmern**.* | Zusage, Versprechen |
+| Futur I ⚠️ | – | *Du **wirst** dich jetzt **entschuldigen**.* | scharfe Aufforderung |
+| **Futur II** | *werden* + Part. II + *haben/sein* | *Er **wird** es **vergessen haben**.* | Vermutung über **früher** |
+| Futur II | – | *Bis Mai **werde** ich das **abgeschlossen haben**.* | abgeschlossene Zukunft |
+| Futur II Passiv | – | *Der Antrag **wird** bearbeitet **worden sein**.* | – |
+
+- **Hilfsverb wie im Perfekt:** *wird **gegangen sein*** (ist gegangen) ↔ *wird **angerufen haben*** (hat angerufen).
+- **Signalwörter:** *wohl · schon · sicher · bestimmt · vermutlich*. Ohne sie ist Futur I oft mehrdeutig (Zusage oder Vermutung).
+- **Feste Wendung:** *Das wird schon wieder.* (= it'll be all right)
+- **Im Nebensatz** steht das gebeugte *wird* ganz hinten: *…, dass er es **vergessen haben wird***.
+
+**Futur oder Modalverb? Dasselbe sagen, anderes Register**
+
+| Form | Sicherheit | Register |
+|---|---|---|
+| *Das **muss** so sein.* | ~100 % | Schlussfolgerung |
+| *Das **dürfte** so sein.* | ~90 % | Bericht, schriftlich |
+| *Das **wird wohl** so sein.* | ~80 % | Gespräch, alltäglich |
+| *Das **könnte** so sein.* | ~50 % | offen |
+
+> ⚠️ ***werden*** ohne Infinitiv heißt **become**: *Ich werde müde.* Und englisch *I will call* ist ***Ich rufe an*** / ***Ich werde anrufen***, nie *~~Ich will anrufen~~*.
+

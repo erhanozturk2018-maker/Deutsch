@@ -910,3 +910,64 @@ Der Ton bleibt **sachlich**: kein *endlich*, kein *unglaublich*, keine Ausrufeze
 
 > Der letzte Satz heißt **Rechtsbehelfsbelehrung** und steht am Ende jedes Bescheids. Suchen Sie ihn zuerst: Er sagt Ihnen, wie viel Zeit Sie haben.
 
+## B2: Health, feeling and supportive conversation
+
+Taught in [B2-U08](../B2/B2-U08_Gesundheit_und_Psyche/L2_Mir_geht_es_nicht_gut.md) (Befinden) and [L3](../B2/B2-U08_Gesundheit_und_Psyche/L3_Zuhoeren_ohne_zu_reparieren.md) (Gespräch).
+
+> ⚠️ **Kein medizinischer Rat, keine Therapie-Ausbildung.** Diese Sammlung übt **Sprache**. Zuständig sind Ärztinnen, Apotheken und Beratungsstellen; in einer akuten Krise der ärztliche Notdienst oder die Notrufnummer des Landes.
+
+**Die Dativkonstruktionen des Befindens**
+
+| Konstruktion | Beispiel |
+|---|---|
+| *mir ist* + Adjektiv | *Mir ist übel / schwindelig / kalt.* |
+| *mir geht es* + Adverb | *Mir geht es besser.* |
+| *es fällt mir schwer, zu …* | *Es fällt mir schwer, mich zu konzentrieren.* |
+| *mir fehlt* + Nominativ | *Mir fehlt die Ruhe.* · *Mir fehlt nichts.* (= ich bin gesund) |
+| *mir tut … weh* | *Mir tut der Rücken weh.* |
+| *es liegt an* (+ D) | *Es liegt wohl am Schlaf.* |
+
+**Beschwerden beschreiben:** *ziehen* (langgezogen) · *stechen* (spitz) · *drücken* (dumpf) · *brennen* · *pochen* · *taub sein* · *kribbeln* — dazu immer **seit wann**, **wie oft**, **wodurch besser oder schlechter**.
+
+**Seelische Zustände in drei Stufen**
+
+| leicht | deutlich | schwer |
+|---|---|---|
+| müde | **erschöpft** | ausgelaugt |
+| viel zu tun | **überfordert** | am Limit |
+| unruhig | **angespannt** | unter Dauerstress |
+| bedrückt | **niedergeschlagen** | verzweifelt |
+
+*Ich komme nicht zur Ruhe. · Ich kriege den Kopf nicht frei. · Es wächst mir über den Kopf. · Ich bin gerade nicht belastbar. · Ich brauche eine Pause, keine Lösung.*
+
+> ⚠️ **Alltagswort ≠ Diagnose.** *niedergeschlagen* ≠ *Depression*, *unruhig* ≠ *Angststörung*. Klinische Wörter nur benutzen, wenn sie gemeint sind — sonst wird die eigene Aussage ungenauer und das Wort für die Betroffenen kleiner.
+
+**Fünf Antwortstufen auf „Wie geht's?"**
+
+*Gut, danke.* → *Ganz okay. Es geht.* → *Durchwachsen.* → *Ehrlich gesagt gerade nicht so gut.* → *Mir geht es schlecht. Ich brauche …*
+
+**Das unterstützende Gespräch in vier Schritten**
+
+| Schritt | Sprache |
+|---|---|
+| 1 Wahrnehmen | *Das klingt anstrengend. · Ich habe den Eindruck, dass … · Du wirkst gerade …* |
+| 2 Benennen lassen | *Magst du erzählen? · Seit wann geht das so? · Was genau ist es?* |
+| 3 Fragen, was gebraucht wird | *Was würde dir gerade helfen? · Willst du erzählen, oder soll ich mitdenken?* |
+| 4 Konkret anbieten | *Soll ich Donnerstag einkaufen? · Ich kann Dienstag und Donnerstag. · Ich rufe Sonntag an.* |
+
+**Was selten hilft:** *Kopf hoch · Andere haben es schlimmer · Du musst einfach mal … · Ich weiß genau, wie du dich fühlst · Positiv denken!*
+
+**Unverbindlich → konkret**
+
+| ❌ | ✅ |
+|---|---|
+| *Melde dich, wenn du was brauchst.* | *Ich rufe dich Sonntagabend an.* |
+| *Ich bin immer für dich da.* | *Ich kann diese Woche Dienstag und Donnerstag.* |
+| *Wenn ich irgendwie helfen kann …* | *Soll ich Donnerstag einkaufen gehen?* |
+
+**Grenzen setzen:** *Ich habe Zeit bis halb sieben. · Heute schaffe ich das nicht, morgen ab vier gern. · Ich bin gerade selbst nicht belastbar. · Ich höre dir gern zu, aber die Entscheidung kann ich dir nicht abnehmen.*
+
+**Um Unterstützung bitten:** Lage **ohne Entschuldigung** → **konkret** bitten → **befristen** → **Ausweg lassen**. Im Beruf: *Ich schaffe A und B bis Freitag. C schaffe ich nicht — was ist wichtiger?*
+
+**Wenn ein Gespräch nicht reicht:** *Ich bleibe dabei. Und ich glaube, das ist mehr, als ich tragen kann. · Soll ich mit dir zusammen nach einer Beratungsstelle suchen? · Willst du, dass ich dich zum Termin begleite? · Ich mache mir Sorgen — geht es dir so schlecht, dass du daran denkst, dir etwas anzutun?* Bei **ja**: ärztlicher Notdienst oder Notrufnummer.
+

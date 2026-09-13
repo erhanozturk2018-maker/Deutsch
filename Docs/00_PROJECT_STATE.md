@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-13. Session 7: M9 WP3 laeuft — B2-U05 bis B2-U07 gebaut (V-022 bis V-024). **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-13. Session 7: M9 WP3 laeuft — B2-U05 bis B2-U08 gebaut (V-022 bis V-025). **Update at every milestone or batch boundary.**
 
 ---
 
@@ -16,9 +16,9 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M
 Current Phase:      Curriculum Construction
 Current Milestone:  M9 — B2 ▶ IN PROGRESS (WP3). Zuletzt abgeschlossen: M6 B1.1 ✅ (2026-09-12, V-015)
 Status:             IN PROGRESS
-Current batch:      M9 WP3 (U05-U07 gebaut; V-022 bis V-024). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Current batch:      M9 WP3 (U05-U08 gebaut; V-022 bis V-025). Es fehlen noch B2-R2 und das B2 Midpoint. Sequenz auf Nutzerwunsch: B2 vor M7/M8.
 Next task:          M9 WP3: **B2-U08 Gesundheit & Psyche** (Futur I/II als Vermutung), **B2-R2** und das **B2 Midpoint**. Danach WP4 (U09-U12, R3, B2 Exit). Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2)
-Last completed:     M9 WP3 (Teil 3) — B2-U07 Recht & Regeln (2026-09-13, V-024)
+Last completed:     M9 WP3 (Teil 4) — B2-U08 Gesundheit & Psyche (2026-09-13, V-025)
 Build order:        **B2 (M9) → B1.2 (M7) → C1 (M10) → C2 (M11)**; M8 (Audit A1-B1) nach M7. Nutzerentscheidung 2026-09-13.
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)

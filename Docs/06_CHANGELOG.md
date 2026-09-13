@@ -551,3 +551,17 @@
 - **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U07 und R1. Validiert als V-024. Als Nächstes B2-U08 Gesundheit & Psyche (Futur I/II als Vermutung), dann B2-R2 und das B2 Midpoint.
 
+## [025] 2026-09-13 — M9 WP3 (Teil 4): B2-U08 Gesundheit & Psyche
+
+- **Milestone:** M9, WP3 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U08_Gesundheit_und_Psyche/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Futur as assumption), `Resources/Redemittel.md` (B2: Health, feeling and supportive conversation), `Resources/English_German_Interference.md` (B2-U08), `Resources/Pronunciation_Guide.md` (B2-U08), `Anki/B2.tsv` (427 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U08 Gesundheit & Psyche:** L1 *Er wird es vergessen haben* (Futur I als Vermutung über die Gegenwart, Futur II über die Vergangenheit und für die abgeschlossene Zukunft, Hilfsverbwahl, Signalwörter, Futur ↔ Modalverb als Registerfrage) · L2 *Mir geht es nicht gut* (Dativkonstruktionen, Schmerzverben, seelische Zustände in drei Stufen, Alltagswort ≠ Diagnose, fünf Antwortstufen auf „Wie geht's?“) · L3 *Zuhören, ohne zu reparieren* (vier Gesprächsschritte, was selten hilft, konkrete Angebote mit Datum, Grenzen setzen, um Unterstützung bitten, und die Sätze für den Moment, in dem ein Gespräch nicht reicht) · L4 *Anwenden* (Gespräch und Nachricht in beiden Rollen, Story Bank Task 8 auf B2 mit Beleg statt Etikett, Artikel „Die Erschöpfung, die keine Diagnose ist“, drei Stimmen zur Belastung, die Nachricht, die hilft, Test).
+  2. **Resources:** Futur als Vermutung mit Gebrauchstabelle und Registervergleich zu den subjektiven Modalverben; Redemittel für Befinden, Beschwerden, die vier Gesprächsschritte, Grenzen und Bitten; dreizehn Interferenzfallen; Aussprache von unbetontem *wird*, *mir* ↔ *mich* und der Gesprächspause.
+  3. **B2-Recap konsolidiert:** § 5 ist jetzt die geprüfte Fassung aus U08; die Statuszeile nennt U01–U08.
+  4. **Ethische Absicherung:** vier Hinweise „kein medizinischer Rat, keine Therapie-Ausbildung“ mit Verweis auf Ärztin, Beratungsstelle und Notdienst (ohne erfundene Nummern); beide Rollenspiel-Prompts schließen akute Krisen und Diagnosen ausdrücklich aus.
+- **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U08 und R1. Validiert als V-025. Es fehlen zum Abschluss von WP3 noch **B2-R2** und das **B2 Midpoint Checkpoint**.
+

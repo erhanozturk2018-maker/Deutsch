@@ -318,3 +318,28 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 | Betrag | *neunundvierzig Euro neunzig*, Pause danach |
 | *Widerspruch* ↔ *widersprechen* | ***WI**derspruch* ↔ *wider**SPRE**chen* |
 
+## B2-U08: unbetontes *wird*, *mir* ↔ *mich*, und die Pause
+
+**Die Vermutung klingt leise**
+
+- In der Vermutung ist ***wird*** unbetont und sehr kurz; der Akzent liegt auf dem Vollverb: *Er wird es ver**GES**sen haben.*
+- Das *haben* am Ende schmilzt zu *hab'm*; ***wohl*** verschwindet fast: *Er wird wohl **SCHLA**fen.*
+- Betontes ***WIRD*** macht aus der Vermutung eine Ansage: *Du **WIRST** das jetzt machen.*
+
+**mir ↔ mich**
+
+| Wort | Laut | Beispiel |
+|---|---|---|
+| *mir* | *r* am Ende ist fast ein **a**: *mi-a* | *Mir ist übel.* |
+| *mich* | weicher ich-Laut, nie *k* | *Ich fühle mich schlecht.* |
+
+- Beim Aufzählen von Beschwerden trägt jedes Symptomwort einen eigenen Akzent mit kleiner Pause: *Seit Montag **KOPF**schmerzen, | zwischendurch **Ü**belkeit, | abends **SCHWIN**del.*
+- *er**SCHÖPFT*** (langes ö, deutliches *pf*) · *überFOR**dert***.
+
+**Die Pause im unterstützenden Gespräch**
+
+- Nach *Das klingt anstrengend.* folgt **nichts** — zwei bis drei Sekunden. Wer sie füllt, redet die andere Person zu.
+- **Fallende** Intonation macht warm, steigende macht zum Verhör: *Seit wann geht das so?* ↘ interessiert · ↗ prüfend.
+- *Was würde **DIR** helfen?* — der Akzent auf *dir* ist der ganze Unterschied zwischen Frage und Ratschlag.
+- Bei Grenzen bleibt die Stimme ruhig und tief, ohne Entschuldigungsmelodie am Ende: *Ich habe Zeit bis halb sieben.*
+

@@ -393,3 +393,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | with reference to your letter | *bezugnehmend auf Ihrem Schreiben* | **unter Bezugnahme auf Ihr Schreiben** | *auf* + Akkusativ |
 | exceptions require approval | *Ausnahmen bedürfen die Zustimmung* | **Ausnahmen bedürfen der Zustimmung** | *bedürfen* + Genitiv |
 
+## B2-U08: Vermutung, Befinden und Zuhören
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| I will call you tomorrow. | *Ich will dich morgen anrufen.* | **Ich rufe dich morgen an.** | *wollen* = want to |
+| I'm getting tired. | *Ich werde müde sein.* | **Ich werde müde.** | *werden* ohne Infinitiv = become |
+| He will have left. | *Er wird gegangen haben.* | **Er wird gegangen sein.** | Hilfsverb wie im Perfekt |
+| I feel sick. | *Ich bin übel.* | **Mir ist übel.** | Dativkonstruktion |
+| I feel bad. | *Ich fühle schlecht.* | **Ich fühle mich schlecht.** | *sich fühlen* ist reflexiv |
+| I find it hard. | *Es fällt mich schwer.* | **Es fällt mir schwer.** | Dativ |
+| I'm fine / nothing's wrong. | *Ich vermisse nichts.* | **Mir fehlt nichts.** | feste Wendung |
+| I have a pain in my back. | *Ich habe Schmerz im Rücken.* | **Ich habe Schmerzen im Rücken.** | fast immer Plural |
+| I'm depressed today. (no diagnosis) | *Ich bin heute depressiv.* | **Ich bin heute niedergeschlagen.** | klinisches Wort nur für Diagnosen |
+| I listen to you. | *Ich höre dich zu.* | **Ich höre dir zu.** | *zuhören* + Dativ |
+| What would help you? | *Was würdest du helfen?* | **Was würde dir helfen?** | *helfen* + Dativ |
+| I'm worried. | *Ich mache mir Sorge.* | **Ich mache mir Sorgen.** | feste Wendung im Plural |
+| I'll accompany you. | *Ich begleite dich mit.* | **Ich begleite dich.** | *begleiten* ist nicht trennbar |
+

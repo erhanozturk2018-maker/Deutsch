@@ -962,3 +962,35 @@
 - **Result:** **PASS** — B2-U07 ist Teil des Kurses. M9 WP3 läuft weiter mit U08.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-025 — M9 WP3 (Teil 4): B2-U08 Gesundheit & Psyche
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U08_Gesundheit_und_Psyche/` (5 Dateien), die B2-U08-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 5 konsolidiert).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (Gefühle differenziert ausdrücken, ein Gespräch aktiv führen, eigene Bedürfnisse begründen).
+- **Method:**
+  - `check_structure.py` → **181 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U08` → **40 ★, 0 unter 3** (ohne Nachbesserung)
+  - `check_links.py` → **2312 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **427 Karten** (U01–U08)
+  - vollständige Wiederlesung; jede Futur-II-Form gegen die Hilfsverbwahl geprüft, jede Dativkonstruktion gegen ihre englische Entsprechung
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~95 min). Karteikartentabellen in allen vier Lektionen.
+  2. `PED`, PASS. Die Einheit verbindet eine **Form** (Futur als Vermutung) mit einem **Thema**, das diese Form tatsächlich braucht: über andere Menschen wird ständig vermutet. L2 und L3 machen daraus eine Haltung — genau beschreiben statt etikettieren, fragen statt raten.
+  3. `PED`, PASS. Die fünf **Antwortstufen** auf „Wie geht's?“ und die vier **Gesprächsschritte** sind die beiden praktischen Kerne. Beide sind als Skala gebaut, nicht als Entweder-oder, und beide verlangen in der Aufgabe eine bewusste Wahl.
+  4. `LNG`, PASS. Die Dativkonstruktionen (*mir ist · mir geht es · es fällt mir schwer · mir fehlt*) sind als eigenes System dargestellt, nicht als Vokabelliste; die häufigste Interferenz (*Ich bin übel*, *Ich fühle schlecht*) ist als Fehlerzeile und im Interferenzblatt erfasst.
+  5. `CEF`, PASS. Lesetext „Die Erschöpfung, die keine Diagnose ist“ 400 Wörter; drei Hörtexte je 120–150 Wörter; Schreibaufgabe 250–300 Wörter in fünf Abschnitten.
+  6. `SPK`, PASS. **Story Bank Task 8 auf B2** („Ein Mensch, der mir wichtig ist“) verlangt ausdrücklich **Beleg statt Etikett** — zu jeder Eigenschaft eine Situation — und eine Stelle, an der die Lernende etwas **nicht** weiß. Die Sprechaufgabe übt damit dieselbe Genauigkeit wie L2.
+  7. `ETH`, PASS. Die Einheit trägt an **vier** Stellen (Overview, L2, L3, L4) den Hinweis, dass sie Sprache übt und weder medizinischen Rat noch eine Therapie-Ausbildung ersetzt, mit Verweis auf Ärztin, Beratungsstelle, ärztlichen Notdienst und die Notrufnummer des jeweiligen Landes — **ohne** eine konkrete Nummer zu erfinden. Der Abschnitt „Wenn es mehr ist als ein Gespräch“ nennt die direkte Frage nach Suizidgedanken und sagt klar, dass bei einem Ja die Zuständigkeit wechselt. Beide Rollenspiel-Prompts schreiben der KI ausdrücklich vor, **keine** akute Krise und keine drastischen Inhalte zu spielen und keine Diagnosen zu stellen; die Sprechaufgabe in L3 stellt frei, wie viel die Lernende preisgibt.
+  8. `LNG`, PASS. Der Abschnitt „Alltagswort ≠ Diagnose“ begründet die Unterscheidung zweifach — Rücksicht **und** Genauigkeit — und verurteilt den verbreiteten Gebrauch nicht, sondern zeigt, was er kostet.
+  9. `VOC`, PASS. 40 ★-Einträge, alle beim ersten Lauf über der Schwelle. *aufnahmefähig* und *guttun* wurden beim Entwurf in die Verstehen-Liste verschoben, weil sie in den Lektionen nicht dreimal vorkommen.
+  10. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene (1–3 → L1, 4–7 → L2, 8–10 → L3).
+  11. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min, konsistent mit U01–U07.
+  12. `DEP`, PASS. Der B2-Recap § 5 (Futur I/II als Vermutung) wurde von der CEFR-Referenz auf die geprüfte Fassung aus U08 umgestellt, inklusive des Registerhinweises auf § 4; die Statuszeile nennt jetzt U01–U08 und benennt als weiterhin unkonsolidiert nur noch Modalpartikeln und die Wortstellung zur Betonung.
+- **Required changes:** Keine offen.
+- **Resolution:** –
+- **Result:** **PASS** — B2-U08 ist Teil des Kurses. Als Nächstes **B2-R2** und das **B2 Midpoint Checkpoint**, womit M9 WP3 abgeschlossen wäre.
+- **Approval status:** – (autonomous mode)
+
