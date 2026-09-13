@@ -209,11 +209,13 @@ German normally expresses the future with the **present** (*Morgen fahre ich nac
 
 | Konnektor | Typ | Bedeutung | Beispiel |
 |---|---|---|---|
-| **indem** | Nebensatz | by …-ing (means) | Man spart Energie, **indem** man weniger heizt. |
+| **indem** | Nebensatz | by …-ing (**Mittel**, nicht Zweck) | Man spart Energie, **indem** man weniger heizt. |
 | **dadurch, dass** | Nebensatz | through the fact that | **Dadurch, dass** er früher anfing, wurde er fertig. |
 | **sodass / so … dass** | Nebensatz | so that (consequence) | Es regnete, **sodass** wir blieben. · Es war **so** kalt, **dass** … |
-| **ohne dass / ohne … zu** | Nebensatz | without | Er ging, **ohne** sich **zu** verabschieden. |
-| **anstatt dass / anstatt … zu** | Nebensatz | instead of | **Anstatt zu** helfen, kritisierte er nur. |
+| **ohne dass / ohne … zu** | Nebensatz | without (**kein** *nicht* danach) | Er ging, **ohne** sich **zu** verabschieden. |
+| **anstatt dass / anstatt … zu** | Nebensatz | instead of (*statt* + **G** beim Nomen) | **Anstatt zu** helfen, kritisierte er nur. |
+
+> **Die Subjektregel** *(aus [B2-U10](../B2-U10_Migration_und_Zusammenleben/L1_Indem_man_zuhoert.md))*: Bei *ohne*, *(an)statt* und *um* gilt — **gleiches Subjekt → Infinitiv mit *zu***, **verschiedenes Subjekt → *dass*-Satz** (bzw. *damit* bei *um*). ***indem*** nennt das **Mittel**, ***um … zu*** den **Zweck**; Probe: *Wodurch?* ↔ *Wozu?* ***dadurch, dass*** kann auch eine unbeabsichtigte **Ursache** nennen. ***wobei*** steht oft fast als eigener Satz und leitet einen Einwand ein, ohne zu widersprechen.
 | **sofern / falls** | Nebensatz | provided that / in case | **Sofern** nichts dazwischenkommt, komme ich. |
 | **je nachdem, ob / wie** | Nebensatz | depending on | **Je nachdem, wie** es läuft, bleibe ich länger. |
 | **obwohl ↔ trotzdem** | NS ↔ Pos. 1 | although ↔ nevertheless | **Obwohl** es regnete, … / Es regnete; **trotzdem** gingen wir. |

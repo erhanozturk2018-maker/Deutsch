@@ -59,7 +59,7 @@ Heute bringen Sie alles zusammen:
 - die **vier Fragen** einer Kritik und die Trennung von Geschmack und Urteil (L3)
 - **eine** Rezension in **zwei Formaten**: zwei Minuten gesprochen, 250–300 Wörter geschrieben
 
-> **Hinweis zur Story Bank:** Die acht Aufgaben der [Story Bank](../../Learner_Workbook/Story_Bank.md) sind auf B2 vollständig durchlaufen (U01 bis U08). Ab dieser Einheit tritt an ihre Stelle ein anderes 4/3/2-Format — die **Rezension**. Nehmen Sie sie trotzdem auf und legen Sie sie in dieselbe Sammlung: Sie ist Ihr Vergleichsstück für das B2 Exit.
+> **Hinweis zur Story Bank:** Die acht Aufgaben der [Story Bank](../../Learner_Workbook/Story_Bank.md) sind auf B2 vollständig durchlaufen (U01 bis U08). Ab dieser Einheit hat jede Einheit ihr eigenes 4/3/2-Format; hier ist es die **Rezension**. Nehmen Sie sie trotzdem auf und legen Sie sie in dieselbe Sammlung: Sie ist Ihr Vergleichsstück für das B2 Exit.
 
 ## 🎭 Aufgabe
 

@@ -376,3 +376,31 @@ Ohne hörbaren Umlaut kippt der irreale Vergleich in eine Behauptung. Üben Sie 
 
 Deutsche Komposita betonen dagegen vorn: ***HAND**lung* · ***HAUPT**figur* · ***DREH**buch* · ***SCHNITT***. Fremdwort und Kompositum im selben Satz sicher zu betonen ist das eigentliche Kennzeichen von B2.
 
+## B2-U10: Nebensatzpausen, lange Komposita und die Frage, die nicht angreift
+
+**Der Nebensatz braucht seine Pause**
+
+- ***indem*** wird auf der **zweiten** Silbe betont: *in**DEM*** — im Unterschied zu *in **DEM** Haus*.
+- Vor *indem*, *ohne … zu*, *anstatt … zu* steht eine kurze Pause, genau dort, wo das Komma steht: *Man spart Energie, | indem man weniger heizt.*
+- ***ohne zu*** und ***anstatt zu*** sind unbetont; der Akzent liegt auf dem **Infinitiv**: *ohne sich zu ver**AB**schieden* · *anstatt zu **HEL**fen*.
+- ***wobei*** als Einwand steht allein, mit Pause danach: *Das klappt gut. **WO**bei — | bei großen Gruppen wird es schwierig.*
+
+**Lange Komposita in Bausteinen**
+
+***AUF**enthalts-titel* · ***STAATS**-angehörigkeit* · ***EIN**bürgerungs-verfahren* · ***FA**milien-sprache* — Hauptakzent auf dem **ersten** Baustein, dazwischen ein kleiner Neuansatz, besonders vor Vokal: *Aufenthalts|**er**laubnis*.
+
+*Migra**TSION*** · *Integra**TSION*** — *-tion* immer *[tsi̯oːn]*, Akzent auf der letzten Silbe.
+
+*so**WOHL** hier **ALS** auch dort* — beide Teile betont, sonst hört man die Aufzählung nicht.
+
+**Die Frage, die nicht angreift**
+
+| Satz | Melodie |
+|---|---|
+| *Alle?* | steigend ↗ = echte Frage · fallend ↘ = Vorwurf |
+| *Wen genau meinst du?* | Akzent auf ***WEN***, nicht auf *du* |
+| *Ich sehe das anders.* | Akzent auf ***AN**ders*, ruhig und tief, kein Anstieg am Ende |
+| *pauschal · verallgemeinern* | *pau**SCHAL*** · *ver-all-ge-**MEI**-nern* |
+
+Derselbe Text wirkt freundlich, neutral oder scharf — entschieden wird es allein über die Melodie.
+

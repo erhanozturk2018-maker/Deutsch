@@ -1052,3 +1052,34 @@
 - **Result:** **PASS WITH NOTES** — B2-U09 ist Teil des Kurses. M9 WP4 läuft weiter mit U10.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-028 — M9 WP4 (Teil 2): B2-U10 Migration & Zusammenleben
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U10_Migration_und_Zusammenleben/` (5 Dateien), die B2-U10-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 6 ergänzt); zwei Präzisierungen in B2-U09.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (Standpunkte vertreten, an Diskussionen teilnehmen, Missverständnisse klären).
+- **Method:**
+  - `check_structure.py` → **193 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U10` → **33 ★, 0 unter 3** (ohne Nachbesserung)
+  - `check_links.py` → **2449 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **515 Karten** (U01–U10)
+  - vollständige Wiederlesung; jede Infinitiv-/*dass*-Entscheidung gegen die Subjektregel geprüft
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~95 min).
+  2. `PED`, PASS. Die Einheit koppelt eine **Grammatik** (Mittel, Ausschluss, Ersatz) an eine **Haltung** (genau sprechen statt einordnen). Die Leitfrage „Wodurch genau?“ trägt beides: Sie ist die Probe für *indem* in L1 **und** die Probe gegen Absichtserklärungen in L4.
+  3. `PED`, PASS. L3 bietet **vier** Wege an, darunter ausdrücklich den, **nicht** zu diskutieren, und benennt, dass Schweigen keine Niederlage ist. Die Einheit verlangt an keiner Stelle persönliche Offenheit: L2 Aufgabe 8 stellt ausdrücklich frei, für eine erfundene Figur zu sprechen.
+  4. `ETH`, PASS. Vier Stellen (Overview, L2, L3, L4) sagen, dass hier **Sprache** geübt wird, keine politische Position vertreten und kein Rechtsrat erteilt wird; rechtliche Begriffe sind ausdrücklich als **je nach Land verschieden und veränderlich** markiert. Die Wortgeschichte-Abschnitte (*Gastarbeiter*, *Integration*, *fremd*) sind **deskriptiv** formuliert — sie erklären, was Zuhörer mithören, statt Wortverbote auszusprechen, und sagen das auch so. Die Regel gegen Verallgemeinerungen wird ausdrücklich auf **positive** Verallgemeinerungen und auf die **eigene** Gruppe ausgeweitet; die Übung dazu wählt bewusst harmlose Gruppen (*die Radfahrer*, *die IT*), damit das Muster ohne Einsatz geübt werden kann. Der Rollenspiel-Prompt in L3 schreibt der KI ausdrücklich milde, alltagsnahe Aussagen vor und schließt Beleidigungen und extreme Inhalte aus.
+  5. `LNG`, PASS. Die Subjektregel ist **einmal** formuliert und für alle drei Konstruktionen belegt; die häufigsten Interferenzen (*by …-ing* → *um zu*, *ohne dass … nicht*, *statt* + Dativ) stehen als Fehlerzeilen und im Interferenzblatt.
+  6. `CEF`, PASS. Lesetext „Die dritten Orte“ 420 Wörter, thematisch bewusst **nicht** polarisierend; drei Hörtexte je 120–150 Wörter; Schreibaufgabe 250–300 Wörter in fünf Abschnitten, mit einem Abschnitt, der ausdrücklich nach dem **Maßstab** fragt.
+  7. `SPK`, PASS. Das 4/3/2-Format dieser Einheit ist **Zugehörigkeit** (`StageB2_Zugehoerigkeit`); Herkunft ist ausdrücklich **nicht** vorgeschrieben — Beruf, Generation, Ort, Verein sind gleichwertige Gegenstände. Die Formulierung in B2-U09 wurde entsprechend präzisiert: Ab U09 hat **jede** Einheit ihr eigenes 4/3/2-Format, nicht durchgehend die Rezension.
+  8. `VOC`, PASS. 33 ★-Einträge, alle beim ersten Lauf über der Schwelle. *ehrenamtlich*, *begleiten*, *die Teilhabe*, *die Ausnahme*, *vereinzelt* und *die Zuwanderung* wurden beim Entwurf in die Verstehen-Liste verschoben, weil sie die Schwelle nicht erreichen. Bei *auf|wachsen* wurde die Perfektform in die Formen-Spalte gesetzt, weil die Prüfung sonst am *ge*-Infix scheitert — derselbe Grund wie bei früheren Einheiten.
+  9. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene (1–5 → L1, 6–8 → L2, 9–10 → L3).
+  10. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min.
+  11. `DEP`, PASS. Der B2-Recap § 6 nennt jetzt Mittel ↔ Zweck, die Subjektregel, *statt* + Genitiv und die Funktion von *wobei*; die Statuszeile nennt U01–U10.
+- **Required changes:** Keine offen.
+- **Resolution:** –
+- **Result:** **PASS** — B2-U10 ist Teil des Kurses. M9 WP4 läuft weiter mit U11.
+- **Approval status:** – (autonomous mode)
+

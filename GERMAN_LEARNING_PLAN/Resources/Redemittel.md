@@ -1028,3 +1028,80 @@ Taught in [B2-U09](../B2/B2-U09_Kunst_und_Kultur/L3_Worueber_man_bei_einem_Film_
 
 > ⚠️ **Kritik gilt dem Werk, nicht den Menschen.** *Der Film erklärt zu viel* ist Kritik. *Die Regisseurin traut ihrem Publikum nichts zu* ist eine Behauptung über eine Person, die Sie nicht kennen.
 
+## B2: Belonging and countering generalisations
+
+Taught in [B2-U10](../B2/B2-U10_Migration_und_Zusammenleben/L2_Wer_dazugehoert.md) (Begriffe) and [L3](../B2/B2-U10_Migration_und_Zusammenleben/L3_Wie_man_ueber_Menschen_spricht.md) (Gespräch).
+
+> ⚠️ **Sprachkurs, keine Politik und kein Rechtsrat.** Diese Sammlung erklärt Wortbedeutungen und Gesprächstechnik. Aufenthalts- und Staatsangehörigkeitsrecht unterscheiden sich je nach Land; dafür sind Behörden und Beratungsstellen zuständig.
+
+**Die Begriffe**
+
+| Deutsch | Was es bezeichnet |
+|---|---|
+| die Migration | Oberbegriff, beide Richtungen |
+| die Einwanderung ↔ die Auswanderung | herein ↔ hinaus |
+| die Flucht | Weggehen vor Gefahr — sagt nichts über den Status |
+| das Asylverfahren | rechtliches Verfahren, in dem Schutz geprüft wird |
+| der Aufenthaltstitel | die Erlaubnis zu bleiben |
+| die Staatsangehörigkeit | rechtliche Zugehörigkeit zu einem Staat |
+| die Einbürgerung | der Vorgang, sie zu erhalten |
+| die Herkunft ↔ die Zugehörigkeit | woher jemand kommt ↔ wo jemand sich zugehörig fühlt |
+
+> ***Migrationshintergrund*** ist eine **statistische Kategorie**: Sie sagt nichts über Sprache, Pass, Wohnort oder Selbstbild.
+
+**Etikett → personenzentriert**
+
+| ❌ Kategorie | ✅ Verb, Zeitraum, Zahl |
+|---|---|
+| *Sie ist Ausländerin.* | *Sie hat einen rumänischen Pass.* |
+| *Er ist ein Flüchtling.* | *Er ist 2016 geflohen.* |
+| *die Migranten* | *Menschen, die eingewandert sind* |
+| *Sie hat Migrationshintergrund.* | *Ihre Eltern sind aus Vietnam eingewandert.* |
+
+**Mehrsprachigkeit:** *die Erstsprache · die Familiensprache · die Bildungssprache · die Verkehrssprache · mehrsprachig aufwachsen*. Und: *Ich spreche fließend Deutsch, mit Akzent* — Akzent und Kompetenz sind unabhängig.
+
+**Die Frage nach der Herkunft**
+
+| Wenn Sie fragen | Wenn Sie gefragt werden |
+|---|---|
+| *Bist du hier aufgewachsen?* | knapp: *Aus Bremen.* |
+| *Was ist deine Familiensprache?* | informativ: *Aufgewachsen bin ich in …, meine Eltern kommen aus …* |
+| *Wo fühlst du dich zu Hause?* | rückfragend: *Wie meinst du das genau?* |
+| oder **gar nicht** | benennend: *Du meinst, woher meine Familie kommt.* |
+| – | abgrenzend: *Das erzähle ich, wenn wir uns besser kennen.* |
+
+**Mehrfache Zugehörigkeit:** *sowohl … als auch · weder … noch · teils … teils · dazwischen · je nachdem, wer fragt*
+
+**Quantifizieren**
+
+| Menge | Wörter |
+|---|---|
+| fast alle | *die meisten · der Großteil · überwiegend* |
+| viele | *viele · ein großer Teil* |
+| unbestimmt | *manche · einige · ein Teil · es gibt Leute, die …* |
+| wenige | *wenige · vereinzelt · in Einzelfällen* |
+| eigene Erfahrung | *in meiner Erfahrung · bei mir · die, mit denen ich zu tun habe* |
+
+> **Regel:** Jede Aussage über Menschen bekommt eine **Menge** oder eine **Quelle**. Fehlt beides, ist es ein Vorurteil — auch das freundliche (*Die sind alle so herzlich*).
+
+**Vier Wege auf eine Verallgemeinerung**
+
+| Weg | Sprache |
+|---|---|
+| 1 Nachfragen | *Alle? Oder die, die du kennst? · Wen genau meinst du? · Wie viele sind das ungefähr?* |
+| 2 Konkretisieren | *Was ist denn passiert? · Wem ist das passiert? · Wann war das?* |
+| 3 Widersprechen | *Bei mir ist das anders: … · Das deckt sich nicht mit dem, was ich kenne. · Kann sein, dass ich Glück habe.* |
+| 4 Position benennen und schließen | *Ich sehe das anders, und ich möchte darüber jetzt nicht streiten.* |
+
+**Aussage statt Person**
+
+| ❌ | ✅ |
+|---|---|
+| *Du bist ja voreingenommen.* | *Der Satz verallgemeinert, und ich glaube, das willst du nicht.* |
+| *So etwas sagt man nicht.* | *Woher hast du das?* |
+| *Das ist doch Quatsch.* | *Das deckt sich nicht mit dem, was ich kenne.* |
+
+**Wenn es Sie selbst betrifft:** *Das ist mir zu pauschal. · Willst du wirklich wissen, wie das bei mir ist? · Ich habe darauf gerade keine Lust.* — oder schweigen und das Thema wechseln.
+
+**Wenn Sie danebenlagen:** *Das war ungeschickt formuliert. Ich meinte … · Stimmt, das war zu pauschal. · Danke, das wusste ich nicht.* — und dann weiterreden.
+

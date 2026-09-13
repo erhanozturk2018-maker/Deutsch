@@ -1189,3 +1189,31 @@ Taught in [B2-U09](../B2/B2-U09_Kunst_und_Kultur/L1_Als_ob_nichts_gewesen_waere.
 
 > ⚠️ Nach dem Komparativ steht **als**, nie *wie* ⚖ — und nie beides (*~~als wie~~*). ***um*** = Differenz, ***auf*** = Endstand. ***im Vergleich zu*** stellt nebeneinander, ***im Gegensatz zu*** behauptet einen Widerspruch.
 
+## B2: Means, exclusion and alternative clauses
+
+Taught in [B2-U10](../B2/B2-U10_Migration_und_Zusammenleben/L1_Indem_man_zuhoert.md).
+
+| Bedeutung | Form | Beispiel |
+|---|---|---|
+| **Mittel** (wodurch?) | *indem* + Nebensatz | *Man spart Energie, **indem** man weniger heizt.* |
+| Mittel / Ursache | *dadurch, dass* | ***Dadurch, dass** die Fristen unklar sind, geht Zeit verloren.* |
+| Mittel mit Nomen | *durch* (+ A) · *mithilfe* (+ G) · *per* | *durch regelmäßiges Lesen* |
+| **Zweck** (wozu?) | *um … zu* (gleiches Subjekt) · *damit* | *Sie lernt Deutsch, **um** hier **zu arbeiten**.* |
+| **Ausschluss** | *ohne … zu* · *ohne dass* | *Er ging, **ohne** sich **zu verabschieden**.* |
+| **Ersatz** | *(an)statt … zu* · *(an)statt dass* · *statt* (+ G) | ***Anstatt zu helfen**, kritisierte er nur.* |
+| nebenbei / einschränkend | *wobei* | *Das klappt. **Wobei** — bei großen Gruppen wird es schwierig.* |
+
+**Die Subjektregel — für *ohne*, *(an)statt* und *um* gleichermaßen**
+
+| Gleiches Subjekt → Infinitiv mit *zu* | Verschiedenes Subjekt → *dass*-Satz |
+|---|---|
+| *Er ging, **ohne zu** grüßen.* | *Er ging, **ohne dass** jemand ihn bemerkte.* |
+| ***Statt zu** diskutieren, machten sie es.* | ***Statt dass** wir diskutieren, macht er es.* |
+| *Sie lernt, **um zu** bestehen.* | *Sie lernt, **damit** ihre Kinder es leichter haben.* |
+
+- ***indem*** ≠ ***um … zu***: Mittel ↔ Zweck. Englisch *by …-ing* ist fast immer *indem*. Probe: *Wodurch?* → *indem* · *Wozu?* → *um … zu*.
+- Nach ***ohne*** steht **kein** *nicht* — die Verneinung steckt im Wort. Nach *ohne dass* oft **Konjunktiv II**: *…, ohne dass Vorkenntnisse nötig **wären**.*
+- ***statt*** regiert den **Genitiv** (⚖ umgangssprachlich Dativ): *statt eines Vortrags*.
+- ***dadurch, dass*** kann eine **unbeabsichtigte** Ursache nennen; *indem* nennt fast immer ein absichtliches Mittel.
+- ***wobei*** steht im gesprochenen Deutsch oft fast als eigener Satz und leitet einen Einwand ein, ohne zu widersprechen.
+

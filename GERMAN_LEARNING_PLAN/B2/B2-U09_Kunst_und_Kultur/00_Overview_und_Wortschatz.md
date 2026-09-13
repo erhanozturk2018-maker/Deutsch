@@ -172,7 +172,7 @@ Mehr: [Redemittel → B2: Über Werke sprechen und kritisieren](../../Resources/
 
 ## Story Bank
 
-Die acht Aufgaben der [Story Bank](../../Learner_Workbook/Story_Bank.md) sind auf B2 mit U01 bis U08 **vollständig durchlaufen**. Ab dieser Einheit tritt ein anderes 4/3/2-Format an ihre Stelle: die **Rezension** (L4, Aktivität 3). Nehmen Sie sie auf und legen Sie sie in dieselbe Sammlung (`StageB2_Rezension`) — sie ist Ihr Vergleichsstück für das B2 Exit. Der Unterschied zu den Story-Bank-Aufgaben ist beabsichtigt: Dort sprechen Sie über Ihr eigenes Leben, hier über etwas außerhalb von Ihnen.
+Die acht Aufgaben der [Story Bank](../../Learner_Workbook/Story_Bank.md) sind auf B2 mit U01 bis U08 **vollständig durchlaufen**. Ab dieser Einheit hat jede Einheit ihr **eigenes 4/3/2-Format**; hier ist es die **Rezension** (L4, Aktivität 3). Nehmen Sie sie auf und legen Sie sie in dieselbe Sammlung (`StageB2_Rezension`) — sie ist Ihr Vergleichsstück für das B2 Exit. Der Unterschied zu den Story-Bank-Aufgaben ist beabsichtigt: Dort sprechen Sie über Ihr eigenes Leben, hier über etwas außerhalb von Ihnen.
 
 ## 🃏 Karteikarten: Wortschatz der Einheit
 

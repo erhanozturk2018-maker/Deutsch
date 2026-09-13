@@ -429,3 +429,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | It rose to twelve per cent. (difference meant) | *um* ↔ *auf* verwechselt | **um zwölf Prozent gestiegen** | *um* = Differenz, *auf* = Endstand |
 | boring | *langweilend* | **langweilig** | Adjektiv, kein Partizip |
 
+## B2-U10: Mittel, Zweck und Sprechen über Menschen
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| by heating less | *um weniger zu heizen* | **indem man weniger heizt** | *by …-ing* = Mittel → *indem* |
+| in order to study here | *indem hier zu studieren* | **um hier zu studieren** | Zweck → *um … zu* |
+| without him noticing | *ohne zu er merkte* | **ohne dass er es merkte** | verschiedenes Subjekt → *dass* |
+| without saying goodbye | *ohne dass er sich nicht verabschiedete* | **ohne sich zu verabschieden** | kein *nicht* nach *ohne* |
+| instead of helping | *anstatt er hilft* | **anstatt zu helfen** | gleiches Subjekt → Infinitiv |
+| instead of a lecture | *statt einem Vortrag* ⚖ | **statt eines Vortrags** | *statt* + Genitiv |
+| nationality | *die Nationalität* ⚖ | **die Staatsangehörigkeit** | Amtsbegriff |
+| mother tongue | *die Muttersprache* ⚖ | **die Erstsprache** | neutralerer Fachbegriff |
+| He is a refugee. | *Er ist ein Flüchtling.* | **Er ist 2016 geflohen.** | Verb statt Kategorie |
+| both … and … | *sowohl … als …* | **sowohl … als auch …** | feste Paarform |
+| neither … nor … | *weder … oder …* | **weder … noch …** | feste Paarform |
+| He grew up here. | *Er ist hier aufgewachst.* | **Er ist hier aufgewachsen.** | *wachsen – wuchs – gewachsen* |
+| That doesn't match what I know. | *Das deckt sich nicht zu dem …* | **Das deckt sich nicht mit dem …** | *sich decken mit* + Dativ |
+

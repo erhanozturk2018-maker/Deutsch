@@ -592,3 +592,18 @@
 - **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U09, R1, R2 und das Midpoint. Validiert als V-027. Als Nächstes **B2-U10 Migration & Zusammenleben** (*indem, sofern, ohne dass, anstatt dass*).
 
+## [028] 2026-09-13 — M9 WP4 (Teil 2): B2-U10 Migration & Zusammenleben
+
+- **Milestone:** M9, WP4 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U10_Migration_und_Zusammenleben/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Means, exclusion and alternative clauses), `Resources/Redemittel.md` (B2: Belonging and countering generalisations), `Resources/English_German_Interference.md` (B2-U10), `Resources/Pronunciation_Guide.md` (B2-U10), `Anki/B2.tsv` (515 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, zwei Sätze in `B2/B2-U09_Kunst_und_Kultur/`, Docs 00/05/06
+- **Change:**
+  1. **B2-U10 Migration & Zusammenleben:** L1 *Indem man zuhört* (*indem*, *dadurch, dass*, *ohne … zu / ohne dass*, *anstatt … zu / anstatt dass*, *wobei*, die Subjektregel, Mittel ↔ Zweck) · L2 *Wer dazugehört* (Begriffe von Migration bis Einbürgerung, statistische Kategorie ≠ Identität, personenzentrierte Formulierungen, Wörter mit Geschichte, Mehrsprachigkeit, die Frage nach der Herkunft in fünf Registern, mehrfache Zugehörigkeit) · L3 *Wie man über Menschen spricht* (Verallgemeinerungen erkennen, quantifizieren, vier Wege zu reagieren, Aussage statt Person kritisieren, Grenzen, eigene Korrektur) · L4 *Anwenden* (Vorschlag für den Stadtteil in beiden Rollen, 4/3/2 Zugehörigkeit, Artikel „Die dritten Orte“, drei Stimmen aus dem Viertel, Beitrag fürs Stadtteilblatt, Test).
+  2. **Resources:** Mittel-, Ausschluss- und Ersatzsätze mit der Subjektregel; Redemittel für Begriffe, personenzentrierte Beschreibung, Quantifizierung und die vier Wege; dreizehn Interferenzfallen; Aussprache von Nebensatzpausen, langen Komposita und der Rückfrage-Melodie.
+  3. **B2-Recap:** § 6 um Mittel ↔ Zweck, Subjektregel, *statt* + Genitiv und *wobei* ergänzt; Statuszeile U01–U10.
+  4. **Präzisierung in B2-U09:** Ab U09 hat **jede** Einheit ihr eigenes 4/3/2-Format (U09 Rezension, U10 Zugehörigkeit) — vorher klang es, als gälte die Rezension für alle folgenden Einheiten.
+  5. **Ethische Absicherung:** vier Hinweise „Sprachkurs, keine Politik, kein Rechtsrat“; rechtliche Begriffe als landesabhängig markiert; Wortgeschichten deskriptiv statt als Wortverbote; Übungen zu Verallgemeinerungen bewusst an harmlosen Gruppen; Rollenspiel-Prompt schließt extreme Inhalte aus.
+- **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U10, R1, R2 und das Midpoint. Validiert als V-028. Als Nächstes **B2-U11 Technik & Digitalisierung** (Adjektiv + Präposition, feste Präpositionalgefüge).
+
