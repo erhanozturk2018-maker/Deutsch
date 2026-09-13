@@ -633,3 +633,17 @@
 - **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** **Alle zwölf B2-Einheiten sind geschrieben und validiert** (V-018 bis V-030), dazu B2-R1, B2-R2 und das B2 Midpoint. Zum Abschluss von M9 fehlen **B2-R3** und das **B2 Exit Checkpoint**.
 
+## [031] 2026-09-13 — M9 abgeschlossen: B2-R3, B2 Exit Checkpoint — die Stufe B2 ist vollständig
+
+- **Milestone:** M9 (**abgeschlossen**)
+- **Affected files:**
+  - **Created:** `B2/B2-R3_Wiederholung.md`, `B2/B2_Exit_Checkpoint.md`
+  - **Updated:** `B2/README.md`, `B2/B2_Recap/00_Overview.md` (Status `in-progress` → `validated`), Docs 00/03/05/06
+- **Change:**
+  1. **B2-R3 Wiederholung:** dritte kumulative B2-Wiederholung nach Appendix G — drei Sitzungen, 28-Item-Aufwärmen, Formen-Klinik mit 24 Items in vier Gruppen, Umformungs-Runde (dieselbe Aussage in drei Wirkungen), zwei Dreiminuten-Themen, vier Textsorten, Wortschatz-Sprint, vier Situationen mit Registerwechsel, Schreiben unter Zeitdruck, Fehlerklinik mit 16 typisierten Fehlern, vier Höraufnahmen, 4/3/2-Referat, 20-Item-Test.
+  2. **B2 Exit Checkpoint:** Bestandsaufnahme der ganzen Stufe in zwei Sitzungen — Lesen (Kommentar und Rezension), Sprache im Kontext (30 Punkte), Hören (vier Aufnahmen), Sprechen (Monolog, Gespräch mit Verallgemeinerung, integrierte Situation mit Sie/du-Wechsel), Schreiben (Positionspapier 280–320 Wörter) mit Raster; dazu Profiltabelle, Arbeitswerte, ein dreiteiliger Abschnitt „Bin ich bereit für C1?“, **zwei** Mitnahmen mit Auffrischungstabelle und der Vergleich der ersten mit der letzten Aufnahme.
+  3. **Ehrlichkeit:** Das Exit sagt ausdrücklich, dass es **keine** Aussage über eine offizielle B2-Prüfung macht, dass die Richtwerte Arbeitswerte dieses Kurses sind und was ein 150-Minuten-Checkpoint grundsätzlich nicht messen kann.
+  4. **B2-Recap auf `validated`:** Alle zwölf Einheiten sind in Wortschatz-, Redemittel- und Grammatikblatt eingearbeitet; damit ist das Versprechen aus CP-002 für B2 eingelöst.
+- **Reason:** Abschluss von M9 laut `03`.
+- **Impact:** **M9 abgeschlossen.** B2: zwölf Einheiten, drei Wiederholungen, Midpoint, Exit, konsolidierter Recap, 599 Anki-Karten; 205 Dateien im Kurs, 0 Strukturprobleme, 0 defekte Links. Als Nächstes **M7 (B1.2)** — B1-U07 bis U12, B1-R2, B1-R3, B1 Exit; davor bzw. dabei ist **CP-001 (Mediation)** zu entscheiden.
+

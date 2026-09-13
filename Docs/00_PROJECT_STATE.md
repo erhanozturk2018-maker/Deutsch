@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-13. Session 7: M9 WP4 laeuft — alle zwoelf B2-Einheiten gebaut (V-027 bis V-030); es fehlen B2-R3 und B2 Exit. **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-13. Session 7: **M9 abgeschlossen** — B2 vollstaendig (U01-U12, R1-R3, Midpoint, Exit; V-018 bis V-031). **Update at every milestone or batch boundary.**
 
 ---
 
@@ -14,11 +14,11 @@ Architecture:       Approved — v2.0 (2026-09-13: CP-003, scope extended to A1 
 Lesson standard:    04_LESSON_STANDARDS v1.3 (A1/A2 pilot-validated; B1 A7.1 aus V-012; B2+ A7.2 einsprachig Deutsch, V-018)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M11 added by CP-003
 Current Phase:      Curriculum Construction
-Current Milestone:  M9 — B2 ▶ IN PROGRESS (WP4; WP1-WP3 abgeschlossen). Zuletzt abgeschlossen: M6 B1.1 ✅ (2026-09-12, V-015)
-Status:             IN PROGRESS
-Current batch:      M9 WP4 (U09-U12 gebaut; V-027 bis V-030). Es fehlen nur noch B2-R3 und das B2 Exit. Sequenz auf Nutzerwunsch: B2 vor M7/M8.
-Next task:          M9 WP4: **B2-R3 Wiederholung** (U09-U12, Appendix G: drei Sitzungen, 50/30/20) und das **B2 Exit Checkpoint**. Damit wäre M9 abgeschlossen. Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2)
-Last completed:     M9 WP4 (Teil 4) — B2-U12 Debatte & Verhandlung (2026-09-13, V-030)
+Current Milestone:  M9 — B2 ✅ COMPLETE (2026-09-13, V-031). Davor: M6 B1.1 ✅ (2026-09-12, V-015)
+Status:             BETWEEN MILESTONES
+Current batch:      M7 WP1 (B1.2) — als Naechstes nach der Nutzer-Reihenfolge. Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          **M7 (B1.2)**: **B1-U07 Umwelt & Nachhaltigkeit** (*obwohl* vs *trotzdem*, *sodass*) — darauf verweisen bereits drei geplante Links im B1 Midpoint. Danach B1-U08 bis U12, B1-R2, B1-R3, B1 Exit. **Vor dem Abschluss von M7 ist CP-001 (Mediation) zu entscheiden.** Danach M8 (Audit A1-B1), M10 (C1), M11 (C2)
+Last completed:     **M9 abgeschlossen** — B2-R3 + B2 Exit Checkpoint (2026-09-13, V-031)
 Build order:        **B2 (M9) → B1.2 (M7) → C1 (M10) → C2 (M11)**; M8 (Audit A1-B1) nach M7. Nutzerentscheidung 2026-09-13.
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)

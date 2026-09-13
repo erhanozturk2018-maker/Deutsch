@@ -6,11 +6,11 @@ type: recap
 est_minutes: 5
 prerequisites: [B1-RECAP]
 standard: 04_LESSON_STANDARDS v1.2
-status: in-progress
+status: validated
 ---
 # B2 Recap — Überblick
 
-> **Level:** B2 · **Status: teilweise konsolidiert.** **B2-U01 bis B2-U06 sind gebaut.** Aus diesen Einheiten geprüft übernommen: Partizipialattribute und Gerundivum (U01), Nominalstil und Funktionsverbgefüge (U02), Konjunktiv I und indirekte Rede (U03), Passiversatzformen (U04), Konditional- und Konzessivsätze (U05), subjektive Modalverben (U06), Genitivpräpositionen und Verbketten am Nebensatzende (U07), Futur I und II als Vermutung (U08), realer und irrealer Vergleich (U09), Mittel-, Ausschluss- und Ersatzsätze (U10), feste Präpositionen bei Adjektiven, Verben und Nomen (U11), **Modalpartikeln und Wortstellung zur Betonung** (U12). Damit sind **alle zwölf B2-Einheiten gebaut** und die drei Blätter dieses Recaps aus dem Kurs selbst geprüft. Es fehlen nur noch die Wiederholung **B2-R3** und das **B2 Exit Checkpoint**.
+> **Level:** B2 · **Status: konsolidiert.** **B2-U01 bis B2-U06 sind gebaut.** Aus diesen Einheiten geprüft übernommen: Partizipialattribute und Gerundivum (U01), Nominalstil und Funktionsverbgefüge (U02), Konjunktiv I und indirekte Rede (U03), Passiversatzformen (U04), Konditional- und Konzessivsätze (U05), subjektive Modalverben (U06), Genitivpräpositionen und Verbketten am Nebensatzende (U07), Futur I und II als Vermutung (U08), realer und irrealer Vergleich (U09), Mittel-, Ausschluss- und Ersatzsätze (U10), feste Präpositionen bei Adjektiven, Verben und Nomen (U11), **Modalpartikeln und Wortstellung zur Betonung** (U12). Damit ist **B2 vollständig** — zwölf Einheiten, drei Wiederholungen, Midpoint und Exit — und die drei Blätter dieses Recaps sind aus dem Kurs selbst geprüft.
 > **It answers one question:** *what should I know at the end of B2?*
 > **It is not a lesson.** No exercises. Use it as a map, a checklist and a quick reference.
 

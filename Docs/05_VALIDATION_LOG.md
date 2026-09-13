@@ -1145,3 +1145,31 @@
 - **Result:** **PASS** — **Alle zwölf B2-Einheiten sind gebaut und validiert.** Zum Abschluss von M9 fehlen **B2-R3** und das **B2 Exit Checkpoint**.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-031 — M9 abgeschlossen: B2-R3 und B2 Exit Checkpoint
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-R3_Wiederholung.md`, `GERMAN_LEARNING_PLAN/B2/B2_Exit_Checkpoint.md`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` (Status auf `validated`).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; **Appendix G** (Wiederholungsspezifikation) und die Checkpoint-Vorlage aus dem B1 Midpoint; CEFR-B2-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **205 Dateien, 0 Probleme**
+  - `check_links.py` → **2594 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - vollständige Wiederlesung; Gewichtung und Itemzahlen ausgezählt; jede Lösung gegen die Einheit zurückgeprüft, aus der sie stammt
+- **Findings:**
+  1. `REV`, PASS. **B2-R3** folgt Appendix G: drei Sitzungen (55/65/50 min), zwölf nummerierte Aufgaben, Gewichtung **50 % U09–U12 / 30 % U05–U08 / 20 % U01–U04 und B1**. Ausgezählt: Aufwärmen **28 Items** (7 je Einheit), Formen-Klinik **24 Items** in vier Gruppen mit Zuordnung zur Einheit, Fehlerklinik **16 Sätze**, Test **20 Items** mit Reparaturplan.
+  2. `REV`, PASS. Die Fehlerklinik ist so zusammengestellt, dass fünf der sechzehn Fehler **feste Präpositionen und ihren Kasus** betreffen; der Lösungsteil benennt das als den häufigsten Restfehler am Ende von B2 und erklärt damit, warum U11 so spät steht.
+  3. `PED`, PASS. Die Umformungs-Runde in R3 ist auf die Leitidee der zweiten B2-Hälfte zugeschnitten: dieselbe Aussage, drei **Wirkungen** — Beschreibung, bemessenes Urteil, Eindruck.
+  4. `STR`, PASS (Exit). Das **B2 Exit Checkpoint** folgt der Midpoint-Vorlage und erweitert sie: zwei Sitzungen, fünf Teile, Profiltabelle, **zwei** Mitnahmen, Auffrischungstabelle mit acht Fehlerbildern und direkten Links — dazu zwei Abschnitte, die es im Midpoint nicht gibt: „Bin ich bereit für C1?“ und der Vergleich der ersten mit der letzten Aufnahme.
+  5. `ASS`/`ETH`, PASS. Das Exit sagt in einem eigenen Kasten ausdrücklich, dass es **keine** Aussage über eine offizielle B2-Prüfung macht und warum (eigene Formate, eigene Raster, Prüfungssituation). Die Richtwerte sind als **Arbeitswerte dieses Kurses** gekennzeichnet. Der Abschnitt „Bin ich bereit für C1?“ nennt in drei Teilen, was geprüft wurde, was auf C1 dazukommt und **was ein 150-Minuten-Checkpoint grundsätzlich nicht messen kann**.
+  6. `CEF`, PASS (Exit). Lesen: Kommentar 210 Wörter + Rezension 160 Wörter, 9 Fragen. Sprache im Kontext: 14 + 16 Punkte. Hören: vier Aufnahmen à 70–90 Wörter, 6 Fragen. Sprechen: Monolog in fünf Schritten, ein Gespräch mit Verallgemeinerung, eine integrierte Situation mit Registerwechsel. Schreiben: Positionspapier 280–320 Wörter mit Raster.
+  7. `LNG`, PASS. A7.2 eingehalten; die einzige Ausnahme (englische Impulse in Teil 2B) ist im Kopf benannt und begründet — wie im Midpoint.
+  8. `SPK`, PASS. Der Vergleich **erste ↔ letzte Aufnahme** schließt den Bogen über die ganze Story-Bank-Arbeit und verlangt ausdrücklich auch die Frage, was sich **nicht** geändert hat — mit der Bemerkung, dass genau das sich auch auf C1 nicht von selbst ändert.
+  9. `DEP`, PASS. Der **B2-Recap** steht jetzt auf `status: validated` und „konsolidiert“: alle zwölf Einheiten sind in die drei Blätter eingearbeitet. Das Lösungsversprechen aus CP-002 (Recaps wachsen mit den Einheiten) ist für B2 damit eingelöst.
+  10. `WRK`, PASS (Schätzung). R3 170 min in drei Sitzungen (wie R1 und R2); Exit 150 min in zwei Sitzungen (Midpoint: 135 min — das Exit ist bewusst länger, weil es die ganze Stufe abdeckt).
+- **Required changes:** Keine offen.
+- **Resolution:** –
+- **Result:** **PASS** — **M9 ist abgeschlossen.** B2 umfasst zwölf Einheiten, drei Wiederholungen, das Midpoint und das Exit Checkpoint, dazu einen vollständig konsolidierten Recap und 599 Anki-Karten. Als Nächstes **M7 (B1.2)** gemäß der Reihenfolge aus `03`.
+- **Approval status:** – (autonomous mode)
+
