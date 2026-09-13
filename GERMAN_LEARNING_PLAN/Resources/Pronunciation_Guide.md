@@ -263,3 +263,34 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 ---
 
 *Added later: recognising connected speech (*haste, isses, wir ham*) and reading long written sentences aloud (B1.2).*
+
+## B2-U06: Fachwörter und der unbetonte Infinitiv Perfekt
+
+**Der Akzent liegt auf dem Vollverb, nicht auf dem Hilfsverb**
+
+- *soll ge**HOL**fen haben* — das *haben* ist kurz und schwach, oft *hab'm*.
+- *muss klein ge**WE**sen sein* — das *sein* verschwindet fast.
+- *muss übersehen **WOR**den sein* — im Passiv trägt *worden* einen Nebenakzent.
+
+**Die Modalverben tragen die Sicherheit**
+
+| Wort | Betonung | Wirkung |
+|---|---|---|
+| *muss* | betonbar | *Das **MUSS** ein Fehler sein.* = Sicherheit betont |
+| *dürfte* | **unbetont** | höflich; betontes *DÜRFte* klingt ironisch |
+| *mag* | **betont** | kündigt den Einwand an: *Das **MAG** stimmen, aber …* |
+| *nicht* | betont | *Das kann **NICHT** stimmen.* |
+
+**Fremdwörter der Wissenschaft**
+
+| Wort | Betonung | Hinweis |
+|---|---|---|
+| Korrelation | Korrelati**ON** | *-tion* = *[tsi̯oːn]*, nie englisch |
+| Hypothese | Hypo**THE**se | – |
+| Analyse · Evidenz | Analy**SE** · Evi**DENZ** | – |
+| signifikant | signifi**KANT** | – |
+| Studie | **STU**-di-e | drei Silben, wie *Serie*, *Familie* |
+| statistisch | sta**TIS**tisch | drei s-t-Folgen: langsam üben |
+| angeblich ↔ vermeintlich | **AN**geblich ↔ ver**MEINT**lich | unterschiedliche Akzentsilbe |
+| zufolge | unbetont, nachgestellt | *Be**RICH**ten zufolge* |
+

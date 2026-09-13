@@ -980,3 +980,58 @@ Taught in [B2-U05](../B2/B2-U05_Wirtschaft_und_Konsum/L1_Sollte_es_dazu_kommen.m
 - *trotzdem* besetzt **Position 1** — das Verb folgt sofort.
 - *allerdings* und *jedoch* **schränken ein**, sie widersprechen nicht.
 
+## B2: Subjective modal verbs
+
+Taught in [B2-U06](../B2/B2-U06_Wissenschaft_und_Forschung/L1_Sie_soll_es_bewiesen_haben.md) (source) and [L2](../B2/B2-U06_Wissenschaft_und_Forschung/L2_Das_duerfte_kein_Zufall_sein.md) (certainty).
+
+Every modal verb has two readings. The **objective** one says something about the world (duty, permission, wish). The **subjective** one says something about the **speaker**: where the claim comes from, or how sure the speaker is.
+
+**Achse 1 — die Quelle**
+
+| Form | Beispiel | Bedeutung |
+|---|---|---|
+| **sollen** | *Das Mittel **soll** wirksam sein.* | andere behaupten es; die Quelle bleibt offen |
+| **sollen** + Infinitiv Perfekt | *Das Mittel **soll** geholfen **haben**.* | dasselbe, über Vergangenes |
+| **sollen** + Passiv | *Die Daten **sollen** gelöscht worden **sein**.* | Behauptung über einen Vorgang |
+| **wollen** | *Er **will** Fachmann **sein**.* | das Subjekt behauptet es **über sich** |
+| **wollen** + Infinitiv Perfekt | *Er **will** nichts gewusst **haben**.* | Selbstbehauptung, meist mit Zweifel |
+| Konjunktiv I | *Er sagt, er **habe** geprüft.* | Quelle ist **genannt** (B2-U03) |
+
+| Adverb / Fügung | Nuance |
+|---|---|
+| **angeblich** | so wird behauptet; deutlicher Zweifel |
+| **vermeintlich** | man hielt es dafür — **es stimmt nicht** |
+| **anscheinend** | eigener Eindruck, kein fremder Anspruch |
+| **nach eigenen Angaben** | neutral, formell; entspricht *wollen* |
+| **Berichten / Angaben zufolge** (+ D, nachgestellt) | formell; entspricht *sollen* |
+
+**Achse 2 — die Sicherheit**
+
+| Sicherheit | Modalverb | Beispiel | Adverb |
+|---|---|---|---|
+| ~100 % | **muss** | *Er **muss** es gesehen haben.* | zweifellos |
+| ~90 % | **dürfte** | *Das **dürfte** der Grund sein.* | höchstwahrscheinlich, wohl |
+| ~75 % | **müsste** | *Die Probe **müsste** längst da sein.* | eigentlich |
+| ~50 % | **kann · könnte** | *Das **kann** Zufall sein.* | möglicherweise |
+| eingeräumt | **mag** | *Das **mag** stimmen, aber …* | zugegeben |
+| ~10 % | **dürfte kaum** | *Das **dürfte kaum** reichen.* | schwerlich |
+| 0 % | **kann nicht · kann unmöglich** | *Das **kann** kein Zufall sein.* | keinesfalls |
+
+**Die Vergangenheit** steht immer am Vollverb, nie am Modalverb:
+
+| Gegenwart | Vergangenheit |
+|---|---|
+| *Das **muss** ein Fehler **sein**.* | *Das **muss** ein Fehler **gewesen sein**.* |
+| *Er **dürfte** es **wissen**.* | *Er **dürfte** es **gewusst haben**.* |
+| *Der Hinweis **muss** übersehen **werden**.* | *Der Hinweis **muss** übersehen **worden sein**.* |
+
+**Drei Erkennungszeichen der subjektiven Lesart**
+
+1. **Infinitiv Perfekt** (*gesehen haben*) — fast immer subjektiv.
+2. Ein Subjekt ohne Handlungsfähigkeit (*der Wert*, *das Ergebnis*).
+3. Ersetzbarkeit durch ein Adverb: *Das dürfte stimmen* ≈ *Das stimmt wahrscheinlich*.
+
+- ***anscheinend*** (es sieht so aus) ≠ ***offenbar*** (es ist belegt) ≠ ***angeblich*** (andere behaupten es) ≠ ***vermeintlich*** (es stimmt nicht).
+- ***dürfte nicht*** wird als **Verbot** gelesen. Für die Vermutung: *dürfte kaum* oder *vermutlich nicht*.
+- **Eine** Abstufung pro Aussage: *~~Das dürfte möglicherweise vielleicht stimmen.~~*
+

@@ -524,3 +524,16 @@
 - **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen und danach B1 zu Ende zu führen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U05 und R1. Validiert als V-022. Als Nächstes B2-U06 Wissenschaft & Forschung (subjektive Modalverben).
 
+## [023] 2026-09-13 — M9 WP3 (Teil 2): B2-U06 Wissenschaft & Forschung
+
+- **Milestone:** M9, WP3 (laufend)
+- **Affected files:**
+  - **Created:** `B2/B2-U06_Wissenschaft_und_Forschung/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Subjective modal verbs), `Resources/Redemittel.md` (B2: Research, evidence and degrees of certainty), `Resources/English_German_Interference.md` (B2-U06), `Resources/Pronunciation_Guide.md` (B2-U06), `Anki/B2.tsv` (330 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U06 Wissenschaft & Forschung:** L1 *Sie soll es bewiesen haben* (*sollen* für fremde, *wollen* für Selbstbehauptungen, Infinitiv Perfekt, objektiv ↔ subjektiv, *angeblich / vermeintlich / zufolge / nach eigenen Angaben*) · L2 *Das dürfte kein Zufall sein* (Gewissheitsskala *muss → kann nicht*, Vermutung in der Vergangenheit inkl. *worden sein*, *anscheinend* ↔ *offenbar*, Verbot der doppelten Absicherung) · L3 *Korrelation ist keine Ursache* (Forschungswortschatz, eine Studie referieren, vier Erklärungen für jeden Zusammenhang, fünf Fehlschlüsse, Zahlen ehrlich sagen) · L4 *Anwenden* (Faktencheck mündlich und schriftlich, Story Bank Task 2 auf B2, Artikel „Die Wiederholung, die keiner macht“, drei Stimmen zur Reproduzierbarkeit, Zusammenfassung für Eilige, Test).
+  2. **Resources:** die beiden Achsen der subjektiven Modalverben als Gesamttabelle; Redemittel zum Referieren, Einordnen und zu den fünf Fehlschlüssen; zwölf Interferenzfallen (u. a. *eventually*, *evidence*, *significant*, *dürfte nicht*); Aussprachehinweise zum unbetonten Infinitiv Perfekt und zu Fachwörtern auf *-tion*.
+  3. **B2-Recap konsolidiert:** § 4 (Subjektive Modalverben) ist jetzt die geprüfte Fassung aus U06 statt der CEFR-Referenz; die Statuszeile nennt **U01–U06** und benennt ausdrücklich, was weiterhin unkonsolidiert ist.
+- **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** B2 umfasst jetzt U01–U06 und R1. Validiert als V-023. Als Nächstes B2-U07 Recht & Regeln (Genitivpräpositionen, Passiv im Nebensatz).
+

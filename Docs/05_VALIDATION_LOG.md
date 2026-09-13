@@ -901,3 +901,33 @@
 - **Result:** **PASS WITH NOTES** — B2-U05 ist Teil des Kurses. M9 WP3 läuft weiter mit U06.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-023 — M9 WP3 (Teil 2): B2-U06 Wissenschaft & Forschung
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U06_Wissenschaft_und_Forschung/` (5 Dateien), die B2-U06-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 4 konsolidiert).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2 (einsprachig Deutsch ab B2); Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (komplexe Argumentation verstehen, Standpunkte erkennen, Informationen aus Fachtexten zusammenfassen).
+- **Method:**
+  - `check_structure.py` → **171 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U06` → **40 ★, 0 unter 3** (ohne Nachbesserung)
+  - `check_links.py` → **2232 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **330 Karten** (U01–U06)
+  - vollständige Wiederlesung; jede Stufe der Gewissheitsskala gegen ihre Adverb-Entsprechung geprüft; jede Vergangenheitsform gegen die Regel „Tempus am Vollverb“
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: `00_Overview_und_Wortschatz.md` + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten mit Zeitangabe) + `L4_Anwenden.md` (Integration, 8 Aktivitäten, ~95 min). Karteikartentabellen in allen vier Lektionen.
+  2. `PED`, PASS. Die Einheit trennt bewusst **zwei Achsen**, die Lehrwerke meist vermischen: L1 = **Quelle** (*sollen*/*wollen*), L2 = **Sicherheit** (*muss … kann nicht*). Erst L4 bringt beide zusammen. Das erklärt, warum Lernende sonst *soll* und *dürfte* verwechseln: Sie liegen auf verschiedenen Achsen.
+  3. `PED`, PASS. L3 ist keine Wortschatzliste, sondern eine **Denkoperation**: die vier Erklärungen für jeden Zusammenhang (A→B, B→A, Drittvariable, Zufall) und fünf benennbare Fehlschlüsse. Die Aufgabe „Der Faktencheck am Küchentisch“ verlangt ausdrücklich, einen Fehlschluss zu benennen, **ohne** das Wort *falsch* zu benutzen.
+  4. `LNG`, PASS. Vier Adverbien, die im Englischen zusammenfallen, werden konsequent getrennt gehalten: *angeblich* (fremde Behauptung) · *vermeintlich* (trifft **nicht** zu) · *anscheinend* (Eindruck) · *offenbar* (belegt). Die Falle *dürfte nicht* = Verbot ist als eigene Fehlerzeile aufgenommen.
+  5. `CEF`, PASS. Lesetext „Die Wiederholung, die keiner macht“ 430 Wörter mit sechs eigenen Abstufungen im Text (Aufgabe 4 verlangt, sie zu finden); drei Hörtexte je 110–140 Wörter; Schreibaufgabe 250–300 Wörter in fünf vorgegebenen Abschnitten.
+  6. `SPK`, PASS. **Story Bank Task 2 auf B2** („Mein Alltag“) verlangt den Alltag als **Beispiel für eine größere Entwicklung** — mit einer ausdrücklichen Angabe, wofür er **kein** gutes Beispiel ist. Damit übt die Aufgabe genau den Fehlschluss, den L3 behandelt (Einzelfall als Beleg), an der eigenen Biografie.
+  7. `VOC`, PASS. 40 ★-Einträge, alle beim ersten Lauf über der Schwelle. Ein Drittel sind **Formen und Adverbien** statt Nomen — angemessen für eine Einheit, deren Lernziel eine Haltung ist.
+  8. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene (1–4 → L1, 5–7 → L2, 8–10 → L3).
+  9. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min, konsistent mit U01–U05.
+  10. `DEP`, PASS. Der B2-Recap (§ 4 Subjektive Modalverben) wurde von der CEFR-Referenz auf die geprüfte Fassung aus U06 umgestellt; die Statuszeile des Recaps nennt jetzt korrekt **U01–U06** statt nur U01 und benennt, was weiterhin unkonsolidiert ist (Futur I/II, Modalpartikeln, Wortstellung zur Betonung).
+- **Required changes:** Keine offen.
+- **Resolution:** –
+- **Result:** **PASS** — B2-U06 ist Teil des Kurses. M9 WP3 läuft weiter mit U07.
+- **Approval status:** – (autonomous mode)
+

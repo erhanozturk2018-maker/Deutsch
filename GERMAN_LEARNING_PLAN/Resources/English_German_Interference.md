@@ -357,3 +357,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 ---
 
 *Still to come at B1.2: reported speech, *während/obwohl* in long sentences, and the false friends of academic language.*
+
+## B2-U06: Wissenschaft, Evidenz und Sicherheit
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| eventually | *eventuell* | **schließlich · am Ende** | *eventuell* heißt „möglicherweise" |
+| evidence (uncountable) | *eine Evidenz* | **Belege · Hinweise** | *Evidenz* ist im Deutschen kein Zählwort für Einzelbelege |
+| significant (= important) | *signifikant* | **bedeutsam · erheblich** | *signifikant* ist ein statistischer Begriff |
+| is supposed to be (= people say) | *ist supponiert* | **soll … sein** | subjektives *sollen* |
+| He claims he didn't know. | *Er behauptet, dass er nicht wusste.* ⚖ | **Er will nichts gewusst haben.** | kürzer und idiomatischer |
+| The study proves … | *Die Studie beweist …* | **Die Studie legt nahe, dass …** | *beweisen* ist fast immer zu stark |
+| It points to a decline. | *Es deutet zu einem Rückgang.* | **Es deutet auf einen Rückgang hin.** | *hindeuten auf* + Akkusativ |
+| indications that … | *Hinweise dafür, dass …* | **Hinweise darauf, dass …** | *Hinweis auf* + Akkusativ |
+| derived from this | *davon abgeleitet* | **daraus abgeleitet** | *ableiten aus* |
+| apparently (documented) | *anscheinend* | **offenbar** | *anscheinend* = nur ein Eindruck |
+| He may not smoke. (guess) | *Er dürfte nicht rauchen.* | **Er dürfte kaum rauchen.** | *dürfte nicht* liest sich als Verbot |
+| the alleged perpetrator (probably guilty) | *der vermeintliche Täter* | **der angebliche Täter** | *vermeintlich* heißt: er war es nicht |
+

@@ -142,21 +142,41 @@ The *es* disappears as soon as anything else takes position 1.
 
 ## 4 · Subjektive Modalverben
 
-The same modal verbs, but now they express **how sure the speaker is** — not ability or obligation.
+*Aus [B2-U06](../B2-U06_Wissenschaft_und_Forschung/00_Overview_und_Wortschatz.md) konsolidiert.*
 
-| Modalverb | Sicherheit | Beispiel | Bedeutung |
+The same modal verbs, but now they say something about the **speaker**, not about the world. Two separate axes: **where the claim comes from**, and **how sure you are**.
+
+### Achse 1 — die Quelle
+
+| Form | Beispiel | Bedeutung |
+|---|---|---|
+| **soll** | *Das Mittel **soll** wirksam sein.* | others claim it; source deliberately left open |
+| **soll** + Infinitiv Perfekt | *Das Mittel **soll** geholfen **haben**.* | same, about the past |
+| **soll** + Passiv | *Die Daten **sollen** gelöscht worden **sein**.* | claim about a process |
+| **will** | *Er **will** nichts gewusst **haben**.* | the subject claims it **about himself**, usually with doubt |
+| Konjunktiv I (§ 1) | *Er sagt, er **habe** geprüft.* | the source **is** named |
+
+**Adverbien:** *angeblich* (others claim it) · *vermeintlich* (**it is not true**) · *anscheinend* (it looks that way) · *offenbar* (there is evidence) · *nach eigenen Angaben* = *wollen* · *Berichten zufolge* (+ D, postposed) = *sollen*.
+
+### Achse 2 — die Sicherheit
+
+| Sicherheit | Modalverb | Beispiel | Adverb |
 |---|---|---|---|
-| **muss** | ~95 % | Er **muss** krank sein. | I'm almost certain he is ill. |
-| **dürfte** | ~75 % | Er **dürfte** schon zu Hause sein. | He's probably home. |
-| **könnte / kann** | ~50 % | Das **könnte** stimmen. | That might be true. |
-| **kann nicht** | ~0 % | Das **kann** nicht stimmen. | That can't be true. |
-| **will** | claims about **himself** | Er **will** nichts gewusst haben. | He claims he knew nothing. |
-| **soll** | claims by **others** | Er **soll** sehr reich sein. | He is said to be very rich. |
-| **mag** ⬆ | concession | Das **mag** stimmen, aber … | That may be true, but … |
+| ~100 % | **muss** | *Er **muss** es gesehen haben.* | zweifellos |
+| ~90 % | **dürfte** | *Das **dürfte** der Grund sein.* | höchstwahrscheinlich, wohl |
+| ~75 % | **müsste** | *Die Probe **müsste** längst da sein.* | eigentlich |
+| ~50 % | **kann · könnte** | *Das **kann** Zufall sein.* | möglicherweise |
+| eingeräumt | **mag** ⬆ | *Das **mag** stimmen, aber …* | zugegeben |
+| ~10 % | **dürfte kaum** | *Das **dürfte kaum** reichen.* | schwerlich |
+| 0 % | **kann nicht** | *Das **kann** kein Zufall sein.* | keinesfalls |
 
-**Vergangenheit:** modal + **Partizip II + haben/sein** — *Er **muss** das **gewusst haben**. · Sie **dürfte** schon **gegangen sein**.*
+**Vergangenheit:** the tense sits on the **full verb**, never on the modal — *Das **muss** ein Fehler **gewesen sein**. · Der Hinweis **muss** übersehen **worden sein**.*
 
-> The difference from the objective use is **context, not form**: *Er muss arbeiten* (obligation) vs *Er muss krank sein* (deduction — you cannot "be obliged to be ill").
+**Drei Erkennungszeichen der subjektiven Lesart:** Infinitiv Perfekt (*gesehen haben*) · a subject that cannot act (*der Wert*) · replaceable by an adverb (*Das dürfte stimmen* ≈ *Das stimmt wahrscheinlich*).
+
+> The difference from the objective use is **context, not form**: *Er muss arbeiten* (obligation) vs *Er muss krank sein* (deduction — you cannot "be obliged to be ill"). Likewise *Er **soll** die Zahlen prüfen* (task) vs *Er **soll** die Zahlen geprüft **haben*** (claim).
+
+> ⚠️ ***dürfte nicht*** reads as a **prohibition**. For a negative guess use *dürfte kaum* or *vermutlich nicht*. And use **one** hedge per statement: *~~Das dürfte möglicherweise vielleicht stimmen.~~*
 
 ---
 

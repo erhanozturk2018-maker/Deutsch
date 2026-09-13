@@ -795,3 +795,51 @@ Taught in [B2-U05](../B2/B2-U05_Wirtschaft_und_Konsum/L3_Der_Preis_und_der_Wert.
 
 > ⚠️ ***günstig*** = guter Preis für die Leistung · ***billig*** ⚖ ist meist abwertend. *Preise* sind **hoch**, *Waren* sind **teuer**.
 
+## B2: Research, evidence and degrees of certainty
+
+Taught in [B2-U06](../B2/B2-U06_Wissenschaft_und_Forschung/L3_Korrelation_ist_keine_Ursache.md).
+
+**Eine Studie referieren**
+
+| Stärke | Formulierung |
+|---|---|
+| stark | *Die Studie **zeigt**, dass … · Die Daten **belegen**, dass …* |
+| mittel | *Die Studie **legt nahe**, dass … · Die Befunde **deuten darauf hin**, dass … · Die Daten **sprechen dafür**, dass …* |
+| schwach | *Es **gibt Hinweise darauf**, dass … · Die Untersuchung **wirft die Frage auf**, ob …* |
+| einschränkend | *Die Studie **bezieht sich auf** … · Die Ergebnisse **gelten nur für** … · **Übertragbar** ist das nicht ohne Weiteres. · Ein kausaler Zusammenhang **lässt sich daraus nicht ableiten**.* |
+
+**Die Bausteine einer Studie**
+
+*die Studie · die Untersuchung · die Stichprobe · die Kontrollgruppe · die Zufallszuteilung · die Langzeitstudie · die Befragung · die Auswertung · der Befund · die Metaanalyse · die Reichweite*
+
+**Vier Erklärungen für jeden Zusammenhang**
+
+| Möglichkeit | Formulierung |
+|---|---|
+| A verursacht B | *Das **dürfte** daran liegen, dass …* |
+| B verursacht A | *Denkbar wäre auch die **umgekehrte Wirkungsrichtung**.* |
+| Drittvariable | *Beides **könnte** auf dieselbe Ursache zurückgehen.* |
+| Zufall | *Bei dieser Stichprobengröße **lässt sich Zufall nicht ausschließen**.* |
+
+**Fünf Fehlschlüsse**
+
+| Fehlschluss | Deutsch | Gegenfrage |
+|---|---|---|
+| Korrelation als Ursache | *Scheinkausalität* | Was könnte beides verursachen? |
+| Einzelfall als Beleg | *der Einzelfall · die Anekdote* | Wie viele Fälle, wie ausgewählt? |
+| nur passende Daten | *Rosinenpickerei* | Was wurde **nicht** gezeigt? |
+| Titel statt Argument | *das Autoritätsargument* | Was ist das Argument? |
+| nur Bestätigung suchen | *der Bestätigungsfehler* | Was würde meine Annahme **widerlegen**? |
+
+**Der Stand einer Frage:** *gut belegt · umstritten · vorläufig · widerlegt · offen*
+
+**Zahlen ehrlich sagen**
+
+| ❌ irreführend | ✅ vollständig |
+|---|---|
+| *Das Risiko steigt um 50 %.* | *Das Risiko steigt von zwei auf drei Fälle je 10 000 — um die Hälfte.* |
+| *Die Unterschiede sind signifikant.* | *Die Unterschiede sind **statistisch signifikant**, praktisch aber gering.* |
+| *Eine Studie beweist …* | *Eine **einzelne** Studie ist ein **Hinweis**, kein Beweis.* |
+
+> ⚠️ ***signifikant*** ist im Deutschen ein **statistischer** Begriff. Wer „wichtig" meint, sagt *bedeutsam* oder *erheblich*. ***Evidenz*** ist kein Zählwort wie englisch *evidence* — zählbar sind **Belege** und **Hinweise**.
+
