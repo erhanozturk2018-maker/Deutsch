@@ -2,7 +2,7 @@
 
 At B1 you could make yourself understood about anything familiar. **B2 is where precision arrives**: you stop saying roughly what you mean and start saying exactly what you mean — with the right register, the right connector and the right degree of certainty. You follow a discussion between native speakers without translating, read a serious article without a dictionary, and hold your position in a real debate.
 
-> **Status: im Bau (M9).** **B2-U01 bis B2-U03 sind geschrieben und validiert** — Sie können sofort damit anfangen. Die übrigen Einheiten entstehen nacheinander in Milestone **M9** (siehe `Docs/03_MILESTONES.md`). Der [B2 Recap](B2_Recap/00_Overview.md) bleibt bis dahin eine aus den CEFR-Deskriptoren gebaute Referenz und wird mit jeder Einheit konsolidiert.
+> **Status: im Bau (M9).** **B2-U01 bis B2-U04 und die Wiederholung B2-R1 sind geschrieben und validiert** — Sie können sofort damit anfangen. Die übrigen Einheiten entstehen nacheinander in Milestone **M9** (siehe `Docs/03_MILESTONES.md`). Der [B2 Recap](B2_Recap/00_Overview.md) bleibt bis dahin eine aus den CEFR-Deskriptoren gebaute Referenz und wird mit jeder Einheit konsolidiert.
 >
 > **Ab B2 sind die Lektionen einsprachig Deutsch** (Regel A7.2 in `04`): auch die Erklärungen und Fehlertabellen. Englisch steht nur noch in den KI-Rollenspielen und in den Abruf-Prompts.
 
@@ -31,7 +31,7 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 | [**B2-U01 Identität & Gesellschaft**](B2-U01_Identitaet_und_Gesellschaft/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Lifestyles, values, belonging | Partizip I / II als Attribut; erweiterte Attribute; Gerundivum |
 | [**B2-U02 Arbeitswelt & Karriere**](B2-U02_Arbeitswelt_und_Karriere/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Protokoll, Konflikt, Eskalation | Funktionsverbgefüge; Nominalstil ↔ Verbalstil |
 | [**B2-U03 Bildung & Lernen**](B2-U03_Bildung_und_Lernen/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Bildungssysteme, Lernbiografien, Zahlen | Konjunktiv I: indirekte Rede |
-| B2-U04 Medien & Öffentlichkeit | Journalism, sources, public debate | Passiversatzformen (*sich lassen*, *sein + zu*, *-bar*) |
+| [**B2-U04 Medien & Öffentlichkeit**](B2-U04_Medien_und_Oeffentlichkeit/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Journalismus, Quellen, Faktencheck | Passiversatzformen (alle acht Formen) |
 | B2-U05 Wirtschaft & Konsum | Money, consumption, advertising | Konditional- und Konzessivsätze (auch ohne *wenn*) |
 | B2-U06 Wissenschaft & Forschung | Research, evidence, popular science | Subjektive Modalverben (*er muss krank sein*) |
 | B2-U07 Recht & Regeln | Rules, contracts, rights and duties | Genitivpräpositionen erweitert; Passiv im Nebensatz |
@@ -40,7 +40,7 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 | B2-U10 Migration & Zusammenleben | Living together, integration, identity | Konnektoren der Mittelstufe (*indem, sofern, ohne dass, anstatt dass*) |
 | B2-U11 Technik & Digitalisierung | Technology, data, automation | Adjektiv + Präposition; feste Präpositionalgefüge |
 | B2-U12 Debatte & Verhandlung | Debating, negotiating, mediating | Modalpartikeln; Wortstellung zur Betonung |
-| B2-R1 · B2-R2 · B2-R3 | Cumulative reviews | – |
+| [**B2-R1 Wiederholung**](B2-R1_Wiederholung.md) ✅ **gebaut** · B2-R2 · B2-R3 | Cumulative reviews | – |
 | B2 Midpoint · B2 Exit | Diagnostic mid-test · the gate to C1 | – |
 
 *(Titles and order are the plan recorded in `Docs/01_CURRICULUM_DECISIONS.md`; they may shift slightly when the units are written.)*
@@ -65,7 +65,7 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 ## Solange die übrigen Einheiten entstehen
 
 1. Finish **B1** first. B2 without a solid B1 is slow and frustrating.
-2. Arbeiten Sie **B2-U01** bis **B2-U03** durch — diese Einheiten sind fertig und validiert.
+2. Arbeiten Sie **B2-U01** bis **B2-U04** und danach **B2-R1** durch — diese Einheiten sind fertig und validiert.
 3. Use the [B2 Recap](B2_Recap/00_Overview.md) as a **target map**, not as a course: read one section, then go and look for that structure in real German.
 4. Build the input habit B2 requires — see [Listening & Reading Sources](../Resources/Listening_Reading_Sources.md):
    - one longer article a day, read twice: once for content, once for **how** it is written

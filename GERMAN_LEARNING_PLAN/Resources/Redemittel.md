@@ -699,3 +699,56 @@ Taught in [B2-U03](../B2/B2-U03_Bildung_und_Lernen/L2_Dem_Bericht_zufolge.md).
 
 > Erst **beschreiben**, dann **deuten** — und den Übergang markieren. Prüfungen bewerten beides getrennt.
 
+## B2: Source criticism and hedging
+
+Taught in [B2-U04](../B2/B2-U04_Medien_und_Oeffentlichkeit/L3_Wem_kann_man_glauben.md).
+
+**Die fünf Prüffragen**
+
+| Frage | Worauf sie zielt |
+|---|---|
+| **Wer sagt das?** | Quelle, Interesse, Fachlichkeit |
+| **Worauf beruht es?** | Studie, Erfahrung, Vermutung, Gerücht |
+| **Was genau wurde gemessen?** | Messgröße ≠ Thema |
+| **Verglichen womit?** | Bezugsjahr, Bezugsgruppe, Ausgangswert |
+| **Warum gerade jetzt?** | Anlass, Timing, Interesse |
+
+> Die dritte Frage ist die wirksamste: Die meisten irreführenden Aussagen sind nicht falsch — sie messen etwas anderes, als sie behaupten.
+
+**Manipulationstechniken benennen**
+
+| Technik | Deutsch | Erkennungszeichen |
+|---|---|---|
+| fehlender Kontext | *aus dem Zusammenhang gerissen* | Zahl ohne Vergleichswert |
+| Dramatisierung | *zugespitzt · dramatisiert* | „einer pro Tag" statt 455 pro Jahr |
+| Einzelfall als Regel | *verallgemeinert* | „Anwohner berichten …" |
+| Unterstellung ohne Beleg | *unterstellt · insinuiert* | *angeblich*, *soll*, rhetorische Fragen |
+| falsche Ursache | *Korrelation ist nicht Kausalität* | „seit X ist Y gestiegen" |
+| Scheinexperte | *fachfremd* | Titel ohne Fachbezug |
+| Strohmann | *Strohmann-Argument* | „Die Gegenseite will angeblich Z abschaffen" |
+| Wortwahl | *tendenziös · einseitig* | *Welle*, *explodieren*, *Skandal* |
+
+**Nützliche Verben:** *verzerren · zuspitzen · relativieren · unterstellen · verschweigen · nahelegen · hinterfragen · anzweifeln*
+
+**Hedging — so sicher wie die Belege**
+
+| Grad | Formulierung |
+|---|---|
+| sicher | *Es steht fest, dass … · Das ist belegt.* |
+| starke Evidenz | *Vieles spricht dafür, dass … · Die Daten sprechen eindeutig für …* |
+| begründete Annahme | *Es ist davon auszugehen, dass … · Das dürfte … sein. · Es liegt nahe, dass …* |
+| möglich | *Es ist denkbar, dass … · Möglicherweise … · Das könnte damit zusammenhängen, dass …* |
+| unsicher | *Ob … , ist offen. · Das lässt sich derzeit nicht sagen. · Dazu fehlen belastbare Daten.* |
+| Distanz zur Quelle | *Angeblich … · Nach eigenen Angaben … · Der Verband **soll** … · Er **will** … gewusst haben.* |
+
+**Sachlich widersprechen**
+
+| ❌ Angriff | ✅ Sachlich |
+|---|---|
+| *Das ist eine Lüge.* | *Das ist so nicht belegt.* |
+| *Du hast keine Ahnung.* | *Da widersprechen die Zahlen, die ich kenne.* |
+| *Das ist Propaganda.* | *Der Text lässt den Vergleichswert weg — das verzerrt das Bild.* |
+| *Das glaubt doch keiner.* | *Ich halte das für unwahrscheinlich, und zwar aus zwei Gründen.* |
+
+> Die wirksamste Formel: **die Quelle ernst nehmen, die Schlussfolgerung angreifen.** *Die Zahl stimmt. Was daraus gefolgert wird, halte ich für nicht haltbar.*
+

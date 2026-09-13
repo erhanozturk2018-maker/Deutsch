@@ -496,3 +496,18 @@
 - **Reason:** M9 WP2 laut `03`.
 - **Impact:** B2 hat jetzt drei vollständige Einheiten (U01–U03). Validiert als V-020. Zusätzlich wurde der **Gesamtkurs auf nichtlateinische Zeichen geprüft** — nach einer Korrektur 0 Treffer.
 
+---
+
+## [021] 2026-09-13 — M9 WP2 abgeschlossen: B2-U04 und B2-R1
+
+- **Milestone:** M9, WP2 (abgeschlossen)
+- **Affected files:**
+  - **Created:** `B2/B2-U04_Medien_und_Oeffentlichkeit/` (5), `B2/B2-R1_Wiederholung.md`
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Passiversatzformen — alle acht Formen), `Resources/Redemittel.md` (B2: Quellenkritik und Hedging), `Anki/B2.tsv` (228 Karten), `B2/README.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U04 Medien & Öffentlichkeit:** L1 *Das lässt sich belegen* (*sich lassen*, *-bar / -lich*, *man* und seine Grenzen, Registerwahl) · L2 *Die Frist ist einzuhalten* (*sein + zu*, *haben + zu*, Gerundivum, unpersönliches Passiv, *bekommen*-Passiv, Gesamtübersicht der acht Formen) · L3 *Wem kann man glauben?* (fünf Prüffragen, acht Manipulationstechniken, Hedging, sachlich widersprechen) · L4 *Anwenden* (Faktencheck + Stellungnahme, Story Bank Task 7 auf B2, Essay „Das Misstrauen als Gewohnheit", drei Reaktionen, schriftliche Stellungnahme, Test).
+  2. **B2-R1 Wiederholung:** erste kumulative B2-Wiederholung nach Appendix G — drei Sitzungen, 28-Item-Aufwärmen, Formen-Klinik, Umformungs-Runde, vier Textsorten, Wortschatz-Sprint, vier Sprechsituationen, Schreiben unter Zeitdruck, Fehlerklinik mit Fehlertypen, vier Hörminiaturen, 4/3/2-Referat, 20-Item-Test und ein Reparaturplan mit Zwei-Auffrischungen-Regel.
+  3. **Resources:** die vollständige Tabelle der acht Passiv- und Ersatzformen mit Registerzuordnung; Redemittel für die fünf Prüffragen, acht Manipulationstechniken, sechs Hedging-Stufen und sachlichen Widerspruch.
+- **Reason:** M9 WP2 laut `03`; Nutzerauftrag, B2 fortlaufend ohne Rückfrage zu bauen (2026-09-13).
+- **Impact:** **M9 WP2 abgeschlossen.** B2 umfasst jetzt U01–U04 und R1. Validiert als V-021. Als Nächstes WP3: U05–U08, R2, B2 Midpoint.
+

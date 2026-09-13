@@ -842,3 +842,33 @@
 - **Result:** **PASS WITH NOTES** — B2-U03 abgeschlossen; M9 WP2 zu zwei Dritteln erledigt.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-021 — M9 WP2 abgeschlossen: B2-U04 Medien & Öffentlichkeit und B2-R1
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U04_Medien_und_Oeffentlichkeit/` (5 Dateien), `B2/B2-R1_Wiederholung.md`, die B2-U04-Abschnitte in `Resources/Grammar_Tables.md` und `Resources/Redemittel.md`, `Resources/Anki/B2.tsv`, `B2/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Appendix G (Wiederholungsspezifikation 50/30/20, drei Sitzungen); Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → 161 Dateien, 0 Probleme
+  - `check_vocab.py B2-U04` → 29 ★, **0 unter 3** (nach Nachbesserung bei *die Berichterstattung*)
+  - `check_links.py` → 2137 Links, 0 broken, 3 planned
+  - `build_anki.py` → `B2.tsv` **228 Karten** (U01–U04)
+  - vollständige Wiederlesung; jede der acht Passivformen gegen ihre Rückübersetzung ins Passiv geprüft
+- **Findings:**
+  1. `STR`, PASS. B2-U04 in der Vorlagenform (5 Dateien, 9/9/9/8 Aktivitäten mit Zeitangaben, Karteikarten). B2-R1 folgt der Wiederholungsspezifikation aus Appendix G: **drei Sitzungen**, zwölf nummerierte Aufgaben, Gewichtung 50 % B2-U01–U04 / 30 % B1.1 / 20 % A2.
+  2. `PED`, PASS. U04 ist bewusst als **System-Einheit** gebaut: L1 (Möglichkeit) und L2 (Pflicht) ergeben zusammen eine Tabelle mit **acht Formen, einer Bedeutung und acht Registern**; L3 macht daraus eine Anwendung (Faktencheck), L4 verbindet beides in einer Aufgabe mit zwei Adressaten.
+  3. `PED`, PASS. Die Übung „Dasselbe dreimal" (L2, Aufgabe 8) verlangt denselben Sachverhalt für Team, Leitung und Vorschrift — das ist die Registerprüfung in ihrer schärfsten Form. L3 Aufgabe 8 („Das Gespräch am Küchentisch") übt ausdrücklich das **Nicht-Belehren**, was die häufigste Ursache für abgebrochene Gespräche ist.
+  4. `REV` (B2-R1), PASS. Gewichtung ausgezählt: Aufwärmen 28 Items (7/8/8/5 aus U01–U04), Formen-Klinik 24 Items über alle vier Einheiten, Fehlerklinik 16 Fehler mit Fehlertyp, Test 20 Items. Dazu vier Sprechsituationen, Schreiben unter Zeitdruck, ein 4/3/2-Referat und ein Reparaturplan mit **Zwei-Auffrischungen-Regel**.
+  5. `CEF`, PASS. U04: Lesetexte 260 / 2 × 120 / 300 / 560 Wörter; Hörtexte 3 × 120–150; Schreibaufgabe 250–300 Wörter. R1: vier Textsortenausschnitte, vier Hörminiaturen, 180–220 Wörter unter Zeitdruck.
+  6. `SPK`, PASS. **Story Bank Task 7 auf B2** (Meinung **mit Beleglage**, inkl. der Angabe, wie gut jeder Beleg ist) und in R1 ein 4/3/2-Referat mit der didaktisch wichtigen Beobachtung, dass beim Kürzen zuerst die Belege verschwinden.
+  7. `LNG`, **Minor (behoben), 2 Punkte:** *die Berichterstattung* war nur einmal verwendet → eigene Tabellenzeile und ein Übungspaar ergänzt. Beim Nachbessern per Skript wurde eine Tabellenzeile mehrfach eingefügt; das Duplikat wurde erkannt und entfernt (Prüfung: jetzt genau ein Vorkommen).
+  8. `VOC`, PASS. 29 ★-Einträge, davon ein Drittel **Formen** statt Wörter (*sich lassen* + Infinitiv, *Es ist davon auszugehen, dass …*) — angemessen für eine Einheit, deren Lernziel ein grammatisches System ist.
+  9. `ASS`, PASS. Unit-Test (10) und R1-Test (20), beide mit Reparaturplan auf Lektionsebene.
+  10. `WRK`, PASS (Schätzung). U04 365 min; R1 170 min in drei Sitzungen, konsistent mit B1-R1.
+- **Required changes:** Keine offen.
+- **Resolution:** Beide `LNG`-Punkte vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — **M9 WP2 abgeschlossen** (U02, U03, U04, R1). B2 hat vier Einheiten und eine Wiederholung.
+- **Approval status:** – (autonomous mode)
+

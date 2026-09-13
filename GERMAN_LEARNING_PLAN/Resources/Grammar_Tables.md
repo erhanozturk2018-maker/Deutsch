@@ -910,3 +910,32 @@ Taught in [B2-U03](../B2/B2-U03_Bildung_und_Lernen/L1_Er_sagt_er_sei.md).
 
 > Der Konjunktiv I hat **nichts** mit Irrealität zu tun. *Er sei krank* heißt: jemand sagt das. Der Kontrast zum Konjunktiv II ist die eigentliche Lernaufgabe.
 
+## B2: Passive substitutes
+
+Taught in [B2-U04](../B2/B2-U04_Medien_und_Oeffentlichkeit/L1_Das_laesst_sich_belegen.md).
+
+**Acht Formen, eine Bedeutung, acht Register**
+
+| Form | Beispiel | Bedeutung | Register |
+|---|---|---|---|
+| Vorgangspassiv | *Die Frist **wird eingehalten**.* | neutral | überall |
+| Passiv + Modalverb | *Die Frist **muss eingehalten werden**.* | Pflicht | überall |
+| ***sich lassen*** + Infinitiv | *Die Frist **lässt sich einhalten**.* | Möglichkeit (*kann … werden*) | überall |
+| **Adjektiv auf *-bar / -lich*** | *Die Angaben sind **nachprüfbar**.* | Möglichkeit | Sachtext |
+| ***sein* + *zu* + Infinitiv** | *Die Frist **ist einzuhalten**.* | Pflicht, passivisch | formell |
+| ***haben* + *zu* + Infinitiv** | *Sie **haben** die Frist **einzuhalten**.* | Pflicht, aktivisch, scharf | formell |
+| **Gerundivum** (*zu* + Partizip I) | *die **einzuhaltende** Frist* | Pflicht, attributiv | formell |
+| ***man*** + Aktiv | ***Man muss** die Frist einhalten.* | neutral | gesprochen |
+| **unpersönliches Passiv** | ***Es muss** darauf **geachtet werden**, dass …* | niemand wird genannt | offiziell |
+| ***bekommen*-Passiv** | *Er **bekommt** das Gehalt **überwiesen**.* | Dativobjekt wird Subjekt | neutral, gesprochen |
+
+**Regeln**
+
+- ***sich lassen*** + **Infinitiv** (nie + Partizip); Perfekt mit **Ersatzinfinitiv**: *Das **hat** sich machen **lassen**.*
+- ***zu*** steht **im** trennbaren Verb: *ein**zu**halten · aus**zu**füllen · ein**zu**reichen*.
+- ***sein + zu*** heißt meist **muss**; mit *leicht, kaum, schwer* heißt es **kann**: *Das ist leicht zu erklären.*
+- ***haben + zu*** ist deutlich schärfer als *müssen* — bewusst einsetzen.
+- **Nicht jedes Verb** bildet ein *-bar*-Adjektiv; im Zweifel *lässt sich …*. Verselbstständigt: *dankbar, furchtbar, sichtbar, kostbar*.
+- Das ***es*** des unpersönlichen Passivs steht nur in **Position 1**: *Darauf **wird hingewiesen**, dass …*
+- Die Probe für jede Ersatzform: **ins echte Passiv zurückübersetzen**.
+
