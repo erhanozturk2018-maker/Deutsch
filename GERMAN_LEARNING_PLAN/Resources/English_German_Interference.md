@@ -337,6 +337,23 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *actually* | **aktuell** | **eigentlich** | *aktuell* = current |
 | *That's based on …* | Das **basiert von** … | Das **beruht auf** (+ D) … | fixed preposition |
 
+### Funktionsverbgefüge, Nominalstil und Konflikt (B2-U02)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *to make a decision* | eine Entscheidung **machen** | eine Entscheidung **treffen** | festes Funktionsverb |
+| *to take responsibility* | Verantwortung **nehmen** | Verantwortung **übernehmen** | festes Funktionsverb |
+| *to take measures* | Maßnahmen **nehmen** | Maßnahmen **ergreifen** | festes Funktionsverb |
+| *to come into force* | in **die** Kraft treten | **in Kraft** treten | feste Wendung ohne Artikel |
+| *to put pressure on* | Druck **machen auf** | jemanden **unter Druck setzen** | feste Wendung |
+| *after checking …* | **nach prüfen** der Unterlagen | **nach Prüfung** der Unterlagen | Präposition + Nomen |
+| *due to* (schriftlich) | **aufgrund von dem** | **aufgrund des / der** | Genitiv im geschriebenen Text |
+| *I'm sorry* (Füller) | **Es tut mir leid** bei jeder Kleinigkeit | *Das ist ärgerlich.* / *Das verstehe ich.* | *Es tut mir leid* = Schuldeingeständnis |
+| *I feel that …* | Ich **fühle**, dass … | Ich **habe den Eindruck**, dass … | Kalke |
+| *with all due respect* | **Bei allem Respekt** | *Ich sehe das etwas anders.* | im Deutschen konfrontativer |
+| *That's not my job.* | Das ist nicht mein **Job**. | **Dafür bin ich nicht zuständig.** | neutrale Standardformulierung |
+| *let's touch base* | – | *Lass uns kurz abstimmen.* / *Ich halte Rücksprache.* | kein Äquivalent |
+
 ---
 
 *Still to come at B1.2: reported speech, *während/obwohl* in long sentences, and the false friends of academic language.*

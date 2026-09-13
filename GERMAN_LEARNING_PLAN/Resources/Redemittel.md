@@ -591,3 +591,52 @@ Die drei Prüffragen: **Wie viele? · Wo und wann? · Woher weiß ich das?**
 
 *Darf ich kurz nachfragen — wie meinen Sie das genau? · Ich glaube, Sie meinen das freundlich; bei mir kommt allerdings an, dass … · Mich stört nicht die Frage an sich, sondern dass … · Ich sage das nicht als Vorwurf. · Reden wir gern weiter darüber.*
 
+## B2: Criticism, conflict and escalation
+
+Taught in [B2-U02](../B2/B2-U02_Arbeitswelt_und_Karriere/L3_Das_Konfliktgespraech.md).
+
+**Kritik in fünf Schritten**
+
+| Schritt | Formulierung |
+|---|---|
+| 1 Rahmen setzen | *Ich würde gern etwas ansprechen. Hast du kurz Zeit?* |
+| 2 Beobachtung (überprüfbar) | *Mir ist aufgefallen, dass die Unterlagen dreimal später kamen als vereinbart.* |
+| 3 Wirkung auf mich | *Für mich hat das die Folge, dass ich meine Termine nicht halten kann.* |
+| 4 Offene Frage | *Woran liegt es aus deiner Sicht? · Wie siehst du das?* |
+| 5 Vereinbarung mit Frist | *Können wir festhalten, dass … bis … vorliegt? Ich würde das in vier Wochen noch einmal ansprechen.* |
+
+**Beobachtung statt Bewertung**
+
+| ❌ Bewertung | ✅ Beobachtung |
+|---|---|
+| *Du hältst nie Fristen ein.* | *Die letzten drei Zulieferungen kamen später als vereinbart.* |
+| *Die Planung ist chaotisch.* | *Im Plan fehlen die Zuständigkeiten für zwei Arbeitspakete.* |
+| *Sie sind unzuverlässig.* | *Die zugesagte Rückmeldung steht seit zehn Tagen aus.* |
+
+*Die Probe:* Kann die andere Person mit einem Kalender widersprechen? Dann ist es eine Beobachtung.
+
+**Die Eskalationsleiter**
+
+| Stufe | Formulierung |
+|---|---|
+| 1 beiläufiger Hinweis | *Ist dir das auch aufgefallen mit den Terminen?* |
+| 2 Gespräch unter vier Augen | *Ich würde gern kurz über … sprechen.* |
+| 3 verbindliche Absprache | *Können wir festhalten, dass … bis … vorliegt?* |
+| 4 **schriftliche Bestätigung** | *Wie besprochen halte ich fest: … · Zur Erinnerung an unsere Absprache vom …* |
+| 5 Leitung einbeziehen | *Ich würde das gern gemeinsam mit … klären.* |
+| 6 förmliche Beschwerde ⬆ | *Hiermit weise ich darauf hin, dass … · Ich sehe mich gezwungen, …* |
+
+> Stufe 4 wird am häufigsten übersprungen — und ist der Grund, warum Stufe 5 meistens überflüssig bleibt.
+
+**Auf Vorwürfe reagieren**
+
+*Können Sie mir sagen, worauf genau Sie sich beziehen? · Dass …, stimmt. Dass …, sehe ich anders. · In dem Punkt haben Sie recht, beim zweiten liegt es anders. · Das war mein Fehler; ich habe ihn behoben, indem ich … · Über den Sachverhalt spreche ich gern, über meine Motive nicht. · Ich merke, dass wir beide gereizt sind — können wir morgen weitersprechen?*
+
+**Einlenken und zusagen**
+
+*Ich lenke gern ein, wenn Sie mir zusagen, dass … · Unter der Voraussetzung, dass …, wären wir bereit, … · Das ist für mich nur akzeptabel, wenn … · Darauf können wir uns einigen.*
+
+**Eine Absprache schriftlich festhalten**
+
+*Wie besprochen halte ich Folgendes fest: … · Die Zuständigkeit liegt bei … · Die Unterlagen liegen bis zum … vor. · Bei absehbarer Verzögerung erfolgt eine Information bis spätestens … · Eine Überprüfung ist für den … vorgesehen. · Bei Rückfragen stehe ich gern zur Verfügung.*
+

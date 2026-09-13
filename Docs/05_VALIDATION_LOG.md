@@ -781,3 +781,33 @@
 - **Result:** **PASS WITH NOTES** — M9 WP1 abgeschlossen, Review-Stop erledigt, B2-Vorlage freigegeben für U02–U12.
 - **Approval status:** – (autonomous mode; Sequenzabweichung auf Nutzerwunsch)
 
+---
+
+## V-019 — M9 WP2 (Teil 1): B2-U02 Arbeitswelt & Karriere
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U02_Arbeitswelt_und_Karriere/` (5 Dateien), die B2-U02-Abschnitte in `Resources/Grammar_Tables.md`, `Redemittel.md`, `English_German_Interference.md`, `Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2 (einsprachig Deutsch); Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren; die in V-018 freigegebene B2-Vorlage.
+- **Method:**
+  - `check_structure.py` → 150 Dateien, 0 Probleme
+  - `check_vocab.py B2-U02` → 32 ★, **0 unter 3** (nach Nachbesserung bei *einlenken / zusagen*)
+  - `check_links.py` → 2010 Links, 0 broken, 3 planned
+  - `build_anki.py` → `B2.tsv` **120 Karten** (U01 + U02); A1/A2/B1 unverändert
+  - vollständige Wiederlesung; jedes Funktionsverbgefüge gegen Artikel, Präposition und Kasus geprüft; jede Nominalkonstruktion gegen ihre verbale Auflösung
+- **Findings:**
+  1. `STR`, PASS. Fünf Dateien in der Vorlagenform; 9/9/9/8 nummerierte Aktivitäten mit Zeitangaben; Karteikartentabelle in jeder Datei; durchgehend Deutsch nach A7.2.
+  2. `PED`, PASS. Die Einheit ist um **eine** Idee gebaut: dieselbe Sache in zwei Registern. L1 liefert die Bausteine (Funktionsverbgefüge), L2 die Satzebene (Nominal ↔ Verbal), L3 die mündliche Anwendung (Kritik, Eskalation), L4 verbindet beides — Gespräch **und** Schriftstück zur selben Situation.
+  3. `PED`, PASS. L2 enthält bewusst einen **korrekten, aber unlesbaren** Nominalsatz und macht die Stilkritik zur Aufgabe; L3 arbeitet mit drei Fassungen derselben Kritik (salopp/kollegial/Leitung), statt Höflichkeit zu behaupten.
+  4. `CEF`, PASS. Lesetexte: Protokoll 260 Wörter, E-Mail-Paar 2 × 90, drei Gesprächsversuche 210, Fachartikel 480; Hörtexte 3 × 110–130 mit unterschiedlichem Register; Schreibaufgabe 250–300 Wörter (Eskalations-E-Mail); Sprechen: Konfliktgespräch in beiden Rollen plus 2-Minuten-Monolog.
+  5. `SPK`, PASS. **Story Bank Task 5 auf B2** als Verhandlung statt Beschwerde, mit Vergleich zur B1-Aufnahme; drei KI-Rollenspiele, davon zwei mit vorgeschriebenem Gegenvorwurf, damit die Reaktion geübt wird.
+  6. `LNG`, **Minor (behoben), 2 Punkte:** *einlenken* und *zusagen* waren nur genannt, nicht geübt → eigene Zeile in der Reaktionstabelle, Zusatzaufgabe und Quizeintrag ergänzt, mit der Unterscheidung *einlenken ≠ nachgeben* und *zusagen* als verbindlicher als *versprechen*. Im Fachartikel stand eine Konjunktiv-I-Form (*die andere kümmere sich*), obwohl Konjunktiv I erst B2-U03 ist → in den Indikativ geändert.
+  7. `VOC`, PASS. 32 ★-Einträge; die Hälfte davon sind **Gefüge**, nicht Einzelwörter — genau die Lernform, die B2 verlangt. Kollokation, Artikel und Präposition stehen in der Tabelle.
+  8. `ASS`, PASS. Unit-Test mit 10 Items und Reparaturplan; Selbstcheck; Workbook-Eintrag.
+  9. `DEP`, PASS. „Wiederholt aus" nennt sieben frühere Einheiten; der Genitiv aus B1-U05 wird ausdrücklich als Voraussetzung des Nominalstils benannt.
+  10. `WRK`, PASS (Schätzung). 90 + 90 + 90 + 95 = 365 min, wie B2-U01.
+- **Required changes:** Keine offen.
+- **Resolution:** Beide `LNG`-Punkte vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B2-U02 abgeschlossen; M9 WP2 zu einem Drittel erledigt.
+- **Approval status:** – (autonomous mode)
+

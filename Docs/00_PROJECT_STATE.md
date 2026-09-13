@@ -16,9 +16,9 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M
 Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1 ✅ COMPLETE (2026-09-12, V-015)
 Status:             BETWEEN MILESTONES
-Current batch:      M9 WP1 fertig (B2-U01, V-018). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
-Next task:          M9 WP2: B2-U02 Arbeitswelt & Karriere (Funktionsverbgefüge; Nominalstil ↔ Verbalstil; Hauptaufgabe: Konfliktgespräch am Arbeitsplatz + formelle E-Mail), dann B2-U03 (Konjunktiv I, indirekte Rede), B2-U04 (Passiversatzformen) und B2-R1. Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2). Jede neue Einheit zieht den Stufen-Recap mit (01/02/03)
-Last completed:     M9 WP1 — B2-U01 Identität & Gesellschaft + B2-Review-Stop (2026-09-13, V-018)
+Current batch:      M9 WP2 (B2-U02 fertig, V-019). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          M9 WP2 weiter: **B2-U03 Bildung & Lernen** (Konjunktiv I und indirekte Rede; Hauptaufgabe: einen Artikel referieren + Bildungsdebatte), danach **B2-U04 Medien & Öffentlichkeit** (Passiversatzformen) und **B2-R1** (Wiederholung U01–U04). Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2). Jede Einheit: 5 Dateien, Resources ergänzen, check_vocab/structure/links/anki, Validierung, Commit
+Last completed:     M9 WP2 Teil 1 — B2-U02 Arbeitswelt & Karriere (2026-09-13, V-019)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)
 ```

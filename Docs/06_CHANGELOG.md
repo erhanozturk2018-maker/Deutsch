@@ -468,3 +468,17 @@
 - **Reason:** Nutzerauftrag vom 2026-09-13, die oberen Stufen tatsächlich zu schreiben, beginnend mit B2, in derselben Architektur.
 - **Impact:** Die B2-Vorlage ist validiert (V-018) und für U02–U12 freigegeben. M7 (B1.2) und M8 bleiben offen; die Sequenzabweichung ist in `03` vermerkt.
 
+---
+
+## [019] 2026-09-13 — M9 WP2 (Teil 1): B2-U02 Arbeitswelt & Karriere
+
+- **Milestone:** M9, WP2
+- **Affected files:**
+  - **Created:** `B2/B2-U02_Arbeitswelt_und_Karriere/` (5)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Funktionsverbgefüge und Nominalstil), `Resources/Redemittel.md` (B2: Kritik, Konflikt, Eskalation), `Resources/English_German_Interference.md`, `Resources/Pronunciation_Guide.md`, `Anki/B2.tsv` (120 Karten), `B2/README.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U02 Arbeitswelt & Karriere:** L1 *Eine Entscheidung treffen* (Funktionsverbgefüge: zwölf Funktionsverben mit ihrer Logik, feste Artikel und Präpositionen, Protokollstil ↔ Gesprächsstil) · L2 *Nach Prüfung der Unterlagen* (Nominalstil ↔ Verbalstil in beide Richtungen, die Präpositionen des Nominalstils mit Kasus, Nominalisierungsmuster, Stilkritik an der Substantivitis, Bescheid-Übersetzung) · L3 *Das Konfliktgespräch* (Kritik in fünf Schritten, Beobachtung ↔ Bewertung mit Kalender-Probe, sechsstufige Eskalationsleiter, auf Vorwürfe reagieren, deutsche Direktheit einordnen) · L4 *Anwenden* (Konfliktgespräch in beiden Rollen + Bestätigungsmail, Story Bank Task 5 auf B2 als Verhandlung, Fachartikel „Die Zuständigkeitslücke", drei Stimmen aus dem Betrieb, Eskalations-E-Mail 250–300 Wörter, Test).
+  2. **Resources:** vollständige B2-Tabelle der Funktionsverbgefüge und der Nominalstil-Präpositionen; Redemittel für Kritik, Reaktion auf Vorwürfe, Einlenken und schriftliche Absprache; Interferenzblock (u. a. *Es tut mir leid* ≠ englisches *sorry*, *Das ist nicht mein Job*); Aussprachblock zu Betonung im Gefüge und Intonation im Konflikt.
+- **Reason:** M9 WP2 laut `03`; Fortsetzung des Nutzerauftrags vom 2026-09-13, B2 Einheit für Einheit zu schreiben.
+- **Impact:** B2 hat jetzt zwei vollständige Einheiten. Validiert als V-019.
+

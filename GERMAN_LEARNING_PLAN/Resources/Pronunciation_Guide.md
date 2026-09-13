@@ -251,6 +251,15 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - **Register hört man vor dem Inhalt:** salopp ist schneller, verschliffen (*hab'ch, isses, ham wa*) und partikelreich; gehoben ist langsamer, phrasiert länger und spricht Endsilben deutlich aus (*ver-**TRET**-bar*).
 - Übung: Denselben Absatz zweimal aufnehmen — einmal salopp, einmal gehoben. Der hörbare Unterschied ist genau die B2-Fähigkeit.
 
+### Funktionsverbgefüge, Nominalketten und der Ton im Konflikt (B2-U02)
+
+- Im Funktionsverbgefüge liegt die Betonung **auf dem Nomen**, nicht auf dem Verb: *eine Ent**SCHEI**dung treffen · **KRI**tik üben · in **KRAFT** treten*.
+- Die festen Präpositionen sind kurz und unbetont und werden verschliffen: *zurVer**FÜ**gung*, *inBe**TRACHT***.
+- Nominalketten **nach Präpositionalphrasen gliedern**, nicht nach Wörtern: *Nach **PRÜ**fung | Ihrer **UN**terlagen | teilen wir Ihnen …*
+- Endungen auf *-ung* sind kurz, aber hörbar: *Prü-fun**g***, *Sen-kun**g***.
+- **Im Konfliktgespräch entscheidet die Intonation:** ruhig und **fallend** wirkt sachlich, steigend wirkt wie ein Vorwurf. Nie auf der Person betonen (*dass **DU** …*), sondern auf der Sache (*dass die **UN**terlagen …*).
+- Vor dem Lösungsvorschlag eine **Pause** setzen — sie markiert den Wechsel vom Problem zur Lösung.
+
 ---
 
 *Added later: recognising connected speech (*haste, isses, wir ham*) and reading long written sentences aloud (B1.2).*

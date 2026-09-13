@@ -820,3 +820,52 @@ Taught in [B2-U01](../B2/B2-U01_Identitaet_und_Gesellschaft/L1_Die_wachsende_Kri
 - **Lesetechnik:** Artikel → sofort zum Nomen springen → rückwärts die Ergänzungen einsammeln.
 - **Schreibregel:** höchstens **ein** erweitertes Attribut pro Satz, höchstens **fünf Wörter** darin. Nebensätze (*obwohl*, *weil*) können **nicht** ins Attribut.
 
+## B2: Funktionsverbgefüge and nominal style
+
+Taught in [B2-U02](../B2/B2-U02_Arbeitswelt_und_Karriere/L1_Eine_Entscheidung_treffen.md).
+
+**Funktionsverbgefüge — das Nomen trägt die Bedeutung, das Verb die Grammatik**
+
+| Funktionsverb | Logik | Beispiele |
+|---|---|---|
+| **treffen** | eine Handlung vollziehen | eine Entscheidung / eine Vereinbarung / Vorbereitungen treffen |
+| **stellen** | an jemanden richten | eine Frage / einen Antrag / eine Bedingung stellen · in Frage / zur Verfügung stellen |
+| **nehmen** | aufnehmen oder aufgeben | Rücksicht / Einfluss nehmen · zur Kenntnis nehmen · Abstand nehmen von (+ D) |
+| **üben** | wiederholt tun | Kritik / Druck / Verzicht üben |
+| **erheben** | formal geltend machen | Anspruch / Einspruch / Vorwürfe / eine Gebühr erheben |
+| **halten** | aufrechterhalten | eine Rede / Rücksprache / einen Vortrag / eine Frist halten |
+| **ergreifen** | aktiv beginnen | Maßnahmen / die Initiative / das Wort ergreifen |
+| **geraten in** | unfreiwillig hineinkommen | in Verzug / in Schwierigkeiten / in Vergessenheit geraten |
+| **treten in** | in einen Zustand eintreten | in Kraft / in Verhandlungen / in Kontakt treten |
+| **ziehen** | heranholen | in Betracht / in Erwägung ziehen · Schlüsse ziehen |
+| **bringen** | in eine Lage versetzen | zum Ausdruck / zur Sprache / in Erfahrung bringen |
+| **leisten** | erbringen | Widerstand / Hilfe / einen Beitrag leisten |
+
+- **Artikel und Präposition sind fest:** *in Kraft* (ohne Artikel) · *zur Verfügung* · *zur Sprache* · *in Betracht* · *außer Acht* · *unter Druck*.
+- **Das Nomen bleibt unverändert** (Singular, kein Adjektiv); verstärkt wird mit einem **Adverb**: *scharf Kritik üben*.
+- Viele Gefüge haben **kein** einfaches Verb: *in Kraft treten*, *in Verzug geraten*, *Rücksprache halten*.
+
+**Nominalstil ↔ Verbalstil**
+
+| Verbalstil (Nebensatz) | Nominalstil (Präposition + Nomen) |
+|---|---|
+| **Nachdem** die Unterlagen geprüft worden waren, … | **Nach Prüfung** der Unterlagen … |
+| **Bevor** das Projekt beginnt, … | **Vor Beginn** des Projekts … |
+| **Weil** die Preise gestiegen sind, … | **Aufgrund / infolge / wegen** der gestiegenen Preise … |
+| **Obwohl** er protestiert hat, … | **Trotz / ungeachtet** seines Protests … |
+| **Wenn / falls** Sie Fragen haben, … | **Bei** Fragen · **bei** Bedarf … |
+| **Damit / um … zu** die Kosten zu senken, … | **Zur Senkung / zwecks Senkung** der Kosten … |
+| **Indem** man die Abläufe vereinfacht, … | **Durch Vereinfachung** der Abläufe … |
+| **Während** verhandelt wurde, … | **Während** der Verhandlungen … |
+
+**Umformung in drei Schritten:** Verb → Nomen · Konjunktion → Präposition · Subjekt/Objekt → Genitiv. Rückwärts genauso.
+
+| Nominalisierungsmuster | Beispiele |
+|---|---|
+| **-ung** | prüfen → die Prüfung · umsetzen → die Umsetzung · besetzen → die Besetzung |
+| **Stamm ohne Endung** | beginnen → der Beginn · ausfallen → der Ausfall · eingehen → der Eingang |
+| **-e** | fragen → die Frage · absagen → die Absage |
+| **-(at)ion** | informieren → die Information · organisieren → die Organisation |
+
+> **Stilregel:** höchstens **eine** Nominalkonstruktion pro Satz. Ketten aus Nominalisierung + Genitiv + Genitiv heißen **Substantivitis** und gelten als Stilfehler. ***erfolgen*** ist das typische Amtsverb: *Die Benachrichtigung erfolgt* heißt *Wir benachrichtigen Sie*.
+
