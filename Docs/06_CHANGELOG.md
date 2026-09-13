@@ -620,3 +620,16 @@
 - **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U11, R1, R2 und das Midpoint. Validiert als V-029. Zum Abschluss von M9 fehlen **B2-U12 Debatte & Verhandlung**, **B2-R3** und das **B2 Exit Checkpoint**.
 
+## [030] 2026-09-13 — M9 WP4 (Teil 4): B2-U12 Debatte & Verhandlung — B2-U01 bis U12 vollständig
+
+- **Milestone:** M9, WP4 (laufend; alle Einheiten fertig)
+- **Affected files:**
+  - **Created:** `B2/B2-U12_Debatte_und_Verhandlung/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Modal particles and emphasis), `Resources/Redemittel.md` (B2: Debating and moderating), `Resources/English_German_Interference.md` (B2-U12), `Resources/Pronunciation_Guide.md` (B2-U12), `Anki/B2.tsv` (599 Karten), `B2/README.md`, `B2/B2_Recap/00_Overview.md`, `B2/B2_Recap/03_Grammatik.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-U12 Debatte & Verhandlung:** L1 *Das ist doch klar, oder?* (Modalpartikeln in Aussagen, Fragen, Aufforderungen und Ausrufen, Stellung im Mittelfeld, feste Kombinationen, betont ↔ unbetont, die drei Partikeln zum Anfangen) · L2 *Genau das meine ich* (Vorfeld als Anschluss, Fokuspartikeln vor ihrem Bezugswort, gezielte Verneinung mit *nicht … sondern*, Ausklammerung, Hervorhebungsstrukturen) · L3 *Eine Debatte führen* (Beitrag in fünf Schritten, die Gegenseite fair wiedergeben, unterbrechen und zurückkommen, widersprechen in vier Stärken, moderieren, die drei Enden) · L4 *Anwenden* (Debatte mit Rollentausch und Protokoll, 4/3/2 Schlusswort, Artikel „Die Kunst, sich überzeugen zu lassen“, drei Stimmen über das Streiten, Positionspapier ohne Partikeln, Test).
+  2. **Resources:** Modalpartikeln als Gesamttabelle nach Satzart samt Reihenfolge- und Stellungsregeln; Vorfeld, Fokuspartikeln, Verneinung, Ausklammerung und Hervorhebung; Redemittel für Beitrag, Wiedergabe der Gegenseite, Unterbrechen, Widersprechen, Moderieren und Protokoll; dreizehn Interferenzfallen; Aussprache von unbetonten Partikeln, Satzakzent und Debattentempo.
+  3. **B2-Recap:** § 9 heißt jetzt „Modalpartikeln und Wortstellung zur Betonung“ und trägt die geprüfte Fassung aus U12; die Statuszeile stellt fest, dass alle zwölf Einheiten gebaut sind.
+- **Reason:** M9 WP4 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
+- **Impact:** **Alle zwölf B2-Einheiten sind geschrieben und validiert** (V-018 bis V-030), dazu B2-R1, B2-R2 und das B2 Midpoint. Zum Abschluss von M9 fehlen **B2-R3** und das **B2 Exit Checkpoint**.
+

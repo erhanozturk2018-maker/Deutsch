@@ -434,3 +434,30 @@ Umgangssprachlich verkürzt: *drauf · dran · drüber* ⚖ — verstehen, aber 
 
 Üben Sie den Übergang: ein Anglizismus mitten im deutschen Satz, **ohne** die Sprechmelodie zu wechseln.
 
+## B2-U12: unbetonte Partikeln, Satzakzent und Debattentempo
+
+**Modalpartikeln sind unbetont**
+
+- Der Satzakzent liegt auf dem **Inhaltswort**, nie auf der Partikel: *Wir haben doch **GES**tern darüber gesprochen.*
+- Betonte Partikel = anderes Wort: *Ich habe **JA** gesagt* (Zustimmung) ↔ *Das ist ja **IN**teressant* (Partikel).
+- Im Tempo verschmelzen sie: *Schau mal* → *Schaumal*; *Komm doch mal* → *Kommdochmal*. Das ist richtig so.
+
+**Der Satzakzent ist ein Werkzeug**
+
+| Akzent | Bedeutung |
+|---|---|
+| *Wir haben die **ZAH**len geprüft.* | nicht die Texte |
+| *Wir haben die Zahlen ge**PRÜFT**.* | nicht geändert |
+| ***WIR** haben die Zahlen geprüft.* | nicht ihr |
+
+- Fokuspartikeln sind **selbst unbetont**; betont wird das Wort dahinter: *nur die **ZAH**len*, *sogar die **LEI**tung*.
+- Bei *nicht … sondern* liegen **zwei** Akzente mit Pause dazwischen: *nicht die **ZAH**len, | sondern die **TEX**te*.
+- Das Vorfeld trägt einen Nebenakzent: ***GES**tern haben wir die **ZAH**len geprüft.*
+
+**Tempo und Pausen in der Debatte**
+
+- Wer schneller spricht, wird eher unterbrochen. Drei deutliche Pausen (nach These, nach Begründung, vor dem Schluss) schützen den Beitrag.
+- Gliederungswörter tragen einen eigenen Akzent und eine Pause: ***ERS**tens, | … ***ZWEI**tens, | …*
+- Beim Unterbrechen entscheidet der **Einsatz**, nicht die Lautstärke: an einer Satzgrenze funktioniert es, mitten im Wort nicht.
+- ***Halten wir fest*** wird langsam und tief gesprochen — es ist das Signal, dass die Diskussion endet.
+

@@ -1280,3 +1280,66 @@ Adjective, verb and noun each carry a **fixed** preposition. It cannot be derive
 
 **Unpersönliche Wendungen:** *es kommt auf … an* (+ A) · *es liegt an* (+ D) · *es geht um* (+ A) · *es handelt sich um* (+ A) · *es hängt davon ab, ob …*
 
+## B2: Modal particles and emphasis
+
+Taught in [B2-U12](../B2/B2-U12_Debatte_und_Verhandlung/L1_Das_ist_doch_klar_oder.md) (Partikeln) and [L2](../B2/B2-U12_Debatte_und_Verhandlung/L2_Genau_das_meine_ich.md) (Betonung).
+
+**Modalpartikeln** — unbetont, im **Mittelfeld**, nach den Pronomen, vor der neuen Information: *Ich habe **dir** das **doch** gestern gesagt.*
+
+| Satzart | Partikel | Bedeutung | Beispiel |
+|---|---|---|---|
+| Aussage | **ja** | wie wir alle wissen | *Das ist **ja** bekannt.* |
+| Aussage | **doch** | erinnert an Bekanntes; widerspricht einer Erwartung | *Wir haben **doch** darüber gesprochen.* |
+| Aussage | **eben · halt** ⚖ | so ist es nun mal | *Dann machen wir es **eben** anders.* |
+| Aussage | **wohl** | Vermutung | *Er wird **wohl** im Büro sein.* |
+| Aussage | **schon** | beruhigend; einräumend | *Das schaffst du **schon**. · Das **schon**, aber …* |
+| Aussage | **eigentlich** | mildernd | *Das ist **eigentlich** kein Problem.* |
+| Frage | **denn** | freundliches Interesse | *Was machst du **denn** hier?* |
+| Frage | **eigentlich** | öffnet ein Thema | *Wie läuft es **eigentlich**?* |
+| Frage | **überhaupt** | fragt nach der Grundlage | *Geht das **überhaupt**?* |
+| Frage | **etwa** ⚠️ | erwartet ein Nein; unterstellt | *Hast du das **etwa** vergessen?* |
+| Frage | **bloß** | Ungeduld, Sorge | *Wo ist er **bloß**?* |
+| Aufforderung | **mal** | macht die Bitte leicht | *Schau **mal**.* |
+| Aufforderung | **doch (mal)** | ermuntert | *Probier es **doch mal**.* |
+| Aufforderung | **ruhig** | erlaubt, beruhigt | *Frag **ruhig**.* |
+| Aufforderung | **bloß · nur** | Warnung | *Mach das **bloß** nicht!* |
+| Ausruf | **aber · vielleicht** | Überraschung, Verstärkung | *Das ist **aber** schön! · Das war **vielleicht** ein Tag!* |
+
+- **Feste Reihenfolge:** *ja doch · doch mal · denn eigentlich · doch wohl · ja eben*. Höchstens **zwei** Partikeln.
+- **Betont** sind es andere Wörter: *Ich habe **JA** gesagt* (Zustimmung) ↔ *Das ist **ja** interessant* (Partikel).
+- Nie auf **Position 1**: *~~Denn was machst du hier?~~*
+- **Zum Anfangen drei:** *denn* in Fragen, *mal* in Bitten, *doch* für Bekanntes.
+
+**Das Vorfeld**
+
+Auf Position 1 steht **genau ein** Satzglied, das Verb bleibt auf **Position 2**. Das Vorfeld schafft den **Anschluss** an das Vorherige.
+
+| Im Vorfeld | Wirkung |
+|---|---|
+| Subjekt | neutral |
+| Zeit / Ort | *Gestern haben wir … · Im Team haben wir …* |
+| Akkusativ- / Dativobjekt | *Die Zahlen haben wir … · Uns hat niemand gefragt.* |
+| Partizip / Infinitiv | starker Kontrast: *Geprüft haben wir sie — entschieden nicht.* |
+| Nebensatz | *Weil es eilig war, haben wir …* |
+
+**Fokuspartikeln** stehen **unmittelbar vor** ihrem Bezugswort und ändern damit die Aussage:
+
+*Wir haben **nur die Zahlen** geprüft* ≠ ***Nur wir** haben die Zahlen geprüft* ≠ *Wir haben die Zahlen **nur geprüft***.
+
+*nur · auch · sogar · selbst · gerade · genau · ausgerechnet · vor allem · immerhin*
+
+**Verneinen**
+
+| Form | Verneint |
+|---|---|
+| **kein** | Nomen mit unbestimmtem Artikel |
+| **nicht** am Satzende | den ganzen Satz |
+| **nicht** vor einem Satzglied | genau dieses Satzglied |
+| **nicht … sondern** | ersetzt: *nicht die Zahlen, **sondern** die Texte* |
+
+> In Diskussionen ist *nicht … sondern* fast immer besser: Eine Verneinung ohne *sondern* lässt die andere Seite raten.
+
+**Ausklammerung:** Was **nach** der Satzklammer steht, fällt auf: *Wir haben darüber **gesprochen** — mit der ganzen Abteilung.* Nebensätze stehen fast immer nach der Klammer.
+
+**Hervorhebungsstrukturen:** *Was ich meine, ist … · Es ist die Frist, die … · Worauf es ankommt, ist … · Genau das meine ich. · Gerade darum geht es.* — Platzhalter-*es*: *Es haben sich drei Leute gemeldet.*
+

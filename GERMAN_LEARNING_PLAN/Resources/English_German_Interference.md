@@ -466,3 +466,21 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | The program crashed. | *Das Programm ist gecrasht.* ⚖ | **Das Programm ist abgestürzt.** | deutsches Verb |
 | to log in | *sich einloggen* ⚖ | **sich anmelden** | förmliches Register |
 
+## B2-U12: Partikeln, Betonung und Debatte
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| So what are you doing here? | *Denn was machst du hier?* | **Was machst du denn hier?** | Partikel nie auf Position 1 |
+| Have a look. | *Mal schau.* ⚖ | **Schau mal.** | Partikel steht nach dem Verb |
+| I told you that. | *Ich habe doch dir das gesagt.* | **Ich habe dir das doch gesagt.** | Pronomen vor Partikel |
+| Did you do that? (neutral) | *Hast du das etwa gemacht?* | **Hast du das eigentlich gemacht?** | *etwa* unterstellt |
+| Yesterday we checked it. | *Gestern wir haben es geprüft.* | **Gestern haben wir es geprüft.** | Verb bleibt auf Position 2 |
+| Yesterday in the team we … | *Gestern im Team haben wir …* | **Gestern haben wir im Team …** | nur ein Satzglied im Vorfeld |
+| not the figures but the texts | *nicht die Zahlen, aber die Texte* | **nicht die Zahlen, sondern die Texte** | nach Verneinung: *sondern* |
+| That's not a problem. | *Das ist nicht ein Problem.* | **Das ist kein Problem.** | *kein* bei unbestimmtem Nomen |
+| I don't agree. | *Ich bin nicht agree. / Ich stimme nicht zu mit dir.* | **Ich stimme dir nicht zu.** | *zustimmen* + Dativ |
+| May I come in? | *Darf ich kurz einhacken?* | **Darf ich kurz einhaken?** | *einhaken* |
+| I'll come back to that. | *Ich komme zurück auf das.* ⚖ | **Ich komme darauf zurück.** | trennbares Verb, *da*-Wort |
+| To summarise, I think … | *Zusammenfassend gesagt, ich denke …* | **Zusammenfassend: Ich denke …** | Verb auf Position 2 |
+| We agree on that. | *Wir sind einig über das.* | **Wir sind uns darin einig.** | Reflexivpronomen |
+

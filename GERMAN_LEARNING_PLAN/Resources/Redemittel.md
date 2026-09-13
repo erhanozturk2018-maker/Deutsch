@@ -1151,3 +1151,61 @@ Taught in [B2-U11](../B2/B2-U11_Technik_und_Digitalisierung/L3_Was_die_Technik_m
 
 **Sachlich kritisieren:** *Ich bin **skeptisch gegenüber** dem Versprechen, dass … · Der Nutzen ist unbestritten; die Frage ist, wofür man ihn bezahlt. · Ich möchte **darauf hinweisen**, dass … · Woran würden wir merken, dass es nicht funktioniert?*
 
+## B2: Debating and moderating
+
+Taught in [B2-U12](../B2/B2-U12_Debatte_und_Verhandlung/L3_Eine_Debatte_fuehren.md).
+
+**Der Beitrag in fünf Schritten**
+
+| Schritt | Sprache |
+|---|---|
+| 1 These | *Ich bin dafür / dagegen, weil … · Mein Punkt ist: …* |
+| 2 Begründung | *Erstens … Zweitens … · Der Hauptgrund ist …* |
+| 3 **Beleg** | *Zwei Kolleginnen haben mir das gesagt. · Im letzten Quartal war es dreimal so.* |
+| 4 **Einräumung** | *Zugegeben: … · Da ist etwas dran: … · Das stärkste Argument gegen mich ist …* |
+| 5 Schluss | *Darum würde ich vorschlagen, … · Für mich heißt das: …* |
+
+> Zwei Minuten genügen — und ein Beitrag, dessen Richtung man von Anfang an kennt, wird zu Ende gehört.
+
+**Die Gegenseite wiedergeben — bevor man widerspricht**
+
+*Wenn ich dich richtig verstehe, geht es dir vor allem um … Stimmt das so? · Dein stärkstes Argument ist aus meiner Sicht … · Ich sehe, warum das naheliegt: … Trotzdem glaube ich, dass …*
+
+**Prüffrage:** Würde die Gegenseite sagen *„Ja, genau"*? Wenn nein, ist es ein **Strohmann**.
+
+**Unterbrechen und zurückkommen**
+
+| Absicht | Sprache |
+|---|---|
+| unterbrechen | *Darf ich da kurz einhaken? · Eine kurze Zwischenfrage: … · Kurz dazu, dann bin ich still.* |
+| abwehren | *Lass mich den Gedanken kurz zu Ende bringen. · Einen Moment noch, dann gern.* |
+| zurückkommen | *Ich komme noch mal auf … zurück. · Vorhin ging es um … — da war ich noch nicht fertig.* |
+| Faden verloren | *Wo war ich stehen geblieben? · Mein Punkt war eigentlich: …* |
+| zum Punkt | *Worauf ich hinauswill, ist … · Um es kurz zu machen: …* |
+
+**Widersprechen in vier Stärken**
+
+| Stärke | Formulierung |
+|---|---|
+| weich | *Da bin ich mir nicht sicher. · Ich sehe das etwas anders.* |
+| klar | *Dem würde ich widersprechen, und zwar weil …* |
+| mit Beleg | *Das deckt sich nicht mit dem, was wir gemessen haben: …* |
+| grundsätzlich | *Ich halte die Frage für falsch gestellt. Es geht nicht um …, sondern um …* |
+
+**Moderieren**
+
+| Aufgabe | Sprache |
+|---|---|
+| eröffnen | *Wir haben 40 Minuten. Ziel ist eine Entscheidung über … · Ich schlage folgende Reihenfolge vor: …* |
+| Redezeit verteilen | *Karin, du hattest dich gemeldet — zwei Minuten, dann Tom.* |
+| bündeln | *Ich höre zwei Punkte heraus: … und … Ist das richtig?* |
+| zum Punkt bringen | *Ich fasse mal zusammen, damit wir weiterkommen: …* |
+| Ausgleich schaffen | *Wir haben drei Beiträge dafür gehört. Wer sieht es anders?* |
+| abschließen | *Halten wir fest: … · Offen bleibt … — das klären wir bis …* |
+
+**Die drei Enden:** Einigung (*Wir sind uns einig, dass …*) · Teileinigung (*Einig sind wir bei …; offen bleibt …*) · **benannter Dissens** (*Wir kommen hier nicht zusammen. Das halten wir so fest und entscheiden nach …*).
+
+> Ein benannter Dissens ist kein Scheitern: Er lässt sich protokollieren und terminieren — eine Scheinlösung bricht in zwei Wochen wieder auf.
+
+**Das Protokoll:** *Besprochen wurde … · Einigkeit besteht darin, dass … · Unterschiedlich bewertet wird … · Offen bleibt … · X prüft bis zum … · Eine Entscheidung ist für den … vorgesehen.*
+

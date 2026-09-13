@@ -1114,3 +1114,34 @@
 - **Result:** **PASS WITH NOTES** — B2-U11 ist Teil des Kurses. Es fehlen **B2-U12**, **B2-R3** und das **B2 Exit**.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-030 — M9 WP4 (Teil 4): B2-U12 Debatte & Verhandlung — alle zwölf B2-Einheiten gebaut
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U12_Debatte_und_Verhandlung/` (5 Dateien), die B2-U12-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B2.tsv`, `B2/README.md`, `B2/B2_Recap/00_Overview.md` und `B2/B2_Recap/03_Grammatik.md` (§ 9 konsolidiert).
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren (aktiv an Diskussionen teilnehmen, Standpunkt verteidigen, moderieren).
+- **Method:**
+  - `check_structure.py` → **203 Dateien, 0 Probleme**
+  - `check_vocab.py B2-U12` → **36 ★, 0 unter 3** (ohne Nachbesserung)
+  - `check_links.py` → **2541 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - `build_anki.py` → `B2.tsv` **599 Karten** (U01–U12)
+  - vollständige Wiederlesung; jede Partikel gegen Satzart und Stellung geprüft, jede Betonungsvariante gegen ihre Bedeutung
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~90 min, 9 nummerierte Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~95 min).
+  2. `PED`, PASS. Die Einheit ist die **Tonspur** von B2: L1 gibt die Haltung (Partikeln), L2 die Gewichtung (Wortstellung), L3 den Ort (Debatte). Die Entdecken-Aufgabe in L1 (ein Satz, sechs Töne) und die in L2 (sechsmal dieselbe Information) sind bewusst parallel gebaut — beide zeigen, dass die **Information** gleich bleibt und sich nur die **Wirkung** ändert.
+  3. `PED`, PASS. Modalpartikeln sind genau das, was Lernende am längsten meiden; die Einheit sagt das ausdrücklich und gibt eine **Einstiegsregel** (drei Partikeln: *denn*, *mal*, *doch*) statt einer Vollständigkeitsliste. Die Challenge (Partikeljagd) ist darauf abgestimmt.
+  4. `PED`/`ETH`, PASS. L3 verlangt an drei Stellen, die Gegenposition **so wiederzugeben, dass sie zustimmt**, und benennt den **Strohmann** als das Gegenteil davon — mit der ehrlichen Unterscheidung, dass man damit bei Zuschauenden gewinnt und bei der Person verliert. Das 4/3/2 in L3 verlangt, die **eigene Gegenposition** ohne Ironie zu vertreten.
+  5. `LNG`, PASS. Die Stellungsregeln sind vollständig: Partikeln nie auf Position 1, nach den Pronomen; Fokuspartikeln unmittelbar vor dem Bezugswort; genau **ein** Satzglied im Vorfeld; *nicht* vor dem verneinten Satzglied. Der Unterschied betont ↔ unbetont ist als eigene Regel und in der Aussprachesektion behandelt.
+  6. `CEF`, PASS. Lesetext „Die Kunst, sich überzeugen zu lassen“ 400 Wörter; drei Hörtexte je 110–140 Wörter; Schreibaufgabe 250–300 Wörter in fünf Abschnitten — mit der bewussten Vorgabe, im Positionspapier **keine** Modalpartikel zu verwenden, weil Register hier tonlos ist. Das ist die schärfste Registerprüfung der Stufe.
+  7. `SPK`, PASS. Letztes 4/3/2-Format von B2: das **Schlusswort** (`StageB2_Schlusswort`), mit der Pflicht zu einem Kriterium, an dem man selbst falsch liegen könnte. Der Verweis auf den Vergleich mit der ersten Aufnahme im B2 Exit ist gesetzt.
+  8. `VOC`, PASS. 36 ★-Einträge, alle beim ersten Lauf über der Schwelle; elf davon sind **Partikeln**, was für diese Einheit angemessen ist. *immerhin*, *ab|wehren* und *der Satzakzent* wurden beim Entwurf in die Verstehen-Liste verschoben.
+  9. `ASS`, PASS. 10-Item-Test in L4 mit Reparaturkarte auf Lektionsebene.
+  10. `WRK`, PASS (Schätzung). 4 Lektionen, zusammen ca. 365 min.
+  11. `DEP`, PASS. Der B2-Recap § 9 trägt jetzt Modalpartikeln **und** Wortstellung; die Statuszeile stellt fest, dass alle zwölf Einheiten gebaut und die drei Recap-Blätter aus dem Kurs geprüft sind.
+- **Required changes:** Keine offen.
+- **Resolution:** –
+- **Result:** **PASS** — **Alle zwölf B2-Einheiten sind gebaut und validiert.** Zum Abschluss von M9 fehlen **B2-R3** und das **B2 Exit Checkpoint**.
+- **Approval status:** – (autonomous mode)
+

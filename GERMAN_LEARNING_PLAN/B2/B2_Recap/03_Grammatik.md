@@ -357,7 +357,27 @@ Adjective, verb and noun each carry a **fixed** preposition. Learn the **pair**,
 **Unpersönliche Wendungen:** *es kommt auf … an · es liegt an · es geht um · es handelt sich um · es hängt davon ab, ob …*
 
 
-## 9 · Wortstellung zur Betonung
+## 9 · Modalpartikeln und Wortstellung zur Betonung
+
+*Aus [B2-U12](../B2-U12_Debatte_und_Verhandlung/L1_Das_ist_doch_klar_oder.md) und [L2](../B2-U12_Debatte_und_Verhandlung/L2_Genau_das_meine_ich.md) konsolidiert.*
+
+**Modalpartikeln** — unbetont, im **Mittelfeld**, nach den Pronomen, vor der neuen Information.
+
+| Satzart | Partikel |
+|---|---|
+| Aussage | **ja** (bekannt) · **doch** (erinnert; widerspricht einer Erwartung) · **eben · halt** (so ist es nun mal) · **wohl** (Vermutung) · **schon** (beruhigend / einräumend) · **eigentlich** (mildernd) |
+| Frage | **denn** (freundlich) · **eigentlich** (öffnet ein Thema) · **überhaupt** · **etwa** ⚠️ (unterstellt) · **bloß** (Sorge) |
+| Aufforderung | **mal** · **doch (mal)** · **ruhig** (erlaubt) · **bloß / nur** (Warnung) · **einfach** |
+| Ausruf | **aber** · **vielleicht** (*Das war vielleicht ein Tag!*) |
+
+- Feste Reihenfolge: *ja doch · doch mal · denn eigentlich · doch wohl*. Höchstens **zwei**.
+- Nie auf Position 1: *~~Denn was machst du hier?~~*
+- Betont sind es andere Wörter: *Ich habe **JA** gesagt* ↔ *Das ist **ja** interessant*.
+- Zum Anfangen drei: ***denn*** in Fragen, ***mal*** in Bitten, ***doch*** für Bekanntes.
+
+**Fokuspartikeln** stehen **unmittelbar vor** ihrem Bezugswort — und die Stellung ändert die Aussage: *Wir haben **nur die Zahlen** geprüft* ≠ ***Nur wir** haben …* ≠ *… die Zahlen **nur geprüft***. (*nur · auch · sogar · selbst · gerade · ausgerechnet · vor allem · immerhin*)
+
+**Hervorhebungsstrukturen:** *Was ich meine, ist … · Es ist die Frist, die … · Worauf es ankommt, ist … · Genau das meine ich.*
 
 German word order is freer than English — and B2 uses that freedom **on purpose**.
 
