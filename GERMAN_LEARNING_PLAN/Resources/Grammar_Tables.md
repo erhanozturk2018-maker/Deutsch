@@ -783,3 +783,40 @@ Taught in [B1-U06](../B1/B1-U06_Medien_und_Nachrichten/L1_Wie_wird_das_gemacht.m
 
 **Describing a process:** *Zuerst wird … · Dann / Danach wird … · Anschließend wird … · Dabei wird darauf geachtet, dass … · Erst wenn …, wird … · Zum Schluss wird …*
 
+## B2: Participle attributes
+
+Taught in [B2-U01](../B2/B2-U01_Identitaet_und_Gesellschaft/L1_Die_wachsende_Kritik.md).
+
+**Die vier Formen**
+
+| Form | Bildung | Bedeutung | Beispiel | Auflösung |
+|---|---|---|---|---|
+| **Partizip I** | Infinitiv + **-d** + Endung | aktiv, gleichzeitig | die wachsend**e** Kritik | die Kritik, die wächst |
+| **Partizip II** (transitiv) | wie im Perfekt + Endung | **passiv** | die beschlossen**en** Maßnahmen | die Maßnahmen, die beschlossen wurden |
+| **Partizip II** (*sein*-Verb) | wie im Perfekt + Endung | aktiv, **abgeschlossen** | die gestiegen**en** Preise | die Preise, die gestiegen sind |
+| **Gerundivum** | **zu** + Infinitiv + **-d** + Endung | passiv + **notwendig** | die zu lösend**en** Probleme | die Probleme, die gelöst werden müssen |
+
+**Regeln**
+
+- Partizipien als Attribut sind **Adjektive** und bekommen die normalen Adjektivendungen (→ [Adjektivendungen Stufe 2](#b1-adjective-endings-stage-2)).
+- Verben **ohne** Akkusativobjekt und **ohne** *sein*-Perfekt bilden **kein** Attribut: *~~der geschlafene Mann~~*.
+- Bei trennbaren Verben steht *zu* **im Wort**: *die aus**zu**füllenden Formulare*.
+- Die Probe ist immer die **Auflösung in einen Relativsatz**; die Stimme des Verbs entscheidet über Partizip I oder II.
+
+**Das erweiterte Attribut**
+
+> **die** | *im Frühjahr vom Stadtrat* | **beschlossenen** | **Maßnahmen**
+> Artikel – Ergänzungen – Partizip – Nomen
+
+| Element im Attribut | Beispiel |
+|---|---|
+| Zeit | die **erst kürzlich veröffentlichte** Studie |
+| Ort | die **in Berlin geltende** Regelung |
+| Handelnder (*von* + D) | der **von der Kommission vorgelegte** Vorschlag |
+| Ursache (*durch* + A) | die **durch den Wandel entstandenen** Konflikte |
+| Art und Weise | eine **sorgfältig geprüfte** Aussage |
+| Ergänzung des Verbs | die **auf eine Wohnung wartenden** Familien |
+
+- **Lesetechnik:** Artikel → sofort zum Nomen springen → rückwärts die Ergänzungen einsammeln.
+- **Schreibregel:** höchstens **ein** erweitertes Attribut pro Satz, höchstens **fünf Wörter** darin. Nebensätze (*obwohl*, *weil*) können **nicht** ins Attribut.
+

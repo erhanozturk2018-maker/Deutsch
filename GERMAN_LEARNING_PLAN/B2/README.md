@@ -2,7 +2,9 @@
 
 At B1 you could make yourself understood about anything familiar. **B2 is where precision arrives**: you stop saying roughly what you mean and start saying exactly what you mean — with the right register, the right connector and the right degree of certainty. You follow a discussion between native speakers without translating, read a serious article without a dictionary, and hold your position in a real debate.
 
-> **Status: geplant.** The B2 units are **not written yet**. What exists today is this stage page and the [B2 Recap](B2_Recap/00_Overview.md) — a reference built from the CEFR B2 descriptors and the course's own progression, so you can already see the target and start working towards it. The units are built in milestone **M9** (see `Docs/03_MILESTONES.md`); the recap is consolidated against them as they appear.
+> **Status: im Bau (M9).** **B2-U01 ist geschrieben und validiert** — Sie können sofort damit anfangen. Die übrigen Einheiten entstehen nacheinander in Milestone **M9** (siehe `Docs/03_MILESTONES.md`). Der [B2 Recap](B2_Recap/00_Overview.md) bleibt bis dahin eine aus den CEFR-Deskriptoren gebaute Referenz und wird mit jeder Einheit konsolidiert.
+>
+> **Ab B2 sind die Lektionen einsprachig Deutsch** (Regel A7.2 in `04`): auch die Erklärungen und Fehlertabellen. Englisch steht nur noch in den KI-Rollenspielen und in den Abruf-Prompts.
 
 ---
 
@@ -26,7 +28,7 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 
 | Unit | Topic | Grammar focus |
 |---|---|---|
-| B2-U01 Identität & Gesellschaft | Lifestyles, values, belonging | Partizip I / II als Attribut; erweiterte Attribute |
+| [**B2-U01 Identität & Gesellschaft**](B2-U01_Identitaet_und_Gesellschaft/00_Overview_und_Wortschatz.md) ✅ **gebaut** | Lifestyles, values, belonging | Partizip I / II als Attribut; erweiterte Attribute; Gerundivum |
 | B2-U02 Arbeitswelt & Karriere | Applications at a higher level, workplace conflict | Funktionsverbgefüge; Nominalstil ↔ Verbalstil |
 | B2-U03 Bildung & Lernen | Education systems, learning biographies | Konjunktiv I: indirekte Rede |
 | B2-U04 Medien & Öffentlichkeit | Journalism, sources, public debate | Passiversatzformen (*sich lassen*, *sein + zu*, *-bar*) |
@@ -60,15 +62,16 @@ Twelve units, the same five-file shape as A2 and B1 (`00_Overview_und_Wortschatz
 
 ---
 
-## Before the units exist: what to do now
+## Solange die übrigen Einheiten entstehen
 
 1. Finish **B1** first. B2 without a solid B1 is slow and frustrating.
-2. Use the [B2 Recap](B2_Recap/00_Overview.md) as a **target map**, not as a course: read one section, then go and look for that structure in real German.
-3. Build the input habit B2 requires — see [Listening & Reading Sources](../Resources/Listening_Reading_Sources.md):
+2. Arbeiten Sie **B2-U01** durch — die Einheit ist fertig und validiert.
+3. Use the [B2 Recap](B2_Recap/00_Overview.md) as a **target map**, not as a course: read one section, then go and look for that structure in real German.
+4. Build the input habit B2 requires — see [Listening & Reading Sources](../Resources/Listening_Reading_Sources.md):
    - one longer article a day, read twice: once for content, once for **how** it is written
    - 20–30 minutes of real listening (podcast, news, interview) without subtitles
    - one written text a week of 250+ words, self-corrected with the [Writing Toolkit](../Resources/Writing_Toolkit.md)
-4. Keep the speaking rhythm: [Speaking Toolkit](../Resources/Speaking_Toolkit.md), 4/3/2 retellings, and the [Story Bank](../Learner_Workbook/Story_Bank.md) at B2 level — the same eight tasks, now with structure, concession and register.
+5. Keep the speaking rhythm: [Speaking Toolkit](../Resources/Speaking_Toolkit.md), 4/3/2 retellings, and the [Story Bank](../Learner_Workbook/Story_Bank.md) at B2 level — the same eight tasks, now with structure, concession and register.
 
 ---
 

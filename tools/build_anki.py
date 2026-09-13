@@ -2,7 +2,7 @@
 
 Usage:  python tools/build_anki.py
 
-For each stage folder (A1, A2, B1) under GERMAN_LEARNING_PLAN/, every Markdown
+For each stage folder (A1, A2, B1, B2, C1, C2) under GERMAN_LEARNING_PLAN/, every Markdown
 table whose header starts with "| You see" is read (see Docs/04_LESSON_STANDARDS.md,
 B8). Rows become cards in GERMAN_LEARNING_PLAN/Resources/Anki/<stage>.tsv:
 
@@ -40,7 +40,7 @@ def md_to_html(cell):
 def cards_in(path):
     text = path.read_text(encoding="utf-8")
     fid = yaml_id(text) or path.stem
-    unit = re.match(r"^(A1|A2|B1)-(U\d\d|R\d)", fid)
+    unit = re.match(r"^(A1|A2|B1|B2|C1|C2)-(U\d\d|R\d)", fid)
     tags = [fid.split("-")[0]]
     if unit:
         tags.append(unit.group(0))
@@ -64,7 +64,7 @@ def cards_in(path):
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    for stage in ("A1", "A2", "B1"):
+    for stage in ("A1", "A2", "B1", "B2", "C1", "C2"):
         folder = COURSE / stage
         if not folder.exists():
             continue

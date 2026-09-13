@@ -2,7 +2,7 @@
 
 > **Purpose:** The authoritative standard for every course file: how lessons are built, how files are formatted, and when a file counts as complete.
 >
-> **Version:** 1.2 (2026-09-12). v1.0.1/v1.0.2 were small clarifications; v1.1 applied the M4 pilot findings (V-008); v1.2 fixes the **instruction language at B1** after the B1-U01 review stop (V-012).
+> **Version:** 1.3 (2026-09-13) — adds **A7.2**, the instruction and explanation language for B2 and above (CP-003). Previously: 1.2 (2026-09-12). v1.0.1/v1.0.2 were small clarifications; v1.1 applied the M4 pilot findings (V-008); v1.2 fixes the **instruction language at B1** after the B1-U01 review stop (V-012).
 >
 > **Status:** **Validated for A1 and A2** by the M4 pilot (A2-U01) and **for B1.1** by the B1-U01 review stop (V-012, 2026-09-12), which produced rule A7.1 below. Later revisions become v1.3, v1.4… and are logged in [06_CHANGELOG.md](06_CHANGELOG.md).
 >
@@ -285,6 +285,30 @@ Start now with your first line.
 **Writing feedback** uses a separate standard prompt. It is defined in `Resources/Writing_Toolkit.md` when that file is created.
 
 ---
+
+### A7.2 Instruction and explanation language from B2 (v1.3, CP-003)
+
+At B1 the task language is German and the explanations stay English (A7.1). From **B2-U01 on, the lesson is monolingual German** — with three deliberate exceptions.
+
+| Element | B1 (A7.1) | **B2 and above** |
+|---|---|---|
+| Lesson title, headings, activity titles | German | **German** |
+| Task instructions | German, with an italic English support line on first use | **German only.** No support line. |
+| Explanation sections (📘) | English | **German**, in short sentences, with the grammatical term named in German |
+| Glosses after a text | German word = English meaning | **unchanged** (German = English) — the fastest form for a reader |
+| Answer keys | English at B1.1, German at B1.2 | **German**, except where the answer is an English→German translation |
+| Flashcard tables | English prompt → German answer | **unchanged** |
+| Interference boxes (⚠️ English → German) | English | **German**, because the learner no longer needs English to understand the warning; the English calque itself is of course quoted |
+| AI role-play prompts | English | **English** — they are instructions to a machine, not learning material |
+| Error tables | English "Why" column | **German** |
+
+**Rules**
+
+1. **No English sentence tells the learner what to do** from B2-U01 onwards.
+2. **Explanations may use English words as glosses**, never as the carrier language: *das Gerundivum (zu + Partizip I)*, not *"the gerundive, which means…"*.
+3. **The three exceptions stay English** because they are not German-learning content: the AI role-play block, the English→German prompts in flashcard and retrieval tables, and the English calques quoted inside interference boxes.
+4. If a B2 explanation cannot be written in German that a solid B1 learner understands, the explanation is too complicated — rewrite it, do not fall back to English.
+5. C1 and C2 follow the same rule; the German simply gets denser.
 
 # Part B — File standards
 

@@ -751,3 +751,33 @@
 - **Result:** **PASS WITH NOTES** — the upper stages exist as stage pages and recaps; the units are milestones M9–M11.
 - **Approval status:** CP-003 approved by the user (2026-09-13).
 
+---
+
+## V-018 — M9 WP1: B2-U01 Identität & Gesellschaft, und der B2-Review-Stop
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-U01_Identitaet_und_Gesellschaft/` (5 Dateien), die B2-Abschnitte in `Resources/Grammar_Tables.md`, `Redemittel.md`, `English_German_Interference.md`, `Pronunciation_Guide.md`, die Stufe B2 in `Learner_Workbook/Story_Bank.md`, `Resources/Anki/B2.tsv`, `tools/build_anki.py`, `Docs/03/04/05/06`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 einschließlich der neuen Regel **A7.2**; CP-003; der Einheitenplan in `01` Appendix H.1; CEFR-B2-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → 145 Dateien, 0 Probleme
+  - `check_vocab.py B2-U01` → 31 ★, **0 unter 3** (nach Nachbesserung bei *beruhen auf* und *sich identifizieren mit*)
+  - `check_links.py` → 1958 Links, 0 broken, 3 planned
+  - `build_anki.py` → **`B2.tsv` neu, 61 Karten**; A1/A2/B1 unverändert
+  - vollständige Wiederlesung aller deutschen Texte; jede Partizipform gegen ihre Auflösung als Relativsatz geprüft
+- **Findings:**
+  1. `STR`, PASS. Fünf Dateien in der bekannten Form (`00_Overview_und_Wortschatz`, `L1`–`L3`, `L4_Anwenden`), 9 bzw. 8 nummerierte Aktivitäten mit Zeitangaben, Karteikartentabelle in jeder Datei.
+  2. **Review-Stop (wie bei A2-U01 und B1-U01 vorgesehen): PASS mit Standardänderung.** Die B2-Vorlage warf genau eine Grundsatzfrage auf — die Sprache der Erklärungen. Entschieden und als **`04` v1.3, Regel A7.2** festgeschrieben: ab B2 ist die Lektion einsprachig Deutsch; Ausnahmen bleiben nur die KI-Rollenspielblöcke, die englischen Prompts in Abruf- und Karteikartentabellen und die zitierten englischen Kalken in den Interferenzkästen.
+  3. `PED`, PASS. Die Grammatik ist nicht additiv, sondern **transformativ** aufgebaut: L1 leitet das Attribut aus dem Relativsatz ab, L2 erweitert es und liefert die **Lesetechnik rückwärts**, L3 verschiebt den Fokus vom Bauen zum Abwägen. L2 enthält bewusst ein **stilistisch schlechtes, grammatisch korrektes** Beispiel und macht daraus die Lektion (Attribut ≠ immer besser).
+  4. `CEF`, PASS. Lesetexte 340 / 200 / 330 / 520 Wörter, der Hauptkommentar in L4 mit klar erkennbarer Haltung; Hörtexte 3 × 90–120 Wörter mit unterschiedlichem Register; Schreibaufgabe 250–300 Wörter; Sprechziel 3 Minuten plus Podium.
+  5. `SPK`, PASS. Jede Lektion: ⏱️-Abruf, KI-Rollenspiel, Zwei-Minuten-Monolog. L4 fordert das Podium **in beiden Rollen** und **Story Bank Task 1 auf B2**; dafür wurde die Stufe B2 im Story Bank ergänzt (alle acht Aufgaben, plus Spalte im Aufnahme-Log).
+  6. `LNG`, **Minor (behoben), 2 Punkte:** fünf nummerierte Erklärungs-Zwischenüberschriften in L3 wurden zu einfachen H3 (sonst zählt der Checker sie als Aktivitäten); *beruhen auf* und *sich identifizieren mit* bekamen echte Übung statt bloßer Nennung (inkl. Hinweis auf *sich identifizieren **mit*** + Dativ gegen die englische Kalke *identify as*).
+  7. `ASS`, PASS. Unit-Test mit 10 Items und Reparaturplan; Selbstcheck an den Einheitszielen; Workbook-Eintrag vorgesehen.
+  8. `VOC`, PASS. 31 ★-Einträge, thematisch kohärent (Identität, Zugehörigkeit, Wandel) **und** grammatisch funktional: *zunehmend, wachsend, geltend, entscheidend, betroffen* sind zugleich die Partizipien, die die Einheit übt.
+  9. `WRK`, PASS (Schätzung). 90 + 90 + 90 + 95 min = 365 min für die Einheit, konsistent mit Appendix J für die Oberstufe.
+  10. `DEP`, PASS. „Wiederholt aus" nennt sieben frühere Einheiten bis zurück zu A1-U01; die Einheit setzt Relativsätze, Passiv und Adjektivendungen voraus und sagt das ausdrücklich.
+- **Required changes:** Keine offen.
+- **Resolution:** Beide `LNG`-Punkte vor dem Commit behoben; die Standardfrage wurde als A7.2 entschieden statt vertagt.
+- **Result:** **PASS WITH NOTES** — M9 WP1 abgeschlossen, Review-Stop erledigt, B2-Vorlage freigegeben für U02–U12.
+- **Approval status:** – (autonomous mode; Sequenzabweichung auf Nutzerwunsch)
+

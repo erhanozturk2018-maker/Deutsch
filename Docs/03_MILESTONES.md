@@ -18,7 +18,7 @@
 | M6 | B1.1 | ✅ COMPLETE (2026-09-12), V-012/V-013/V-014/V-015 | M5 |
 | M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
 | M8 | Final Audit of the A1–B1 core | ⬜ NOT STARTED | M7 |
-| M9 | B2 (12 units) | ⬜ NOT STARTED | M8 · CP-003 |
+| M9 | B2 (12 units) | ▶ IN PROGRESS (WP1) | CP-003 — **vorgezogen auf Wunsch des Nutzers, 2026-09-13** |
 | M10 | C1 (10 units) | ⬜ NOT STARTED | M9 |
 | M11 | C2 (8 project units) | ⬜ NOT STARTED | M10 |
 
@@ -367,8 +367,8 @@
   - B2-R1, B2-R2, B2-R3; B2 Midpoint Checkpoint; B2 Exit Checkpoint
   - `Resources/Anki/B2.tsv`; B2 sections in Grammar_Tables, Verb_Lists, Redemittel, Pronunciation_Guide, English_German_Interference
   - **Consolidation of `B2/B2_Recap/`**: each unit's vocabulary, phrases and grammar folded into the three sheets in the same batch; `status:` moves `planned → in-progress → validated`
-- **Work packages:** WP1 = U01 + review stop (the B2 template gets a second validation pass, as B1-U01 did) · WP2 = U02–U04 + R1 · WP3 = U05–U08 + R2 + Midpoint · WP4 = U09–U12 + R3 + Exit
-- **Dependencies:** M8; CP-003 (approved 2026-09-13).
+- **Work packages:** **WP1 = U01 ✅ (2026-09-13, V-018) + Review-Stop → `04` v1.3 / Regel A7.2** · WP2 = U02–U04 + R1 · WP3 = U05–U08 + R2 + Midpoint · WP4 = U09–U12 + R3 + Exit
+- **Dependencies:** CP-003 (approved 2026-09-13). **Sequenzabweichung:** M9 wurde auf ausdrücklichen Wunsch des Nutzers **vor** M7 (B1.2) und M8 begonnen. M7 und M8 bleiben offen und unverändert im Plan.
 - **Validation criteria:**
   - Instruction language **fully German** at B2 level (extends `04` A7.1).
   - Reading texts 500–900 words with a recognisable stance; listening 400–600 words.

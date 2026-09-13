@@ -11,14 +11,14 @@
 ```text
 Project:            German A1 → C2 Curriculum (A1–B1 im Bau; B2/C1/C2 angelegt, CP-003)
 Architecture:       Approved — v2.0 (2026-09-13: CP-003, scope extended to A1 → C2)
-Lesson standard:    04_LESSON_STANDARDS v1.2 (A1/A2 pilot-validated; B1.1 instruction language fixed by the B1-U01 review stop, V-012)
+Lesson standard:    04_LESSON_STANDARDS v1.3 (A1/A2 pilot-validated; B1 A7.1 aus V-012; B2+ A7.2 einsprachig Deutsch, V-018)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M11 added by CP-003
 Current Phase:      Curriculum Construction
 Current Milestone:  M6 — B1.1 ✅ COMPLETE (2026-09-12, V-015)
 Status:             BETWEEN MILESTONES
-Current batch:      — (M6 closed; recaps V-016; upper stages angelegt V-017; next: M7 B1.2)
-Next task:          B2/C1/C2 angelegt (V-017). NEXT unverändert: M7 (B1.2) — B1-U07 Umwelt & Nachhaltigkeit (obwohl vs trotzdem, sodass), dann U08-U12, B1-R2, B1-R3, B1 Exit; CP-001 (Mediation) vor Abschluss von M7 entscheiden. Danach M8 (Audit des A1-B1-Kerns), dann M9 (B2), M10 (C1), M11 (C2). Bei jeder neuen Einheit den Recap der Stufe mitziehen (01/02/03 + „Was noch fehlt“)
-Last completed:     Obere Stufen B2/C1/C2 angelegt (CP-003, 2026-09-13, V-017)
+Current batch:      M9 WP1 fertig (B2-U01, V-018). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          M9 WP2: B2-U02 Arbeitswelt & Karriere (Funktionsverbgefüge; Nominalstil ↔ Verbalstil; Hauptaufgabe: Konfliktgespräch am Arbeitsplatz + formelle E-Mail), dann B2-U03 (Konjunktiv I, indirekte Rede), B2-U04 (Passiversatzformen) und B2-R1. Offen und unverändert: M7 (B1.2), M8 (Audit A1-B1), M10 (C1), M11 (C2). Jede neue Einheit zieht den Stufen-Recap mit (01/02/03)
+Last completed:     M9 WP1 — B2-U01 Identität & Gesellschaft + B2-Review-Stop (2026-09-13, V-018)
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)
 ```

@@ -452,3 +452,19 @@
 - **Reason:** User request of 2026-09-13 (change proposal **CP-003**, approved the same day).
 - **Impact:** Architecture **v1.1 → v2.0** (scope and stage boundaries changed — a major version by the rule in `01`). Nothing in A1–B1 was moved or rewritten. Full course estimate ≈ 345 files. Validated as V-017.
 
+---
+
+## [018] 2026-09-13 — M9 WP1: B2-U01 gebaut, `04` auf v1.3 (Regel A7.2)
+
+- **Milestone:** M9, WP1 (auf Nutzerwunsch vor M7/M8 begonnen)
+- **Affected files:**
+  - **Created:** `B2/B2-U01_Identitaet_und_Gesellschaft/` (5), `Resources/Anki/B2.tsv`
+  - **Updated:** `Resources/Grammar_Tables.md` (B2: Partizipialattribute, erweitertes Attribut, Gerundivum), `Resources/Redemittel.md` (B2: Abstufen, Einschränken, Zuschreibung vermeiden, Register in drei Höhen), `Resources/English_German_Interference.md` (B2-U01-Block), `Resources/Pronunciation_Guide.md` (lange Nominalphrase, Register), `Learner_Workbook/Story_Bank.md` (**Stufe B2** für alle acht Aufgaben + Spalte im Aufnahme-Log), `B2/README.md`, `tools/build_anki.py` (Stufen B2/C1/C2 ergänzt), Docs 00/03/04/05/06
+- **Change:**
+  1. **B2-U01 Identität & Gesellschaft:** L1 *Die wachsende Kritik* (Partizip I/II als Attribut, aktiv ↔ passiv, Adjektivendungen, Umformung aus dem Relativsatz) · L2 *Die im Frühjahr beschlossenen Maßnahmen* (erweitertes Attribut, Lesetechnik rückwärts, Gerundivum, Stilentscheidung Attribut ↔ Relativsatz, Amtsdeutsch entschlüsseln) · L3 *Wer gehört dazu?* (abstufen, einschränken, Zuschreibungen erkennen, Register in drei Höhen, das schwierige Gespräch) · L4 *Anwenden* (Podium in beiden Rollen, Story Bank Task 1 auf B2, Kommentar „Die eingebildete Mitte", drei Reaktionen, Leserkommentar 250–300 Wörter, Test).
+  2. **`04` v1.3 / Regel A7.2** (aus dem vorgesehenen B2-Review-Stop): ab B2 sind Lektionen **einsprachig Deutsch**, einschließlich der Erklärungen und Fehlertabellen. Englisch bleibt nur in KI-Rollenspielblöcken, in den Prompts der Abruf- und Karteikartentabellen und in zitierten englischen Kalken.
+  3. **Story Bank Stufe B2:** alle acht Aufgaben bekommen B2-Anforderungen (einordnen statt nur erzählen, Abstufung, Register, Partizipialattribute); das Aufnahme-Log hat jetzt eine B2-Spalte.
+  4. **`tools/build_anki.py`** erzeugt jetzt auch `B2.tsv`, `C1.tsv`, `C2.tsv` (B2 startet mit 61 Karten).
+- **Reason:** Nutzerauftrag vom 2026-09-13, die oberen Stufen tatsächlich zu schreiben, beginnend mit B2, in derselben Architektur.
+- **Impact:** Die B2-Vorlage ist validiert (V-018) und für U02–U12 freigegeben. M7 (B1.2) und M8 bleiben offen; die Sequenzabweichung ist in `03` vermerkt.
+

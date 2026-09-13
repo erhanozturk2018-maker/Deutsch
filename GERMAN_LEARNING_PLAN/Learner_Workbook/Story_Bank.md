@@ -86,16 +86,16 @@ Keep all your recordings. The first one might be 20 seconds of short sentences w
 
 For each task and stage, note the date, the seconds you spoke, and your rubric average.
 
-| Task | Stage 0 | A1 | A2 | B1 |
-|---|---|---|---|---|
-| 1 Wer bin ich? | | | | |
-| 2 Mein Alltag | | | | |
-| 3 Ein Erlebnis | | | | |
-| 4 Mein Ort | | | | |
-| 5 Ein Problem lösen | – | | | |
-| 6 Etwas planen | | | | |
-| 7 Meine Meinung | | | | |
-| 8 Ein Mensch | – | | | |
+| Task | Stage 0 | A1 | A2 | B1 | B2 |
+|---|---|---|---|---|---|
+| 1 Wer bin ich? | | | | | |
+| 2 Mein Alltag | | | | | |
+| 3 Ein Erlebnis | | | | | |
+| 4 Mein Ort | | | | | |
+| 5 Ein Problem lösen | – | | | | |
+| 6 Etwas planen | | | | | |
+| 7 Meine Meinung | | | | | |
+| 8 Ein Mensch | – | | | | |
 
 ### After each stage: compare
 
@@ -103,3 +103,23 @@ Listen to your previous and current versions of two tasks back to back and note:
 - What can I say now that I couldn't before?
 - What was faster or smoother?
 - What is still missing, and what is my next step?
+
+---
+
+## Stufe B2
+
+Ab B2 kommt zu jeder Aufgabe **dieselbe zusätzliche Anforderung**: nicht nur erzählen, sondern **einordnen** — mit Abstufung (*tendenziell, in der Regel*), mit Register-Bewusstsein und mit mindestens zwei Partizipialattributen. Länge: **3 Minuten**, Runde 3 nach dem 4/3/2-Prinzip.
+
+| Task | Zusätzlich auf B2 |
+|---|---|
+| 1 Wer bin ich? | wodurch Sie geprägt wurden; eine Rollenerwartung und Ihr Umgang damit; Selbstbeschreibung ohne Etikett |
+| 2 Mein Alltag | Ihr Alltag als Beispiel für eine allgemeinere Entwicklung — mit Einschränkung |
+| 3 Ein Erlebnis | das Erlebnis **und** was es über die Umstände zeigt; Wechsel zwischen Erzählung und Deutung |
+| 4 Mein Ort | der Ort als sozialer Raum: wer lebt dort, wer nicht mehr, warum |
+| 5 Ein Problem lösen | Verhandlung statt Beschwerde: Angebot, Gegenangebot, Bedingung, Abschluss |
+| 6 Etwas planen | Planung mit Zielkonflikt: zwei Interessen, ein Kompromiss, eine Begründung |
+| 7 Meine Meinung | These, zwei belegte Argumente, ein eingeräumter Einwand, differenziertes Fazit |
+| 8 Ein Mensch | Beschreibung ohne Etikett, mit Beleg statt Behauptung |
+
+Speichern Sie die B2-Aufnahmen als `StageB2_Task<N>` und vergleichen Sie jede mit Ihrer B1-Aufnahme: Was ist **inhaltlich** differenzierter geworden, nicht nur sprachlich?
+

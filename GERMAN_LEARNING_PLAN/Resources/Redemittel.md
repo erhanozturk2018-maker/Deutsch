@@ -541,3 +541,53 @@ Taught in [B1-U06](../B1/B1-U06_Medien_und_Nachrichten/L3_Nachrichten_und_sozial
 
 **Eine Stellungnahme (Leserbrief):** *Mit großem Interesse habe ich Ihren Artikel „…" gelesen. · In einem Punkt möchte ich Ihnen widersprechen: … · Ich würde mir wünschen, dass … · Vielleicht sollte häufiger erklärt werden, …*
 
+## B2: Differentiating and register
+
+Taught in [B2-U01](../B2/B2-U01_Identitaet_und_Gesellschaft/L3_Wer_gehoert_dazu.md).
+
+**Abstufen — wie viele sind gemeint?**
+
+| Reichweite | Ausdrücke |
+|---|---|
+| alle | *ausnahmslos · durchgängig* |
+| fast alle | *nahezu alle · die überwiegende Mehrheit* |
+| viele | *viele · ein großer Teil · häufig* |
+| Tendenz | *tendenziell · in der Regel · überwiegend · meistens* |
+| einige | *manche · ein Teil · nicht wenige* |
+| wenige | *einzelne · vereinzelt · in Ausnahmefällen* |
+| niemand | *niemand · in keinem Fall* |
+
+**Einschränken — wofür genau gilt das?**
+
+*in Deutschland · im ländlichen Raum · seit einigen Jahren · bis vor Kurzem · bei jungen Leuten · unter Berufstätigen · laut der Studie · meiner Erfahrung nach · soweit ich das beurteilen kann · weitgehend · im Wesentlichen · zumindest teilweise*
+
+**Zuschreibung vermeiden**
+
+| ❌ Zuschreibung | ✅ Beobachtung |
+|---|---|
+| *Die sind eben so.* | *In dieser Situation haben viele so reagiert.* |
+| *Als Ausländer sieht man das anders.* | *Wer neu in einem Land ist, erlebt das oft anders.* |
+| *Typisch Frau / typisch Chef.* | *Das kommt in dieser Rolle häufiger vor.* |
+| *Die sind unzuverlässig.* | *Dieser Eindruck beruht auf wenigen Fällen.* |
+
+Die drei Prüffragen: **Wie viele? · Wo und wann? · Woher weiß ich das?**
+
+**Über sich sprechen, ohne Etikett**
+
+*Ich würde mich am ehesten als ___ bezeichnen. · Ich fühle mich ___ zugehörig, ohne mich darauf zu reduzieren. · Ich identifiziere mich eher mit ___ als mit ___ . · Das ist ein Teil von mir, aber nicht der ganze.*
+
+**Register: dieselbe Aussage in drei Höhen**
+
+| ⬇ salopp | neutral | ⬆ gehoben |
+|---|---|---|
+| Das nervt mich. | Das stört mich. | Das empfinde ich als problematisch. |
+| Die tun so, als ob … | Sie verhalten sich, als ob … | Der Eindruck wird erweckt, dass … |
+| keine Ahnung | Ich weiß es nicht. | Dazu kann ich keine Angaben machen. |
+| voll viele | sehr viele | eine erhebliche Zahl |
+| Das geht gar nicht. | Das halte ich für falsch. | Das erscheint mir nicht vertretbar. |
+| die Leute | die Menschen | die Bevölkerung · die Betroffenen |
+
+**Auf eine freundlich gemeinte Zuschreibung reagieren**
+
+*Darf ich kurz nachfragen — wie meinen Sie das genau? · Ich glaube, Sie meinen das freundlich; bei mir kommt allerdings an, dass … · Mich stört nicht die Frage an sich, sondern dass … · Ich sage das nicht als Vorwurf. · Reden wir gern weiter darüber.*
+

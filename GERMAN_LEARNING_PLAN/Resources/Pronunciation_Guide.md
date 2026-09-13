@@ -242,6 +242,15 @@ German starts every word or syllable that begins with a vowel with a tiny **stop
 - *werden* [ˈveːɐ̯dn̩] ↔ *wurden* [ˈvʊʁdn̩]: long *e* against short *u* is the only signal for present against past.
 - **Contrast stress** when you weigh things up: *EINerseits …, ANDErerseits … · Nicht die ge**SCHWIN**digkeit, sondern die **AUS**wahl.* In *nicht A, sondern B*, stress **both** poles. Put a small pause before *allerdings* and *trotzdem* so the objection lands.
 
+### Die lange Nominalphrase und das Register (B2-U01)
+
+- Ein erweitertes Attribut ist **eine Sprecheinheit**: *die | im Frühjahr vom Stadtrat beschlossenen | MASSnahmen*. Atmen Sie **vor** dem Artikel, nicht mittendrin.
+- **Eine Hauptbetonung pro Phrase**, und zwar auf dem **Nomen** am Ende. Das Partizip bekommt nur eine Nebenbetonung auf dem Stamm: *be**SCHLOS**senen*.
+- Die Endung *-end* ist **kurz und unbetont**: *WACHsend*, nicht *wachsENDE*.
+- Beim Gerundivum liegt die Betonung auf dem **Verbstamm**, nicht auf *zu*: *die ein-zu-**HAL**-tende Frist*.
+- **Register hört man vor dem Inhalt:** salopp ist schneller, verschliffen (*hab'ch, isses, ham wa*) und partikelreich; gehoben ist langsamer, phrasiert länger und spricht Endsilben deutlich aus (*ver-**TRET**-bar*).
+- Übung: Denselben Absatz zweimal aufnehmen — einmal salopp, einmal gehoben. Der hörbare Unterschied ist genau die B2-Fähigkeit.
+
 ---
 
 *Added later: recognising connected speech (*haste, isses, wir ham*) and reading long written sentences aloud (B1.2).*

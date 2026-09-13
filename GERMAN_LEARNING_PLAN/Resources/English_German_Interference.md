@@ -320,6 +320,23 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | *on the other hand* | auf der **zweiten** Seite | auf der **anderen** Seite | Fixed pair |
 | *sensible* | Das ist nicht **sensibel**. | Das ist nicht **vernünftig**. | *sensibel* = sensitive |
 
+### Partizipien, Attribute und Register (B2-U01)
+
+| English | ❌ Calque | ✅ German | Why |
+|---|---|---|---|
+| *the report presented in March* | der Bericht, präsentiert im März | der **im März vorgelegte** Bericht | the attribute goes **before** the noun |
+| *the growing criticism* | die **wachsend** Kritik | die **wachsende** Kritik | participles take adjective endings |
+| *the problems to be solved* | die **lösenden** Probleme | die **zu lösenden** Probleme | Gerundivum needs *zu* |
+| *the forms to be filled in* | die **zu ausfüllenden** Formulare | die **auszufüllenden** Formulare | *zu* goes inside the separable verb |
+| *I am working* | Ich bin **arbeitend**. | Ich **arbeite gerade**. | German has no continuous form |
+| *an interesting book* | ein **interessierendes** Buch | ein **interessantes** Buch | fixed adjective, not a participle |
+| *people* | die **Personen** (im Gespräch) | die **Leute** / die **Menschen** | *Personen* is form-filling register |
+| *I identify as …* | Ich identifiziere mich **als** … | Ich **verstehe mich als** … / Ich identifiziere mich **mit** … | *sich identifizieren* + **mit** + Dativ |
+| *society* | die **Gemeinschaft** von 80 Millionen | die **Gesellschaft** | *Gemeinschaft* = small, close group |
+| *foreigners* | die **Ausländer** | **Zugewanderte** · **Menschen mit Migrationsgeschichte** | register and precision |
+| *actually* | **aktuell** | **eigentlich** | *aktuell* = current |
+| *That's based on …* | Das **basiert von** … | Das **beruht auf** (+ D) … | fixed preposition |
+
 ---
 
 *Still to come at B1.2: reported speech, *während/obwohl* in long sentences, and the false friends of academic language.*

@@ -6,11 +6,11 @@ type: recap
 est_minutes: 5
 prerequisites: [B1-RECAP]
 standard: 04_LESSON_STANDARDS v1.2
-status: planned
+status: in-progress
 ---
 # B2 Recap — Überblick
 
-> **Level:** B2 · **Status: Referenz, noch nicht konsolidiert.** The B2 units are not written yet (milestone M9). These three sheets are built from the **CEFR B2 descriptors** and this course's own progression, so the target is visible now; as the units appear, each one's vocabulary, phrases and grammar are folded in here and this status becomes `in-progress`, then `validated`.
+> **Level:** B2 · **Status: teilweise konsolidiert.** **B2-U01 ist gebaut**; Partizipialattribute, erweiterte Attribute, Gerundivum, Abstufung, Zuschreibungen und die Registerskala sind aus der Einheit geprüft übernommen. Alles Übrige ist weiterhin eine aus den **CEFR-B2-Deskriptoren** gebaute Referenz und wird mit jeder neuen Einheit (M9) konsolidiert.
 > **It answers one question:** *what should I know at the end of B2?*
 > **It is not a lesson.** No exercises. Use it as a map, a checklist and a quick reference.
 
