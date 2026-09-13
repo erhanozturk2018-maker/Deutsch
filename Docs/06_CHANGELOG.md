@@ -565,3 +565,16 @@
 - **Reason:** M9 WP3 laut `03`; Nutzerauftrag, B2 fortlaufend zu bauen (2026-09-13).
 - **Impact:** B2 umfasst jetzt U01–U08 und R1. Validiert als V-025. Es fehlen zum Abschluss von WP3 noch **B2-R2** und das **B2 Midpoint Checkpoint**.
 
+## [026] 2026-09-13 — M9 WP3 abgeschlossen: B2-R2 und B2 Midpoint Checkpoint
+
+- **Milestone:** M9, WP3 (**abgeschlossen**)
+- **Affected files:**
+  - **Created:** `B2/B2-R2_Wiederholung.md`, `B2/B2_Midpoint_Checkpoint.md`
+  - **Updated:** `B2/README.md`, Docs 00/05/06
+- **Change:**
+  1. **B2-R2 Wiederholung:** zweite kumulative B2-Wiederholung nach Appendix G — drei Sitzungen, 28-Item-Aufwärmen, Formen-Klinik mit 24 Items in vier Gruppen, Umformungs-Runde über drei Register, zwei Dreiminuten-Themen, vier Textsorten, Wortschatz-Sprint über vier Felder, vier Situationen mit Registerwechsel als Härtetest, Schreiben unter Zeitdruck, Fehlerklinik mit 16 typisierten Fehlern, vier Höraufnahmen, 4/3/2-Referat, 20-Item-Test und die Zwei-Auffrischungen-Regel.
+  2. **B2 Midpoint Checkpoint:** Diagnose nach der ersten Hälfte von B2 in zwei Sitzungen — Lesen (Bescheid, populärwissenschaftlicher Absatz, zwei Nachrichten), Sprache im Kontext (24 Punkte), Hören (drei Aufnahmen), Sprechen (Monolog, Faktencheck, integrierte Situation mit Sie/du-Wechsel), Schreiben (Widerspruch, 220–260 Wörter) mit Bewertungsraster, Profiltabelle, Richtwerten und einer Auffrischungskarte, die **genau zwei** Bereiche zulässt und für acht Fehlerbilder direkt auf die zuständige Aktivität verlinkt.
+  3. **B2/README.md:** Statuszeile, Wiederholungs- und Checkpoint-Zeilen sowie der Arbeitsweg auf den neuen Stand gebracht.
+- **Reason:** Abschluss von M9 WP3 laut `03`.
+- **Impact:** **M9 WP3 abgeschlossen.** Die erste Hälfte von B2 ist vollständig: U01–U08, R1, R2 und das Midpoint. Validiert als V-026. Als Nächstes WP4: **B2-U09 Kunst & Kultur**, U10–U12, B2-R3 und das B2 Exit.
+

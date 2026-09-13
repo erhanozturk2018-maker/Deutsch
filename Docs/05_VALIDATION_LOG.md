@@ -994,3 +994,31 @@
 - **Result:** **PASS** — B2-U08 ist Teil des Kurses. Als Nächstes **B2-R2** und das **B2 Midpoint Checkpoint**, womit M9 WP3 abgeschlossen wäre.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-026 — M9 WP3 abgeschlossen: B2-R2 und B2 Midpoint Checkpoint
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B2/B2-R2_Wiederholung.md`, `GERMAN_LEARNING_PLAN/B2/B2_Midpoint_Checkpoint.md`, `B2/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M9-Kriterien in `03`; `04` v1.3 inkl. A7.2; **Appendix G** (Wiederholungsspezifikation: drei Sitzungen, Gewichtung 50/30/20) und die Checkpoint-Vorlage aus dem B1 Midpoint; CEFR-B2-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **183 Dateien, 0 Probleme**
+  - `check_links.py` → **2355 Links, 0 broken, 3 planned** (alle drei auf das noch ungeschriebene B1-U07)
+  - vollständige Wiederlesung; Gewichtung und Itemzahlen ausgezählt; jede Lösung gegen die Einheit zurückgeprüft, aus der sie stammt
+- **Findings:**
+  1. `REV`, PASS. **B2-R2** folgt Appendix G: drei Sitzungen (55/65/50 min), zwölf nummerierte Aufgaben, Gewichtung **50 % U05–U08 / 30 % U01–U04 / 20 % B1 und A2**. Ausgezählt: Aufwärmen **28 Items** (7 je Einheit), Formen-Klinik **24 Items** in vier Gruppen, Fehlerklinik **16 Sätze** mit Fehlertyp, Wiederholungstest **20 Items** mit Reparaturplan auf Einheitsebene.
+  2. `REV`, PASS. Die Fehlerklinik ist bewusst so gemischt, dass **acht von sechzehn** Fehlern Rektions- und Kasusfehler sind; der Lösungsteil benennt das ausdrücklich als typisches B2.2-Muster („die Formen sitzen, die Anschlüsse noch nicht“) — eine Diagnose, keine Sammlung.
+  3. `PED`, PASS. R2 hält die **Zwei-Auffrischungen-Regel** aus R1 durch und begründet sie erneut. Die Umformungs-Runde (Aufgabe 3) verlangt denselben Inhalt in drei Registern — die schärfste Registerprüfung des Kurses, jetzt auch auf eine Aussage über das eigene Befinden angewendet.
+  4. `STR`, PASS (Midpoint). Der **B2 Midpoint Checkpoint** folgt der B1-Vorlage: zwei Sitzungen, fünf Teile (Lesen, Sprache im Kontext, Hören, Sprechen, Schreiben), Profiltabelle, Auffrischungskarte mit **genau zwei** Einträgen, Workbook-Anschluss.
+  5. `CEF`, PASS (Midpoint). Lesen: drei Texte (Bescheid 150 Wörter, populärwissenschaftlicher Absatz 105, zwei Nachrichten je ~70) mit 12 Fragen. Sprache im Kontext: 12 + 12 Punkte. Hören: drei Aufnahmen à 70–90 Wörter, 6 Fragen. Sprechen: Monolog, Faktencheck, integrierte Situation mit **Registerwechsel**. Schreiben: 220–260 Wörter mit Bewertungsraster.
+  6. `LNG`, PASS (Midpoint). A7.2 eingehalten: Der Checkpoint ist einsprachig Deutsch. Die **eine** Ausnahme — englische Impulse in Teil 2B — ist im Kopf der Datei ausdrücklich benannt und begründet (dort wird die Übersetzungsrichtung geprüft), wie es A7.2 für Abruf-Prompts vorsieht.
+  7. `ASS`, PASS. Die Richtwerte sind ausdrücklich als **Arbeitswerte dieses Kurses** gekennzeichnet und **nicht** als Prüfungsnormen — dieselbe Ehrlichkeitsregel wie im B1 Midpoint. Die Auffrischungstabelle verlinkt für acht typische Fehlerbilder direkt auf die zuständige Aktivität.
+  8. `ETH`, PASS. Der Checkpoint trägt den Hinweis, dass Bescheid- und Gesundheitstexte erfunden sind und Sprache üben, nicht beraten.
+  9. `DEP`, PASS. Ein zunächst gesetzter Link auf ein nicht existierendes `Learner_Workbook/Study_Plan.md` wurde von `check_links.py` gefunden und auf den tatsächlich vorhandenen `Progress_Tracker.md` korrigiert.
+  10. `WRK`, PASS (Schätzung). R2 170 min in drei Sitzungen (konsistent mit R1), Midpoint 135 min in zwei Sitzungen (B1 Midpoint: 130 min).
+- **Required changes:** Keine offen.
+- **Resolution:** Der `DEP`-Punkt wurde vor dem Commit behoben.
+- **Result:** **PASS** — **M9 WP3 abgeschlossen.** Die erste Hälfte von B2 (U01–U08, R1, R2, Midpoint) ist vollständig. Als Nächstes WP4: U09–U12, B2-R3, B2 Exit.
+- **Approval status:** – (autonomous mode)
+
