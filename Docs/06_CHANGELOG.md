@@ -660,3 +660,15 @@
 - **Reason:** M7 laut `03`, begonnen nach dem Abschluss von M9 gemäß der Nutzer-Reihenfolge (B2 → B1.2 → C1 → C2).
 - **Impact:** B1 umfasst jetzt U01–U07, B1-R1 und das B1 Midpoint. Validiert als V-032. **Der Kurs hat erstmals 0 geplante und 0 defekte Links**, weil die drei Verweise aus dem B1 Midpoint jetzt auf eine existierende Einheit zeigen. Als Nächstes B1-U08 Zusammenleben.
 
+## [033] 2026-09-13 — M7 WP1 (Teil 2): B1-U08 Zusammenleben
+
+- **Milestone:** M7, WP1 (laufend)
+- **Affected files:**
+  - **Created:** `B1/B1-U08_Zusammenleben/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B1: lassen and modal particles), `Resources/Redemittel.md` (B1: Conflict and volunteering), `Resources/English_German_Interference.md` (B1-U08), `Resources/Pronunciation_Guide.md` (B1-U08), `Anki/B1.tsv` (422 Karten), `B1/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **B1-U08 Zusammenleben** (bewusst **leichte** Einheit, 305 min): L1 *Ich lasse es reparieren* (*lassen* = erlauben / machen lassen / zurücklassen, Ersatzinfinitiv im Perfekt, *sich lassen* rezeptiv, feste Wendungen, Abgrenzung zu *verlassen*) · L2 *Komm doch mal vorbei* (Modalpartikeln in Fragen, Bitten und Aussagen, Stellung im Mittelfeld, betont ↔ unbetont, „drei zum Anfangen“) · L3 *Streit und Ehrenamt* (vier Schritte des Konfliktgesprächs, Wirkung statt Vorwurf, konkret bitten mit Zeit oder Menge, Vorschläge annehmen und einschränken, Wortfeld Ehrenamt) · L4 *Anwenden* (Hausversammlung mit drei Punkten und Notiz, Story Bank Task 6 auf B1, Artikel „Der Putzplan, der hielt“, drei Stimmen aus dem Haus, Zettel im Treppenhaus, Test).
+  2. **Resources:** *lassen* in drei Bedeutungen samt Perfektregel; Modalpartikeltabelle nach Satzart; Redemittel für die vier Konfliktschritte und für Ehrenamt; vierzehn Interferenzfallen; Aussprache von unbetontem *lassen*, Partikeln und der höflichen Bitte.
+- **Reason:** M7 WP1 laut `03`; `01` weist B1-U08 ausdrücklich als leichte Einheit aus.
+- **Impact:** B1 umfasst jetzt U01–U08, B1-R1 und das B1 Midpoint. Validiert als V-033. Als Nächstes **B1-U09 Bildung & Zukunft** (Futur I, Wortbildung), danach **B1-R2**.
+

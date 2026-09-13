@@ -503,3 +503,22 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | dependent on the car | *angewiesen von dem Auto* | **angewiesen auf das Auto** | *angewiesen auf* + Akkusativ |
 | all in all | *alles in allen* | **alles in allem** | feste Wendung |
 
+## B1-U08: lassen, Partikeln und Konflikt
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| I'm having the bike repaired. | *Ich lasse das Rad zu reparieren.* | **Ich lasse das Rad reparieren.** | *lassen* + Infinitiv **ohne** *zu* |
+| I had it repaired. | *Ich habe es reparieren gelassen.* | **Ich habe es reparieren lassen.** | Ersatzinfinitiv |
+| I left the key downstairs. | *Ich habe den Schlüssel unten lassen.* | **… unten gelassen.** | ohne zweiten Infinitiv: Partizip |
+| Let me do that. | *Lass mir das machen.* | **Lass mich das machen.** | *lassen* + Akkusativ |
+| I left the house. | *Ich habe das Haus gelassen.* | **Ich habe das Haus verlassen.** | *verlassen* = weggehen |
+| Let's go. | *Lass uns zu gehen.* | **Lass uns gehen.** | kein *zu* |
+| So what are you doing here? | *Denn was machst du hier?* | **Was machst du denn hier?** | Partikel nie auf Position 1 |
+| Can you help me? | *Kannst du mal mir helfen?* | **Kannst du mir mal helfen?** | Pronomen vor Partikel |
+| I look after the garden. | *Ich kümmere den Garten.* | **Ich kümmere mich um den Garten.** | reflexiv + *um* |
+| I volunteer at the club. | *Ich engagiere im Verein.* | **Ich engagiere mich im Verein.** | reflexiv |
+| I support you. | *Ich unterstütze bei dir.* | **Ich unterstütze dich.** | ohne Präposition |
+| I complain about the noise. | *Ich beschwere über den Lärm.* | **Ich beschwere mich über den Lärm.** | reflexiv + *über* |
+| That stresses me. | *Das stresst mir.* | **Das stresst mich.** | Akkusativ |
+| I was in a hurry. | *Ich war eilig.* | **Ich hatte es eilig.** | feste Wendung |
+

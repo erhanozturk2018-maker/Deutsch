@@ -1392,3 +1392,54 @@ Nach *so* + Adjektiv folgt ***dass***, nicht *sodass*.
 | Grund zuerst | *weil · da* | *Die Abfuhr ließ sie stehen, **weil** sie überfüllt war.* |
 | Folge zuerst | *sodass · deshalb · deswegen* | *Sie war überfüllt, **sodass** die Abfuhr sie stehen ließ.* |
 
+## B1: lassen and modal particles
+
+Taught in [B1-U08](../B1/B1-U08_Zusammenleben/L1_Ich_lasse_es_reparieren.md) (*lassen*) and [L2](../B1/B1-U08_Zusammenleben/L2_Komm_doch_mal_vorbei.md) (particles).
+
+***lassen*** **— three meanings, one shape**
+
+| Bedeutung | Bau | Beispiel |
+|---|---|---|
+| **erlauben** | *lassen* + Akk. + Infinitiv **ohne *zu*** | ***Lass** mich das **machen**.* |
+| **machen lassen** | *lassen* + Akk. + Infinitiv **ohne *zu*** | *Ich **lasse** das Rad **reparieren**.* |
+| **zurücklassen** | *lassen* + Akk. (+ Ort), **kein** Infinitiv | *Ich **lasse** den Schlüssel unten.* |
+| Möglichkeit | *sich lassen* + Infinitiv | *Das **lässt sich** machen.* (= kann gemacht werden) |
+
+| Satz | Wer handelt? |
+|---|---|
+| *Ich repariere das Rad.* | ich |
+| *Ich **lasse** das Rad **reparieren**.* | jemand anders, in meinem Auftrag |
+| *Das Rad **wird repariert**.* | jemand — der Satz sagt nicht, wer |
+
+**Perfekt**
+
+| Fall | Form | Beispiel |
+|---|---|---|
+| mit zweitem Infinitiv | **Ersatzinfinitiv** | *Ich habe das Rad reparieren **lassen**.* |
+| ohne Infinitiv | Partizip | *Ich habe den Schlüssel unten **gelassen**.* |
+
+Im Nebensatz steht das gebeugte Verb **vor** den beiden Infinitiven: *…, dass ich das Rad **habe** reparieren **lassen**.*
+
+**Feste Wendungen:** *Lass mal. · Lass uns … · Lass dir Zeit. · Das lasse ich mir nicht gefallen. · sich etwas sagen lassen.*
+
+> ⚠️ ***lassen*** ≠ ***verlassen***: *Ich **lasse** den Schlüssel unten* (zurücklassen) ↔ *Ich **verlasse** das Haus* (weggehen).
+
+**Modalpartikeln (B1-Auswahl)** — unbetont, im **Mittelfeld**, nach den Pronomen, **nie** auf Position 1
+
+| Satzart | Partikel | Wirkung | Beispiel |
+|---|---|---|---|
+| Frage | **denn** | freundlich | *Was machst du **denn** hier?* |
+| Frage | **eigentlich** | öffnet ein Thema | *Wie war es **eigentlich**?* |
+| Bitte | **mal · doch mal** | macht sie leicht | *Sag **mal**, … · Komm **doch mal** vorbei.* |
+| Bitte | **einfach** | nimmt die Schwere | *Sag **einfach** Bescheid.* |
+| Aussage | **ja** | wie wir beide wissen | *Das ist **ja** bekannt.* |
+| Aussage | **doch** | erinnert an Bekanntes | *Wir haben **doch** geredet.* |
+| Aussage | **eben · halt** ⚖ | so ist es nun mal | *Dann **eben** anders.* |
+| Aussage | **eigentlich** | weicher | *Der Keller ist **eigentlich** leer.* |
+| Aussage | **wohl** | Vermutung | *Er ist **wohl** nicht da.* |
+
+- Höchstens **zwei** pro Satz; nach den Pronomen: *Kannst du mir **mal** helfen?*
+- **Betont** sind es andere Wörter: *Ich habe **JA** gesagt* ↔ *Das ist **ja** interessant*.
+- Ein Satz ohne Partikeln ist nicht falsch, sondern **tonlos** — in einem Aushang richtig, in einer Nachricht an Nachbarn hart.
+- **Zum Anfangen drei:** *denn* in Fragen, *mal* in Bitten, *doch* für Bekanntes.
+

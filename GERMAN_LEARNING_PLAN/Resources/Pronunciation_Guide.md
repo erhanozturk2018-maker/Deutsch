@@ -478,3 +478,27 @@ Umgangssprachlich verkürzt: *drauf · dran · drüber* ⚖ — verstehen, aber 
 - *na**TÜR**lich* trägt den Akzent auf der zweiten Silbe; danach folgt eine kleine Pause, bevor der Einwand kommt.
 - ***Alles in allem*** wird langsam und fallend gesprochen: Es kündigt das Ende an.
 
+## B1-U08: lassen, Partikeln und die Bitte
+
+**lassen ist leiser als das Vollverb**
+
+- *Ich lasse das Rad repa**RIE**ren.* — *lassen* unbetont, der Akzent liegt auf dem zweiten Verb.
+- ***LASS** mich das machen.* — als Aufforderung ist *Lass* dagegen betont und kurz.
+- Im Perfekt stehen zwei Infinitive am Ende; betont ist der **erste**: *Ich habe es repa**RIE**ren lassen.*
+- *Lass uns* klingt gesprochen oft wie ein Wort: *Lassuns morgen reden.* ⚖
+
+**Modalpartikeln tragen nie den Akzent**
+
+- *Wir haben doch **GES**tern darüber gesprochen.*
+- Betont wird die Partikel zum anderen Wort: *Ich habe **JA** gesagt* ↔ *Das ist ja **IN**teressant*.
+- Im Tempo verschmelzen sie: *Sag mal* → *Sagmal*; *Komm doch mal* → *Kommdochmal*.
+
+**Die höfliche Bitte fällt am Ende**
+
+| Element | Hinweis |
+|---|---|
+| *Wäre es möglich, …* | fallende Melodie ↘ — steigend klingt unsicher |
+| Zeitangabe | trägt den Akzent: *ab **ZEHN***, *bis **FREI**tag* |
+| *Sagen Sie mal* | schnell und unbetont, nur der Türöffner |
+| trennbare Verben | Akzent auf dem Präfix: ***AB**wechseln*, ***EIN**springen*, ***AN**sprechen* |
+

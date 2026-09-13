@@ -1204,3 +1204,34 @@
 - **Result:** **PASS WITH NOTES** — B1-U07 ist Teil des Kurses; **B1.2 hat begonnen**. Als Nächstes B1-U08 Zusammenleben.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-033 — M7 WP1 (Teil 2): B1-U08 Zusammenleben
+
+- **Date:** 2026-09-13
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-U08_Zusammenleben/` (5 Dateien), die B1-U08-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B1.tsv`, `B1/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M7-Kriterien in `03`; `04` v1.2 inkl. A7.1 (Spalte B1.2); Einheitenplan in `01` Appendix (B1-U08: *lassen*, Modalpartikeln, Nachbarschaftskonflikt, Ehrenamt — ausdrücklich als **leichte Einheit** ausgewiesen); CEFR-B1-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **215 Dateien, 0 Probleme** (nach Korrektur, s. Findings 6)
+  - `check_vocab.py B1-U08` → **36 ★, 0 unter 3** (nach Nachbesserung)
+  - `check_links.py` → **2689 Links, 0 broken, 0 planned** (nach Korrektur zweier A2-Pfade, s. Findings 7)
+  - `build_anki.py` → `B1.tsv` **422 Karten** (vorher 382)
+  - vollständige Wiederlesung; jede *lassen*-Form gegen ihre Bedeutung und jede Partikel gegen ihre Stellung geprüft
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten, aber bewusst **leichter**: L1–L3 je ~75 min (statt 85) mit 8 Aktivitäten, L4 ~80 min. Gesamt 305 min gegenüber 345 in U07 — das ist die in `01` vorgesehene Entlastung nach der Argumentationseinheit, und sie ist im Overview ausdrücklich als solche benannt.
+  2. `PED`, PASS. ***lassen*** wird über **eine** Bauform erklärt und dann nach Bedeutung getrennt; die Kontrasttabelle (*Ich repariere* ↔ *Ich lasse reparieren* ↔ *Das Rad wird repariert*) stellt die Verbindung zum Passiv aus B1-U06 her.
+  3. `PED`, PASS. Die Entdecken-Aufgabe in L3 stellt drei Fassungen derselben Bitte gegenüber — zu hart, richtig, zu weich. Damit ist auch die **überhöfliche** Variante als Problem benannt, was Lernende sonst selten hören.
+  4. `LNG`, PASS. Der **Ersatzinfinitiv** ist über eine einzige Probe gelöst („Steht ein zweiter Infinitiv im Satz?“) und mit dem bekannten Modalverb-Perfekt verknüpft. *sich lassen* ist ausdrücklich als **rezeptiv** markiert, mit Verweis auf B2.
+  5. `CEF`, PASS. Lesetext 300 Wörter; drei Hörtexte je 70–100 Wörter; Schreibaufgabe **100–130 Wörter** (Aushang) plus eine Notiz von 5–7 Sätzen. Sprechen: vier Formate plus **Story Bank Task 6** als 4/3/2.
+  6. `STR`, **Minor (behoben):** Die nummerierten Erklärungsüberschriften in L1 wurden als Aktivitäten gezählt (derselbe Fall wie in U07); sie wurden entnummeriert.
+  7. `DEP`, **Minor (behoben):** Zwei Rückverweise in der „Wiederholt aus“-Tabelle zeigten auf erfundene A2-Ordnernamen (`A2-U03_Wohnen_und_Stadt`, `A2-U07_Feste_und_Einladungen`). Korrigiert auf die tatsächlichen Ordner `A2-U03_Wohnen` und `A2-U09_Feste_und_Plaene`. Das ist genau der Fehlertyp, den `check_links.py` abfangen soll — er ist vor dem Commit aufgefallen.
+  8. `VOC`, **Minor (behoben):** *die Hausordnung*, *eilig*, *unterstützen* und *übernehmen* lagen unter drei Vorkommen. Behoben durch drei inhaltliche Ergänzungen (Kasten zur Hausordnung, Rektionshinweis zu *unterstützen*/*übernehmen*, Wendung *es eilig haben*). Danach 0 unter 3.
+  9. `ETH`, PASS. Das Konfliktkapitel arbeitet durchgehend mit **Wirkung statt Vorwurf** und verbietet Aussagen über den Charakter; der Eskalationssatz (*Wenn das so bleibt, wende ich mich an die Verwaltung*) trägt den Zusatz „sachlich, kein Drohton, und **nur**, wenn Sie es auch tun“. Die Sprechaufgabe in L3 verlangt ausdrücklich **kein** schlechtes Wort über eine konkrete Person.
+  10. `ASS`, PASS. 10-Item-Quiz in L4 mit Reparaturkarte auf Lektionsebene.
+  11. `WRK`, PASS (Schätzung). 305 min — die niedrigste Unit-Last seit A2-U09, wie für eine leichte Einheit vorgesehen.
+- **Required changes:** Keine offen.
+- **Resolution:** Die drei Minor-Punkte wurden vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B1-U08 ist Teil des Kurses. Als Nächstes B1-U09 Bildung & Zukunft.
+- **Approval status:** – (autonomous mode)
+

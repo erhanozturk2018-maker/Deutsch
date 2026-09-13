@@ -36,7 +36,7 @@ This is also the level where German stops being a subject and becomes a language
 | [B1 Midpoint Checkpoint](B1_Midpoint_Checkpoint.md) | Diagnostic mid-test: four skills + an integrated situation | – | – |
 | [**B1 Recap**](B1_Recap/00_Overview.md) | The level on three sheets: [Wortschatz](B1_Recap/01_Wortschatz.md) · [Redemittel](B1_Recap/02_Redemittel.md) · [Grammatik](B1_Recap/03_Grammatik.md) — currently B1.1, grows with B1.2 | reference, not a lesson | – |
 
-**B1.2 Argumentieren & Handeln** (arguing & acting) — units U07–U12, B1-R2, B1-R3 and the **B1 Exit**. [**B1-U07 Umwelt & Nachhaltigkeit**](B1-U07_Umwelt_und_Nachhaltigkeit/00_Overview_und_Wortschatz.md) ✅ **gebaut** (*obwohl / trotzdem / trotz*, *sodass*, *so … dass*, *zu … um … zu*, *je … desto*, Argumentaufbau). Die übrigen Einheiten entstehen nacheinander in Milestone **M7**; die vollständige Liste steht im Kurs-[README](../README.md).
+**B1.2 Argumentieren & Handeln** (arguing & acting) — units U07–U12, B1-R2, B1-R3 and the **B1 Exit**. [**B1-U07 Umwelt & Nachhaltigkeit**](B1-U07_Umwelt_und_Nachhaltigkeit/00_Overview_und_Wortschatz.md) ✅ **gebaut** (*obwohl / trotzdem / trotz*, *sodass*, *so … dass*, *zu … um … zu*, *je … desto*, Argumentaufbau). [**B1-U08 Zusammenleben**](B1-U08_Zusammenleben/00_Overview_und_Wortschatz.md) ✅ **gebaut** (*lassen*, Modalpartikeln, Konfliktgespräch, Ehrenamt — eine bewusst **leichtere** Einheit). Die übrigen Einheiten entstehen nacheinander in Milestone **M7**; die vollständige Liste steht im Kurs-[README](../README.md).
 
 > **Stufenwechsel ab B1-U07:** Die englischen Hilfszeilen unter den Aufgaben entfallen, und die Lösungen zu Lese- und Hörtexten stehen auf **Deutsch** (Standard `04` v1.2, Regel A7.1). Die Erklärungen bleiben auf Englisch.
 

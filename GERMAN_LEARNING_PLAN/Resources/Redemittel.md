@@ -1258,3 +1258,45 @@ Taught in [B1-U07](../B1/B1-U07_Umwelt_und_Nachhaltigkeit/L3_Ein_Argument_bauen.
 
 *der Müll · trennen · die Verpackung · das Pfand · Mehrweg ↔ Einweg · wiederverwenden* — *öffentliche Verkehrsmittel · das Rad · die Strecke · die Parkgebühr* — *der Strom · die Heizung · der Verbrauch · sparen* — *regional · saisonal · gebraucht kaufen · reparieren · die Anschaffung · sich lohnen* — *die Nachhaltigkeit · nachhaltig · verzichten auf · vermeiden · bewusst*
 
+## B1: Conflict and volunteering
+
+Taught in [B1-U08](../B1/B1-U08_Zusammenleben/L3_Streit_und_Ehrenamt.md).
+
+**Die vier Schritte im Konfliktgespräch**
+
+| Schritt | Sprache |
+|---|---|
+| 1 **Ansprechen** (fragen, nicht anklagen) | *Sagen Sie mal, … · Darf ich Sie kurz auf etwas ansprechen?* |
+| 2 **Wirkung bei mir** nennen | *Bei mir kommt das … an. · Ich komme dann nicht zur Ruhe. · Ich wache davon auf. · Mir geht es vor allem um …* |
+| 3 **Konkret bitten** (Zeit oder Menge) | *Wäre es möglich, ab zehn …? · Könnten wir abmachen, dass …? · Sagst du mir bis Freitag Bescheid?* |
+| 4 **Freiraum lassen** | *Oder haben Sie eine andere Idee? · Was wäre für Sie machbar?* |
+
+> **Regel:** über die **Wirkung bei mir** sprechen, nicht über den Charakter. *Bei mir kommt das laut an* kann niemand bestreiten; *Sie sind rücksichtslos* erzeugt Widerspruch.
+
+**Vage → konkret**
+
+| ❌ | ✅ |
+|---|---|
+| *Können Sie leiser sein?* | *Wäre es möglich, **ab zehn** Kopfhörer zu nehmen?* |
+| *Räumt bitte auf.* | *Könnten wir abmachen, dass die Küche **bis zum Abend** frei ist?* |
+| *Melde dich mal.* | *Sagst du mir **bis Freitag** Bescheid?* |
+
+**Vorschlagen, annehmen, einschränken**
+
+| Absicht | Redemittel |
+|---|---|
+| vorschlagen | *Wie wäre es, wenn …? · Wir könnten … · Was hältst du davon, wenn …?* |
+| annehmen | *Das klingt gut. · Damit kann ich leben. · Machen wir so.* |
+| einschränken | *Grundsätzlich gern, aber … · Das geht bei mir nur, wenn …* |
+| ablehnen + Alternative | *Das schaffe ich nicht. Wie wäre es stattdessen mit …?* |
+
+**Wenn es nicht klappt:** *Dann lassen wir es erst mal so und reden in zwei Wochen noch mal. · Ich würde das gern schriftlich festhalten. · Wenn das so bleibt, wende ich mich an die Verwaltung.* (sachlich — und nur, wenn Sie es auch tun)
+
+**Ehrenamt und Nachbarschaft**
+
+*sich engagieren in · das Ehrenamt · ehrenamtlich · freiwillig · der Verein · die Mitgliedschaft* — *sich kümmern um · unterstützen · die Nachbarschaftshilfe · aushelfen · einspringen* — *die Sitzung · sich abwechseln · zuständig sein für · übernehmen* — *die Hausordnung · Rücksicht nehmen · sich einigen · die Absprache*
+
+*Ich **engagiere mich** im Sportverein. · Ich **kümmere mich um** den Garten. · Wir **wechseln uns ab**. · Können Sie am Samstag **einspringen**? · Wer **übernimmt** die Kasse?*
+
+> ⚠️ *sich kümmern **um*** (+ A) · *sich engagieren **in*** (+ D) · *unterstützen* **ohne** Präposition (+ A) · *sich beschweren **über*** (+ A).
+
