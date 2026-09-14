@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-14. Session 7: M9 abgeschlossen (B2 vollstaendig); **M7 laeuft** — B1-U07 bis B1-U09 gebaut (V-032 bis V-034). **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-14. Session 7: M9 abgeschlossen (B2 vollstaendig); **M7 WP1 abgeschlossen** — B1-U07 bis U09 + B1-R2 (V-032 bis V-035). **Update at every milestone or batch boundary.**
 
 ---
 
@@ -16,9 +16,9 @@ Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M
 Current Phase:      Curriculum Construction
 Current Milestone:  M7 — B1.2 ▶ IN PROGRESS (WP1). Abgeschlossen: M9 B2 ✅ (2026-09-13, V-031), M6 B1.1 ✅ (2026-09-12, V-015)
 Status:             IN PROGRESS
-Current batch:      M7 WP1 (B1.2): B1-U07 bis B1-U09 gebaut (V-032 bis V-034). Als Nächstes B1-R2, dann WP2. Sequenz auf Nutzerwunsch: B2 vor M7/M8.
-Next task:          **M7 WP1 abschließen**: **B1-R2 Wiederholung** (U07–U09, Appendix G: drei Sitzungen, Gewichtung 50/30/20). Danach **WP2**: B1-U10 Geld & Entscheidungen (Konjunktiv II der Vergangenheit), B1-U11 Wissenschaft & Technik (Konjunktiv I rezeptiv, Genitivpräpositionen, Zustandspassiv), B1-U12 Diskussion (Integration, keine neue Grammatik), B1-R3, B1 Exit. Danach WP2: **B1-U10 Geld & Entscheidungen** (Konjunktiv II der Vergangenheit), **B1-U11 Wissenschaft & Technik** (Konjunktiv I rezeptiv, Genitivpräpositionen, Zustandspassiv), **B1-U12 Diskussion** (Integration, keine neue Grammatik), **B1-R3**, **B1 Exit**. **Vor dem Abschluss von M7 ist CP-001 (Mediation) zu entscheiden.** Danach M8 (Audit A1-B1), M10 (C1), M11 (C2)
-Last completed:     M7 WP1 (Teil 3) — B1-U09 Bildung & Zukunft (2026-09-14, V-034)
+Current batch:      M7 WP2 (WP1 abgeschlossen: U07-U09 + R2; V-032 bis V-035). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          **M7 WP2**: **B1-U10 Geld & Entscheidungen** (Konjunktiv II der Vergangenheit, *hätte … sollen* als Chunk), dann **B1-U11 Wissenschaft & Technik** (Konjunktiv I rezeptiv, Genitivpräpositionen, Zustandspassiv rezeptiv), **B1-U12 Diskussion** (Integration, keine neue Grammatik), **B1-R3** und das **B1 Exit**. **Vor dem Abschluss von M7 ist CP-001 (Mediation) zu entscheiden.** Danach WP2: **B1-U10 Geld & Entscheidungen** (Konjunktiv II der Vergangenheit), **B1-U11 Wissenschaft & Technik** (Konjunktiv I rezeptiv, Genitivpräpositionen, Zustandspassiv), **B1-U12 Diskussion** (Integration, keine neue Grammatik), **B1-R3**, **B1 Exit**. **Vor dem Abschluss von M7 ist CP-001 (Mediation) zu entscheiden.** Danach M8 (Audit A1-B1), M10 (C1), M11 (C2)
+Last completed:     **M7 WP1 abgeschlossen** — B1-R2 Wiederholung (2026-09-14, V-035)
 Build order:        **B2 (M9) → B1.2 (M7) → C1 (M10) → C2 (M11)**; M8 (Audit A1-B1) nach M7. Nutzerentscheidung 2026-09-13.
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)

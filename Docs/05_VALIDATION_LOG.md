@@ -1266,3 +1266,29 @@
 - **Result:** **PASS WITH NOTES** — B1-U09 ist Teil des Kurses. Als Nächstes **B1-R2**, womit M7 WP1 abgeschlossen wäre.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-035 — M7 WP1 abgeschlossen: B1-R2 Wiederholung
+
+- **Date:** 2026-09-14
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-R2_Wiederholung.md`, `B1/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M7-Kriterien in `03`; `04` v1.2; **Appendix G** (Wiederholungsspezifikation: drei Sitzungen, Gewichtung 50/30/20) und die Vorlage von B1-R1; CEFR-B1-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **221 Dateien, 0 Probleme**
+  - `check_links.py` → **2754 Links, 0 broken, 0 planned**
+  - vollständige Wiederlesung; Gewichtung und Itemzahlen ausgezählt; jede Lösung gegen die Einheit zurückgeprüft
+- **Findings:**
+  1. `REV`, PASS. B1-R2 folgt der Vorlage von **B1-R1** (nicht der B2-Vorlage): drei Sitzungen (55/60/50 min), zwölf nummerierte Aufgaben, 165 min gesamt. Gewichtung **50 % U07–U09 / 30 % B1.1 / 20 % A2**, im Kopf als Tabelle ausgewiesen.
+  2. `REV`, PASS. Ausgezählt: Aufwärmen **24 Items** (9/8/7 aus U07–U09), Formen-Klinik **20 Items** in vier Gruppen mit Zuordnung zur Einheit, Fehlerklinik **15 Sätze** mit Fehlertyp, Test **18 Items** mit Reparaturplan.
+  3. `PED`, PASS. Aufgabe 2 („die *werden*-Runde“) ist eine eigene Station für die Entscheidung Vollverb / Futur / Passiv — die zentrale Neuerung aus U09 und der häufigste Lesefehler auf B1. Sie verlangt zusätzlich **drei eigene Sätze**, also Produktion statt nur Zuordnung.
+  4. `REV`, PASS. Die Fehlerklinik ist so zusammengestellt, dass **sechs von fünfzehn** Fehlern Wortstellungsfehler sind; der Lösungsteil benennt das als typisches Restproblem am Ende von B1.2 und lokalisiert es („direkt nach Position 1“).
+  5. `PED`, PASS. Der Härtetest in Aufgabe 7 (Anredewechsel *Sie* ↔ *du*) und die Beobachtung in Aufgabe 11 (beim Kürzen verschwindet zuerst das Beispiel) greifen beide Beobachtungen auf, die in U08 und U09 vorbereitet wurden.
+  6. `CEF`, PASS. Drei Textsorten je 55–75 Wörter; vier Hörminiaturen je 35–55 Wörter; Schreiben unter Zeitdruck **120–150 Wörter** in 12 Minuten; zwei Dreiminuten-Themen und ein 4/3/2-Vortrag.
+  7. `DEP`, PASS. Ein zunächst gesetzter Fußzeilen-Link „Weiter: B1-U10“ zeigte auf die U09-Übersicht, weil U10 noch nicht existiert; vor dem Commit auf „Zurück zu B1-U09“ korrigiert — der Kurs verweist damit weiterhin auf **keine** ungeschriebene Datei.
+  8. `WRK`, PASS (Schätzung). 165 min in drei Sitzungen, identisch mit B1-R1.
+- **Required changes:** Keine offen.
+- **Resolution:** Der `DEP`-Punkt wurde vor dem Commit behoben.
+- **Result:** **PASS** — **M7 WP1 ist abgeschlossen** (B1-U07, U08, U09, B1-R2). Als Nächstes WP2: B1-U10 bis U12, B1-R3, B1 Exit.
+- **Approval status:** – (autonomous mode)
+

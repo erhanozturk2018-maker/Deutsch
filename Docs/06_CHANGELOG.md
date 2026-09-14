@@ -685,3 +685,15 @@
 - **Reason:** M7 WP1 laut `03`; `01` weist B1-U09 die strukturierte Präsentation als Prüfungsformat zu.
 - **Impact:** B1 umfasst jetzt U01–U09, B1-R1 und das B1 Midpoint. Validiert als V-034. Als Nächstes **B1-R2** (U07–U09), womit M7 WP1 abgeschlossen wäre.
 
+## [035] 2026-09-14 — M7 WP1 abgeschlossen: B1-R2 Wiederholung
+
+- **Milestone:** M7, WP1 (**abgeschlossen**)
+- **Affected files:**
+  - **Created:** `B1/B1-R2_Wiederholung.md`
+  - **Updated:** `B1/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **B1-R2 Wiederholung:** zweite kumulative B1-Wiederholung nach der Vorlage von B1-R1 — drei Sitzungen, 24-Item-Aufwärmen, eine eigene ***werden*-Runde** (Vollverb / Futur / Passiv, mit eigenen Sätzen), Formen-Klinik mit 20 Items in vier Gruppen, zwei Dreiminuten-Themen, drei Textsorten, Wortschatz-Sprint über vier Felder, vier Situationen mit Anredewechsel als Härtetest, Schreiben unter Zeitdruck, Fehlerklinik mit 15 typisierten Fehlern (sechs davon Wortstellung), vier Höraufnahmen, 4/3/2-Vortrag, 18-Item-Test und die Zwei-Auffrischungen-Regel.
+  2. **B1/README.md** auf den Stand gebracht.
+- **Reason:** Abschluss von M7 WP1 laut `03`.
+- **Impact:** **M7 WP1 abgeschlossen.** B1 umfasst jetzt U01–U09, B1-R1, B1-R2 und das B1 Midpoint; 221 Dateien, 0 Strukturprobleme, 0 defekte und 0 geplante Links. Validiert als V-035. Als Nächstes **WP2**: B1-U10 Geld & Entscheidungen, B1-U11 Wissenschaft & Technik, B1-U12 Diskussion, B1-R3 und das B1 Exit — davor ist **CP-001 (Mediation)** zu entscheiden.
+
