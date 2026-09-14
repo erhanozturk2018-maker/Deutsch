@@ -672,3 +672,16 @@
 - **Reason:** M7 WP1 laut `03`; `01` weist B1-U08 ausdrücklich als leichte Einheit aus.
 - **Impact:** B1 umfasst jetzt U01–U08, B1-R1 und das B1 Midpoint. Validiert als V-033. Als Nächstes **B1-U09 Bildung & Zukunft** (Futur I, Wortbildung), danach **B1-R2**.
 
+## [034] 2026-09-14 — M7 WP1 (Teil 3): B1-U09 Bildung & Zukunft
+
+- **Milestone:** M7, WP1 (laufend)
+- **Affected files:**
+  - **Created:** `B1/B1-U09_Bildung_und_Zukunft/` (5 Dateien)
+  - **Updated:** `Resources/Grammar_Tables.md` (B1: Futur I and word formation), `Resources/Redemittel.md` (B1: Giving a short presentation), `Resources/English_German_Interference.md` (B1-U09), `Resources/Pronunciation_Guide.md` (B1-U09), `Anki/B1.tsv` (467 Karten), `B1/README.md`, Docs 00/03/05/06
+- **Change:**
+  1. **B1-U09 Bildung & Zukunft:** L1 *Das wird schon klappen* (Futur I, Präsens für die Zukunft, *wird wohl* als Vermutung über die Gegenwart, die **drei Bedeutungen von *werden*** mit Entscheidungsprobe am Satzende, über Pläne sprechen) · L2 *Möglichkeit und Sicherheit* (Wortbildung: *-ung*, *-heit/-keit*, *-er*, *-nis*, *-schaft*, *-bar*, *-los*, *-voll*, *un-*; Komposita von hinten lesen; Fugen-s; Nominalstil rezeptiv) · L3 *Eine Präsentation halten* (fünf Teile mit Zeitrechnung, Übergänge, das Beispiel, Fragen beantworten inkl. „Das weiß ich nicht“, Bildungswortschatz) · L4 *Anwenden* (Präsentation mit drei Fragen und Rollentausch, 4/3/2 Präsentation, Artikel „Der zweite Anlauf“, drei Wege, Plan mit Begründung, Test).
+  2. **Resources:** Futur I und die drei *werden*-Bedeutungen als Tabelle; vollständige Wortbildungsübersicht mit Geschlechtsregeln und Kompositaanalyse; Redemittel für die fünf Präsentationsteile, Übergänge und Fragenbehandlung; fünfzehn Interferenzfallen; Aussprache von unbetontem *werden*, Wortakzent bei Ableitungen und Pausen im Vortrag.
+  3. **4/3/2-Format ab B1-U09:** Die acht Story-Bank-Aufgaben sind durchlaufen; ab U09 hat jede Einheit ihr eigenes Format — hier die **Präsentation** (`StageB1_Praesentation`).
+- **Reason:** M7 WP1 laut `03`; `01` weist B1-U09 die strukturierte Präsentation als Prüfungsformat zu.
+- **Impact:** B1 umfasst jetzt U01–U09, B1-R1 und das B1 Midpoint. Validiert als V-034. Als Nächstes **B1-R2** (U07–U09), womit M7 WP1 abgeschlossen wäre.
+

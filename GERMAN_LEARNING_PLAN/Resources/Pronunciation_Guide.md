@@ -502,3 +502,32 @@ Umgangssprachlich verkürzt: *drauf · dran · drüber* ⚖ — verstehen, aber 
 | *Sagen Sie mal* | schnell und unbetont, nur der Türöffner |
 | trennbare Verben | Akzent auf dem Präfix: ***AB**wechseln*, ***EIN**springen*, ***AN**sprechen* |
 
+## B1-U09: unbetontes *werden*, Wortakzent bei Ableitungen, Pausen im Vortrag
+
+**werden ist kurz**
+
+- Im Futur ist *werde/wird* **unbetont**; der Akzent liegt auf dem Infinitiv am Ende: *Ich werde mich be**WER**ben.*
+- Betontes *WIRD* macht den Satz scharf: *Du **WIRST** das jetzt machen.*
+- *wohl* ist ebenfalls unbetont: *Er wird wohl im **BÜ**ro sein.*
+- *wird*, *wirst*: das *d* klingt wie *t*.
+
+**Der Akzent bleibt auf dem Stamm**
+
+| Wort | Betonung |
+|---|---|
+| die Planung | die **PLA**nung |
+| die Möglichkeit | die **MÖG**lichkeit |
+| die Sicherheit | die **SI**cherheit |
+| arbeitslos | **AR**beitslos |
+
+Bei **Komposita** liegt der Hauptakzent auf dem **ersten** Teil: *die **BE**arbeitungszeit*, *das **BE**werbungsgespräch*, *der **STU**dienplatz*. Das **Fugen-s** wird mitgesprochen.
+
+***-ig*** am Wortende klingt wie *-ich*: *wich-tich*, *schwie-ri-ch* (süddeutsch auch *-ik* ⚖).
+
+**Im Vortrag ersetzen Pausen die Füllwörter**
+
+- Eine Sekunde Stille wirkt souverän, ein *ähm* nicht — und die Pause fühlt sich beim Sprechen länger an, als sie klingt.
+- Gliederungswörter tragen einen eigenen Akzent und eine Pause: ***ERS**tens, | … ***ZWEI**tens, | …*
+- Bei Übergängen wird das Tempo kurz langsamer: *Kommen wir | zum **ZWEI**ten Punkt.*
+- Der Schlusssatz wird **tiefer und langsamer** gesprochen — sonst merkt niemand, dass Sie fertig sind.
+

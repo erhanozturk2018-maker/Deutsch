@@ -1443,3 +1443,81 @@ Im Nebensatz steht das gebeugte Verb **vor** den beiden Infinitiven: *…, dass 
 - Ein Satz ohne Partikeln ist nicht falsch, sondern **tonlos** — in einem Aushang richtig, in einer Nachricht an Nachbarn hart.
 - **Zum Anfangen drei:** *denn* in Fragen, *mal* in Bitten, *doch* für Bekanntes.
 
+## B1: Futur I and word formation
+
+Taught in [B1-U09](../B1/B1-U09_Bildung_und_Zukunft/L1_Das_wird_schon_klappen.md) (Futur) and [L2](../B1/B1-U09_Bildung_und_Zukunft/L2_Moeglichkeit_und_Sicherheit.md) (Wortbildung).
+
+**Futur I: *werden* + Infinitiv**
+
+| Person | Form |
+|---|---|
+| ich | werde |
+| du | wirst |
+| er/sie/es | wird |
+| wir / sie / Sie | werden |
+| ihr | werdet |
+
+| Gebrauch | Beispiel |
+|---|---|
+| Absicht / Zusage | *Ich **werde** dir Bescheid **sagen**.* |
+| Zuspruch | *Das **wird** schon **klappen**.* |
+| **Vermutung über die Gegenwart** | *Er **wird wohl** im Büro **sein**.* |
+| Prognose | *Die Preise **werden steigen**.* |
+| Nachdruck ⚠️ | *Du **wirst** jetzt **aufräumen**.* (scharf) |
+
+> Für die reine Zukunft steht im Deutschen meist das **Präsens** mit Zeitangabe: *Morgen **fahre** ich nach Köln.* Im Nebensatz: *…, dass ich mich bewerben **werde**.*
+
+**Die drei Bedeutungen von *werden* — am Satzende erkennbar**
+
+| Am Ende steht | Bedeutung | Beispiel | Perfekt |
+|---|---|---|---|
+| Adjektiv / Nomen | **Vollverb** (become) | *Ich **werde** müde.* | *Ich **bin** müde **geworden**.* |
+| **Infinitiv** | **Futur** | *Ich **werde** anrufen.* | – |
+| **Partizip II** | **Passiv** | *Das **wird gemacht**.* | *Das ist gemacht **worden**.* |
+
+**Wortbildung: Nomen**
+
+| Endung | Aus | Geschlecht | Beispiel |
+|---|---|---|---|
+| **-ung** | Verb | **die**, Pl. -en | *planen → die Planung · entscheiden → die Entscheidung* |
+| **-heit** | Adjektiv | **die** | *sicher → die Sicherheit · frei → die Freiheit* |
+| **-keit** | Adj. auf *-ig, -lich, -bar* | **die** | *möglich → die Möglichkeit · schwierig → die Schwierigkeit* |
+| **-schaft** | Nomen | **die** | *die Freundschaft, die Gesellschaft* |
+| **-nis** | Verb | meist **das** | *das Ergebnis, das Zeugnis, das Erlebnis* |
+| **-er / -erin** | Verb | der / die | *lehren → der Lehrer, die Lehrerin* |
+| **-chen / -lein** | Nomen | **das** | *das Mädchen, das Häuschen* |
+
+**Wortbildung: Adjektive**
+
+| Endung | Bedeutung | Beispiel |
+|---|---|---|
+| **-bar** | kann …-t werden | *machbar · lesbar · nachvollziehbar* |
+| **-los** | ohne | *arbeitslos · kostenlos · sinnlos* |
+| **-voll** | mit viel | *sinnvoll · wertvoll* |
+| **-lich** | Art und Weise | *beruflich · schriftlich · wöchentlich* |
+| **-ig** | Eigenschaft | *wichtig · schwierig · sonnig* |
+| **-isch** | Herkunft, Art | *praktisch · politisch* |
+| **un-** (Vorsilbe) | Verneinung | *unsicher · unmöglich · unzugänglich* |
+
+> ⚠️ Nicht jedes *un-* verneint: *Unfall*, *Unterricht*, *Unternehmen*.
+
+**Komposita: von hinten lesen**
+
+Das **letzte** Wort bestimmt Geschlecht, Plural und Grundbedeutung.
+
+| Kompositum | Teile | Es ist … |
+|---|---|---|
+| die Bearbeitung**s**zeit | Bearbeitung + s + Zeit | eine Zeit |
+| das Bewerbung**s**gespräch | Bewerbung + s + Gespräch | ein Gespräch |
+| der Studienplatz | Studium + Platz | ein Platz |
+
+Das **Fugen-s** steht oft nach *-ung*, *-heit*, *-keit*, *-schaft*.
+
+**Nominalstil (rezeptiv)**
+
+| Verbalstil | Nominalstil |
+|---|---|
+| *Nachdem man den Antrag geprüft hat, …* | *Nach **Prüfung** des Antrags …* |
+| *Weil die Preise gestiegen sind, …* | *Wegen der gestiegenen Preise …* |
+| *Wenn Sie Fragen haben, …* | *Bei **Fragen** …* |
+

@@ -522,3 +522,23 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | That stresses me. | *Das stresst mir.* | **Das stresst mich.** | Akkusativ |
 | I was in a hurry. | *Ich war eilig.* | **Ich hatte es eilig.** | feste Wendung |
 
+## B1-U09: Futur, Wortbildung und Präsentation
+
+| Englisch | ❌ Falsche Übertragung | ✅ Deutsch | Warum |
+|---|---|---|---|
+| I will call you tomorrow. | *Ich will dich morgen anrufen.* | **Ich rufe dich morgen an.** | *wollen* = want to |
+| I'm getting tired. | *Ich werde müde sein.* | **Ich werde müde.** | Vollverb ohne Infinitiv |
+| It has been done. | *Das ist gemacht geworden.* | **Das ist gemacht worden.** | Passiv: *worden* |
+| I became tired. | *Ich habe müde geworden.* | **Ich bin müde geworden.** | *werden* + *sein* |
+| …, that I will apply | *…, dass ich werde mich bewerben* | **…, dass ich mich bewerben werde** | gebeugtes Verb ans Ende |
+| the planning | *der Planung* | **die Planung** | *-ung* ist immer feminin |
+| the possibility | *das Möglichkeit* | **die Möglichkeit** | *-keit* ist immer feminin |
+| security | *die Sicherkeit* | **die Sicherheit** | nach *sicher*: *-heit* |
+| processing time | *die Bearbeitungzeit* | **die Bearbeitungszeit** | Fugen-s nach *-ung* |
+| It's about further training. | *Es geht über Weiterbildung.* | **Es geht um Weiterbildung.** | *es geht um* + Akkusativ |
+| I'll answer your questions. | *Ich beantworte auf Ihre Fragen.* | **Ich beantworte Ihre Fragen.** | *beantworten* + Akkusativ |
+| to answer a question | *Ich antworte Ihre Frage.* | **Ich antworte auf Ihre Frage.** | *antworten auf* + Akkusativ |
+| Thanks for listening. | *Danke für Zuhören.* | **Danke fürs Zuhören.** | *für das* → *fürs* |
+| I'm doing a degree. | *Ich mache ein Studium.* ⚖ | **Ich studiere.** | Kollokation |
+| I plan to start. | *Ich vorhabe anzufangen.* | **Ich habe vor, anzufangen.** | *vorhaben* ist trennbar |
+

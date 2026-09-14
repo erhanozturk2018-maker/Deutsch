@@ -319,7 +319,7 @@
   - U08 light; U12 has no new grammar.
   - The Exit includes integrated scenarios and a pointer to the official Goethe *Modellsatz*.
   - Every B1 can-do target (Appendix A) is assessed.
-- **Completion status:** ▶ IN PROGRESS (WP1). **B1-U07 ✅** (V-032) · **B1-U08 ✅** (V-033), beide 2026-09-13. Begonnen nach dem Abschluss von M9, gemäß der Reihenfolge oben.
+- **Completion status:** ▶ IN PROGRESS (WP1). **B1-U07 ✅** (V-032) · **B1-U08 ✅** (V-033), beide 2026-09-13 · **B1-U09 ✅** (V-034, 2026-09-14). Es fehlt noch **B1-R2**, dann beginnt WP2. Begonnen nach dem Abschluss von M9, gemäß der Reihenfolge oben.
 - **Next milestone:** M8.
 
 ---

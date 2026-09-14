@@ -1235,3 +1235,34 @@
 - **Result:** **PASS WITH NOTES** — B1-U08 ist Teil des Kurses. Als Nächstes B1-U09 Bildung & Zukunft.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-034 — M7 WP1 (Teil 3): B1-U09 Bildung & Zukunft
+
+- **Date:** 2026-09-14
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-U09_Bildung_und_Zukunft/` (5 Dateien), die B1-U09-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B1.tsv`, `B1/README.md`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M7-Kriterien in `03`; `04` v1.2 inkl. A7.1 (Spalte B1.2); Einheitenplan in `01` Appendix (B1-U09: Futur I inkl. Vermutung, Wortbildung, Nominalstil rezeptiv, **strukturierte 3–4-Minuten-Präsentation** als Prüfungsformat); CEFR-B1-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **220 Dateien, 0 Probleme**
+  - `check_vocab.py B1-U09` → **37 ★, 0 unter 3** (nach Nachbesserung)
+  - `check_links.py` → **2733 Links, 0 broken, 0 planned**
+  - `build_anki.py` → `B1.tsv` **467 Karten** (vorher 422)
+  - vollständige Wiederlesung; jede *werden*-Form gegen ihre drei möglichen Lesarten geprüft, jede Ableitung gegen Geschlecht und Ursprungswort
+- **Findings:**
+  1. `STR`, PASS. Vorlagenform eingehalten: Overview + L1–L3 (je ~85 min, 9 Aktivitäten) + `L4_Anwenden.md` (8 Aktivitäten, ~90 min); 345 min gesamt, wie B1-U07.
+  2. `PED`, PASS. Der eigentliche Ertrag von L1 ist nicht das Futur, sondern die **Entscheidungsprobe für *werden***: Adjektiv/Nomen → Vollverb, Infinitiv → Futur, Partizip II → Passiv. Damit wird eine Formenfrage zu einer Lesestrategie — und die Challenge („Werden-Jagd“) zeigt, dass die Verteilung von der **Textsorte** abhängt.
+  3. `PED`, PASS. L2 ist bewusst als **Erschließungstechnik** gebaut, nicht als Wortliste: Aufgabe 8 verlangt, die Bedeutung **vor** dem Nachschlagen zu vermuten — mit der Vermutungsform aus L1 (*Das wird wohl … heißen*). Endungen liefern dabei drei Informationen auf einmal: Wortart, Geschlecht, Ursprungswort.
+  4. `CEF`, PASS. L3 setzt das B1-Prüfungsformat „strukturierte Präsentation“ um und macht die **Zeitrechnung** explizit (bei vier Minuten drei Punkte, ~40 Sek. Einleitung). Die Generalprobe in L3 und die Hauptaufgabe in L4 verlangen ausdrücklich eine Frage, die die Lernende **nicht** beantworten kann, mit der Modellantwort *„Das weiß ich ehrlich gesagt nicht — ich kann es herausfinden“*.
+  5. `CEF`, PASS. Lesetext „Der zweite Anlauf“ 300 Wörter; drei Hörtexte je 75–105 Wörter; Schreibaufgabe **130–160 Wörter** in fünf Abschnitten, mit einem Abschnitt, der ausdrücklich nach dem **Offenen** fragt.
+  6. `ETH`, PASS. Der Lesetext behandelt Ausbildungsabbrüche ohne Schuldzuweisung und **ohne erfundene Zahlen** („ein erheblicher Teil“ statt Prozentangaben); die Schreibaufgabe verbietet erfundene Zahlen ausdrücklich. Die drei Hörstimmen zeigen drei verschiedene Wege, ohne einen als den richtigen zu markieren; Stimme 2 benennt ausdrücklich, dass eine Weiterbildung neben der Arbeit keine rein persönliche Leistung ist.
+  7. `SPK`, PASS. Die acht Story-Bank-Aufgaben sind auf B1 mit U01–U08 durchlaufen; ab U09 hat jede Einheit ihr eigenes 4/3/2-Format — hier die **Präsentation** (`StageB1_Praesentation`), mit der Beobachtung, dass beim Kürzen zuerst das Beispiel verschwindet. Das entspricht dem Muster, das auf B2 ab U09 dokumentiert ist.
+  8. `VOC`, **Minor (behoben):** *voraussichtlich* und *vorhaben* lagen unter drei Vorkommen. Behoben durch einen Kasten in L1 zur Trennbarkeit von *vorhaben* und zum sachlichen Gebrauch von *voraussichtlich* sowie eine ergänzte Lösungszeile. Danach 0 unter 3.
+  9. `LNG`, **Minor (behoben):** In einer Karteikarte stand versehentlich das englische Wort *Sister* statt *Schwester*; vor dem Commit korrigiert.
+  10. `ASS`, PASS. 10-Item-Quiz in L4 mit Reparaturkarte auf Lektionsebene.
+  11. `WRK`, PASS (Schätzung). 345 min, konsistent mit den anderen B1.2-Einheiten.
+- **Required changes:** Keine offen.
+- **Resolution:** Beide Minor-Punkte wurden vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B1-U09 ist Teil des Kurses. Als Nächstes **B1-R2**, womit M7 WP1 abgeschlossen wäre.
+- **Approval status:** – (autonomous mode)
+

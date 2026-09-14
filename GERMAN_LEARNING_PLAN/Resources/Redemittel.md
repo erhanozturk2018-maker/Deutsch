@@ -1300,3 +1300,51 @@ Taught in [B1-U08](../B1/B1-U08_Zusammenleben/L3_Streit_und_Ehrenamt.md).
 
 > ⚠️ *sich kümmern **um*** (+ A) · *sich engagieren **in*** (+ D) · *unterstützen* **ohne** Präposition (+ A) · *sich beschweren **über*** (+ A).
 
+## B1: Giving a short presentation
+
+Taught in [B1-U09](../B1/B1-U09_Bildung_und_Zukunft/L3_Eine_Praesentation_halten.md).
+
+**Die fünf Teile (bei 4 Minuten)**
+
+| Teil | Zeit | Redemittel |
+|---|---|---|
+| 1 **Einleitung** | ~20 Sek. | *In meiner Präsentation geht es um … · Ich möchte heute über … sprechen.* |
+| 2 **Gliederung** | ~20 Sek. | *Ich habe mir drei Fragen gestellt: Erstens … Zweitens … Drittens … · Mein Vortrag hat drei Teile.* |
+| 3 **Hauptteil** | ~2,5 Min. | *Zum ersten Punkt: … · Kommen wir zum zweiten Punkt.* |
+| 4 **Beispiel** | im Hauptteil | *Ein konkretes Beispiel: … · Bei mir war das so: …* |
+| 5 **Schluss** | ~40 Sek. | *Zusammengefasst: … · Mein Fazit ist: … · Vielen Dank. Ich beantworte gern Ihre Fragen.* |
+
+> **Faustregel:** In vier Minuten passen **drei** Punkte. Wer fünf ankündigt, schafft sie nicht.
+
+**Übergänge** (zwei Sekunden, größte Wirkung)
+
+*Kommen wir zum zweiten Punkt. · Damit komme ich zu … · Das führt mich zu der Frage, ob … · Soweit zu den Möglichkeiten — jetzt zu den Kosten. · Bevor ich zum Schluss komme, noch ein Beispiel.*
+
+**Fragen beantworten**
+
+| Fall | Sprache |
+|---|---|
+| verstanden | *Gute Frage. Also: …* |
+| nicht verstanden | *Können Sie die Frage bitte wiederholen? · Meinen Sie …?* |
+| weiß ich nicht | *Das weiß ich ehrlich gesagt nicht. Ich kann es herausfinden.* |
+| war schon im Vortrag | *Ich hatte das kurz erwähnt — ausführlicher: …* |
+| passt nicht zum Thema | *Das geht über mein Thema hinaus, aber kurz: …* |
+| Zeit gewinnen | *Gute Frage — lassen Sie mich kurz überlegen.* |
+
+> *Das weiß ich nicht* ist auf Deutsch eine **normale** Antwort und besser als eine erfundene — wichtig ist der zweite Teil: *Ich kann es herausfinden.*
+
+**Bildungswortschatz**
+
+*die Schule · die Ausbildung · das Studium · die Umschulung · die Weiterbildung · der Kurs* — *der Abschluss · das Zeugnis · das Zertifikat · die Prüfung · die Note* — *das Praktikum · die Bewerbung · das Vorstellungsgespräch* — *die Anmeldung · die Frist · die Gebühr · die Finanzierung · der Nachweis* — *sich bewerben · sich anmelden · teilnehmen an · abschließen · bestehen ↔ durchfallen · sich weiterbilden*
+
+> ⚠️ ***das Studium*** (Universität) ≠ ***die Ausbildung*** (Betrieb) ≠ ***die Weiterbildung*** (neben dem Beruf) ≠ ***die Umschulung*** (neuer Beruf) — im Englischen oft alles *training*.
+
+**Über Pläne sprechen**
+
+| Sicherheit | Sprache |
+|---|---|
+| fest | *Ich fange im September an. · Es ist schon entschieden.* |
+| geplant | *Ich habe vor, … zu … · Ich will mich bewerben.* |
+| wahrscheinlich | *Ich werde wohl … · Voraussichtlich …* |
+| offen | *Mal sehen. · Ich weiß noch nicht, ob … · Das hängt davon ab, ob …* |
+
