@@ -697,3 +697,15 @@
 - **Reason:** Abschluss von M7 WP1 laut `03`.
 - **Impact:** **M7 WP1 abgeschlossen.** B1 umfasst jetzt U01–U09, B1-R1, B1-R2 und das B1 Midpoint; 221 Dateien, 0 Strukturprobleme, 0 defekte und 0 geplante Links. Validiert als V-035. Als Nächstes **WP2**: B1-U10 Geld & Entscheidungen, B1-U11 Wissenschaft & Technik, B1-U12 Diskussion, B1-R3 und das B1 Exit — davor ist **CP-001 (Mediation)** zu entscheiden.
 
+## [036] 2026-09-14 — CP-001 entschieden: Sprachmittlung als Aufgabentyp (scoped)
+
+- **Milestone:** M7 (Voraussetzung)
+- **Affected files:** `Docs/01_CURRICULUM_DECISIONS.md` (Change-Proposal-Register + neuer Abschnitt „Mediation (CP-001, scoped)“), `Docs/03_MILESTONES.md` (Dependency und Übersichtstabelle), `Docs/06_CHANGELOG.md`
+- **Change:** **CP-001** stand seit dem 11.09. als Kandidat im Register mit dem Vermerk „muss vor M7 entschieden werden“. Entscheidung: **Ja, aber im begrenzten Umfang.** Sprachmittlung wird ein **anerkannter Aufgabentyp**, kein neuer Pflichtbestandteil der Lektionsvorlage:
+  1. **Zwei Richtungen:** *interlingual* (auf Deutsch Gelesenes in der eigenen Sprache für eine bestimmte Person wiedergeben) und *intralingual* (schwieriges Deutsch in einfaches Deutsch für eine benannte Leserin).
+  2. **Vier Regeln:** Adressat und Zweck müssen genannt sein; es wird **ausgewählt**, nicht alles wiedergegeben; nichts hinzuerfinden; die eigene Sprache ist **nur** hier ein legitimes Produkt und nie für Grammatikerklärungen.
+  3. **Ort:** je eine Aufgabe in **B1-U10, U11, U12** und im **B1 Exit**; auf B2 wird benannt, wo es faktisch schon vorkommt (U07 Fassung A/B und Amtsdeutsch → Klartext, U11 Fehlermeldung und Anleitung, U12 Positionspapier).
+  4. **Ehrlich benannte Lücke:** **A1 bis B1.1 werden nicht nachträglich umgebaut.** Das steht so in `01` und wird im B1 Exit gesagt; M8 (Audit) prüft es erneut.
+- **Reason:** Sprachmittlung ist eine CEFR-Aktivität und eine Standardaufgabe in B1- und B2-Prüfungen; die Lücke war seit dem Phase-1-Audit bekannt. Der volle Strang (eigener Bestandteil in jeder Einheit) hätte den Umbau **jeder** bestehenden Einheit bedeutet — unverhältnismäßig gegenüber dem Nutzen und gegen die Regel, Bestehendes nicht ohne Not neu zu schreiben.
+- **Impact:** M7 hat seine offene Voraussetzung nicht mehr. Die `04`-Bestandteilsliste bleibt unverändert, deshalb **keine** neue Architekturversion: weiterhin v2.0. Umgesetzt wird der Aufgabentyp ab **B1-U10**.
+

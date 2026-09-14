@@ -890,7 +890,25 @@ Log significant local changes in `06_CHANGELOG.md`.
 - **v1.1, v1.2…** (minor): approved change to content allocation, thresholds or templates.
 - Local changes do not change the version.
 
-**Current version: v2.0.** (v2.0 = CP-003, scope extended to A1 → C2, approved by the user on 2026-09-13. v1.1 = CP-002, the per-level recap folders, 2026-09-12.)
+**Current version: v2.0.** (v2.0 = CP-003, scope extended to A1 → C2, approved by the user on 2026-09-13. v1.1 = CP-002, the per-level recap folders, 2026-09-12. CP-001 was decided on 2026-09-14 in a **scoped** form that adds a task type rather than a component, so it does **not** change the version.)
+
+### Mediation (CP-001, scoped) — what counts and where it lives
+
+**Definition.** A mediation task asks the learner to **carry information across a gap**, not to express an opinion. Two directions count:
+
+| Direction | What the learner does | Example |
+|---|---|---|
+| **interlingual** | says in their own language what a German text means **for a specific person and purpose** | *Ihre Nachbarin versteht den Aushang nicht. Sagen Sie ihr in Ihrer Sprache, was sie tun muss und bis wann.* |
+| **intralingual** | turns complex German into **plain German** for a named reader | *Schreiben Sie den Bescheid so um, dass eine Person ohne Behördenerfahrung ihn versteht.* |
+
+**Rules.**
+
+1. A mediation task always names **who** the information is for and **what** that person has to do with it. Without that it is a translation exercise, not mediation.
+2. It asks for the **relevant** information, never for everything — selecting is the skill being practised.
+3. The output may be shorter than the input; it must not add anything that is not in the source.
+4. The interlingual direction is the **only** place in this course where the learner's own language is a legitimate product. It is never used to explain grammar.
+
+**Where it lives.** B1-U10, B1-U11, B1-U12 (one task each), the B1 Exit; on B2 it is named where it already exists (U07, U11, U12). **A1 to B1.1 have no explicit mediation tasks** — a known gap, recorded rather than hidden, and to be revisited in M8.
 
 ### Change proposal register
 
@@ -898,4 +916,4 @@ Log significant local changes in `06_CHANGELOG.md`.
 |---|---|---|---|---|
 | CP-003 | 2026-09-13 | **Extend the course scope from „A1 → B1“ to „A1 → C2“.** Add the stages **B2, C1, C2**, each with a stage `README.md` and a recap folder (`00_Overview` + `01_Wortschatz` + `02_Redemittel` + `03_Grammatik`, the CP-002 shape). The unit inventories are planned now and built later in new milestones **M9 (B2, 12 units)**, **M10 (C1, 10 units)** and **M11 (C2, 8 project units)**; M8 remains the audit of the A1–B1 core and is no longer the end of the project. The three new recaps are marked `status: planned` and state openly that they are built from the CEFR descriptors, not yet consolidated against written units. | Requested by the user on 2026-09-13. The learner's goal moved beyond B1; leaving the upper stages undefined would mean either inventing them ad hoc later or stopping the course at B1. | **APPROVED by the user, 2026-09-13** — applied; architecture v2.0 |
 | CP-002 | 2026-09-12 | Add a **Recap / Cheat Sheet** per level: one folder `<Level>_Recap/` inside each level folder, containing `00_Overview.md` (navigation only) plus exactly three reference sheets — `01_Wortschatz.md`, `02_Redemittel.md`, `03_Grammatik.md`. No other recap categories (no reading/writing/listening/speaking/culture/exam sheets). New file type `recap`; recaps are learner-facing reference, contain no exercises, and are linked from the level README, the course README and the level's checkpoint. A level still being written gets a recap of the material that exists, marked `status: in-progress` with a „Was noch fehlt“ section. | Requested by the user on 2026-09-12: after finishing a level the learner needs one consolidated place for *what should I know now*, without rereading every lesson. Three separate sheets rather than one file so each can be detailed without becoming unnavigable. | **APPROVED by the user, 2026-09-12** — applied; architecture v1.1 |
-| CP-001 | 2026-09-11 | *(Candidate, not yet formally proposed.)* Add an explicit **mediation** strand (explaining German content in English and vice versa) beyond the light coverage in B1-U11/U12 | Known gap from the Phase 1 internal audit | **Must be decided before M7 starts** |
+| CP-001 | 2026-09-11 | Add an explicit **mediation** strand (Sprachmittlung). **Decided in the scoped form below**, not as a new mandatory lesson component: mediation becomes a **recognised task type** with two directions — (a) **interlingual**: say in your own language what a German text means for someone who cannot read it; (b) **intralingual**: turn complex German (Amtsdeutsch, Fachtext, Regeltext) into plain German for a specific reader. It appears as **one task in each of B1-U10, B1-U11 and B1-U12**, in the **B1 Exit**, and is named as such where it already exists on B2 (U07 Fassung A/B and Amtsdeutsch → Klartext, U11 Fehlermeldung und Anleitung, U12 Positionspapier ohne Partikeln). **A1 – B1.1 are not retrofitted**; the gap is recorded openly here and in the B1 Exit. | Known gap from the Phase 1 internal audit; mediation is a CEFR activity type and a standard B1/B2 exam task. The full strand (an own component in every unit) would require rewriting every existing unit and is out of proportion to the benefit at this point. | **DECIDED (scoped) 2026-09-14** — autonomous decision under the workflow rules in `00`, recorded here and in `06`; **not** a change to the `04` component list, therefore **no** architecture version bump. |

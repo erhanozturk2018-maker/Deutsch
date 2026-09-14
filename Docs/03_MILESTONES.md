@@ -16,7 +16,7 @@
 | M4 | A2 Pilot (A2-U01 *Erlebnisse*) | ✅ COMPLETE (2026-09-12), V-008 | M3 |
 | M5 | A2 Completion | ✅ COMPLETE (2026-09-12), V-009/V-010/V-011 | M4 **validated** |
 | M6 | B1.1 | ✅ COMPLETE (2026-09-12), V-012/V-013/V-014/V-015 | M5 |
-| M7 | B1.2 | ⬜ NOT STARTED | M6 + CP-001 decided |
+| M7 | B1.2 | ▶ IN PROGRESS (WP2) | M6 · CP-001 decided 2026-09-14 |
 | M8 | Final Audit of the A1–B1 core | ⬜ NOT STARTED | M7 |
 | M9 | B2 (12 units) | ▶ IN PROGRESS (WP1) | CP-003 — **vorgezogen auf Wunsch des Nutzers, 2026-09-13** |
 | M10 | C1 (10 units) | ⬜ NOT STARTED | M9 |
@@ -313,7 +313,7 @@
 - **Work packages (approved, OD-09):**
   - **WP1:** U07, U08, U09, R2
   - **WP2:** U10, U11, U12, R3, Exit
-- **Dependencies:** M6. **CP-001 (mediation, OD-11) must be decided before starting.** Exam-compatible, not exam-focused (OD-02).
+- **Dependencies:** M6. **CP-001 (mediation, OD-11) — decided 2026-09-14** in a scoped form (recognised task type, not a new lesson component; one mediation task each in B1-U10, U11, U12 and the B1 Exit). See `01`, change proposal register and the section „Mediation (CP-001, scoped)“. Exam-compatible, not exam-focused (OD-02).
 - **Validation criteria:**
   - As in M5/M6, plus: task instructions fully in German.
   - U08 light; U12 has no new grammar.
