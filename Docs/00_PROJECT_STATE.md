@@ -2,7 +2,7 @@
 
 > **Read this file first** (after `CLAUDE.md`). It is the persistent memory of the project. A new session must be able to continue the work from `Docs/` alone, without any chat history.
 >
-> **Last updated:** 2026-09-14. Session 7: M9 abgeschlossen (B2 vollstaendig); **M7 WP1 abgeschlossen** — B1-U07 bis U09 + B1-R2 (V-032 bis V-035). **Update at every milestone or batch boundary.**
+> **Last updated:** 2026-09-14. Session 7: M9 abgeschlossen (B2 vollstaendig); **M7 WP1 abgeschlossen** — B1-U07 bis U09 + B1-R2 (V-032 bis V-035); **M7 WP2 begonnen** — CP-001 entschieden und **B1-U10** gebaut (V-036). **Update at every milestone or batch boundary.**
 
 ---
 
@@ -14,11 +14,11 @@ Architecture:       Approved — v2.0 (2026-09-13: CP-003, scope extended to A1 
 Lesson standard:    04_LESSON_STANDARDS v1.3 (A1/A2 pilot-validated; B1 A7.1 aus V-012; B2+ A7.2 einsprachig Deutsch, V-018)
 Mode:               AUTONOMOUS M2 → M8 (user authorisation 2026-09-11); M9–M11 added by CP-003
 Current Phase:      Curriculum Construction
-Current Milestone:  M7 — B1.2 ▶ IN PROGRESS (WP1). Abgeschlossen: M9 B2 ✅ (2026-09-13, V-031), M6 B1.1 ✅ (2026-09-12, V-015)
+Current Milestone:  M7 — B1.2 ▶ IN PROGRESS (WP2). Abgeschlossen: M9 B2 ✅ (2026-09-13, V-031), M6 B1.1 ✅ (2026-09-12, V-015)
 Status:             IN PROGRESS
-Current batch:      M7 WP2 (WP1 abgeschlossen: U07-U09 + R2; V-032 bis V-035). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
-Next task:          **M7 WP2**: **B1-U10 Geld & Entscheidungen** (Konjunktiv II der Vergangenheit, *hätte … sollen* als Chunk), dann **B1-U11 Wissenschaft & Technik** (Konjunktiv I rezeptiv, Genitivpräpositionen, Zustandspassiv rezeptiv), **B1-U12 Diskussion** (Integration, keine neue Grammatik), **B1-R3** und das **B1 Exit**. **Vor dem Abschluss von M7 ist CP-001 (Mediation) zu entscheiden.** Danach WP2: **B1-U10 Geld & Entscheidungen** (Konjunktiv II der Vergangenheit), **B1-U11 Wissenschaft & Technik** (Konjunktiv I rezeptiv, Genitivpräpositionen, Zustandspassiv), **B1-U12 Diskussion** (Integration, keine neue Grammatik), **B1-R3**, **B1 Exit**. **Vor dem Abschluss von M7 ist CP-001 (Mediation) zu entscheiden.** Danach M8 (Audit A1-B1), M10 (C1), M11 (C2)
-Last completed:     **M7 WP1 abgeschlossen** — B1-R2 Wiederholung (2026-09-14, V-035)
+Current batch:      M7 WP2 laeuft: CP-001 entschieden, B1-U10 gebaut (V-036). Sequenz auf Nutzerwunsch: B2 vor M7/M8.
+Next task:          **B1-Recap-Nachholung U07-U10** (stehende CP-002-Aufgabe, in WP1 nicht erledigt: die drei Blaetter in `B1/B1_Recap/` und die Tabelle „Was noch fehlt“). Danach **B1-U11 Wissenschaft & Technik** (Konjunktiv I rezeptiv, Genitivpraepositionen, Zustandspassiv rezeptiv, je eine Sprachmittlungsaufgabe), **B1-U12 Diskussion** (Integration, keine neue Grammatik), **B1-R3**, **B1 Exit** (mit Sprachmittlung und der offen benannten Luecke A1-B1.1). Danach M8 (Audit A1-B1), M10 (C1), M11 (C2)
+Last completed:     **B1-U10 Geld & Entscheidungen** (2026-09-14, V-036) — erste Sprachmittlungsaufgabe des Kurses
 Build order:        **B2 (M9) → B1.2 (M7) → C1 (M10) → C2 (M11)**; M8 (Audit A1-B1) nach M7. Nutzerentscheidung 2026-09-13.
 Push status:        MANUAL - the user pushes (instruction 2026-09-12). Claude commits only.
                     Last commit pushed by the user: 9b40326 (Recap-System, 2026-09-13 geprueft)
@@ -124,7 +124,7 @@ It is designed by Claude acting as German teacher and curriculum designer, and b
 
 ## 7. Next planned work
 
-- **M7:** B1.2 (B1-U07 to U12, B1-R2, B1-R3, B1 Exit). Decide OD-11 (mediation) before it is finalised.
+- **M7:** B1.2 (B1-U07 to U12, B1-R2, B1-R3, B1 Exit). **CP-001 (mediation) decided on 2026-09-14** in the scoped form in `01`; implemented from B1-U10 on. Remaining: U11, U12, B1-R3, B1 Exit — plus the B1-Recap catch-up for U07–U10.
 - **M8:** audit of the **A1–B1 core** (including `check_links --strict`), report, state "A1 → B1 COMPLETE"
 - **M9 (B2), M10 (C1), M11 (C2)** — defined in `03` by CP-003. Stage pages and recaps already exist; the units do not.
 - **Recaps (standing task, CP-002):** every new B1 unit is added to `B1/B1_Recap/01_Wortschatz.md`, `02_Redemittel.md` and `03_Grammatik.md` in the same batch, and the „Was noch fehlt“ table in `00_Overview.md` is updated. When B1.2 is complete, `status:` changes from `in-progress` to `validated`.

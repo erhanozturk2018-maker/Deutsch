@@ -1292,3 +1292,35 @@
 - **Result:** **PASS** — **M7 WP1 ist abgeschlossen** (B1-U07, U08, U09, B1-R2). Als Nächstes WP2: B1-U10 bis U12, B1-R3, B1 Exit.
 - **Approval status:** – (autonomous mode)
 
+---
+
+## V-036 — B1-U10 Geld & Entscheidungen (M7 WP2)
+
+- **Date:** 2026-09-14
+- **Object:** `GERMAN_LEARNING_PLAN/B1/B1-U10_Geld_und_Entscheidungen/` (5 Dateien), die B1-U10-Abschnitte in `Resources/Grammar_Tables.md`, `Resources/Redemittel.md`, `Resources/English_German_Interference.md` und `Resources/Pronunciation_Guide.md`, `Resources/Anki/B1.tsv`, `B1/README.md`, Anschlusslinks in `B1-U09/00` und `B1-R2`.
+- **Validator:** Claude (autonomous mode; no learner trial)
+- **Criteria:** M7-Kriterien in `03`; `04` v1.2 inklusive **A7.1** (B1.2-Spalte: keine englischen Hilfszeilen, deutsche Lösungen zu Lese- und Hörtexten, englische Erklärungen); **CP-001 (Sprachmittlung, scoped)** aus `01`; CEFR-B1-Deskriptoren.
+- **Method:**
+  - `check_structure.py` → **226 Dateien, 0 Probleme** (Einheit einzeln: 5 Dateien, 0 Probleme)
+  - `check_vocab.py B1-U10_Geld_und_Entscheidungen` → zunächst **2 von 33** ★-Einträgen unter der Schwelle, nach Nachbesserung **0 von 33**
+  - `check_links.py` → **2808 Links, 0 broken, 0 planned**
+  - `build_anki.py` → **B1: 516 Karten** (vorher 467; +49)
+  - vollständige Wiederlesung aller fünf Dateien; jede Lösung gegen die Aufgabe zurückgeprüft
+- **Findings:**
+  1. `GRA`, PASS. L1 führt den **Konjunktiv II der Vergangenheit** als **eine** Form ein (*hätte/wäre* + Partizip II) und leitet die Hilfsverbwahl aus dem Perfekt ab, das der Lernende sicher hat. Der **Ersatzinfinitiv** (*hätte fragen sollen*) wird ausdrücklich an *lassen* aus B1-U08 angeschlossen, statt ihn als neue Ausnahme zu präsentieren.
+  2. `GRA`, PASS. Die Unterscheidung *An deiner Stelle **würde** ich …* (noch möglich) ↔ *An deiner Stelle **hätte** ich …* (zu spät) steht in L1, in der Übersicht und in den Grammar Tables. Das ist der Punkt, an dem Lernende die beiden Zeitstufen des Konjunktivs verwechseln.
+  3. `CP-001`, PASS. **Die erste Sprachmittlungsaufgabe des Kurses** steht in L2, Aktivität 6: deutscher Ausgangstext (Reparaturangebot), Ausgabe **in der eigenen Sprache**, für eine **benannte Person** (Mitbewohnerin, liest kaum Deutsch) mit **benanntem Zweck** (sie muss heute Abend mitentscheiden), höchstens fünf Sätze, Kriterien: nur das Entscheidungsrelevante, Frist und Betrag, die Bedingung, **nichts hinzuerfinden** — danach ein deutscher Satz darüber, was wegzulassen am schwersten fiel. Damit sind alle vier Regeln aus `01` (Abschnitt „Mediation (CP-001, scoped)“) erfüllt.
+  4. `PED`, PASS. L3 behandelt das Ablehnen in **drei Stärken** (weich / klar / grundsätzlich) und benennt ausdrücklich, dass die häufigste Falle nicht Unhöflichkeit, sondern **Unklarheit** ist: ein Nein, das wie ein Vielleicht klingt. Die Entdeckungsaufgabe stellt drei echte Antworten gegenüber, statt die Regel vorwegzunehmen.
+  5. `VOC`, PASS nach Korrektur. `check_vocab` meldete *aus|legen* (0) und *ab|buchen* (2) unter der Schwelle. Behoben durch **inhaltliche** Ergänzungen in L3: eine Erklärbox *auslegen* ↔ *leihen* (wer auslegt, zahlt im Moment für beide und bekommt seinen Teil zurück), eine Zeile „regelmäßig zahlen“ in der Geldtabelle (*den Beitrag monatlich abbuchen lassen* — recycelt *lassen* aus U08), zwei zusätzliche Übungsitems mit Lösungshinweis und eine Karteikarte. Kein Füllmaterial.
+  6. `CEF`, PASS. L4: Hauptaufgabe **gemeinsame Entscheidung** in drei Teilen mit schriftlicher Abmachung, Lesetext *Die Kosten des Zögerns* (≈ 300 Wörter), drei Hörstimmen (je 55–85 Wörter), Schreiben **130–160 Wörter** (E-Mail nach der Einigung), gemischte Runde, Test mit 10 Items und Reparaturplan. Alle Lösungen zu Lese- und Hörtext stehen auf Deutsch (A7.1).
+  7. `PED`, PASS. Das 4/3/2-Format dieser Einheit ist **die revidierte Entscheidung** (die Story Bank ist auf B1 mit U01–U08 durchlaufen; ab U09 hat jede Einheit ihr eigenes Format). Der Hinweis, dass beim Kürzen zuerst der **Grund von damals** verschwindet — und die Geschichte damit unfair gegenüber der früheren eigenen Entscheidung wird — ist bewusst gesetzt.
+  8. `ETH`, PASS. Geld ist als Alltagsthema behandelt, **nicht** als Finanzberatung: keine Produkte, keine Renditen, keine erfundenen Statistiken. Die Schuldnerberaterin in L4 zieht ausdrücklich die Grenze *„Ich sage niemandem, wie er zu leben hat“*. Alle Aufgaben verlangen ausdrücklich Beträge, die der Lernende selbst einschätzen kann, statt erfundener Zahlen.
+  9. `DEP`, PASS. Ein zunächst geschriebener Verweis auf `A2-U05_Einkaufen_und_Geld` existiert nicht; korrigiert auf die reale Einheit **A2-U06 Einkaufen und Kleidung**. In den Grammar Tables zeigte der neue Verweis auf `B1-U08/L1_Ich_lasse_das_machen.md`; korrigiert auf `L1_Ich_lasse_es_reparieren.md`. Beides von `check_links.py` vor dem Commit gefunden.
+  10. `DEP`, PASS. B1-U09 und B1-R2 verweisen jetzt auf U10 (vorher: „in Arbeit“ bzw. nur rückwärts). Der Kurs hat weiterhin **0 geplante und 0 defekte Links**.
+  11. `CP-002`, **OPEN**. Die stehende Recap-Aufgabe (jede neue B1-Einheit wird im selben Batch in `B1_Recap` eingearbeitet) ist für **U07 bis U10** noch nicht erledigt — anders als auf B2, wo das je Einheit geschah. Wird als eigener Batch unmittelbar nach diesem nachgeholt; hier offen benannt statt stillschweigend verschoben.
+  12. `WRK`, PASS (Schätzung). 85 + 85 + 85 + 90 = **345 min**, dieselbe Last wie U07 und U09.
+- **Required changes:** Punkt 11 (Recap-Nachholung) offen, als nächster Batch.
+- **Resolution:** Punkte 5, 9 und 10 wurden vor dem Commit behoben.
+- **Result:** **PASS WITH NOTES** — B1-U10 ist Teil des Kurses und trägt die erste Sprachmittlungsaufgabe. Als Nächstes: **B1-Recap-Nachholung U07–U10**, dann **B1-U11 Wissenschaft & Technik**.
+- **Approval status:** – (autonomous mode)
+

@@ -439,4 +439,4 @@ Vergleichen Sie Runde 1 und Runde 3: Was ist zuerst verschwunden? Wenn es das **
 
 ---
 
-← [B1 Überblick](README.md) · [Zurück zu B1-U09](B1-U09_Bildung_und_Zukunft/00_Overview_und_Wortschatz.md)
+← [B1 Überblick](README.md) · [Zurück zu B1-U09](B1-U09_Bildung_und_Zukunft/00_Overview_und_Wortschatz.md) · [Weiter: B1-U10 Geld & Entscheidungen](B1-U10_Geld_und_Entscheidungen/00_Overview_und_Wortschatz.md) →

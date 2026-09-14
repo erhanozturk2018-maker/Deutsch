@@ -709,3 +709,17 @@
 - **Reason:** Sprachmittlung ist eine CEFR-Aktivität und eine Standardaufgabe in B1- und B2-Prüfungen; die Lücke war seit dem Phase-1-Audit bekannt. Der volle Strang (eigener Bestandteil in jeder Einheit) hätte den Umbau **jeder** bestehenden Einheit bedeutet — unverhältnismäßig gegenüber dem Nutzen und gegen die Regel, Bestehendes nicht ohne Not neu zu schreiben.
 - **Impact:** M7 hat seine offene Voraussetzung nicht mehr. Die `04`-Bestandteilsliste bleibt unverändert, deshalb **keine** neue Architekturversion: weiterhin v2.0. Umgesetzt wird der Aufgabentyp ab **B1-U10**.
 
+## [037] 2026-09-14 — B1-U10 Geld & Entscheidungen (M7 WP2)
+
+- **Milestone:** M7 (B1.2), WP2
+- **Affected files:**
+  - **New:** `GERMAN_LEARNING_PLAN/B1/B1-U10_Geld_und_Entscheidungen/` — `00_Overview_und_Wortschatz.md`, `L1_Ich_haette_es_anders_gemacht.md`, `L2_Eine_Entscheidung_treffen.md`, `L3_Sich_einigen_auch_beim_Geld.md`, `L4_Anwenden.md`
+  - **Updated:** `Resources/Grammar_Tables.md` (B1: Konjunktiv II in the past), `Resources/Redemittel.md` (B1: Deciding, agreeing and money), `Resources/English_German_Interference.md` (B1-U10), `Resources/Pronunciation_Guide.md` (B1-U10), `Anki/B1.tsv` (516 Karten), `B1/README.md`, `B1-U09/00_Overview`, `B1-R2_Wiederholung.md`, Docs 00/05/06
+- **Change:**
+  1. **L1 Konjunktiv II der Vergangenheit:** *hätte/wäre* + Partizip II, irreale Bedingung, *hätte … sollen/können/müssen* mit Ersatzinfinitiv, irrealer Wunsch mit *doch/nur*, *fast/beinahe*, *An deiner Stelle …*.
+  2. **L2 Eine Entscheidung treffen:** Nomen-Verb-Verbindungen, abwägen und entscheiden, Geldwortschatz (Konto, Rate, Gebühr, Vertrag), *sich etwas leisten*, *günstig ↔ billig* — und die **erste Sprachmittlungsaufgabe des Kurses** (CP-001).
+  3. **L3 Sich einigen:** Angebot und Gegenangebot, Bedingungen, Ablehnen in drei Stärken, Kompromiss, Geld unter Bekannten (*leihen, auslegen, schulden, überweisen*), die Abmachung mit wer/was/bis wann festhalten.
+  4. **L4 Anwenden:** gemeinsame Entscheidung zu zweit, 4/3/2 „die revidierte Entscheidung“, Artikel *Die Kosten des Zögerns*, drei Hörstimmen, E-Mail nach der Einigung (130–160 Wörter), Test mit Reparaturplan.
+- **Reason:** Nächste Einheit in M7 WP2 gemäß `03`; zugleich der erste Ort, an dem die am 14.09. getroffene Entscheidung **CP-001** umgesetzt wird.
+- **Impact:** B1 hat zehn von zwölf Einheiten. Kurs: **226 Dateien, 0 Strukturprobleme, 2808 Links, 0 defekt, 0 geplant**; Anki B1 **516** Karten. Validiert als **V-036** (PASS WITH NOTES). Offen und dort benannt: die **Recap-Nachholung für U07–U10** (CP-002) als nächster Batch, danach **B1-U11 Wissenschaft & Technik**.
+

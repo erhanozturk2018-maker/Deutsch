@@ -1521,3 +1521,52 @@ Das **Fugen-s** steht oft nach *-ung*, *-heit*, *-keit*, *-schaft*.
 | *Weil die Preise gestiegen sind, …* | *Wegen der gestiegenen Preise …* |
 | *Wenn Sie Fragen haben, …* | *Bei **Fragen** …* |
 
+## B1: Konjunktiv II in the past
+
+Taught in [B1-U10](../B1/B1-U10_Geld_und_Entscheidungen/L1_Ich_haette_es_anders_gemacht.md).
+
+**Form: *hätte* / *wäre* + Partizip II** — there is only **one** past form in Konjunktiv II.
+
+| Person | *haben* | *sein* |
+|---|---|---|
+| ich | hätte | wäre |
+| du | hättest | wär(e)st |
+| er/sie/es | hätte | wäre |
+| wir / sie / Sie | hätten | wären |
+| ihr | hättet | wärt |
+
+> The auxiliary is the same one the Perfekt uses: *ich habe gemacht* → *ich **hätte** gemacht* · *ich bin gefahren* → *ich **wäre** gefahren*.
+
+**Uses**
+
+| Gebrauch | Beispiel |
+|---|---|
+| irreale Bedingung | *Wenn ich das **gewusst hätte**, **hätte** ich anders **verhandelt**.* |
+| Bedauern | *Ich **hätte** vorher **fragen sollen**.* |
+| irrealer Wunsch | ***Hätte** ich doch früher **gefragt**!* |
+| fast passiert | *Ich **wäre** beinahe **gestürzt**. · Wir **hätten** fast den Zug **verpasst**.* |
+| Rat zur Vergangenheit | *An deiner Stelle **hätte** ich **nachgerechnet**.* |
+
+**With a modal verb: two infinitives at the end (Ersatzinfinitiv)**
+
+| Gegenwart | Vergangenheit |
+|---|---|
+| *Ich **sollte** fragen.* | *Ich **hätte fragen sollen**.* |
+| *Du **könntest** mich fragen.* | *Du **hättest** mich **fragen können**.* |
+| *Ich **müsste** es wissen.* | *Ich **hätte** es **wissen müssen**.* |
+
+Same pattern as *lassen* in [B1-U08](../B1/B1-U08_Zusammenleben/L1_Ich_lasse_es_reparieren.md): **never** *~~gehört~~*/*~~gesollt~~* at the end, always the bare infinitive.
+
+**Present or past?**
+
+| | noch möglich | zu spät |
+|---|---|---|
+| Rat | *An deiner Stelle **würde** ich nachrechnen.* | *An deiner Stelle **hätte** ich nachgerechnet.* |
+| Wunsch | *Ich **hätte** gern mehr Zeit.* | *Ich **hätte** gern mehr Zeit **gehabt**.* |
+
+**Word order in the irreale Bedingung**
+
+- *Wenn ich das gewusst hätte, hätte ich anders verhandelt.* (Nebensatz: Partizip → *hätte*)
+- Without *wenn*: ***Hätte** ich das gewusst, hätte ich anders verhandelt.*
+- With a modal in the Nebensatz the auxiliary moves **in front** of the two infinitives: *Wenn ich **hätte fragen können**, …*
+

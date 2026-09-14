@@ -531,3 +531,21 @@ Bei **Komposita** liegt der Hauptakzent auf dem **ersten** Teil: *die **BE**arbe
 - Bei Übergängen wird das Tempo kurz langsamer: *Kommen wir | zum **ZWEI**ten Punkt.*
 - Der Schlusssatz wird **tiefer und langsamer** gesprochen — sonst merkt niemand, dass Sie fertig sind.
 
+## B1-U10: hätte-Ketten, Beträge und das freundliche Nein
+
+**Die Verbkette am Satzende.** *Ich hätte vorher fragen sollen.* Die drei Formen am Ende werden **ohne Pause** und mit **einem** Akzent gesprochen: *… vorher **FRA**gen sollen.* Das Modalverb am Schluss bleibt unbetont — wer *sollen* betont, klingt vorwurfsvoll.
+
+**hätte und hätten.** Der Unterschied liegt nur im unbetonten Ende: *hätt-e* ↔ *hätt-en* [ən]. Im schnellen Sprechen wird *hätten* oft zu [hɛt̩n]. Üben Sie das Paar: *Ich hätte gefragt ↔ Wir hätten gefragt.*
+
+**wäre.** Das *ä* ist lang und offen: [ˈvɛːʁə]. Verwechseln Sie es nicht mit *wir* oder *war*: *Ich **war** dort* (Fakt) ↔ *Ich **wäre** dort gewesen* (nicht passiert).
+
+**Beträge und Zahlen.** *zweihundertfünfzig Euro* wird als **ein** Wort gesprochen, mit dem Hauptakzent auf *HUN*dert. Bei *in zwei Raten* liegt der Akzent auf **RA**ten, nicht auf *zwei* — außer Sie meinen: zwei, nicht drei.
+
+**Wortakzent bei den neuen trennbaren Verben.** Der Akzent liegt immer auf der Vorsilbe: ***AUS**legen · **AB**buchen · **ZU**rückzahlen (mit Nebenakzent auf *rück*) · **NACH**rechnen · **AB**wägen · **FEST**halten*. Bei den untrennbaren dagegen auf dem Stamm: *über**WEI**sen · ver**HAN**deln · be**REU**en*.
+
+**Das freundliche Nein klingt ruhig.** Ein klares Nein wird **tief und langsam** gesprochen, mit **fallender** Melodie: *Das mache ich nicht.* ↘ Steigend klingt es wie eine Frage und lädt zum Nachhaken ein. Danach kommt eine **Pause**, dann die Alternative: *Das mache ich nicht. | Was ich anbieten kann, ist …*
+
+***grundsätzlich*** trägt den Akzent auf der ersten Silbe (***GRUND**sätzlich*) und wird bewusst deutlich gesprochen, weil es den Satz trägt. *halbe-halbe* dagegen betont die **zweite** Hälfte: *halbe-**HAL**be*.
+
+**Übung.** Sprechen Sie *Das mache ich nicht* dreimal: unsicher (steigend, leise), freundlich-klar (fallend, ruhig, dann Pause), schroff (laut, abgehackt). Nur die mittlere Version ist klar **und** freundlich — und genau die ist gemeint.
+

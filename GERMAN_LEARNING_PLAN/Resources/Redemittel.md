@@ -1348,3 +1348,66 @@ Taught in [B1-U09](../B1/B1-U09_Bildung_und_Zukunft/L3_Eine_Praesentation_halten
 | wahrscheinlich | *Ich werde wohl … · Voraussichtlich …* |
 | offen | *Mal sehen. · Ich weiß noch nicht, ob … · Das hängt davon ab, ob …* |
 
+## B1: Deciding, agreeing and money
+
+Taught in [B1-U10](../B1/B1-U10_Geld_und_Entscheidungen/L2_Eine_Entscheidung_treffen.md) (entscheiden) and [L3](../B1/B1-U10_Geld_und_Entscheidungen/L3_Sich_einigen_auch_beim_Geld.md) (sich einigen).
+
+**Nomen-Verb-Verbindungen** — German prefers the noun; the verb is fixed.
+
+| Wendung | Englisch |
+|---|---|
+| eine Entscheidung **treffen** | to make a decision (**not** *~~machen~~*) |
+| eine Wahl **treffen / haben** | to make / have a choice |
+| eine Frage **stellen** | to ask a question |
+| einen Vorschlag **machen** | to make a suggestion |
+| einen Termin **vereinbaren** | to arrange an appointment |
+| eine Rolle **spielen** | to matter |
+| zur Auswahl **stehen** | to be available to choose from |
+| in Frage **kommen** (ohne Artikel) | to be an option |
+
+**Entscheiden**
+
+| Schritt | Sprache |
+|---|---|
+| Möglichkeiten nennen | *Wir haben zwei Möglichkeiten: … · Zur Auswahl stehen …* |
+| abwägen | *Dafür spricht … · Dagegen spricht … · Einerseits …, andererseits …* |
+| Kriterium klären | *Was ist dir wichtiger? · Worauf kommt es dir an?* |
+| tendieren | *Ich tendiere eher zu … · Ich neige dazu, …* |
+| entscheiden | *Ich entscheide mich für … · Wir treffen die Entscheidung heute Abend.* |
+| offenlassen | *Ich muss es mir überlegen. · Lass mich eine Nacht darüber schlafen.* |
+| zustimmen | *Einverstanden. · Machen wir so. · Von mir aus. · Abgemacht.* |
+
+**Aushandeln**
+
+| Schritt | Sprache |
+|---|---|
+| Angebot | *Ich könnte … · Wie wäre es, wenn ich …?* |
+| Gegenangebot | *Das geht bei mir nur, wenn … · Ich könnte stattdessen … · Ginge auch …?* |
+| Bedingung | *…, **wenn** … · Aber nur, **falls** … · Unter der Bedingung, dass …* |
+| Kompromiss | *Treffen wir uns in der Mitte? · Dann machen wir halbe-halbe. · Ich übernehme …, du übernimmst …* |
+| festhalten | *Halten wir fest: Du …, ich …, bis … · Passt das so für dich?* |
+
+**Ablehnen — drei Stärken**
+
+| Stärke | Formulierung | Wann |
+|---|---|---|
+| weich | *Das wird bei mir schwierig. · Diese Woche schaffe ich das nicht.* | wenn es später gehen könnte |
+| klar | *Das mache ich nicht. · Da kann ich nicht mitgehen.* | wenn es ein Nein ist |
+| grundsätzlich | *Ich leihe grundsätzlich kein Geld. · Das hat nichts mit dir zu tun.* | wenn es immer gilt |
+
+> Whenever you can, add an alternative: *Was ich anbieten kann, ist …* A clear no with an alternative ends the conversation without damaging the relationship. A *vielleicht* that means *nein* does the opposite.
+
+**Geld unter Bekannten**
+
+| Situation | Sprache |
+|---|---|
+| bitten | *Könntest du mir … leihen? Ich gebe es dir am … zurück.* |
+| auslegen | *Kannst du kurz auslegen? Ich habe kein Bargeld dabei.* |
+| teilen | *Machen wir halbe-halbe. · Ich lege aus, du überweist mir das.* |
+| zurückzahlen | *Ich überweise es dir heute. · Ich schulde dir noch zwanzig Euro.* |
+| erinnern | *Denk bitte noch an die zwanzig Euro — nicht dringend, nur damit es nicht untergeht.* |
+
+**Bedauern und Kritik an der eigenen Entscheidung**
+
+*Ich hätte … sollen. · Hätte ich doch …! · Wenn ich das gewusst hätte, … · An deiner Stelle hätte ich … · Bereue ich es? Nein, aber …*
+

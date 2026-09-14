@@ -15,7 +15,7 @@ status: validated
 # B1-U09 — Bildung & Zukunft · Überblick & Wortschatz
 
 > **Level:** B1.2 · **Einheit 9 von 12** · **4 Lektionen, ungefähr 5,75 Stunden** · **Load:** ●●● high
-> **Vorher:** [B1-U08 Zusammenleben](../B1-U08_Zusammenleben/00_Overview_und_Wortschatz.md) · **Danach:** B1-R2 und B1-U10 Geld & Entscheidungen (in Arbeit)
+> **Vorher:** [B1-U08 Zusammenleben](../B1-U08_Zusammenleben/00_Overview_und_Wortschatz.md) · **Danach:** [B1-R2 Wiederholung](../B1-R2_Wiederholung.md) und [B1-U10 Geld & Entscheidungen](../B1-U10_Geld_und_Entscheidungen/00_Overview_und_Wortschatz.md)
 > **Was diese Einheit Ihnen gibt:** die Zukunft in Worten — und den Schlüssel zu Tausenden deutscher Wörter, die Sie noch nie gesehen haben, aber trotzdem verstehen können.
 
 ## 🎯 Ziele

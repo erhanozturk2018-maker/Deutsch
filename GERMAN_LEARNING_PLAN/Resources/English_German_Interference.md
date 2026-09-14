@@ -542,3 +542,25 @@ English and German are close relatives. That helps a lot: *Haus, Hand, trinken, 
 | I'm doing a degree. | *Ich mache ein Studium.* ⚖ | **Ich studiere.** | Kollokation |
 | I plan to start. | *Ich vorhabe anzufangen.* | **Ich habe vor, anzufangen.** | *vorhaben* ist trennbar |
 
+## B1-U10: Konjunktiv II der Vergangenheit, Entscheiden und Geld
+
+| Englisch | ❌ Wortwörtlich | ✅ Deutsch | Warum |
+|---|---|---|---|
+| I should have asked. | *~~Ich sollte haben gefragt.~~* | **Ich hätte fragen sollen.** | The modal goes to the end as a **bare infinitive**, and *hätte* carries the past. |
+| I would have done it differently. | *~~Ich würde es anders gemacht haben.~~* | **Ich hätte es anders gemacht.** | German has **one** past Konjunktiv; *würde … haben* is not used here. |
+| to make a decision | *~~eine Entscheidung machen~~* | **eine Entscheidung treffen** | fixed noun-verb combination |
+| I can't afford it. | *~~Ich kann mich das nicht leisten.~~* | **Ich kann mir das nicht leisten.** | *sich leisten* takes the **dative** reflexive |
+| I'll think about it. | *~~Ich überlege es.~~* | **Ich überlege es mir.** | *sich überlegen* likewise dative |
+| It's worth it. | *~~Das lohnt.~~* | **Das lohnt sich.** | reflexive verb |
+| The price is 250 euros. | *~~Der Preis ist bei 250 Euro.~~* | **Der Preis liegt bei 250 Euro.** | collocation: prices *liegen* |
+| That's out of the question. | *~~Das kommt nicht in die Frage.~~* | **Das kommt nicht in Frage.** | fixed phrase, **no** article |
+| cheap (a bargain) | *billig* für alles | **günstig** (gut und preiswert) ↔ **billig** (oft abwertend) | *billig* implies poor quality |
+| Can you lend me …? | *~~Kannst du mich … leihen?~~* | **Kannst du mir … leihen?** | *leihen* + dative |
+| I owe you ten euros. | *~~Ich schulde dich zehn Euro.~~* | **Ich schulde dir zehn Euro.** | *schulden* + dative |
+| Can you get this one? (restaurant) | *~~Kannst du mir das leihen?~~* | **Kannst du kurz auslegen?** | *auslegen* = pay now, get your share back; *leihen* is something else |
+| Let's split it. | *~~Wir machen halb und halb.~~* | **halbe-halbe machen** / **Wir teilen uns das.** | fixed expression |
+| It's nothing to do with you. | *~~Das hat nichts zu tun mit dir.~~* | **Das hat nichts mit dir zu tun.** | *zu tun* goes to the end |
+| I nearly fell. | *~~Ich fiel fast.~~* | **Ich wäre beinahe gestürzt.** | *fast/beinahe* + Konjunktiv II = it did **not** happen |
+
+**Der größte pragmatische Unterschied.** English refuses by softening (*I'm not sure I can, maybe, let me see*). In German a soft *vielleicht* that means *nein* is not read as polite but as **unclear** — the other person has to ask again. The German pattern is: **clear refusal + reason or principle + alternative**. *Das mache ich nicht. Ich leihe grundsätzlich kein Geld — das hat nichts mit dir zu tun. Was ich anbieten kann, ist …*
+
